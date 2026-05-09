@@ -186,7 +186,7 @@ export default function TopicQuestions() {
                       Revalida {q.examRef}
                     </span>
                     <span className="badge bg-gray-50 dark:bg-[#3a3a3c] text-gray-500 text-[10px]">Q{q.questionNumber}</span>
-                    <span className="text-[10px] text-gray-500 dark:text-gray-400 font-medium">{q.area}</span>
+                    {topic && <span className="text-[10px] text-gray-500 dark:text-gray-400 font-medium">{topic.areaName}</span>}
                     {q.subtopic && (
                       <span className="text-[10px] text-purple-500 dark:text-purple-400 font-medium truncate max-w-[200px]">
                         {q.subtopic}

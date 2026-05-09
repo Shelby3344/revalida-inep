@@ -1,0 +1,1363 @@
+{
+  "Clínica Médica": {
+    "count": 619,
+    "pct_total": 36.33,
+    "temas": {
+      "Cardiologia": {
+        "count": 169,
+        "pct_dentro_area": 27.3,
+        "pct_total": 9.92,
+        "top_subtopicos": [
+          {
+            "subtopico": "Hipertensão Arterial Sistêmica",
+            "count": 125,
+            "pct_dentro_tema": 74.0
+          },
+          {
+            "subtopico": "IAM e Síndromes Coronarianas Agudas",
+            "count": 23,
+            "pct_dentro_tema": 13.6
+          },
+          {
+            "subtopico": "Arritmias e Distúrbios de Condução",
+            "count": 8,
+            "pct_dentro_tema": 4.7
+          },
+          {
+            "subtopico": "Insuficiência Cardíaca",
+            "count": 5,
+            "pct_dentro_tema": 3.0
+          },
+          {
+            "subtopico": "Valvulopatias e Endocardite",
+            "count": 5,
+            "pct_dentro_tema": 3.0
+          },
+          {
+            "subtopico": "Diagnóstico e Conduta Cardiológica",
+            "count": 3,
+            "pct_dentro_tema": 1.8
+          }
+        ],
+        "por_edicao": {
+          "2011": 19,
+          "2012": 8,
+          "2013": 13,
+          "2014": 8,
+          "2015": 10,
+          "2016-1": 11,
+          "2016-2": 10,
+          "2017": 9,
+          "2020-1": 6,
+          "2020-2": 6,
+          "2021": 9,
+          "2022-2": 13,
+          "2023-1": 8,
+          "2023-2": 12,
+          "2024-1": 9,
+          "2024-2": 10,
+          "2025-1": 8
+        }
+      },
+      "Infectologia": {
+        "count": 84,
+        "pct_dentro_area": 13.57,
+        "pct_total": 4.93,
+        "top_subtopicos": [
+          {
+            "subtopico": "Infecção Bacteriana e Antibioticoterapia",
+            "count": 28,
+            "pct_dentro_tema": 33.3
+          },
+          {
+            "subtopico": "Tuberculose",
+            "count": 26,
+            "pct_dentro_tema": 31.0
+          },
+          {
+            "subtopico": "Doenças Tropicais e Parasitoses",
+            "count": 10,
+            "pct_dentro_tema": 11.9
+          },
+          {
+            "subtopico": "Hepatites Virais",
+            "count": 7,
+            "pct_dentro_tema": 8.3
+          },
+          {
+            "subtopico": "Meningite e Encefalite",
+            "count": 6,
+            "pct_dentro_tema": 7.1
+          },
+          {
+            "subtopico": "HIV/AIDS e Doenças Oportunistas",
+            "count": 4,
+            "pct_dentro_tema": 4.8
+          },
+          {
+            "subtopico": "Dengue, Zika e Arboviroses",
+            "count": 2,
+            "pct_dentro_tema": 2.4
+          },
+          {
+            "subtopico": "Sepse e Infecções Graves",
+            "count": 1,
+            "pct_dentro_tema": 1.2
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2012": 7,
+          "2013": 8,
+          "2014": 6,
+          "2015": 6,
+          "2016-1": 4,
+          "2016-2": 5,
+          "2017": 3,
+          "2020-1": 5,
+          "2020-2": 5,
+          "2021": 11,
+          "2022-2": 2,
+          "2023-1": 6,
+          "2023-2": 2,
+          "2024-1": 5,
+          "2024-2": 2,
+          "2025-1": 5
+        }
+      },
+      "Gastroenterologia": {
+        "count": 65,
+        "pct_dentro_area": 10.5,
+        "pct_total": 3.81,
+        "top_subtopicos": [
+          {
+            "subtopico": "Úlcera Péptica e DRGE",
+            "count": 26,
+            "pct_dentro_tema": 40.0
+          },
+          {
+            "subtopico": "Diagnóstico e Tratamento Gastroenterológico",
+            "count": 20,
+            "pct_dentro_tema": 30.8
+          },
+          {
+            "subtopico": "Doença Inflamatória Intestinal (Crohn / RCU)",
+            "count": 12,
+            "pct_dentro_tema": 18.5
+          },
+          {
+            "subtopico": "Câncer Gastrointestinal",
+            "count": 7,
+            "pct_dentro_tema": 10.8
+          }
+        ],
+        "por_edicao": {
+          "2011": 3,
+          "2012": 5,
+          "2013": 6,
+          "2014": 4,
+          "2015": 5,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 3,
+          "2020-1": 3,
+          "2020-2": 3,
+          "2021": 6,
+          "2022-2": 5,
+          "2023-1": 3,
+          "2023-2": 2,
+          "2024-1": 4,
+          "2024-2": 4,
+          "2025-1": 3
+        }
+      },
+      "Hepatologia": {
+        "count": 18,
+        "pct_dentro_area": 2.91,
+        "pct_total": 1.06,
+        "top_subtopicos": [
+          {
+            "subtopico": "Cirrose e Hipertensão Portal",
+            "count": 13,
+            "pct_dentro_tema": 72.2
+          },
+          {
+            "subtopico": "Ascite e Peritonite Bacteriana Espontânea",
+            "count": 3,
+            "pct_dentro_tema": 16.7
+          },
+          {
+            "subtopico": "Hepatite Crônica e Esteatohepatite",
+            "count": 2,
+            "pct_dentro_tema": 11.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 3,
+          "2012": 1,
+          "2013": 3,
+          "2014": 2,
+          "2016-1": 1,
+          "2020-1": 2,
+          "2020-2": 2,
+          "2023-2": 1,
+          "2024-1": 1,
+          "2025-1": 2
+        }
+      },
+      "Endocrinologia": {
+        "count": 58,
+        "pct_dentro_area": 9.37,
+        "pct_total": 3.4,
+        "top_subtopicos": [
+          {
+            "subtopico": "Diabetes Mellitus e Controle Glicêmico",
+            "count": 23,
+            "pct_dentro_tema": 39.7
+          },
+          {
+            "subtopico": "Hipotireoidismo e Hipertireoidismo",
+            "count": 12,
+            "pct_dentro_tema": 20.7
+          },
+          {
+            "subtopico": "Dislipidemia e Obesidade",
+            "count": 9,
+            "pct_dentro_tema": 15.5
+          },
+          {
+            "subtopico": "Emergências Metabólicas (CAD e EHH)",
+            "count": 6,
+            "pct_dentro_tema": 10.3
+          },
+          {
+            "subtopico": "Osteoporose e Distúrbios do Cálcio",
+            "count": 5,
+            "pct_dentro_tema": 8.6
+          },
+          {
+            "subtopico": "Insuficiência Adrenal e Síndrome de Cushing",
+            "count": 3,
+            "pct_dentro_tema": 5.2
+          }
+        ],
+        "por_edicao": {
+          "2011": 4,
+          "2012": 4,
+          "2013": 2,
+          "2014": 3,
+          "2015": 3,
+          "2016-1": 4,
+          "2016-2": 4,
+          "2017": 4,
+          "2020-1": 2,
+          "2020-2": 2,
+          "2021": 6,
+          "2022-2": 3,
+          "2023-1": 3,
+          "2023-2": 7,
+          "2024-1": 4,
+          "2024-2": 3
+        }
+      },
+      "Nefrologia": {
+        "count": 24,
+        "pct_dentro_area": 3.88,
+        "pct_total": 1.41,
+        "top_subtopicos": [
+          {
+            "subtopico": "Lesão Renal Aguda (LRA)",
+            "count": 12,
+            "pct_dentro_tema": 50.0
+          },
+          {
+            "subtopico": "Distúrbios Hidroeletrolíticos e Ácido-Base",
+            "count": 6,
+            "pct_dentro_tema": 25.0
+          },
+          {
+            "subtopico": "Síndromes Glomerulares",
+            "count": 3,
+            "pct_dentro_tema": 12.5
+          },
+          {
+            "subtopico": "Doença Renal Crônica (DRC) e Diálise",
+            "count": 2,
+            "pct_dentro_tema": 8.3
+          },
+          {
+            "subtopico": "ITU e Litíase Renal",
+            "count": 1,
+            "pct_dentro_tema": 4.2
+          }
+        ],
+        "por_edicao": {
+          "2011": 1,
+          "2013": 1,
+          "2014": 2,
+          "2015": 1,
+          "2016-1": 2,
+          "2016-2": 2,
+          "2017": 2,
+          "2022-2": 3,
+          "2023-1": 5,
+          "2023-2": 1,
+          "2024-1": 1,
+          "2024-2": 2,
+          "2025-1": 1
+        }
+      },
+      "Neurologia": {
+        "count": 38,
+        "pct_dentro_area": 6.14,
+        "pct_total": 2.23,
+        "top_subtopicos": [
+          {
+            "subtopico": "Doenças Neurodegenerativas",
+            "count": 12,
+            "pct_dentro_tema": 31.6
+          },
+          {
+            "subtopico": "AVC e Doenças Cerebrovasculares",
+            "count": 11,
+            "pct_dentro_tema": 28.9
+          },
+          {
+            "subtopico": "Cefaleia e Dor Neuropática",
+            "count": 11,
+            "pct_dentro_tema": 28.9
+          },
+          {
+            "subtopico": "Epilepsia e Crises Convulsivas",
+            "count": 3,
+            "pct_dentro_tema": 7.9
+          },
+          {
+            "subtopico": "Doenças Desmielinizantes e Neuromusculares",
+            "count": 1,
+            "pct_dentro_tema": 2.6
+          }
+        ],
+        "por_edicao": {
+          "2012": 2,
+          "2013": 1,
+          "2014": 1,
+          "2015": 4,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 3,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2021": 2,
+          "2022-2": 2,
+          "2023-1": 2,
+          "2023-2": 2,
+          "2024-1": 3,
+          "2024-2": 5,
+          "2025-1": 3
+        }
+      },
+      "Pneumologia": {
+        "count": 49,
+        "pct_dentro_area": 7.92,
+        "pct_total": 2.88,
+        "top_subtopicos": [
+          {
+            "subtopico": "Doenças Pleurais e Intersticiais",
+            "count": 17,
+            "pct_dentro_tema": 34.7
+          },
+          {
+            "subtopico": "DPOC e Asma no Adulto",
+            "count": 15,
+            "pct_dentro_tema": 30.6
+          },
+          {
+            "subtopico": "Insuficiência Respiratória e UTI",
+            "count": 9,
+            "pct_dentro_tema": 18.4
+          },
+          {
+            "subtopico": "Embolia Pulmonar e TVP",
+            "count": 6,
+            "pct_dentro_tema": 12.2
+          },
+          {
+            "subtopico": "Pneumonia e Infecção Respiratória",
+            "count": 2,
+            "pct_dentro_tema": 4.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2012": 6,
+          "2013": 3,
+          "2014": 3,
+          "2015": 3,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 3,
+          "2020-1": 3,
+          "2020-2": 3,
+          "2021": 1,
+          "2022-2": 2,
+          "2023-1": 5,
+          "2023-2": 4,
+          "2024-1": 1,
+          "2024-2": 4,
+          "2025-1": 4
+        }
+      },
+      "Hematologia": {
+        "count": 24,
+        "pct_dentro_area": 3.88,
+        "pct_total": 1.41,
+        "top_subtopicos": [
+          {
+            "subtopico": "Anemias e Hemoglobinopatias",
+            "count": 12,
+            "pct_dentro_tema": 50.0
+          },
+          {
+            "subtopico": "Coagulopatias e Trombose",
+            "count": 5,
+            "pct_dentro_tema": 20.8
+          },
+          {
+            "subtopico": "Leucemias e Linfomas",
+            "count": 5,
+            "pct_dentro_tema": 20.8
+          },
+          {
+            "subtopico": "Transfusão e Hemocomponentes",
+            "count": 2,
+            "pct_dentro_tema": 8.3
+          }
+        ],
+        "por_edicao": {
+          "2011": 3,
+          "2014": 1,
+          "2015": 2,
+          "2016-2": 1,
+          "2017": 4,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2021": 1,
+          "2023-1": 1,
+          "2023-2": 2,
+          "2024-1": 2,
+          "2024-2": 3,
+          "2025-1": 2
+        }
+      },
+      "Reumatologia": {
+        "count": 42,
+        "pct_dentro_area": 6.79,
+        "pct_total": 2.46,
+        "top_subtopicos": [
+          {
+            "subtopico": "Artrite Reumatoide e Espondiloartrites",
+            "count": 15,
+            "pct_dentro_tema": 35.7
+          },
+          {
+            "subtopico": "Vasculites e Miopatias Inflamatórias",
+            "count": 14,
+            "pct_dentro_tema": 33.3
+          },
+          {
+            "subtopico": "Lúpus Eritematoso Sistêmico",
+            "count": 10,
+            "pct_dentro_tema": 23.8
+          },
+          {
+            "subtopico": "Gota e Artropatias por Microcristais",
+            "count": 3,
+            "pct_dentro_tema": 7.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2012": 4,
+          "2013": 2,
+          "2015": 4,
+          "2016-1": 2,
+          "2016-2": 2,
+          "2017": 1,
+          "2020-1": 4,
+          "2020-2": 4,
+          "2021": 4,
+          "2022-2": 2,
+          "2023-1": 2,
+          "2023-2": 2,
+          "2024-1": 2,
+          "2024-2": 1,
+          "2025-1": 4
+        }
+      },
+      "Psiquiatria": {
+        "count": 31,
+        "pct_dentro_area": 5.01,
+        "pct_total": 1.82,
+        "top_subtopicos": [
+          {
+            "subtopico": "Depressão e Transtornos do Humor",
+            "count": 12,
+            "pct_dentro_tema": 38.7
+          },
+          {
+            "subtopico": "Transtornos de Ansiedade e TOC",
+            "count": 10,
+            "pct_dentro_tema": 32.3
+          },
+          {
+            "subtopico": "Suicídio e Urgências Psiquiátricas",
+            "count": 4,
+            "pct_dentro_tema": 12.9
+          },
+          {
+            "subtopico": "Esquizofrenia e Transtornos Psicóticos",
+            "count": 3,
+            "pct_dentro_tema": 9.7
+          },
+          {
+            "subtopico": "Dependência Química e Álcool",
+            "count": 2,
+            "pct_dentro_tema": 6.5
+          }
+        ],
+        "por_edicao": {
+          "2012": 3,
+          "2013": 2,
+          "2014": 3,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 1,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2022-2": 6,
+          "2023-2": 1,
+          "2024-1": 2,
+          "2024-2": 3,
+          "2025-1": 2
+        }
+      },
+      "Dermatologia": {
+        "count": 17,
+        "pct_dentro_area": 2.75,
+        "pct_total": 1.0,
+        "top_subtopicos": [
+          {
+            "subtopico": "Dermatoses Inflamatórias e Infecciosas",
+            "count": 11,
+            "pct_dentro_tema": 64.7
+          },
+          {
+            "subtopico": "Neoplasias Cutâneas",
+            "count": 5,
+            "pct_dentro_tema": 29.4
+          },
+          {
+            "subtopico": "Úlceras e Lesões Crônicas",
+            "count": 1,
+            "pct_dentro_tema": 5.9
+          }
+        ],
+        "por_edicao": {
+          "2011": 1,
+          "2012": 1,
+          "2013": 1,
+          "2015": 1,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 1,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2022-2": 1,
+          "2023-1": 1,
+          "2023-2": 1,
+          "2024-1": 2,
+          "2024-2": 1,
+          "2025-1": 2
+        }
+      }
+    }
+  },
+  "Cirurgia Geral": {
+    "count": 177,
+    "pct_total": 10.39,
+    "temas": {
+      "Trauma": {
+        "count": 34,
+        "pct_dentro_area": 19.21,
+        "pct_total": 2.0,
+        "top_subtopicos": [
+          {
+            "subtopico": "Trauma e ATLS — Avaliação Inicial",
+            "count": 17,
+            "pct_dentro_tema": 50.0
+          },
+          {
+            "subtopico": "Queimaduras",
+            "count": 9,
+            "pct_dentro_tema": 26.5
+          },
+          {
+            "subtopico": "Trauma Torácico",
+            "count": 4,
+            "pct_dentro_tema": 11.8
+          },
+          {
+            "subtopico": "Trauma Abdominal e Pélvico",
+            "count": 2,
+            "pct_dentro_tema": 5.9
+          },
+          {
+            "subtopico": "Trauma Cranioencefálico",
+            "count": 2,
+            "pct_dentro_tema": 5.9
+          }
+        ],
+        "por_edicao": {
+          "2011": 1,
+          "2013": 1,
+          "2014": 2,
+          "2015": 1,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 3,
+          "2020-1": 5,
+          "2020-2": 5,
+          "2021": 3,
+          "2023-1": 1,
+          "2023-2": 1,
+          "2024-1": 2,
+          "2024-2": 2,
+          "2025-1": 1
+        }
+      },
+      "Cirurgia do Aparelho Digestivo": {
+        "count": 88,
+        "pct_dentro_area": 49.72,
+        "pct_total": 5.16,
+        "top_subtopicos": [
+          {
+            "subtopico": "Abdome Agudo e Emergências Abdominais",
+            "count": 41,
+            "pct_dentro_tema": 46.6
+          },
+          {
+            "subtopico": "Vias Biliares e Pâncreas",
+            "count": 22,
+            "pct_dentro_tema": 25.0
+          },
+          {
+            "subtopico": "Hérnias e Parede Abdominal",
+            "count": 15,
+            "pct_dentro_tema": 17.0
+          },
+          {
+            "subtopico": "Abdome Agudo Obstrutivo",
+            "count": 4,
+            "pct_dentro_tema": 4.5
+          },
+          {
+            "subtopico": "Proctologia e Cólon",
+            "count": 4,
+            "pct_dentro_tema": 4.5
+          },
+          {
+            "subtopico": "Cirurgia Oncológica Digestiva",
+            "count": 2,
+            "pct_dentro_tema": 2.3
+          }
+        ],
+        "por_edicao": {
+          "2011": 6,
+          "2012": 5,
+          "2013": 6,
+          "2014": 6,
+          "2015": 6,
+          "2016-1": 6,
+          "2016-2": 6,
+          "2017": 6,
+          "2020-1": 4,
+          "2020-2": 4,
+          "2021": 4,
+          "2022-2": 5,
+          "2023-1": 3,
+          "2023-2": 3,
+          "2024-1": 2,
+          "2024-2": 8,
+          "2025-1": 8
+        }
+      },
+      "Cirurgia Pediátrica": {
+        "count": 5,
+        "pct_dentro_area": 2.82,
+        "pct_total": 0.29,
+        "top_subtopicos": [
+          {
+            "subtopico": "Anomalias Congênitas e Urgências Pediátricas",
+            "count": 2,
+            "pct_dentro_tema": 40.0
+          },
+          {
+            "subtopico": "Estenose Pilórica e Patologias Neonatais",
+            "count": 2,
+            "pct_dentro_tema": 40.0
+          },
+          {
+            "subtopico": "Urologia Pediátrica",
+            "count": 1,
+            "pct_dentro_tema": 20.0
+          }
+        ],
+        "por_edicao": {
+          "2012": 1,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2021": 1,
+          "2024-2": 1
+        }
+      },
+      "Cirurgia Vascular": {
+        "count": 6,
+        "pct_dentro_area": 3.39,
+        "pct_total": 0.35,
+        "top_subtopicos": [
+          {
+            "subtopico": "Doenças Venosas e Trombose",
+            "count": 6,
+            "pct_dentro_tema": 100.0
+          }
+        ],
+        "por_edicao": {
+          "2011": 1,
+          "2013": 1,
+          "2017": 1,
+          "2023-1": 1,
+          "2023-2": 1,
+          "2024-1": 1
+        }
+      },
+      "Ortopedia": {
+        "count": 9,
+        "pct_dentro_area": 5.08,
+        "pct_total": 0.53,
+        "top_subtopicos": [
+          {
+            "subtopico": "Fraturas e Luxações",
+            "count": 8,
+            "pct_dentro_tema": 88.9
+          },
+          {
+            "subtopico": "Coluna e Neuropatias Compressivas",
+            "count": 1,
+            "pct_dentro_tema": 11.1
+          }
+        ],
+        "por_edicao": {
+          "2014": 1,
+          "2017": 1,
+          "2022-2": 1,
+          "2023-2": 3,
+          "2024-2": 3
+        }
+      },
+      "Otorrinolaringologia": {
+        "count": 26,
+        "pct_dentro_area": 14.69,
+        "pct_total": 1.53,
+        "top_subtopicos": [
+          {
+            "subtopico": "Otite, Sinusite e Infecções ORL",
+            "count": 23,
+            "pct_dentro_tema": 88.5
+          },
+          {
+            "subtopico": "Epistaxe, Hipoacusia e Outras",
+            "count": 3,
+            "pct_dentro_tema": 11.5
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2013": 1,
+          "2014": 3,
+          "2015": 4,
+          "2016-1": 2,
+          "2016-2": 2,
+          "2017": 1,
+          "2020-1": 3,
+          "2020-2": 3,
+          "2022-2": 1,
+          "2023-1": 1,
+          "2023-2": 1,
+          "2024-1": 1,
+          "2025-1": 1
+        }
+      },
+      "Oftalmologia": {
+        "count": 9,
+        "pct_dentro_area": 5.08,
+        "pct_total": 0.53,
+        "top_subtopicos": [
+          {
+            "subtopico": "Glaucoma, Catarata e Retinopatias",
+            "count": 9,
+            "pct_dentro_tema": 100.0
+          }
+        ],
+        "por_edicao": {
+          "2014": 1,
+          "2017": 2,
+          "2020-1": 2,
+          "2020-2": 2,
+          "2024-1": 1,
+          "2025-1": 1
+        }
+      }
+    }
+  },
+  "Pediatria": {
+    "count": 311,
+    "pct_total": 18.25,
+    "temas": {
+      "Puericultura": {
+        "count": 138,
+        "pct_dentro_area": 44.37,
+        "pct_total": 8.1,
+        "top_subtopicos": [
+          {
+            "subtopico": "Crescimento, Desenvolvimento e Puericultura",
+            "count": 70,
+            "pct_dentro_tema": 50.7
+          },
+          {
+            "subtopico": "Aleitamento Materno e Alimentação Infantil",
+            "count": 32,
+            "pct_dentro_tema": 23.2
+          },
+          {
+            "subtopico": "Violência Infantil e ECA",
+            "count": 29,
+            "pct_dentro_tema": 21.0
+          },
+          {
+            "subtopico": "Imunização e Calendário Vacinal",
+            "count": 7,
+            "pct_dentro_tema": 5.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 9,
+          "2012": 9,
+          "2013": 5,
+          "2014": 11,
+          "2015": 12,
+          "2016-1": 7,
+          "2016-2": 7,
+          "2017": 3,
+          "2020-1": 10,
+          "2020-2": 10,
+          "2021": 8,
+          "2022-2": 8,
+          "2023-1": 8,
+          "2023-2": 8,
+          "2024-1": 5,
+          "2024-2": 5,
+          "2025-1": 13
+        }
+      },
+      "Neonatologia": {
+        "count": 83,
+        "pct_dentro_area": 26.69,
+        "pct_total": 4.87,
+        "top_subtopicos": [
+          {
+            "subtopico": "Síndrome do Desconforto Respiratório Neonatal",
+            "count": 24,
+            "pct_dentro_tema": 28.9
+          },
+          {
+            "subtopico": "Prematuridade e Cuidados Intensivos Neonatais",
+            "count": 22,
+            "pct_dentro_tema": 26.5
+          },
+          {
+            "subtopico": "Reanimação Neonatal e Adaptação Pós-Natal",
+            "count": 21,
+            "pct_dentro_tema": 25.3
+          },
+          {
+            "subtopico": "Icterícia Neonatal",
+            "count": 13,
+            "pct_dentro_tema": 15.7
+          },
+          {
+            "subtopico": "Sepse Neonatal e Infecções Congênitas",
+            "count": 3,
+            "pct_dentro_tema": 3.6
+          }
+        ],
+        "por_edicao": {
+          "2011": 5,
+          "2012": 5,
+          "2013": 3,
+          "2014": 5,
+          "2015": 5,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2020-1": 9,
+          "2020-2": 9,
+          "2021": 4,
+          "2022-2": 7,
+          "2023-1": 9,
+          "2023-2": 5,
+          "2024-1": 4,
+          "2024-2": 7
+        }
+      },
+      "Pneumologia Pediátrica": {
+        "count": 66,
+        "pct_dentro_area": 21.22,
+        "pct_total": 3.87,
+        "top_subtopicos": [
+          {
+            "subtopico": "Asma e Sibilância Pediátrica",
+            "count": 57,
+            "pct_dentro_tema": 86.4
+          },
+          {
+            "subtopico": "Laringite, Crupe e Epiglotite",
+            "count": 5,
+            "pct_dentro_tema": 7.6
+          },
+          {
+            "subtopico": "Bronquiolite e Infecções Respiratórias",
+            "count": 4,
+            "pct_dentro_tema": 6.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 6,
+          "2012": 6,
+          "2013": 6,
+          "2014": 5,
+          "2015": 4,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 3,
+          "2020-1": 6,
+          "2020-2": 6,
+          "2021": 2,
+          "2022-2": 1,
+          "2023-1": 3,
+          "2023-2": 1,
+          "2024-1": 5,
+          "2024-2": 2,
+          "2025-1": 4
+        }
+      },
+      "Gastrologia Pediátrica": {
+        "count": 17,
+        "pct_dentro_area": 5.47,
+        "pct_total": 1.0,
+        "top_subtopicos": [
+          {
+            "subtopico": "Diarreia Aguda e Desidratação",
+            "count": 12,
+            "pct_dentro_tema": 70.6
+          },
+          {
+            "subtopico": "Parasitoses e Doenças Infecciosas Digestivas",
+            "count": 3,
+            "pct_dentro_tema": 17.6
+          },
+          {
+            "subtopico": "Doenças Crônicas Digestivas Pediátricas",
+            "count": 2,
+            "pct_dentro_tema": 11.8
+          }
+        ],
+        "por_edicao": {
+          "2011": 1,
+          "2012": 2,
+          "2013": 3,
+          "2014": 1,
+          "2015": 1,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 2,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2023-1": 1,
+          "2024-2": 1,
+          "2025-1": 1
+        }
+      },
+      "Reumatologia Pediátrica": {
+        "count": 7,
+        "pct_dentro_area": 2.25,
+        "pct_total": 0.41,
+        "top_subtopicos": [
+          {
+            "subtopico": "Febre Reumática",
+            "count": 4,
+            "pct_dentro_tema": 57.1
+          },
+          {
+            "subtopico": "Vasculites Pediátricas e Kawasaki",
+            "count": 2,
+            "pct_dentro_tema": 28.6
+          },
+          {
+            "subtopico": "Artrite Idiopática Juvenil e Reumatologia Pediátrica",
+            "count": 1,
+            "pct_dentro_tema": 14.3
+          }
+        ],
+        "por_edicao": {
+          "2013": 1,
+          "2014": 1,
+          "2015": 1,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 1,
+          "2024-1": 1
+        }
+      }
+    }
+  },
+  "Ginecologia & Obstetrícia": {
+    "count": 413,
+    "pct_total": 24.24,
+    "temas": {
+      "Obstetrícia": {
+        "count": 237,
+        "pct_dentro_area": 57.38,
+        "pct_total": 13.91,
+        "top_subtopicos": [
+          {
+            "subtopico": "Intercorrências da Gestação",
+            "count": 84,
+            "pct_dentro_tema": 35.4
+          },
+          {
+            "subtopico": "Pré-Natal e Rotina Obstétrica",
+            "count": 81,
+            "pct_dentro_tema": 34.2
+          },
+          {
+            "subtopico": "Assistência ao Parto",
+            "count": 66,
+            "pct_dentro_tema": 27.8
+          },
+          {
+            "subtopico": "Puerpério e Hemorragia Pós-Parto",
+            "count": 5,
+            "pct_dentro_tema": 2.1
+          },
+          {
+            "subtopico": "Medicina Fetal e Diagnóstico Pré-Natal",
+            "count": 1,
+            "pct_dentro_tema": 0.4
+          }
+        ],
+        "por_edicao": {
+          "2011": 16,
+          "2012": 14,
+          "2013": 17,
+          "2014": 16,
+          "2015": 16,
+          "2016-1": 16,
+          "2016-2": 16,
+          "2017": 16,
+          "2020-1": 10,
+          "2020-2": 10,
+          "2021": 14,
+          "2022-2": 13,
+          "2023-1": 13,
+          "2023-2": 11,
+          "2024-1": 16,
+          "2024-2": 12,
+          "2025-1": 11
+        }
+      },
+      "Ginecologia": {
+        "count": 176,
+        "pct_dentro_area": 42.62,
+        "pct_total": 10.33,
+        "top_subtopicos": [
+          {
+            "subtopico": "Ginecologia Preventiva e Oncológica",
+            "count": 70,
+            "pct_dentro_tema": 39.8
+          },
+          {
+            "subtopico": "Ginecologia Endócrina e Contracepção",
+            "count": 46,
+            "pct_dentro_tema": 26.1
+          },
+          {
+            "subtopico": "Infecções Genitais e DIP",
+            "count": 30,
+            "pct_dentro_tema": 17.0
+          },
+          {
+            "subtopico": "Mastologia",
+            "count": 18,
+            "pct_dentro_tema": 10.2
+          },
+          {
+            "subtopico": "Endometriose e Patologias Uterinas",
+            "count": 12,
+            "pct_dentro_tema": 6.8
+          }
+        ],
+        "por_edicao": {
+          "2011": 10,
+          "2012": 12,
+          "2013": 11,
+          "2014": 14,
+          "2015": 9,
+          "2016-1": 8,
+          "2016-2": 8,
+          "2017": 9,
+          "2020-1": 10,
+          "2020-2": 10,
+          "2021": 12,
+          "2022-2": 10,
+          "2023-1": 6,
+          "2023-2": 11,
+          "2024-1": 13,
+          "2024-2": 12,
+          "2025-1": 11
+        }
+      }
+    }
+  },
+  "Medicina Preventiva": {
+    "count": 184,
+    "pct_total": 10.8,
+    "temas": {
+      "Epidemiologia": {
+        "count": 49,
+        "pct_dentro_area": 26.63,
+        "pct_total": 2.88,
+        "top_subtopicos": [
+          {
+            "subtopico": "Vigilância e Investigação Epidemiológica",
+            "count": 20,
+            "pct_dentro_tema": 40.8
+          },
+          {
+            "subtopico": "Epidemiologia e Bioestatística",
+            "count": 19,
+            "pct_dentro_tema": 38.8
+          },
+          {
+            "subtopico": "Medidas de Associação e Bioestatística",
+            "count": 8,
+            "pct_dentro_tema": 16.3
+          },
+          {
+            "subtopico": "Tipos de Estudos e Delineamentos",
+            "count": 2,
+            "pct_dentro_tema": 4.1
+          }
+        ],
+        "por_edicao": {
+          "2011": 5,
+          "2012": 4,
+          "2013": 2,
+          "2014": 1,
+          "2015": 4,
+          "2016-1": 6,
+          "2016-2": 6,
+          "2017": 1,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2021": 1,
+          "2022-2": 3,
+          "2023-1": 4,
+          "2023-2": 2,
+          "2024-1": 4,
+          "2024-2": 1,
+          "2025-1": 3
+        }
+      },
+      "Saúde do Trabalhador": {
+        "count": 24,
+        "pct_dentro_area": 13.04,
+        "pct_total": 1.41,
+        "top_subtopicos": [
+          {
+            "subtopico": "Legislação e Saúde Ocupacional",
+            "count": 15,
+            "pct_dentro_tema": 62.5
+          },
+          {
+            "subtopico": "LER/DORT e Doenças Ocupacionais",
+            "count": 9,
+            "pct_dentro_tema": 37.5
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2013": 2,
+          "2014": 3,
+          "2015": 3,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 3,
+          "2020-1": 1,
+          "2020-2": 1,
+          "2021": 1,
+          "2022-2": 1,
+          "2023-1": 2,
+          "2024-2": 1,
+          "2025-1": 2
+        }
+      },
+      "Atenção Primária": {
+        "count": 66,
+        "pct_dentro_area": 35.87,
+        "pct_total": 3.87,
+        "top_subtopicos": [
+          {
+            "subtopico": "Princípios do SUS e Atenção Básica",
+            "count": 58,
+            "pct_dentro_tema": 87.9
+          },
+          {
+            "subtopico": "Rastreamento e Níveis de Prevenção",
+            "count": 6,
+            "pct_dentro_tema": 9.1
+          },
+          {
+            "subtopico": "Princípios do SUS e Legislação",
+            "count": 2,
+            "pct_dentro_tema": 3.0
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2012": 6,
+          "2013": 3,
+          "2014": 3,
+          "2015": 2,
+          "2016-1": 3,
+          "2016-2": 3,
+          "2017": 6,
+          "2020-1": 4,
+          "2020-2": 4,
+          "2021": 7,
+          "2022-2": 1,
+          "2023-1": 4,
+          "2023-2": 8,
+          "2024-1": 2,
+          "2024-2": 4,
+          "2025-1": 4
+        }
+      },
+      "Medicina de Família": {
+        "count": 36,
+        "pct_dentro_area": 19.57,
+        "pct_total": 2.11,
+        "top_subtopicos": [
+          {
+            "subtopico": "Medicina de Família e MCCP",
+            "count": 28,
+            "pct_dentro_tema": 77.8
+          },
+          {
+            "subtopico": "Ética Médica e Bioética",
+            "count": 7,
+            "pct_dentro_tema": 19.4
+          },
+          {
+            "subtopico": "Saúde Mental na APS e RAPS",
+            "count": 1,
+            "pct_dentro_tema": 2.8
+          }
+        ],
+        "por_edicao": {
+          "2011": 2,
+          "2013": 1,
+          "2014": 1,
+          "2015": 1,
+          "2016-1": 1,
+          "2016-2": 1,
+          "2017": 3,
+          "2020-1": 3,
+          "2020-2": 3,
+          "2021": 1,
+          "2022-2": 3,
+          "2023-1": 2,
+          "2023-2": 6,
+          "2024-1": 4,
+          "2024-2": 1,
+          "2025-1": 3
+        }
+      },
+      "Sistemas de Informação": {
+        "count": 9,
+        "pct_dentro_area": 4.89,
+        "pct_total": 0.53,
+        "top_subtopicos": [
+          {
+            "subtopico": "Sistemas de Informação em Saúde",
+            "count": 6,
+            "pct_dentro_tema": 66.7
+          },
+          {
+            "subtopico": "Vigilância Sanitária e Farmacovigilância",
+            "count": 3,
+            "pct_dentro_tema": 33.3
+          }
+        ],
+        "por_edicao": {
+          "2014": 1,
+          "2015": 1,
+          "2021": 1,
+          "2022-2": 1,
+          "2023-1": 1,
+          "2023-2": 1,
+          "2024-1": 1,
+          "2024-2": 2
+        }
+      }
+    }
+  },
+  "_meta": {
+    "total_questoes": 1704,
+    "edicoes": {
+      "2011": 108,
+      "2012": 105,
+      "2013": 105,
+      "2014": 108,
+      "2015": 109,
+      "2016-1": 97,
+      "2016-2": 97,
+      "2017": 95,
+      "2020-1": 98,
+      "2020-2": 98,
+      "2021": 99,
+      "2022-1": 0,
+      "2022-2": 94,
+      "2023-1": 95,
+      "2023-2": 99,
+      "2024-1": 98,
+      "2024-2": 100,
+      "2025-1": 99
+    },
+    "revisao_manual": [
+      {
+        "edition": "2022-1",
+        "motivo": "Apenas 0 questões extraídas"
+      }
+    ]
+  }
+}
