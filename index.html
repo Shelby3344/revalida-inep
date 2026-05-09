@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%230071e3'/><text x='16' y='22' text-anchor='middle' fill='white' font-size='18' font-weight='bold'>R</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Revalida INEP — Análise de Incidências</title>
+    <script>
+      // Anti-flash: aplica o tema preferido ANTES do React montar.
+      // Ordem de prioridade:
+      //   1) localStorage 'revalida-theme' (escolha explicita do usuario)
+      //   2) preferencia do SO (prefers-color-scheme)
+      //   3) dark (default sensato)
+      (function () {
+        var dark = true; // default
+        try {
+          var saved = localStorage.getItem('revalida-theme');
+          if (saved === 'light') {
+            dark = false;
+          } else if (saved === 'dark') {
+            dark = true;
+          } else if (window.matchMedia) {
+            // Sem preferencia salva — usar SO
+            dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          }
+        } catch (e) { /* fallback to default */ }
+        var root = document.documentElement;
+        if (dark) {
+          root.classList.add('dark');
+        } else {
+          root.classList.remove('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body class="bg-[#f5f5f7] dark:bg-black text-gray-900 dark:text-[#f5f5f7] antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

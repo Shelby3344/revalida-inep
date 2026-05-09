@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif; }
+  ::selection { background: rgba(0,113,227,0.2); }
+  .dark ::selection { background: rgba(10,132,255,0.3); }
+}
+
+@layer components {
+  .glass { background: rgba(255,255,255,0.85); backdrop-filter: blur(20px) saturate(180%); }
+  .dark .glass { background: rgba(28,28,30,0.72); }
+  /* Light mode: card branco com borda visivel + sombra mais clara para contraste com o body cinza */
+  /* Dark mode: cinza escuro #1c1c1e */
+  .card {
+    @apply bg-white dark:bg-[#1c1c1e]
+           border border-gray-200 dark:border-white/10
+           rounded-[20px] md:rounded-[24px]
+           shadow-[0_2px_12px_rgba(0,0,0,0.06)]
+           dark:shadow-[0_4px_20px_rgba(0,0,0,0.3)];
+  }
+  .badge { @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider; }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  .animate-in { animation: fadeUp 0.6s ease forwards; }
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
+}
+
+/* ============================================================ */
+/* PERFORMANCE: durante a troca de tema, suprime TODAS as
+   transitions por 1 frame para evitar lag de FPS. App.jsx adiciona
+   a classe '.theme-switching' por ~100ms quando o tema muda. */
+.theme-switching,
+.theme-switching *,
+.theme-switching *:before,
+.theme-switching *:after {
+  transition: none !important;
+  animation-duration: 0s !important;
+}

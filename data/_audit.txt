@@ -1,0 +1,242 @@
+Total catch-all questions: 465 / 1449 (32.1%)
+
+
+======================================================================
+  Cirurgia Geral: 58 catch-all questions
+======================================================================
+Top 25 tokens in catch-all:
+    46  referencia
+    44  valor
+    39  idade
+    29  conduta
+    28  fisico
+    26  quadro
+    25  saude
+    23  unidade
+    23  medico
+    18  basica
+    18  cerca
+    18  nesse
+    17  mulher
+    17  direito
+    17  dias
+    17  local
+    16  meses
+    15  arterial
+    15  presenca
+    14  homem
+    14  anal
+    14  resultado
+    13  horas
+    13  mama
+    12  durante
+
+First 8 samples:
+  [2011/1 Q  1] Mulher com 54 anos de idade, Índice de Massa Corpórea (IMC) = 32,6, portadora de diabetes tipo 2, controlado com medidas dietéticas e uso de glibenclamida, comparece à Unidade Básica de Saúde com queixa de dor, do tipo cólica, em hipocôndri
+
+  [2011/1 Q 14] Homem, com 58 anos de idade, é atendido em serviço de urgência e relata a ocorrência, há cerca de seis meses, de modifi cação de seu hábito intestinal - períodos de constipação intercalados por evacuações de fezes pastosas, às vezes acompan
+
+  [2011/1 Q 22] Um paciente, com 69 anos de idade, é atendido em visita domiciliar. Ele informa que nos últimos cinco anos teve episódios de crises de dor abdominal na fossa ilíaca esquerda, associadas a febre baixa e hiporexia. Geralmente, quando ele “per
+
+  [2011/1 Q 44] Homem, assintomático, com 45 anos de idade e que apresenta tumor renal, procura atendimento em consultório médico portando documento que o identifi ca como Testemunha de Jeová, informando que não deverá ser submetido a transfusão de sangue.
+
+  [2011/1 Q 61] O plantonista da Unidade de Terapia Intensiva aciona a equipe de notifi cação e captação de órgãos do seu hospital relatando que foi realizado e confi rmado o diagnóstico de morte encefálica em um jovem de 20 anos, vítima de traumatismo crâ
+
+  [2011/1 Q 92] Paciente, com 60 anos de idade, do sexo masculino, residente da zona da mata de Pernambuco, procura serviço médico de urgência porque iniciou há 48 horas dor abdominal em cólica, agora difusa, vômitos de cor acastanhada escura e odor fétido
+
+  [2012/1 Q 25] Um mulher de 55 anos de idade procura o médico da Unidade Básica de Saúde (UBS) para realizar uma consulta. A paciente está assintomática. Durante o exame físico, o médico identificou nódulo palpável no lobo esquerdo da tireóide. Solicitou 
+
+  [2012/1 Q 46] Homem de 48 anos de idade, agricultor, procedente de zona rural, vem à consulta no ambulatório com queixa de ferida na perna surgida há cinco semanas. Nega traumatismo no local e relata já ter feito curativos com pomadas de vários tipos nes
+
+
+======================================================================
+  Clinica Medica: 70 catch-all questions
+======================================================================
+Top 25 tokens in catch-all:
+    39  saude
+    32  idade
+    22  medico
+    20  equipe
+    19  quadro
+    17  durante
+    17  fisico
+    17  conduta
+    17  familia
+    15  unidade
+    14  valor
+    14  referencia
+    13  dias
+    13  populacao
+    13  nesse
+    13  questao
+    12  medica
+    12  pronto
+    11  regiao
+    11  mulher
+    11  assinale
+    11  seguranca
+    10  base
+    10  mmhg
+    10  realizar
+
+First 8 samples:
+  [2011/1 Q 20] Uma médica, durante plantão em serviço de emergência, atendeu um paciente com múltiplas lesões no antebraço direito, vítima de mordedura de cão que ocorrera há 3 horas. O acidente ocorreu na rua, mas o dono do animal foi identifi cado. O ca
+
+  [2011/1 Q 23] Um município de pequeno porte tem apresentado difi culdades na execução de suas atividades de saúde de nível secundário de atenção. Com o objetivo de aumentar a resolubilidade do mesmo, qual ação pode ser tomada?
+
+  [2011/1 Q 26] Homem, com 23 anos de idade, mototaxista, sofre acidente motociclístico por colisão com carro em alta velocidade. Seu corpo foi lançado aproximadamente a 20m e o capacete, ejetado. Foi socorrido pelo Corpo de Bombeiros com colocação de cola
+
+  [2011/1 Q 32] Trinta e cinco indivíduos, adolescentes e adultos, alimentam-se em um restaurante com buffet de comida “por quilo”. Cerca de quatro horas depois, sete integrantes do grupo apresentam diarreia com várias evacuações aquosas, sem febre, acompa
+
+  [2011/1 Q 43] Paciente, com 35 anos de idade, sexo masculino, etilista, é trazido por familiares ao hospital após ter apresentado crise convulsiva generalizada e perda de consciência. Esposa relata que o paciente não fazia uso de medicamentos, tendo real
+
+  [2011/1 Q 58] Em consulta médica no posto de saúde, paciente jovem relata “ferida” na genitália externa que surgiu há cerca de 30 dias. Ao exame, nota-se úlcera vulvar, única, de contornos imprecisos, fundo purulento e dolorosa ao toque, associada a linf
+
+  [2011/1 Q 66] Uma nova Unidade de Saúde da Família será implantada em um município. A territorialização deverá ser realizada visando obter como primeiro produto
+
+  [2011/1 Q 90] Mulher, com 21 anos de idade, estava próxima ao ponto de ônibus, quando foi abordada por um indivíduo estranho, que mediante ameaça com uma faca a obrigou entrar em uma casa abandonada, próxima àquele local, onde a agrediu fi sicamente e ob
+
+
+======================================================================
+  Ginecologia & Obstetricia: 111 catch-all questions
+======================================================================
+Top 25 tokens in catch-all:
+    94  idade
+    74  saude
+    67  semanas
+    55  natal
+    50  conduta
+    48  unidade
+    47  gestacao
+    42  gestacional
+    38  fisico
+    38  basica
+    37  dias
+    36  parto
+    30  quadro
+    29  medico
+    28  frequencia
+    28  valor
+    28  referencia
+    27  horas
+    27  fetal
+    26  primigesta
+    26  mulher
+    25  adequada
+    25  vaginal
+    24  gestante
+    24  uterina
+
+First 8 samples:
+  [2011/1 Q  6] Quanto ao desenvolvimento de diabetes gestacional em paciente primigesta, com 29 anos de idade, estatura de 1,50 m , peso pré-gravídico de 70Kg, peso atual de 75Kg na 24ª semana de gestação e glicemia em jejum de 90mg/dl, pode-se afi rmar
+
+  [2011/1 Q  7] Mulher com 34 anos de idade, gestante de 28 semanas, iniciou quadro febril há cinco dias associado a dor no hemitórax esquerdo à respiração profunda. Há dois dias passou a apresentar tosse produtiva com expectoração amarelada. Procurou Unid
+
+  [2011/1 Q 54] Paciente do sexo feminino, assintomática, em avaliação de rotina, determinada pelo seu médico assistente, é submetida à coleta de duas amostras de urinocultura, que revelam crescimento de >100.000 Unidades Formadoras de Colônias/ml de Esche
+
+  [2011/1 Q 57] Considere as três situações abaixo. I. Médico recebe comunicado do diretor clínico da clínica onde trabalha de que passará a receber desconto no aluguel do consultório de acordo com o número de pacientes encaminhados para outros especialist
+
+  [2011/1 Q 85] Primigesta, com 23 anos de idade, 27 semanas de gestação, procura serviço de urgência relatando que, há dois dias, apresenta dor na região lombar à direita. Relata, ainda, que há um dia vem se sentindo muito mal, com calafrios e náuseas. Ho
+
+  [2011/1 Q 87] Gestante de 39 semanas, com quatro gestações e três partos, foi internada no pré-parto com dinâmica uterina de três contrações fortes em 10 minutos, cervicodilatação de 5 cm, bolsa íntegra e cardiotocografi a com padrão ativo. Em uma hora e
+
+  [2011/1 Q 98] Paciente, com 35 anos de idade, nuligesta, procura médico para realizar exames de mama. Relata ter muito medo, pois sua mãe teve câncer de mama bilateral, diagnosticado aos 49 anos. O exame clínico das mamas é normal, bem como o restante do
+
+  [2011/1 Q104] Gestante, primigesta, 18 anos de idade, com dezessete semanas de gestação, traz cartão de vacinação para a consulta de pré-natal, mostrando esquema vacinal completo para tétano aos 10 anos de idade. Em relação à recomendação do esquema vaci
+
+
+======================================================================
+  Med. Preventiva: 98 catch-all questions
+======================================================================
+Top 25 tokens in catch-all:
+   119  saude
+    97  unidade
+    94  basica
+    69  idade
+    48  dias
+    39  medico
+    38  quadro
+    37  meses
+    36  fisico
+    35  homem
+    34  febre
+    25  tratamento
+    24  procura
+    23  regiao
+    21  clinico
+    21  conduta
+    20  lesao
+    20  refere
+    20  questao
+    19  nesse
+    18  cerca
+    17  nega
+    17  horas
+    16  hemograma
+    16  queixa
+
+First 8 samples:
+  [2011/1 Q  9] Um menino com cinco anos e oito meses foi levado pela mãe à Unidade Básica de Saúde. Há três semanas vem apresentando dor abdominal inespecífi ca, tosse, febre e hábito de comer terra. Ao exame físico, o médico encontrou palidez cutânea mod
+
+  [2011/1 Q 16] Homem, com 43 anos de idade, é atendido na Unidade Básica de Saúde com queixa de dispneia aos grandes esforços, há seis meses. Não relata dor precordial, síncope ou palpitações. No exame, encontra-se em bom estado geral, eupnéico, hidratado
+
+  [2011/1 Q 60] Paciente, com 57 anos de idade, vai à Unidade Básica de Saúde com queixa de aparecimento, há um mês, de lesão avermelhada em braço direito. Procurou atendimento médico, quando foi prescrita nistastina creme durante 14 dias e fl uconazol 150
+
+  [2011/1 Q 88] Homem, com 25 anos de idade, solteiro, procura atendimento na unidade básica de saúde, queixando-se de ferida genital. Ao exame clínico, foi observada lesão peniana ulcerada, eritematosa, com diâmetro de 1 cm, sem secreção, base endurada, l
+
+  [2011/1 Q 89] Adolescente do sexo masculino, com 14 anos de idade, busca atendimento em Unidade Básica de Saúde por considerar sua estatura muito baixa. O seu peso ao nascer foi de 3 Kg e o comprimento, de 50 cm. Manteve- se com velocidade de crescimento
+
+  [2012/1 Q 12] Um homem de 40 anos de idade é atendido na Unidade Básica de Saúde (UBS) com quadro de anorexia, perda de peso e adinamia, associados a tosse e discreta falta de ar, iniciado há 30 dias. Ao exame físico foi constatado: paciente emagrecido, 
+
+  [2012/1 Q 23] O médico de uma Unidade Básica de Saúde (UBS) recebe várias crianças de uma mesma escola da região, todas com idade entre 9 e 10 anos. A queixa é semelhante: houve surgimento, há cerca de 10 dias, de lesões vesico-papulosas associadas a pru
+
+  [2012/1 Q 35] Um homem de 46 anos de idade comparece à Unidade Básica de Saúde (UBS) queixando-se de episódio de vômito em grande quantidade, com sangue vivo, há um dia, após libação alcoólica. Nega episódio similar anterior, mas já foi internado para "t
+
+
+======================================================================
+  Pediatria: 128 catch-all questions
+======================================================================
+Top 25 tokens in catch-all:
+   138  crianca
+    83  idade
+    66  quadro
+    58  saude
+    57  fisico
+    53  conduta
+    50  unidade
+    48  dias
+    47  meses
+    45  menino
+    37  medico
+    36  febre
+    31  basica
+    31  referencia
+    29  pronto
+    28  questao
+    27  valor
+    27  refere
+    26  tratamento
+    26  lactente
+    25  horas
+    25  direito
+    25  abdominal
+    25  adequada
+    24  clinico
+
+First 8 samples:
+  [2011/1 Q 19] Criança do sexo feminino, com sete anos de idade, é trazida pela mãe à Unidade Básica de Saúde, porque há três dias apresenta-se com adinamia, urina escura (cor de “coca-cola”) e inchaço nos olhos pela manhã. A mãe informa que há 15 dias a 
+
+  [2011/1 Q 39] Uma criança nascida de parto cesáreo, a termo, com Apgar 8/9, pesando 3500g, apresenta, nas primeiras 24 horas de vida, cianose associada com desconforto respiratório. Durante o exame fi sico, o recém-nascido encontra-se cianótico, taquidis
+
+  [2011/1 Q 40] Criança, com oito meses de idade, dá entrada em pronto socorro acompanhada pela mãe que se encontra muito afl ita. Ela diz que o bebê havia caído do berço há poucas horas. Afi rma, ainda, que a criança não apresentou perda de consciência ou
+
+  [2011/1 Q 50] Um médico da Unidade Básica de Saúde encontrava-se diante de uma difícil situação que envolvia o atendimento de uma criança de dois anos de idade, em que a melhor medicação disponível para o tratamento não estava disponível gratuitamente pa
+
+  [2011/1 Q 69] Uma criança, com dois anos de idade, sexo masculino, é atendida no serviço de Pronto Atendimento. A mãe relata que a criança vem apresentando sintomas de obstrução nasal e secreção hialina há seis dias, evoluindo com febre (dois picos diári
+
+  [2011/1 Q 73] Menina, com seis anos de idade, foi levada pela mãe à consulta em Unidade Básica de Sáude por apresentar, há uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38oC) e dor articular, localizada inicialmente no joelho es
+
+  [2011/1 Q 82] Um menino, com quatro anos de idade, chegou ao Setor de Emergência com grave alteração na perfusão sistêmica. Sua mãe relatou que o menor estava febril há 20 dias e que não havia feito o tratamento indicado pelo médico para infecção do trat
+
+  [2011/1 Q 84] Um lactente, com nove meses de idade, foi levado ao Pronto Atendimento porque, há 5 horas vem apresentando choro inconsolável, vômitos, fezes com sangue e distensão abdominal. A mãe refere que a criança fi cou gripada há uma semana. Durante
+
