@@ -138,38 +138,8 @@ export default function TopicQuestions() {
           </div>
         </div>
 
-        {/* Evolução nas últimas 5 edições */}
-        <div className="mt-5 bg-gray-50 dark:bg-[#2c2c2e] rounded-2xl p-4">
-          <span className="block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3">
-            Evolução nas Últimas 5 Edições
-            {subtopicFilter && <span className="ml-1.5 font-normal normal-case text-gray-400">— {subtopicFilter}</span>}
-          </span>
-          <div className="flex items-end gap-2 h-16">
-            {evolutionData.map(({ label, count }, k) => {
-              const maxVal = Math.max(...evolutionData.map((d) => d.count), 1);
-              const heightPct = maxVal > 0 ? (count / maxVal) * 100 : 0;
-              const areaColor = topic?.areaColor || '#0071e3';
-              return (
-                <div key={k} className="flex-1 flex flex-col items-center gap-1 h-full justify-end">
-                  <span className="text-[11px] font-bold text-gray-600 dark:text-gray-300">{count || '—'}</span>
-                  <div
-                    className="w-full rounded-t-sm transition-all duration-500"
-                    style={{
-                      height: count > 0 ? `${heightPct}%` : '3px',
-                      background: count > 0 ? areaColor : '#d1d5db',
-                      opacity: count > 0 ? 0.4 + k * 0.15 : 0.3,
-                      minHeight: '3px',
-                    }}
-                  />
-                  <span className="text-[9px] text-gray-400 dark:text-gray-500 mt-0.5 text-center leading-tight">{label}</span>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-
         {/* Search */}
-        <div className="mt-4 relative">
+        <div className="mt-5 relative">
           <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-500 dark:text-gray-400" />
           <input
             type="text"
