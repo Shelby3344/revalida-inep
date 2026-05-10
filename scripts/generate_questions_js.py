@@ -157,6 +157,12 @@ def _trend(por_edicao, editions):
         return "down"
     return "stable"
 
+# Build per-subtopic edition lookup: (grande_area, tema_principal, subtopico) -> set of examRef
+sub_editions = defaultdict(set)
+for q in questions:
+    key = (q["grande_area"], q["tema_principal"], q["subtopico"])
+    sub_editions[key].add(q["examRef"])
+
 topic_entries = []
 for area_name, area_cfg in stats.items():
     if area_name.startswith("_"):
@@ -181,10 +187,16 @@ for area_name, area_cfg in stats.items():
         hist_editions = editions_with_data[-5:]
         history = [por_edicao.get(e, 0) for e in hist_editions]
 
-        subtopics_list = [
-            {"name": s["subtopico"], "count": s["count"]}
-            for s in tema_cfg.get("top_subtopicos", [])
-        ]
+        subtopics_list = []
+        for s in tema_cfg.get("top_subtopicos", []):
+            key = (area_name, tema_name, s["subtopico"])
+            eds = sub_editions.get(key, set())
+            sub_prob = round(100 * len(eds) / max(len(all_editions), 1))
+            subtopics_list.append({
+                "name": s["subtopico"],
+                "count": s["count"],
+                "probability": sub_prob,
+            })
         details_str = ", ".join(s["name"] for s in subtopics_list[:3])
 
         topic_entries.append({
@@ -199,7 +211,6 @@ for area_name, area_cfg in stats.items():
             "trend": trend,
             "probability": f"{probability}%",
             "avgPerExam": str(avg_per_exam),
-            "difficulty": "Moderada",
             "history": history,
             "subtopics": subtopics_list,
         })
@@ -213,7 +224,7 @@ tlines = [
 ]
 for t in topic_entries:
     subs_js = "[" + ", ".join(
-        f"{{name: '{js_str(s['name'])}', count: {s['count']}}}"
+        f"{{name: '{js_str(s['name'])}', count: {s['count']}, probability: {s['probability']}}}"
         for s in t["subtopics"]
     ) + "]"
     hist_js = "[" + ", ".join(str(h) for h in t["history"]) + "]"
@@ -230,7 +241,6 @@ for t in topic_entries:
         f"    trend: '{t['trend']}',",
         f"    probability: '{js_str(t['probability'])}',",
         f"    avgPerExam: '{js_str(t['avgPerExam'])}',",
-        f"    difficulty: 'Moderada',",
         f"    history: {hist_js},",
         f"    subtopics: {subs_js},",
         "  },",

@@ -228,10 +228,21 @@ export default function Dashboard() {
                                   <span className="font-medium text-gray-800 dark:text-gray-200 leading-snug group-hover:text-[#0071e3] transition-colors">
                                     {sub.name}
                                   </span>
-                                  <span className="inline-flex items-center gap-1 font-bold text-gray-500 dark:text-gray-400 flex-shrink-0 ml-2 bg-gray-100 dark:bg-[#2c2c2e] px-2 py-0.5 rounded-full text-[10px]">
-                                    <Eye size={10} />
-                                    {subQCount} <span className="font-normal text-gray-500 dark:text-gray-400">questões</span>
-                                  </span>
+                                  <div className="flex items-center gap-1.5 flex-shrink-0 ml-2">
+                                    {sub.probability != null && (
+                                      <span className="inline-flex items-center font-bold px-2 py-0.5 rounded-full text-[10px]"
+                                        style={{
+                                          background: sub.probability >= 70 ? '#dcfce7' : sub.probability >= 40 ? '#fef9c3' : '#fee2e2',
+                                          color:      sub.probability >= 70 ? '#15803d' : sub.probability >= 40 ? '#a16207' : '#b91c1c',
+                                        }}>
+                                        {sub.probability}%
+                                      </span>
+                                    )}
+                                    <span className="inline-flex items-center gap-1 font-bold text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-[#2c2c2e] px-2 py-0.5 rounded-full text-[10px]">
+                                      <Eye size={10} />
+                                      {subQCount} <span className="font-normal text-gray-500 dark:text-gray-400">questões</span>
+                                    </span>
+                                  </div>
                                 </div>
                                 <div className="w-full h-2 bg-gray-200 dark:bg-[#3a3a3c] rounded-full overflow-hidden">
                                   <div
@@ -261,16 +272,11 @@ export default function Dashboard() {
                         </h4>
 
                         {/* Mini cards */}
-                        <div className="grid grid-cols-2 gap-2 mb-4">
+                        <div className="mb-4">
                           <div className="bg-white dark:bg-[#1c1c1e] rounded-2xl p-3 border border-black/5 dark:border-white/10">
                             <span className="block text-[10px] text-gray-500 dark:text-gray-400 font-bold uppercase tracking-wider mb-1">Probabilidade</span>
                             <span className="text-xl font-bold tracking-tight">{topic.probability}</span>
                             <span className="block text-[10px] text-gray-500 dark:text-gray-400 mt-0.5">de aparecer na prova</span>
-                          </div>
-                          <div className="bg-white dark:bg-[#1c1c1e] rounded-2xl p-3 border border-black/5 dark:border-white/10">
-                            <span className="block text-[10px] text-gray-500 dark:text-gray-400 font-bold uppercase tracking-wider mb-1">Dificuldade</span>
-                            <span className="text-lg font-bold mt-1 block">{topic.difficulty}</span>
-                            <span className="block text-[10px] text-gray-500 dark:text-gray-400 mt-0.5">relatada por alunos</span>
                           </div>
                         </div>
 

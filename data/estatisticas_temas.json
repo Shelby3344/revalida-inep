@@ -9,34 +9,34 @@
         "pct_total": 9.92,
         "top_subtopicos": [
           {
-            "subtopico": "Hipertensão Arterial Sistêmica",
-            "count": 125,
-            "pct_dentro_tema": 74.0
-          },
-          {
             "subtopico": "IAM e Síndromes Coronarianas Agudas",
-            "count": 23,
-            "pct_dentro_tema": 13.6
-          },
-          {
-            "subtopico": "Arritmias e Distúrbios de Condução",
-            "count": 8,
-            "pct_dentro_tema": 4.7
-          },
-          {
-            "subtopico": "Insuficiência Cardíaca",
-            "count": 5,
-            "pct_dentro_tema": 3.0
-          },
-          {
-            "subtopico": "Valvulopatias e Endocardite",
-            "count": 5,
-            "pct_dentro_tema": 3.0
+            "count": 61,
+            "pct_dentro_tema": 36.1
           },
           {
             "subtopico": "Diagnóstico e Conduta Cardiológica",
-            "count": 3,
-            "pct_dentro_tema": 1.8
+            "count": 59,
+            "pct_dentro_tema": 34.9
+          },
+          {
+            "subtopico": "Hipertensão Arterial Sistêmica",
+            "count": 17,
+            "pct_dentro_tema": 10.1
+          },
+          {
+            "subtopico": "Insuficiência Cardíaca",
+            "count": 13,
+            "pct_dentro_tema": 7.7
+          },
+          {
+            "subtopico": "Arritmias e Distúrbios de Condução",
+            "count": 12,
+            "pct_dentro_tema": 7.1
+          },
+          {
+            "subtopico": "Valvulopatias e Endocardite",
+            "count": 7,
+            "pct_dentro_tema": 4.1
           }
         ],
         "por_edicao": {
@@ -132,13 +132,13 @@
         "top_subtopicos": [
           {
             "subtopico": "Úlcera Péptica e DRGE",
-            "count": 26,
-            "pct_dentro_tema": 40.0
+            "count": 25,
+            "pct_dentro_tema": 38.5
           },
           {
             "subtopico": "Diagnóstico e Tratamento Gastroenterológico",
-            "count": 20,
-            "pct_dentro_tema": 30.8
+            "count": 18,
+            "pct_dentro_tema": 27.7
           },
           {
             "subtopico": "Doença Inflamatória Intestinal (Crohn / RCU)",
@@ -149,6 +149,11 @@
             "subtopico": "Câncer Gastrointestinal",
             "count": 7,
             "pct_dentro_tema": 10.8
+          },
+          {
+            "subtopico": "Hemorragia Digestiva",
+            "count": 3,
+            "pct_dentro_tema": 4.6
           }
         ],
         "por_edicao": {
@@ -925,9 +930,14 @@
         "pct_total": 3.87,
         "top_subtopicos": [
           {
+            "subtopico": "Pneumonia Pediátrica e Infecções Respiratórias",
+            "count": 49,
+            "pct_dentro_tema": 74.2
+          },
+          {
             "subtopico": "Asma e Sibilância Pediátrica",
-            "count": 57,
-            "pct_dentro_tema": 86.4
+            "count": 10,
+            "pct_dentro_tema": 15.2
           },
           {
             "subtopico": "Laringite, Crupe e Epiglotite",
@@ -935,9 +945,9 @@
             "pct_dentro_tema": 7.6
           },
           {
-            "subtopico": "Bronquiolite e Infecções Respiratórias",
-            "count": 4,
-            "pct_dentro_tema": 6.1
+            "subtopico": "Bronquiolite Viral Aguda",
+            "count": 2,
+            "pct_dentro_tema": 3.0
           }
         ],
         "por_edicao": {
@@ -1041,8 +1051,8 @@
         "top_subtopicos": [
           {
             "subtopico": "Intercorrências da Gestação",
-            "count": 84,
-            "pct_dentro_tema": 35.4
+            "count": 83,
+            "pct_dentro_tema": 35.0
           },
           {
             "subtopico": "Pré-Natal e Rotina Obstétrica",
@@ -1051,13 +1061,13 @@
           },
           {
             "subtopico": "Assistência ao Parto",
-            "count": 66,
-            "pct_dentro_tema": 27.8
+            "count": 64,
+            "pct_dentro_tema": 27.0
           },
           {
             "subtopico": "Puerpério e Hemorragia Pós-Parto",
-            "count": 5,
-            "pct_dentro_tema": 2.1
+            "count": 8,
+            "pct_dentro_tema": 3.4
           },
           {
             "subtopico": "Medicina Fetal e Diagnóstico Pré-Natal",
@@ -1227,19 +1237,14 @@
         "pct_total": 3.87,
         "top_subtopicos": [
           {
-            "subtopico": "Princípios do SUS e Atenção Básica",
-            "count": 58,
-            "pct_dentro_tema": 87.9
+            "subtopico": "Organização da APS, ESF e SUS",
+            "count": 60,
+            "pct_dentro_tema": 90.9
           },
           {
             "subtopico": "Rastreamento e Níveis de Prevenção",
             "count": 6,
             "pct_dentro_tema": 9.1
-          },
-          {
-            "subtopico": "Princípios do SUS e Legislação",
-            "count": 2,
-            "pct_dentro_tema": 3.0
           }
         ],
         "por_edicao": {

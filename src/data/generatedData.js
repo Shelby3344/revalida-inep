@@ -17,7 +17,7 @@ export const generatedQuestions = [
   {
     id: '2011-q002',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2011',
     year: 2011,
@@ -161,7 +161,7 @@ export const generatedQuestions = [
   {
     id: '2011-q014',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2011',
     year: 2011,
@@ -185,7 +185,7 @@ export const generatedQuestions = [
   {
     id: '2011-q016',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -221,7 +221,7 @@ export const generatedQuestions = [
   {
     id: '2011-q019',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -281,7 +281,7 @@ export const generatedQuestions = [
   {
     id: '2011-q024',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -365,7 +365,7 @@ export const generatedQuestions = [
   {
     id: '2011-q031',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -425,7 +425,7 @@ export const generatedQuestions = [
   {
     id: '2011-q036',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -473,7 +473,7 @@ export const generatedQuestions = [
   {
     id: '2011-q041',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Arritmias e Distúrbios de Condução',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -533,7 +533,7 @@ export const generatedQuestions = [
   {
     id: '2011-q046',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Bronquiolite e Infecções Respiratórias',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2011',
     year: 2011,
@@ -545,7 +545,7 @@ export const generatedQuestions = [
   {
     id: '2011-q047',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -569,7 +569,7 @@ export const generatedQuestions = [
   {
     id: '2011-q049',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2011',
     year: 2011,
@@ -593,7 +593,7 @@ export const generatedQuestions = [
   {
     id: '2011-q051',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -653,7 +653,7 @@ export const generatedQuestions = [
   {
     id: '2011-q056',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -785,7 +785,7 @@ export const generatedQuestions = [
   {
     id: '2011-q067',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -797,7 +797,7 @@ export const generatedQuestions = [
   {
     id: '2011-q068',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2011',
     year: 2011,
@@ -857,7 +857,7 @@ export const generatedQuestions = [
   {
     id: '2011-q073',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Valvulopatias e Endocardite',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -869,7 +869,7 @@ export const generatedQuestions = [
   {
     id: '2011-q074',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -929,7 +929,7 @@ export const generatedQuestions = [
   {
     id: '2011-q079',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Valvulopatias e Endocardite',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -965,7 +965,7 @@ export const generatedQuestions = [
   {
     id: '2011-q082',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -1085,7 +1085,7 @@ export const generatedQuestions = [
   {
     id: '2011-q092',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2011',
     year: 2011,
@@ -1229,7 +1229,7 @@ export const generatedQuestions = [
   {
     id: '2011-q105',
     topicId: 'gineco-obstetricia',
-    subtopic: 'Intercorrências da Gestação',
+    subtopic: 'Puerpério e Hemorragia Pós-Parto',
     areaId: 'gineco',
     examRef: '2011',
     year: 2011,
@@ -1265,7 +1265,7 @@ export const generatedQuestions = [
   {
     id: '2011-q108',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2011',
     year: 2011,
@@ -1481,7 +1481,7 @@ export const generatedQuestions = [
   {
     id: '2012-q017',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -1529,7 +1529,7 @@ export const generatedQuestions = [
   {
     id: '2012-q021',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Arritmias e Distúrbios de Condução',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -1541,7 +1541,7 @@ export const generatedQuestions = [
   {
     id: '2012-q022',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -1553,7 +1553,7 @@ export const generatedQuestions = [
   {
     id: '2012-q023',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -1601,7 +1601,7 @@ export const generatedQuestions = [
   {
     id: '2012-q027',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -1613,7 +1613,7 @@ export const generatedQuestions = [
   {
     id: '2012-q028',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -1649,7 +1649,7 @@ export const generatedQuestions = [
   {
     id: '2012-q031',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -1661,7 +1661,7 @@ export const generatedQuestions = [
   {
     id: '2012-q032',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -1757,7 +1757,7 @@ export const generatedQuestions = [
   {
     id: '2012-q041',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -1781,7 +1781,7 @@ export const generatedQuestions = [
   {
     id: '2012-q043',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -1853,7 +1853,7 @@ export const generatedQuestions = [
   {
     id: '2012-q049',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -1877,7 +1877,7 @@ export const generatedQuestions = [
   {
     id: '2012-q051',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -1925,7 +1925,7 @@ export const generatedQuestions = [
   {
     id: '2012-q055',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -2009,7 +2009,7 @@ export const generatedQuestions = [
   {
     id: '2012-q062',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -2153,7 +2153,7 @@ export const generatedQuestions = [
   {
     id: '2012-q074',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -2261,7 +2261,7 @@ export const generatedQuestions = [
   {
     id: '2012-q083',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -2321,7 +2321,7 @@ export const generatedQuestions = [
   {
     id: '2012-q089',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2012',
     year: 2012,
@@ -2345,7 +2345,7 @@ export const generatedQuestions = [
   {
     id: '2012-q091',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2012',
     year: 2012,
@@ -2429,7 +2429,7 @@ export const generatedQuestions = [
   {
     id: '2012-q098',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2012',
     year: 2012,
@@ -2585,7 +2585,7 @@ export const generatedQuestions = [
   {
     id: '2013-q003',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -2597,7 +2597,7 @@ export const generatedQuestions = [
   {
     id: '2013-q004',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2013',
     year: 2013,
@@ -2717,7 +2717,7 @@ export const generatedQuestions = [
   {
     id: '2013-q014',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Bronquiolite e Infecções Respiratórias',
+    subtopic: 'Bronquiolite Viral Aguda',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -2813,7 +2813,7 @@ export const generatedQuestions = [
   {
     id: '2013-q022',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -2837,7 +2837,7 @@ export const generatedQuestions = [
   {
     id: '2013-q024',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -2933,7 +2933,7 @@ export const generatedQuestions = [
   {
     id: '2013-q034',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3065,7 +3065,7 @@ export const generatedQuestions = [
   {
     id: '2013-q045',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3101,7 +3101,7 @@ export const generatedQuestions = [
   {
     id: '2013-q048',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3125,7 +3125,7 @@ export const generatedQuestions = [
   {
     id: '2013-q050',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Bronquiolite e Infecções Respiratórias',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -3161,7 +3161,7 @@ export const generatedQuestions = [
   {
     id: '2013-q053',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3245,7 +3245,7 @@ export const generatedQuestions = [
   {
     id: '2013-q060',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -3281,7 +3281,7 @@ export const generatedQuestions = [
   {
     id: '2013-q063',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3353,7 +3353,7 @@ export const generatedQuestions = [
   {
     id: '2013-q069',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -3365,7 +3365,7 @@ export const generatedQuestions = [
   {
     id: '2013-q070',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2013',
     year: 2013,
@@ -3377,7 +3377,7 @@ export const generatedQuestions = [
   {
     id: '2013-q071',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2013',
     year: 2013,
@@ -3557,7 +3557,7 @@ export const generatedQuestions = [
   {
     id: '2013-q087',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2013',
     year: 2013,
@@ -3749,7 +3749,7 @@ export const generatedQuestions = [
   {
     id: '2013-q105',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2013',
     year: 2013,
@@ -3833,7 +3833,7 @@ export const generatedQuestions = [
   {
     id: '2014-q002',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2014',
     year: 2014,
@@ -4121,7 +4121,7 @@ export const generatedQuestions = [
   {
     id: '2014-q026',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2014',
     year: 2014,
@@ -4133,7 +4133,7 @@ export const generatedQuestions = [
   {
     id: '2014-q027',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2014',
     year: 2014,
@@ -4145,7 +4145,7 @@ export const generatedQuestions = [
   {
     id: '2014-q028',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2014',
     year: 2014,
@@ -4265,7 +4265,7 @@ export const generatedQuestions = [
   {
     id: '2014-q038',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2014',
     year: 2014,
@@ -4301,7 +4301,7 @@ export const generatedQuestions = [
   {
     id: '2014-q041',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2014',
     year: 2014,
@@ -4373,7 +4373,7 @@ export const generatedQuestions = [
   {
     id: '2014-q047',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2014',
     year: 2014,
@@ -4589,7 +4589,7 @@ export const generatedQuestions = [
   {
     id: '2014-q066',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2014',
     year: 2014,
@@ -4733,7 +4733,7 @@ export const generatedQuestions = [
   {
     id: '2014-q078',
     topicId: 'clinica-gastroenterologia',
-    subtopic: 'Úlcera Péptica e DRGE',
+    subtopic: 'Hemorragia Digestiva',
     areaId: 'clinica',
     examRef: '2014',
     year: 2014,
@@ -4865,7 +4865,7 @@ export const generatedQuestions = [
   {
     id: '2014-q090',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2014',
     year: 2014,
@@ -5057,7 +5057,7 @@ export const generatedQuestions = [
   {
     id: '2014-q106',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2014',
     year: 2014,
@@ -5117,7 +5117,7 @@ export const generatedQuestions = [
   {
     id: '2015-q001',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Arritmias e Distúrbios de Condução',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -5189,7 +5189,7 @@ export const generatedQuestions = [
   {
     id: '2015-q008',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2015',
     year: 2015,
@@ -5393,7 +5393,7 @@ export const generatedQuestions = [
   {
     id: '2015-q025',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -5465,7 +5465,7 @@ export const generatedQuestions = [
   {
     id: '2015-q031',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -5609,7 +5609,7 @@ export const generatedQuestions = [
   {
     id: '2015-q043',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2015',
     year: 2015,
@@ -5777,7 +5777,7 @@ export const generatedQuestions = [
   {
     id: '2015-q057',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2015',
     year: 2015,
@@ -5921,7 +5921,7 @@ export const generatedQuestions = [
   {
     id: '2015-q069',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -6065,7 +6065,7 @@ export const generatedQuestions = [
   {
     id: '2015-q081',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2015',
     year: 2015,
@@ -6389,7 +6389,7 @@ export const generatedQuestions = [
   {
     id: '2015-q108',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -6401,7 +6401,7 @@ export const generatedQuestions = [
   {
     id: '2015-q109',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2015',
     year: 2015,
@@ -6473,7 +6473,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q005',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -6509,7 +6509,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q008',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -6833,7 +6833,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q036',
     topicId: 'clinica-gastroenterologia',
-    subtopic: 'Diagnóstico e Tratamento Gastroenterológico',
+    subtopic: 'Hemorragia Digestiva',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -6845,7 +6845,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q038',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2016-1',
     year: 2016,
@@ -6881,7 +6881,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q041',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -6929,7 +6929,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q045',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -6941,7 +6941,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q046',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -7001,7 +7001,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q051',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -7109,7 +7109,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q060',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2016-1',
     year: 2016,
@@ -7169,7 +7169,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q065',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2016-1',
     year: 2016,
@@ -7337,7 +7337,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q079',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Valvulopatias e Endocardite',
     areaId: 'clinica',
     examRef: '2016-1',
     year: 2016,
@@ -7373,7 +7373,7 @@ export const generatedQuestions = [
   {
     id: '2016-1-q082',
     topicId: 'gineco-obstetricia',
-    subtopic: 'Assistência ao Parto',
+    subtopic: 'Puerpério e Hemorragia Pós-Parto',
     areaId: 'gineco',
     examRef: '2016-1',
     year: 2016,
@@ -7637,7 +7637,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q005',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -7649,7 +7649,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q006',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -7973,7 +7973,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q035',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2016-2',
     year: 2016,
@@ -8009,7 +8009,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q038',
     topicId: 'clinica-gastroenterologia',
-    subtopic: 'Diagnóstico e Tratamento Gastroenterológico',
+    subtopic: 'Hemorragia Digestiva',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8021,7 +8021,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q039',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8081,7 +8081,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q044',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8105,7 +8105,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q046',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8141,7 +8141,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q049',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8285,7 +8285,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q061',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2016-2',
     year: 2016,
@@ -8309,7 +8309,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q063',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2016-2',
     year: 2016,
@@ -8477,7 +8477,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q077',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Valvulopatias e Endocardite',
     areaId: 'clinica',
     examRef: '2016-2',
     year: 2016,
@@ -8561,7 +8561,7 @@ export const generatedQuestions = [
   {
     id: '2016-2-q084',
     topicId: 'gineco-obstetricia',
-    subtopic: 'Assistência ao Parto',
+    subtopic: 'Puerpério e Hemorragia Pós-Parto',
     areaId: 'gineco',
     examRef: '2016-2',
     year: 2016,
@@ -8813,7 +8813,7 @@ export const generatedQuestions = [
   {
     id: '2017-q007',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -8837,7 +8837,7 @@ export const generatedQuestions = [
   {
     id: '2017-q009',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2017',
     year: 2017,
@@ -9161,7 +9161,7 @@ export const generatedQuestions = [
   {
     id: '2017-q038',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -9173,7 +9173,7 @@ export const generatedQuestions = [
   {
     id: '2017-q039',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -9221,7 +9221,7 @@ export const generatedQuestions = [
   {
     id: '2017-q043',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2017',
     year: 2017,
@@ -9245,7 +9245,7 @@ export const generatedQuestions = [
   {
     id: '2017-q045',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2017',
     year: 2017,
@@ -9449,7 +9449,7 @@ export const generatedQuestions = [
   {
     id: '2017-q063',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Legislação',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2017',
     year: 2017,
@@ -9521,7 +9521,7 @@ export const generatedQuestions = [
   {
     id: '2017-q069',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2017',
     year: 2017,
@@ -9737,7 +9737,7 @@ export const generatedQuestions = [
   {
     id: '2017-q088',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -9821,7 +9821,7 @@ export const generatedQuestions = [
   {
     id: '2017-q095',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -9833,7 +9833,7 @@ export const generatedQuestions = [
   {
     id: '2017-q096',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2017',
     year: 2017,
@@ -9869,7 +9869,7 @@ export const generatedQuestions = [
   {
     id: '2017-q099',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2017',
     year: 2017,
@@ -9941,7 +9941,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q005',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-1',
     year: 2020,
@@ -10169,7 +10169,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q024',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2020-1',
     year: 2020,
@@ -10301,7 +10301,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q035',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-1',
     year: 2020,
@@ -10361,7 +10361,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q040',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-1',
     year: 2020,
@@ -10505,7 +10505,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q054',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-1',
     year: 2020,
@@ -10529,7 +10529,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q056',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-1',
     year: 2020,
@@ -10541,7 +10541,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q057',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-1',
     year: 2020,
@@ -10613,7 +10613,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q063',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2020-1',
     year: 2020,
@@ -10865,7 +10865,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q084',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2020-1',
     year: 2020,
@@ -10961,7 +10961,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q092',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-1',
     year: 2020,
@@ -10997,7 +10997,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q095',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-1',
     year: 2020,
@@ -11021,7 +11021,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q097',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-1',
     year: 2020,
@@ -11045,7 +11045,7 @@ export const generatedQuestions = [
   {
     id: '2020-1-q099',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Valvulopatias e Endocardite',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2020-1',
     year: 2020,
@@ -11129,7 +11129,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q006',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-2',
     year: 2020,
@@ -11345,7 +11345,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q024',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2020-2',
     year: 2020,
@@ -11465,7 +11465,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q034',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-2',
     year: 2020,
@@ -11537,7 +11537,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q041',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-2',
     year: 2020,
@@ -11681,7 +11681,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q054',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-2',
     year: 2020,
@@ -11693,7 +11693,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q055',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-2',
     year: 2020,
@@ -11729,7 +11729,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q058',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-2',
     year: 2020,
@@ -11801,7 +11801,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q064',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2020-2',
     year: 2020,
@@ -12041,7 +12041,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q084',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2020-2',
     year: 2020,
@@ -12125,7 +12125,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q091',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-2',
     year: 2020,
@@ -12185,7 +12185,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q096',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2020-2',
     year: 2020,
@@ -12209,7 +12209,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q098',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2020-2',
     year: 2020,
@@ -12233,7 +12233,7 @@ export const generatedQuestions = [
   {
     id: '2020-2-q100',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Valvulopatias e Endocardite',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2020-2',
     year: 2020,
@@ -12341,7 +12341,7 @@ export const generatedQuestions = [
   {
     id: '2021-q009',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2021',
     year: 2021,
@@ -12377,7 +12377,7 @@ export const generatedQuestions = [
   {
     id: '2021-q012',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -12425,7 +12425,7 @@ export const generatedQuestions = [
   {
     id: '2021-q016',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -12677,7 +12677,7 @@ export const generatedQuestions = [
   {
     id: '2021-q037',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2021',
     year: 2021,
@@ -12737,7 +12737,7 @@ export const generatedQuestions = [
   {
     id: '2021-q043',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -12785,7 +12785,7 @@ export const generatedQuestions = [
   {
     id: '2021-q047',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -12797,7 +12797,7 @@ export const generatedQuestions = [
   {
     id: '2021-q048',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -12809,7 +12809,7 @@ export const generatedQuestions = [
   {
     id: '2021-q049',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2021',
     year: 2021,
@@ -13025,7 +13025,7 @@ export const generatedQuestions = [
   {
     id: '2021-q067',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2021',
     year: 2021,
@@ -13097,7 +13097,7 @@ export const generatedQuestions = [
   {
     id: '2021-q073',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -13217,7 +13217,7 @@ export const generatedQuestions = [
   {
     id: '2021-q083',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2021',
     year: 2021,
@@ -13397,7 +13397,7 @@ export const generatedQuestions = [
   {
     id: '2021-q098',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2021',
     year: 2021,
@@ -13421,7 +13421,7 @@ export const generatedQuestions = [
   {
     id: '2021-q100',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2021',
     year: 2021,
@@ -13577,7 +13577,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q013',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Bronquiolite e Infecções Respiratórias',
+    subtopic: 'Bronquiolite Viral Aguda',
     areaId: 'pediatria',
     examRef: '2022-2',
     year: 2022,
@@ -13613,7 +13613,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q017',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -13745,7 +13745,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q028',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -13781,7 +13781,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q031',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -13997,7 +13997,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q050',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -14069,7 +14069,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q056',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -14129,7 +14129,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q062',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -14345,7 +14345,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q081',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Arritmias e Distúrbios de Condução',
     areaId: 'clinica',
     examRef: '2022-2',
     year: 2022,
@@ -14537,7 +14537,7 @@ export const generatedQuestions = [
   {
     id: '2022-2-q099',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2022-2',
     year: 2022,
@@ -14561,7 +14561,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q001',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -14741,7 +14741,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q017',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -14849,7 +14849,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q026',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-1',
     year: 2023,
@@ -14957,7 +14957,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q035',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-1',
     year: 2023,
@@ -15029,7 +15029,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q041',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -15077,7 +15077,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q045',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-1',
     year: 2023,
@@ -15185,7 +15185,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q056',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -15233,7 +15233,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q061',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -15377,7 +15377,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q073',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2023-1',
     year: 2023,
@@ -15533,7 +15533,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q087',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -15569,7 +15569,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q090',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-1',
     year: 2023,
@@ -15653,7 +15653,7 @@ export const generatedQuestions = [
   {
     id: '2023-1-q097',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-1',
     year: 2023,
@@ -15701,7 +15701,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q001',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -15725,7 +15725,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q003',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2023-2',
     year: 2023,
@@ -15761,7 +15761,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q006',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -15869,7 +15869,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q015',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -15929,7 +15929,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q020',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -15941,7 +15941,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q021',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -15953,7 +15953,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q022',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -16097,7 +16097,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q035',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16157,7 +16157,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q040',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16289,7 +16289,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q051',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -16337,7 +16337,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q055',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16349,7 +16349,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q056',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16457,7 +16457,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q065',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -16481,7 +16481,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q067',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -16697,7 +16697,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q085',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16769,7 +16769,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q091',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2023-2',
     year: 2023,
@@ -16817,7 +16817,7 @@ export const generatedQuestions = [
   {
     id: '2023-2-q095',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2023-2',
     year: 2023,
@@ -16973,7 +16973,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q008',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2024-1',
     year: 2024,
@@ -17153,7 +17153,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q023',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2024-1',
     year: 2024,
@@ -17201,7 +17201,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q027',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -17405,7 +17405,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q045',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -17537,7 +17537,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q056',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-1',
     year: 2024,
@@ -17573,7 +17573,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q059',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -17645,7 +17645,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q065',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2024-1',
     year: 2024,
@@ -17705,7 +17705,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q071',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -17825,7 +17825,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q081',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-1',
     year: 2024,
@@ -17945,7 +17945,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q091',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -17969,7 +17969,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q093',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2024-1',
     year: 2024,
@@ -18017,7 +18017,7 @@ export const generatedQuestions = [
   {
     id: '2024-1-q097',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-1',
     year: 2024,
@@ -18065,7 +18065,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q001',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2024-2',
     year: 2024,
@@ -18173,7 +18173,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q010',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-2',
     year: 2024,
@@ -18269,7 +18269,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q018',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2024-2',
     year: 2024,
@@ -18413,7 +18413,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q030',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Legislação',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-2',
     year: 2024,
@@ -18497,7 +18497,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q037',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-2',
     year: 2024,
@@ -18653,7 +18653,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q050',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-2',
     year: 2024,
@@ -18725,7 +18725,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q056',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2024-2',
     year: 2024,
@@ -18773,7 +18773,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q060',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2024-2',
     year: 2024,
@@ -19049,7 +19049,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q083',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2024-2',
     year: 2024,
@@ -19073,7 +19073,7 @@ export const generatedQuestions = [
   {
     id: '2024-2-q085',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2024-2',
     year: 2024,
@@ -19265,7 +19265,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q001',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Insuficiência Cardíaca',
     areaId: 'clinica',
     examRef: '2025-1',
     year: 2025,
@@ -19289,7 +19289,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q003',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2025-1',
     year: 2025,
@@ -19325,7 +19325,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q007',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2025-1',
     year: 2025,
@@ -19337,7 +19337,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q008',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2025-1',
     year: 2025,
@@ -19757,7 +19757,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q043',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2025-1',
     year: 2025,
@@ -19805,7 +19805,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q047',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'IAM e Síndromes Coronarianas Agudas',
     areaId: 'clinica',
     examRef: '2025-1',
     year: 2025,
@@ -19817,7 +19817,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q048',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2025-1',
     year: 2025,
@@ -19829,7 +19829,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q049',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2025-1',
     year: 2025,
@@ -19853,7 +19853,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q051',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2025-1',
     year: 2025,
@@ -19949,7 +19949,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q059',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2025-1',
     year: 2025,
@@ -19997,7 +19997,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q063',
     topicId: 'pediatria-pneumologia-pediatrica',
-    subtopic: 'Asma e Sibilância Pediátrica',
+    subtopic: 'Pneumonia Pediátrica e Infecções Respiratórias',
     areaId: 'pediatria',
     examRef: '2025-1',
     year: 2025,
@@ -20033,7 +20033,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q066',
     topicId: 'clinica-cardiologia',
-    subtopic: 'Hipertensão Arterial Sistêmica',
+    subtopic: 'Diagnóstico e Conduta Cardiológica',
     areaId: 'clinica',
     examRef: '2025-1',
     year: 2025,
@@ -20093,7 +20093,7 @@ export const generatedQuestions = [
   {
     id: '2025-1-q071',
     topicId: 'preventiva-atencao-primaria',
-    subtopic: 'Princípios do SUS e Atenção Básica',
+    subtopic: 'Organização da APS, ESF e SUS',
     areaId: 'preventiva',
     examRef: '2025-1',
     year: 2025,
