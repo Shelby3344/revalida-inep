@@ -1598,31 +1598,55 @@ def classify(question_text, options):
 # GABARITO PARSER
 # ─────────────────────────────────────────────────────────────
 def parse_gabarito(path):
-    """Return dict {question_number: answer_letter}."""
+    """Return dict {question_number: answer_letter}.
+    Handles three formats:
+      1. Row-table: 'Questão 1 2 3 ...' / 'Gabarito A B C ...'  (2011+, most editions)
+      2. Pair:      '1. A' / '1: A' / '1 A'                     (older single-column)
+      3. PDF table: pdfplumber table cells N → A
+    """
     if not path or not path.exists():
         return {}
     answers = {}
     try:
         with pdfplumber.open(path) as pdf:
             text = "\n".join(p.extract_text() or "" for p in pdf.pages)
-        # Pattern: line with "N  A" or "N. A" or "QUESTAO N A"
-        for m in re.finditer(r'\b(\d{1,3})\s*[\.:\-]?\s*([A-E])\b', text):
-            n = int(m.group(1))
-            if 1 <= n <= 120:
-                answers[n] = m.group(2)
-        # Also try table rows — pdfplumber extracts tables
-        with pdfplumber.open(path) as pdf:
-            for page in pdf.pages:
-                for table in (page.extract_tables() or []):
-                    for row in table:
-                        if not row: continue
-                        for i, cell in enumerate(row):
-                            if cell and re.match(r'^\d{1,3}$', str(cell).strip()):
-                                n = int(cell.strip())
-                                if 1 <= n <= 120 and i+1 < len(row):
-                                    nxt = str(row[i+1]).strip() if row[i+1] else ""
-                                    if re.match(r'^[A-E]$', nxt):
-                                        answers[n] = nxt
+
+        # Format 1: row table (most common from 2011 onwards)
+        lines = text.splitlines()
+        for i, line in enumerate(lines):
+            if re.match(r'Questão\s+\d', line, re.IGNORECASE):
+                nums = [int(n) for n in re.findall(r'\d+', line) if 1 <= int(n) <= 120]
+                # Next non-empty line should be the Gabarito row
+                j = i + 1
+                while j < len(lines) and not lines[j].strip():
+                    j += 1
+                if j < len(lines) and re.match(r'Gabarito\s+', lines[j], re.IGNORECASE):
+                    letters = re.findall(r'[A-E]', lines[j])
+                    for idx, n in enumerate(nums):
+                        if idx < len(letters):
+                            answers[n] = letters[idx]
+
+        # Format 2: individual "N. A" pairs (older single-column gabaritos)
+        if not answers:
+            for m in re.finditer(r'\b(\d{1,3})\s*[\.:\-]?\s*([A-E])\b', text):
+                n = int(m.group(1))
+                if 1 <= n <= 120:
+                    answers[n] = m.group(2)
+
+        # Format 3: pdfplumber table extraction
+        if not answers:
+            with pdfplumber.open(path) as pdf:
+                for page in pdf.pages:
+                    for table in (page.extract_tables() or []):
+                        for row in table:
+                            if not row: continue
+                            for k, cell in enumerate(row):
+                                if cell and re.match(r'^\d{1,3}$', str(cell).strip()):
+                                    n = int(cell.strip())
+                                    if 1 <= n <= 120 and k + 1 < len(row):
+                                        nxt = str(row[k + 1] or "").strip()
+                                        if re.match(r'^[A-E]$', nxt):
+                                            answers[n] = nxt
     except Exception as e:
         print(f"  [GABARITO ERR] {path.name}: {e}")
     return answers

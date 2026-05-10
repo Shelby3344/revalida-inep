@@ -12,7 +12,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'mulher com 54 anos de idade, indice de massa corporea (imc) = 32,6, portadora de diabetes tipo 2, controlado com medidas dieteticas e uso de glibenclamida, comparece a unidade basica de saude com queixa de dor, do tipo colica, em hipocondrio direito, que se irradia para o ombro direito e piora apos ingestao de alimentos, especialmente gordurosos. relata episodios de vomitos durante algumas crises. disse, ainda, que o quadro iniciou-se ha mais ou menos seis meses, agravando- se no ultimo mes. apos a realizacao do exame fisico, o medico solicitou ultrassonografi a de abdome que evidenciou colecistopatia calculosa cronica. ao explicar o diagnostico para a paciente, ela informou que gostaria de passar seis meses visitando a fi lha que mora em portugal. baseado nessa situacao, voce diria a paciente que seu quadro clinico',
     options: ['A) e cronico e o tratamento cirurgico pode ser adiado.', 'B) requer tratamento cirurgico antes da viagem.', 'C) requer tratamento cirurgico imediato.', 'D) requer acompanhamento imediato quando aparecerem indicios de complicacoes.', 'E) requer antibioticoterapia imediata e uso de antiespasmodicos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q002',
@@ -24,7 +24,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'menina com cinco anos de idade, acometida de leucemia linfoide aguda (lla), internada em enfermaria pediatrica, esta sendo submetida a quimioterapia para tratamento da leucemia. em outra ala da enfermaria, uma crianca apresentou febre e desenvolveu lesoes eritematobolhosas sugestivas de varicela. nesse contexto, a conduta ideal a ser tomada em relacao a crianca com leucemia e',
     options: ['A) administrar vacina contra varicela.', 'B) aplicar imunoglobulina especifi ca anti-varicela.', 'C) administrar aciclovir por 10 dias.', 'D) administrar a vacina contra varicela e o aciclovir por 10 dias.', 'E) administrar a vacina contra varicela e imunoglobulina especifi ca.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q003',
@@ -36,7 +36,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'ao atender uma mulher, com 24 anos de idade, voce observa grande resistencia dela para continuar o aleitamento materno de seu fi lho de dois meses. alem dos inquestionaveis beneficios para a crianca, voce orienta a paciente sobre os beneficios que o aleitamento materno traz para a mulher que amamenta, entre os quais fi guram, a protecao contra o cancer de mama e contra',
     options: ['A) o cancer de colo uterino.', 'B) o cancer de endometrio.', 'C) os tumores da vulva .', 'D) o desenvolvimento de miomas.', 'E) o cancer de ovario. 1 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q004',
@@ -48,7 +48,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'mulher com 45 anos de idade, cor branca, multipara, proveniente de zona rural, procura consulta ginecologica com queixa de peso na regiao pelvica ha cerca de 60 dias, perda de peso corporal e distensao abdominal. a paciente nao faz uso de metodo contraceptivo oral e nao apresenta dismenorreia. a paciente tem antecedente de neoplasia maligna de mama e a mae, historia de cancer de ovario. ao exame, observou-se massa palpavel em anexo esquerdo. de acordo com o exame clinico e com os antecedentes pessoais e familiares informados pela paciente, qual a principal hipotese diagnostica?',
     options: ['A) cisto benigno de ovario.', 'B) neoplasia maligna de ovario.', 'C) endometrioma.', 'D) tuberculose genital (ovario e trompa).', 'E) abscesso ovariano.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q005',
@@ -60,7 +60,7 @@ export const generatedQuestions = [
     questionNumber: 5,
     questionText: 'crianca com um ano de idade foi amamentada com leite materno exclusivamente ate os seis meses, quando passou a receber alimentacao complementar com frutas, papa salgada composta de vegetais, cereais e, as vezes, carne. na ocasiao da consulta de puericultura, por apresentar palidez, o medico solicitou eritrograma que apresentou os seguintes resultados : hemoglobina = 10,2 mg/dl (valor normal = 11 - 13 mg/dl); hematocrito = 30,8 % (valor normal = 36-44 %); volume corpuscular medio = 75 fl (valor normal = 77- 101 fl); hemoglobina corpuscular media = 21 pg (valor normal = 23-31 pg); concentracao de hemoglobina corpuscular media = 26 g/dl (valor normal = 28-33 g/dl) e rdw = 15,5 % (valor normal <14 %).',
     options: ['A) hipotese diagnostica elaborada pelo medico e o exame complementar que melhor confi rma esse diagnostico sao, respectivamente,', 'A) anemia falciforme e contagem de reticulocitos.', 'B) anemia por defi ciencia de acido folico e dosagem de folatos.', 'C) anemia megaloblastica e eletroforese de hemoglobina.', 'D) anemia carencial ferropriva e dosagem da ferritina serica.', 'E) talassemia e dosagem de ferro serico. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q006',
@@ -72,7 +72,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'quanto ao desenvolvimento de diabetes gestacional em paciente primigesta, com 29 anos de idade, estatura de 1,50 m , peso pre-gravidico de 70kg, peso atual de 75kg na 24a semana de gestacao e glicemia em jejum de 90mg/dl, pode-se afi rmar',
     options: ['A) a ausencia de risco pela idade inferior a 30 anos da gestante.', 'B) a existencia de risco pelo ganho excessivo de peso na gestacao.', 'C) a ausencia de risco pela normalidade da glicemia de jejum da gestante.', 'D) a existencia de risco pelo imc pre-gravidico superior a 27kg/m2.', 'E) a ausencia de risco pela inexistencia de antecedentes familiares da gestante.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q007',
@@ -84,7 +84,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'mulher com 34 anos de idade, gestante de 28 semanas, iniciou quadro febril ha cinco dias associado a dor no hemitorax esquerdo a respiracao profunda. ha dois dias passou a apresentar tosse produtiva com expectoracao amarelada. procurou unidade de pronto atendimento. ao exame: bom estado geral; sinais vitais: pulso = 100 bpm; pressao arterial = 120 x 80 mmhg; frequencia respiratoria = 23 irpm. temperatura axilar = 39 c; ausculta pulmonar: crepitacoes, broncofonia e aumento do fremito toraco-vocal na base do pulmao esquerdo. o leucograma apresenta 15.800 leucocitos/mm3, com predominio de polimorfonucleares neutrofi los. qual a conduta a ser tomada, com relacao a exames de imagem e tratamento antimicrobiano?',
     options: ['A) solicitar radiografi a de torax com protecao abdominal e iniciar tratamento com amoxicilina oral.', 'B) solicitar ultrassonografi a de torax e iniciar tratamento com quinolona respiratoria oral.', 'C) solicitar tomografi a computadorizada do torax e iniciar tratamento com aminoglicosideo injetavel.', 'D) solicitar radiografi a de torax com protecao abdominal e iniciar claritromicina oral.', 'E) solicitar tomografi a computadorizada do torax e iniciar vancomicina injetavel.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q008',
@@ -96,7 +96,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'mulher com 48 anos de idade, parda, comerciante, procura o posto de saude por apresentar astenia, palidez e fadiga facil ao realizar suas tarefas diarias. na historia da doenca atual relata que esteve bem de saude ate ha 15 dias, quando iniciaram estes sinais e sintomas. nega doencas como diabetes, hipertensao, doencas da tireoide. nega tambem o uso de medicamentos. ao exame fisico apresenta palidez, ictericia (2+/4+), esplenomegalia de 4 cm do rebordo costal esquerdo e hepatomegalia de 2 cm do rebordo costal direito. exames laboratoriais realizados mostram hemoglobina = 4,2 g/ dl; hematocrito = 13 %; vcm = 110 fl (vr = 80  100 fl); hcm = 32 pg (vr = 26  34 pg); leucograma = 10.500 / mm3 com diferencial normal; plaquetas = 240.000 / mm3; reticulocitos aumentados; bilirrubina total = 4,0 mg/dl (vr=0,3 -1,2 mg/dl) com fracao direta de 0,8 mg/dl (vr = 0 - 0,2 mg/dl). qual o diagnostico mais provavel para a anemia da paciente?',
     options: ['A) anemia por defi cit de producao ocasionada por defi ciencia de vitamina b12.', 'B) anemia do tipo regenerativa provocada por doenca hemolitica adquirida.', 'C) anemia arregenerativa por defi ciencia quantitativa de celulas progenitoras associada a hepatite viral.', 'D) anemia por defi ciencia na sintese do heme durante a diferenciacao das celulas eritroides.', 'E) anemia por defi ciencia na sintese da globina durante a diferenciacao das celulas eritroides.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q009',
@@ -108,7 +108,7 @@ export const generatedQuestions = [
     questionNumber: 9,
     questionText: 'um menino com cinco anos e oito meses foi levado pela mae a unidade basica de saude. ha tres semanas vem apresentando dor abdominal inespecifi ca, tosse, febre e habito de comer terra. ao exame fisico, o medico encontrou palidez cutanea moderada e hepatomegalia. foram solicitados alguns exames: 1) hemograma: hemoglobina 10 g/dl, hematocrito 30 %. leucocitose (16.000 /mm3), eosinofi lia (12 %), plaquetas normais; 2) exame parasitologico das fezes (em andamento) e 3) exame ultrassonografi co do abdome que revelou imagens hipoecogenicas micronodulares no figado. com base na historia clinica e nos exames complementares, o diagnostico principal e o tratamento sao',
     options: ['A) ancilostomiase; utilizar mebendazol, 100 mg, duas vezes ao dia, durante tres dias.', 'B) giardiase; utilizar secnidazol, 30 mg/kg, dose unica.', 'C) toxocariase; utilizar albendazol, 10 mg/kg, uma vez ao dia, durante cinco dias.', 'D) estrongiloidiase; utilizar secnidazol, 25 mg/kg, uma vez ao dia, de cinco a sete dias.', 'E) amebiase; utilizar secnidazol, 30 mg/kg, dose unica. idos por instituicoes de educacao superior estrangeiras 2'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q010',
@@ -120,7 +120,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'mulher multipara, com gestacao de 34 semanas e um dia, chega a maternidade com queixa de dor em colica e endurecimento do abdome. ao exame: presenca de contracoes uterinas frequentes (uma a cada cinco minutos), colo uterino com 50% de esvaecimento e 1cm de dilatacao, vitalidade fetal preservada. a conduta correta a ser adotada para a paciente e',
     options: ['A) administrar terbutalina associada a corticoesteroide.', 'B) iniciar partograma e acompanhar evolucao do trabalho de parto.', 'C) administrar indometacina e iniciar antibioticoterapia por via endovenosa.', 'D) guardar repouso em observacao e reavaliar o quadro apos duas horas.', 'E) administrar nifedipina sem associacao de corticoesteroide.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q011',
@@ -132,7 +132,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'uma senhora comparece a unidade basica de saude com seu fi lho de seis meses de idade, dizendo-se preocupada com o desenvolvimento da crianca, e sem qualquer outra queixa. o peso da crianca ao nascer foi de 3.400g. em sua alimentacao atual estao sendo introduzidos alimentos solidos e o calendario de vacinacao vem sendo cumprido. o exame fisico da crianca e inteiramente normal. como indicador do desenvolvimento neuropsicomotor normal para crianca nessa faixa etaria (6 meses), o medico devera observar se a crianca',
     options: ['A) apresenta choro excessivo e faz o acompanhamento com o olhar.', 'B) faz a preensao de objetos com a mao e apresenta sorriso social.', 'C) senta-se sem apoio e fala silabas.', 'D) rola sem auxilio e reconhece pessoas.', 'E) fi rma a cabeca e apanha objetos.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q012',
@@ -144,7 +144,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'voce e chamado para prestar assistencia neonatal durante um parto no qual foi constatado sofrimento fetal com liquido amniotico meconial. o recem nascido nasceu com apgar 2 ( frequencia cardiaca = 1 e frequencia respiratoria = 1). a conduta inicial, conforme as normas vigentes de reanimacao neonatal, e',
     options: ['A) iniciar ventilacao com ambu e mascara, aspirando o recem nascido apos a recuperacao da frequencia cardiaca.', 'B) iniciar ventilacao com tubo oro-traqueal e aspirar o recem nascido apos recuperacao da frequencia cardiaca.', 'C) iniciar ventilacao com pressao positiva e administrar adrenalina e massagem cardiaca.', 'D) aspirar laringe e traqueia do recem nascido e ventilar com pressao positiva e ar ambiente.', 'E) aspirar laringe e traqueia do recem nascido e oferecer oxigenio inalatorio a 100%. 3 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q013',
@@ -156,7 +156,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'paciente do sexo masculino, com 45 anos de idade, e dependente quimico de cocaina, com uso por via inalatoria e procurou o servico especializado do caps (centro de apoio psicossocial) para tratamento. a oferta desse atendimento no sistema unico de saude caracteriza acoes de que tipo?',
     options: ['A) prevencao primordial.', 'B) prevencao quaternaria.', 'C) prevencao terciaria.', 'D) prevencao secundaria.', 'E) prevencao primaria.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q014',
@@ -168,7 +168,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'homem, com 58 anos de idade, e atendido em servico de urgencia e relata a ocorrencia, ha cerca de seis meses, de modifi cacao de seu habito intestinal - periodos de constipacao intercalados por evacuacoes de fezes pastosas, as vezes acompanhadas da eliminacao de muco e sangue. nesse periodo foi visto em consultas, nas quais foi prescrito tratamento antiparasitario, nao havendo melhora da sintomatologia. o paciente informa ainda que ha cerca de um mes, vem apresentando intensifi cacao do esforco evacuatorio. nesse periodo as fezes tem se tornado cada vez mais afi ladas e ha dois dias vem observando a diminuicao quase completa da eliminacao de fl atos e fezes, relatando tambem a ocorrencia de nauseas e um episodio de vomitos de conteudo biliar. com base nessa historia, qual a conduta imediata a ser seguida ?',
     options: ['A) instalar sonda nasogastrica, prescrever hidratacao parenteral, lactulona e antiemeticos e manter paciente em observacao.', 'B) instalar sonda nasogastrica, prescrever hidratacao parenteral, clister com solucao glicerinada e manter paciente em observacao.', 'C) instalar sonda nasogastrica, prescrever hidratacao parenteral e clister com solucao glicerinada. a posteriori instalar sonda retal e manter paciente em observacao.', 'D) prescrever antiespasmodicos, dimeticona e solicitar colonoscopia com biopsia e dosagem de antigeno carcino-embrionario.', 'E) encaminhar imediatamente o paciente para avaliacao cirurgica. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q015',
@@ -180,7 +180,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'uma crianca que nasceu prematura, com 32 semanas de idade gestacional e peso de 1850g, foi encaminhada a unidade de saude para iniciar as imunizacoes. atualmente, com um mes de vida, pesa 1900g e recebe aleitamento materno exclusivo. para essa situacao, qual a alternativa que indica o esquema inicial de vacinacao recomendado?',
     options: ['A) iniciar o esquema vacinal aplicando a vacina bcg e a primeira dose da vacina contra a hepatite b.', 'B) aplicar a primeira dose da vacina contra a hepatite', 'B) e aguardar a crianca atingir 2000g para programar a vacina bcg.', 'C) aguardar a crianca atingir 2500g para aplicar a vacina bcg e contra a hepatite b (primeira dose ).', 'D) aguardar a crianca atingir 2000g para aplicar a vacina contra a hepatite b (primeira dose) e 2500g para aplicar a vacina bcg.', 'E) aplicar as vacinas bcg e contra a hepatite b (primeira dose) e programar a segunda dose desta ultima para 15 dias depois.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q016',
@@ -192,7 +192,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'homem, com 43 anos de idade, e atendido na unidade basica de saude com queixa de dispneia aos grandes esforcos, ha seis meses. nao relata dor precordial, sincope ou palpitacoes. no exame, encontra-se em bom estado geral, eupneico, hidratado, corado. pressao arterial = 100x70 mmhg, frequencia cardiaca = 112bpm, frequencia respiratoria = 18irpm; temperatura axilar = 36,5c. murmurio vesicular presente e simetrico bilateralmente. ritmo cardiaco regular, em dois tempos, bulhas hipofoneticas, com sopro sistolico de regurgitacao mitral discreto. abdome fl acido, sem visceromegalias, ruidos hidroaereos presentes e regularmente distribuidos. sem edema de membros inferiores. radiografi a de torax atual mostra aumento global da area cardiaca, sem congestao pulmonar. ecocardiograma transtoracico mostra a fracao de ejecao do ventriculo esquerdo igual a 35%. com base nas evidencias cientifi cas indique a opcao terapeutica para o caso.',
     options: ['A) hidroclorotiazida e carvedilol.', 'B) carvedilol e digoxina.', 'C) enalapril e metoprolol.', 'D) espironolactona e enalapril.', 'E) digoxina e hidroclorotiazida.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q017',
@@ -204,7 +204,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'o agente comunitario de saude lhe solicita explicacoes sobre um recem-nascido que apresenta coloracao amarelada da pele. voce colhe, junto ao agente comunitario de saude, informacoes sobre a duracao da gestacao, as condicoes do parto e da crianca ao nascer, o tempo de aparecimento do sintoma especifi co e verifi ca tambem resultados de exames do recem- nascido , realizados na maternidade: hemograma, dosagem de bilirrubinas e teste de coombs. diante dos dados clinicos e do resultado de exames, voce conclui que trata-se de ictericia fisiologica do recem-nascido. o que seria correto voce informar ao agente comunitario de saude sobre a ictericia fisiologica do recem-nascido?',
     options: ['A) desaparece apos tres semanas do inicio da manifestacao em neonatos nascidos a termo.', 'B) desaparece apos a primeira semana de vida em neonatos nascidos a termo.', 'C) atinge niveis de bilirrubinemia bastante elevados, superiores a 14 mg% .', 'D) deve-se a anemia hemolitica por incompatibilidade rh.', 'E) esta presente desde o nascimento na hipermaturidade fetal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q018',
@@ -216,7 +216,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'homem, com 26 anos de idade, foi internado ha dois dias com o diagnostico de doenca infl amatoria intestinal na forma fulminante com megacolon toxico. ha cerca de uma hora apresentou piora subita da dor abdominal, vomitos e desconforto respiratorio. o exame fisico revela paciente taquicardico, taquidispneico e com abdome muito doloroso difusamente. a complicacao e frequente e o principal recurso diagnostico para demonstra-la sao',
     options: ['A) perfuracao intestinal; radiografi a de torax e de abdome em ortostatismo e decubito dorsal.', 'B) pneumatose intestinal; enema opaco com contraste iodado.', 'C) abscesso perirretal; tomografi a computadorizada de abdome.', 'D) volvulo de sigmoide; colonoscopia.', 'E) hematoma intraluminal; colonoscopia. idos por instituicoes de educacao superior estrangeiras 4'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q019',
@@ -228,7 +228,7 @@ export const generatedQuestions = [
     questionNumber: 19,
     questionText: 'crianca do sexo feminino, com sete anos de idade, e trazida pela mae a unidade basica de saude, porque ha tres dias apresenta-se com adinamia, urina escura (cor de coca-cola) e inchaco nos olhos pela manha.',
     options: ['A) mae informa que ha 15 dias a crianca apresentou febre elevada e dor de garganta que regrediram com o uso de antitermico e de anti-infl amatorio nao hormonal (ibuprofeno). na consulta o medico observa que a crianca encontra-se em regular estado geral, afebril, eupneica, hipocorada (+/4), com frequencia cardiaca de 116 bpm, pressao arterial=118x82 mmhg, edema de face (+/4) e de membros inferiores (++/4). os demais aspectos do exame fisico sao normais. na sindrome que a crianca apresenta, a resposta infl amatoria responsavel pela instalacao da lesao nefritica', 'A) e consequencia da ativacao do complemento, da liberacao de fatores quimiotaticos e do recrutamento de neutrofi los.', 'B) decorre da fi xacao de estreptococos beta-hemoliticos nas alcas capilares glomerulares e da consequente infi ltracao celular.', 'C) deve-se a modifi cacoes de uma igm que, no contexto de uma infeccao, torna-se imunogenica e desenvolve afi nidade pelo glomerulo renal.', 'D) depende da deposicao mesangial de c3, fi brina e iga, e da proliferacao de celulas mesangiais com expansao da matriz.', 'E) manifesta-se por hipercelularidade glomerular, expansao da matriz mesangial e duplicacao da membrana basal glomerular.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q020',
@@ -252,7 +252,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'adolescente, apos tentativa de suicidio com ingestao de antidepressivo triciclico, manifestou parada cardiorrespiratoria. durante a reanimacao cardiopulmonar, observou-se o seguinte ritmo no monitor cardiaco.',
     options: ['A) analise do monitor cardiaco permite afi rmar que o tracado eletrocardiografi co demonstra ritmo de', 'A) taquicardia ventricular, que pode ser responsiva a choque e a uso de atropina.', 'B) fi brilacao ventricular, que pode ser responsiva a cardioversao (choque no modo sincronizado).', 'C) fi brilacao ventricular, que pode ser responsiva a desfi brilacao (choque no modo sincronizado).', 'D) taquicardia ventricular, que pode ser responsiva a cardioversao (choque no modo sincronizado).', 'E) taquicardia ventricular, que pode ser responsiva a desfi brilacao (choque no modo nao sincronizado).'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q022',
@@ -264,7 +264,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'um paciente, com 69 anos de idade, e atendido em visita domiciliar. ele informa que nos ultimos cinco anos teve episodios de crises de dor abdominal na fossa iliaca esquerda, associadas a febre baixa e hiporexia. geralmente, quando ele percebe que vai ter uma crise, ja usa os mesmos antibioticos que utilizou na crise anterior, por uns tres a cinco dias, e a situacao e resolvida. apesar de estar assintomatico, no passado ja teve duas internacoes para uso de antibioticos parenterais, sendo que, em uma delas, ha cerca de dois meses, fi cou internado por tres semanas, em decorrencia de uma diverticulite complicada, com pequeno abscesso pericolico. em relacao as alternativas a seguir, assinale aquela que corresponde a conduta apropriada para o caso.',
     options: ['A) indicar dieta rica em fi bras e a manutencao dos antibioticos usados no inicio das crises.', 'B) orientar o paciente para que nao use medicacoes sem prescricao medica.', 'C) sugerir ao paciente que procure um servico de emergencia sempre que tiver episodios semelhantes de dor.', 'D) aconselhar o paciente a buscar uma unidade de atendimento ambulatorial secundario, em cirurgia geral ou coloproctologia.', 'E) encaminhar o paciente a unidade basica de saude para solicitar colonoscopia diagnostica. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q023',
@@ -276,7 +276,7 @@ export const generatedQuestions = [
     questionNumber: 23,
     questionText: 'um municipio de pequeno porte tem apresentado difi culdades na execucao de suas atividades de saude de nivel secundario de atencao. com o objetivo de aumentar a resolubilidade do mesmo, qual acao pode ser tomada?',
     options: ['A) restringir o atendimento mediante comprovante de residencia.', 'B) formar consorcios intermunicipais de saude.', 'C) defi nir a area de abrangencia dos servicos com o gestor local.', 'D) repassar a gestao estadual o servico de auditoria dos prestadores locais.', 'E) incorporar recursos fi nanceiros do fundo estadual de saude.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q024',
@@ -288,7 +288,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'paciente, com 45 anos de idade, sexo masculino, comerciante, vem a consulta na unidade basica de saude e informa que vem apresentando dispneia progressiva a medios esforcos, inchaco nas pernas e diminuicao da diurese. relata que, em consultas anteriores, foi orientado a realizar periodicamente medidas de sua pressao arterial, que se encontrava, na epoca, no limite da normalidade. nao realizou o procedimento solicitado, retornando, hoje, para consulta. historia pessoal: tabagista desde os 14 anos, um maco de cigarro por dia. dieta rica em gorduras e pobre em frutas e vegetais. informa que nao e etilista e nao usa drogas. historia familiar: mae hipertensa e pai falecido de infarto agudo do miocardio. ao exame: pressao arterial 165 x 110 mmhg, frequencia cardiaca: 55 bpm, frequencia respiratoria 14 irpm, ritmo cardiaco regular em dois tempos, bradicardico, sem sopros ou extrassistoles, murmurio vesicular fi siologico, com discretas crepitacoes bibasais, abdome com ruidos hidroaereos positivos, com hepatomegalia dolorosa a 2 cm do rebordo costal direito, membros inferiores com edema (++/++++). os exames complementares demonstram que ha uma sobrecarga de ventriculo esquerdo ao ecg; bloqueio atrioventricular de primeiro grau; clearance de creatinina 45 ml/min (normal 90 -139 ml/min); urina de 24 horas com microalbuminuria de 250 mg/24h. qual o tratamento farmacologico a ser prescrito, no que se refere a pressao arterial desse paciente?',
     options: ['A) captopril + losartana.', 'B) propranolol + enalapril.', 'C) lisinopril + espironolactona.', 'D) losartana + hidroclorotiazida.', 'E) alisquireno + furosemida.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q025',
@@ -300,7 +300,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'um homem, com 68 anos de idade, tabagista de 40 cigarros/dia, com historia de dispneia, tosse produtiva e expectoracao catarral abundante, chega a unidade de pronto atendimento, com piora subita da dispneia e da frequencia da tosse . na avaliacao clinica voce deve investigar as causas de piora, entre elas, devemos considerar como a mais frequente',
     options: ['A) a infeccao respiratoria viral.', 'B) a tromboembolia pulmonar.', 'C) a pneumonia por germes oportunistas.', 'D) o cor pulmonale.', 'E) o pneumotorax espontaneo seguido de infeccao.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q026',
@@ -312,7 +312,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'homem, com 23 anos de idade, mototaxista, sofre acidente motociclistico por colisao com carro em alta velocidade. seu corpo foi lancado aproximadamente a 20m e o capacete, ejetado. foi socorrido pelo corpo de bombeiros com colocacao de colar cervical, uso de prancha longa, imobilizacao e oxigenioterapia. ao dar entrada na unidade de emergencia na qual voce e plantonista, 11 minutos apos o acidente, apresentava-se agitado, agressivo, com saturacao de oxigenio, aferida em oximetria de pulso, de 88%. o exame fisico identifi cou murmurio vesicular presente e roncos discretos na base de pulmao direito; pulso radial=105 bpm; abdome sem escoriacoes e indolor a palpacao; deformidade em coxa direita e a palpacao do cranio, apresentava afundamento de aproximadamente 0,5cm, associado a ferimento corto-contuso de 5cm de extensao, em regiao temporo-parietal direita. avaliacao pela escala de coma de glasgow=8. pupilas fotorreagentes, sem anisocoria. qual a conduta imediata a ser adotada para este paciente?',
     options: ['A) entubacao orotraqueal com objetivo de proteger a via aerea e aumentar a perfusao tecidual de oxigenio.', 'B) realizacao de traqueostomia de urgencia com o objetivo de hiperventilar o paciente e favorecer a expansao pulmonar.', 'C) sedacao com meperidina, com o objetivo de reduzir a agitacao e consequentemente, o consumo de oxigenio e a congestao pulmonar.', 'D) ventilacao sob mascara e pressao positiva, protecao do ferimento e contencao fisica, prevenindo o agravo das lesoes.', 'E) ventilacao sob mascara e pressao positiva, drenagem do hemitorax direito, melhorando assim a perfusao tecidual. idos por instituicoes de educacao superior estrangeiras 6'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q027',
@@ -324,7 +324,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'garota, com 13 anos de idade, moradora de rua, procura atendimento na rede basica de saude, relatando falta de apetite, perversao do habito alimentar, com relato de ingestao frequente de terra, epigastralgia, alem de prurido anal e vaginal. ao exame fisico apresenta-se emagrecida e hipocorada. o exame parasitologico de fezes para pesquisa de ovos e larvas de helmintos e cistos de protozoarios pelos metodos de faust, lutz e baerman moraes, revela: presenca de ovos de ascaris lumbricoides, trichuris trichiura e ancylostoma duodenale. presenca de cistos de entamoeba coli. presenca de larvas de strongyloides stercoralis. assinale a alternativa que contem a prescricao que visa o tratamento das enteroparasitoses apresentadas pela paciente.',
     options: ['A) albendazol em dose unica e praziquantel em dose unica.', 'B) levamizol em dose unica e ivermectina em dose unica.', 'C) metronidazol por sete dias e tiabendazol por dois dias.', 'D) albendazol por quatro dias e tinidazol em dose unica.', 'E) albendazol em dose unica e tiabendazol por dois dias.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q028',
@@ -336,7 +336,7 @@ export const generatedQuestions = [
     questionNumber: 28,
     questionText: 'mae leva sua fi lha, com um mes de vida, para consulta na unidade basica de saude. relata que a fi lha foi submetida aos exames de triagem neonatal e esta em aleitamento materno exclusivo, com calendario vacinal em dia. a crianca nasceu de parto vaginal, a termo, com 3000g, apgar 7 e 9. a mae queixa-se que a fi lha, ha tres semanas, esta chorando muito, quase todos os dias, no inicio da noite. informa tambem que a crianca apresenta muitas evacuacoes ao dia, com fezes semi-pastosas, de coloracao amarelada. na consulta realizada com 10 dias de vida o peso da crianca foi de 2990g. hoje, na consulta, pesou 3550g. diante desse quadro clinico, assinale a alternativa que contem o diagnostico e a conduta para essa crianca.',
     options: ['A) a crianca apresenta quadro de diarreia aguda, o que ocasionou a perda de peso. necessita receber imediatamente soro para hidratacao oral e que seja suspenso o aleitamento materno.', 'B) a crianca apresenta quadro de colica do lactente, o seu ganho ponderal e adequado. a mae deve ser orientada a manter o aleitamento materno.', 'C) a crianca apresenta refl uxo gastroesofagico, o que determina o baixo ganho ponderal. necessita de tratamento e cuidados para controle do refl uxo gastroesofagico.', 'D) a crianca apresenta quadro de intolerancia ao leite materno. o que impoe a suspensao do aleitamento materno e introducao de leite de formula.', 'E) a crianca apresenta baixo ganho ponderal por ingestao alimentar reduzida devido a baixa producao de leite materno. a mae devera ser orientada a realizar complementacao com leite de formula. 7 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q029',
@@ -348,7 +348,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'voce atende um menino com um ano de idade, historia de febre alta, falta de apetite e irritabilidade ha dois dias. a mae informa que a vacinacao esta completa. hoje pela manha surgiram petequias no corpo do paciente. ao exame fisico apresentava rigidez de nuca.',
     options: ['A) bacterioscopia do liquor mostrou a presenca de meningococos. considerando o periodo de transmissao da infeccao e o fato do paciente ter um irmao de quatro anos de idade, qual a alternativa que indica a conduta para a protecao dos contactantes em casa?', 'A) vacinacao de todos os contactantes (vacina: meningococica do grupo c).', 'B) quimioprofi laxia com rifampicina por dois dias para todos os contactantes.', 'C) vacinacao apenas do irmao de quatro anos de idade (vacina: meningococica do grupo c).', 'D) observacao rigorosa de todos os contactantes, sem quimioprofi laxia.', 'E) quimioprofi laxia com rifampicina apenas para o irmao de 4 anos de idade.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q030',
@@ -360,7 +360,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'primigesta, tabagista, na 36a semana de gestacao, procura a emergencia da maternidade com sangramento vaginal de moderada quantidade, ha 20 minutos, associado a dor abdominal, de forte intensidade. ao exame: pressao arterial = 80 x 50 mmhg, pulso = 120 bpm e mucosas descoradas. frequencia cardiaca fetal = 180 bpm. utero hipertonico, colo com dilatacao cervical de 4,0 cm. a conduta medica deve incluir',
     options: ['A) reposicao de volemia e resolucao por cesarea.', 'B) inducao do parto com ocitocina.', 'C) reposicao da volemia e aguardar a evolucao do trabalho de parto.', 'D) exame ultrassonografi co para confi rmacao diagnostica.', 'E) realizacao de amniotomia e aguardar o parto vaginal. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q031',
@@ -372,7 +372,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'homem, com 26 anos de idade, apresentou, durante a pratica de basquetebol, dor toracica subita, de leve intensidade, no hemitorax esquerdo, associada a leve desconforto respiratorio. mesmo tendo interrompido a pratica de esporte, o desconforto respiratorio agravou- se e ele foi levado pelos amigos a uma unidade de pronto atendimento. no exame inicial apresentava facies de sofrimento agudo e cianose leve, frequencia respiratoria de 38 incursoes respiratorias por minuto, frequencia cardiaca de 138 bpm, pressao arterial de 80x50 mmhg e saturacao de oxigenio de 83%.',
     options: ['A) ausculta pulmonar revelava murmurio vesicular praticamente abolido a esquerda. mediante esse quadro, qual deve ser a conduta imediata?', 'A) administracao de o umido - 6l/min e solicitacao de 2 raio x de torax em pressao arterial e em ortostatismo.', 'B) administracao de o umido - 6l/min e solicitacao de 2 raio x de torax em pressao arterial e em decubito lateral esquerdo.', 'C) administracao de o umido sob pressao; solicitacao 2 de radiografi as sequenciais de torax em postero anterior, antes e apos o sob pressao. 2', 'D) solicitacao de radiografi a de torax em postero anterior, perfi l e decubito lateral esquerdos e avaliacao cirurgica.', 'E) realizar drenagem por puncao toracica com agulha calibrosa, no segundo espaco intercostal esquerdo.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q032',
@@ -384,7 +384,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'trinta e cinco individuos, adolescentes e adultos, alimentam-se em um restaurante com buffet de comida por quilo. cerca de quatro horas depois, sete integrantes do grupo apresentam diarreia com varias evacuacoes aquosas, sem febre, acompanhadas de colicas abdominais e vomitos. ao serem avaliados apresentam-se apireticos, desidratados, alguns deles necessitando de hidratacao venosa. dois dias depois, tres outros membros do grupo, que tambem haviam comido no mesmo buffet, apresentam quadro de diarreia, eliminacao de fezes com muco, pus e sangue, acompanhado de febre e mal estar. na avaliacao clinica apresentam-se desidratados, febris e toxemiados. quais sao os agentes etiologicos que melhor explicam a epidemiologia e as caracteristicas clinicas dos quadros diarreicos descritos?',
     options: ['A) staphylococcus aureus e salmonella enteritidis.', 'B) staphylococcus aureus e escherichia coli enterotoxigenica.', 'C) staphylococcus aureus e bacillus cereus.', 'D) salmonella enteritidis e yersinia enterocolitica.', 'E) shigella fl exneri e escherichia coli enteropatogenica.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q033',
@@ -396,7 +396,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'um medico decidiu realizar uma pesquisa cientifi ca com seus pacientes na unidade de saude. ele iria fazer entrevistas com adolescentes sobre sexualidade, investigando o grau de conhecimento deles quanto aos metodos contraceptivos, quer seja natural, de barreira, hormonal ou dispositivo intrauterino. qual o procedimento adequado para que a pesquisa seja realizada de acordo com o codigo de etica medica?',
     options: ['A) incluir nas referencias bibliografi cas a citacao dos trabalhos publicados em revistas com comite de revisores.', 'B) o comite de etica em pesquisa em seres humanos (cep) nao necessita emitir parecer sobre o protocolo, pois a pesquisa tem apenas objetivos educacionais.', 'C) obter o termo de consentimento livre esclarecido (tcle) assinado pelos adolescentes.', 'D) obter tcle assinado pelos adolescentes e seus representantes legais e comunicar a comunidade sobre a natureza da investigacao.', 'E) caso tenha uma industria de medicamentos fi nanciando a pesquisa, o pesquisador nao necessitara informar sua relacao com esta empresa.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q034',
@@ -408,7 +408,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'um estudante, com 15 anos de idade, chega a emergencia informando ser portador de asma desde a infancia. relata que manteve controle da asma nos ultimos meses e que apresenta piora ha dois dias, quando passou a apresentar dispneia associada a tosse, expectoracao mucosa e chiado no peito. ao exame fisico observa-se torax tipo pectus carinatum, com discreta tiragem intercostal; frequencia respiratoria = 32 irpm; frequencia cardiaca=100 bpm; ausculta pulmonar com sibilos difusos. na sala de emergencia, diante do paciente com crise asmatica, alem do quadro clinico, consideram-se como procedimentos objetivos importantes para avaliacao da gravidade, a realizacao, quando possivel, de',
     options: ['A) radiografi a de torax e medida do pico de fl uxo expiratorio (pfe).', 'B) radiografi a de torax e saturacao de oxigenio no sangue arterial por gasometria ou oximetria de pulso (sato ). 2', 'C) hemograma e saturacao de oxigenio no sangue arterial por gasometria ou oximetria de pulso (sato ). 2', 'D) medida do pico de fl uxo expiratorio (pfe) e saturacao de oxigenio no sangue arterial por gasometria ou oximetria de pulso (sato ). 2', 'E) eletrocardiograma e medida do pico de fl uxo expiratorio (pfe). idos por instituicoes de educacao superior estrangeiras 8'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q035',
@@ -420,7 +420,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'uma mulher, com 36 anos de idade, casada, procura a unidade de pronto atendimento com dor tipo colica, intensa e constante ha tres dias, nauseas, vomitos, tendo feito varias aplicacoes de analgesicos parenterais. ha cerca de seis meses, vem apresentando crises de dor abdominal semelhantes, porem de intensidade menor em hipocondrio direito com irradiacao para o dorso, do tipo colica, predominantemente noturnas e apos a ingestao de alimentos gordurosos. no momento, ela esta com temperatura de 38,1c, com facies de dor, taquicardica, com dor intensa a palpacao do hipocondrio direito e com a presenca de sinal de murphy. com base nessas informacoes, a conduta mais adequada e',
     options: ['A) administrar novamente analgesicos, com alta e orientacao para procurar ambulatorio de cirurgia para programar colecistectomia eletiva.', 'B) administrar analgesicos e antibioticos, com alta e orientacao para procurar ambulatorio de cirurgia para programar colecistectomia eletiva.', 'C) administrar analgesicos, com internacao hospitalar ate melhora da dor e alta para programar colecistectomia eletiva.', 'D) administrar analgesicos e antibioticos, com internacao hospitalar ate esfriar o processo seguida de alta para programar colecistectomia.', 'E) administrar analgesicos e antibioticos, com internacao hospitalar e programar colecistectomia.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q036',
@@ -432,7 +432,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'paciente, com 32 anos de idade, higida anteriormente, deu entrada em servico de urgencia municipal com quadro clinico de febre alta, mialgia, artralgia, cefaleia, prostracao, dor retroorbitaria e exantema. apresentava-se lucida e orientada. ao exame fisico, constatou-se desidratacao, temperatura = 39,5c, frequencia cardiaca = 102 bpm, frequencia respiratoria = 20 irpm e pressao arterial = 90 x 60 mmhg. ausculta cardiopulmonar normal.',
     options: ['A) avaliacao laboratorial mostrou: hematocrito = 35 %; leucocitos totais = 1.900 /mm3; plaquetas = 102.000 /mm3. diante do quadro, neste momento, qual a prioridade no manuseio da paciente?', 'A) solicitar sorologia para dengue.', 'B) prescrever paracetamol para controle da temperatura e analgesia.', 'C) instalar hidratacao venosa.', 'D) orientar hidratacao vigorosa, em domicilio.', 'E) encaminhar para unidade hospitalar do nivel secundario. 9 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q038',
@@ -444,7 +444,7 @@ export const generatedQuestions = [
     questionNumber: 38,
     questionText: 'paciente, com 49 anos de idade, sexo masculino, lavrador, vem a consulta com queixa de lesao em face que iniciou-se como uma papula, posteriormente evoluindo com ulceracao e indolor. a primeira lesao apareceu ha 3 meses, sendo seguida de mais duas com as mesmas caracteristicas. associado ao aparecimento das lesoes evoluiu com emagrecimento, nao sabendo quantifi car, porem notou que suas roupas estao mais largas que o habitual. nao apresentou quadro semelhante antes. relata tabagismo e etilismo desde a infancia. nao refere uso de medicamentos. durante o exame fisico, foram visualizadas lesoes ulceradas, de bordas elevadas, com fundo granuloso em regiao labial inferior e mentoniana. foi realizado raspado para exame direto e biopsia da lesao. em ambos os exames foram encontradas formas leveduriformes com multiplos brotamentos pequenos, em roda de leme. reacao de montenegro negativa. qual o diagnostico e tratamento de escolha? figura i - lesao cutanea. figura ii - formas leveduriformes com multiplos brotamentos. fonte: shikanai-yassuda ma cols, revistarevista da sociedade brasileira de medicina tropical 39(3):297-310, mai-jun, 2006.',
     options: ['A) paracoccidioidomicose e itraconazol.', 'B) esporotricose e solucao saturada de iodeto de potassio.', 'C) carcinoma de celulas escamosas e cirurgia.', 'D) tuberculose cutanea e r (rifampicina)  h (isoniazida)  z (pirazinamida)  e (etambutol).', 'E) leishmaniose cutanea e glucantime.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q039',
@@ -456,7 +456,7 @@ export const generatedQuestions = [
     questionNumber: 39,
     questionText: 'uma crianca nascida de parto cesareo, a termo, com apgar 8/9, pesando 3500g, apresenta, nas primeiras 24 horas de vida, cianose associada com desconforto respiratorio. durante o exame fi sico, o recem-nascido encontra-se cianotico, taquidispneico (frequencia respiratoria=65 irpm), taquicardico (frequencia cardiaca=160bpm), com retracoes subdiafragmaticas e intercostais.',
     options: ['A) ausculta pulmonar e normal e nao e observada a presenca de sopro a ausculta cardiaca.', 'A) saturacao de oxigenio inicial era de 70% antes, passando a 72% apos iniciar a oxigenoterapia com fio de 100%. foi feita a hipotese 2 diagnostica de cardiopatia congenita, sendo solicitados radiografi a de torax e ecocardiograma.', 'A) radiografi a de torax mostrou area cardiaca aparentemente sem alteracoes e aumento da trama pulmonar. o ecocardiograma nao pode ser realizado.', 'A) hipotese diagnostica principal e a conduta terapeutica indicada sao, respectivamente,', 'A) atresia pulmonar; administracao de indometacina para fechamento do canal arterial.', 'B) tetralogia de fallot; administracao de indometacina para fechamento do canal arterial.', 'C) atresia pulmonar; administracao de prostaglandina e para manutencao do canal arterial.', 'D) transposicao de grandes vasos; administracao de indometacina para fechamento do canal arterial patente.', 'E) transposicao de grandes vasos; administracao de prostaglandina e para reducao da trama pulmonar.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q040',
@@ -480,7 +480,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'paciente, com 57 anos de idade, sexo masculino, chega ao pronto atendimento queixando-se de palpitacoes que se iniciaram ha tres dias, associadas a tontura e a dispneia. relata fazer uso de metimazol 10 mg/dia ha um mes por diagnostico de hipertireoidismo. faz uso ainda de enalapril 20 mg para hipertensao arterial desde os 45 anos de idade. ao exame: pressao arterial = 110 x 70 mmhg; frequencia cardiaca = 160 bpm; frequencia respiratoria = 26 irmp; ritmo cardiaco taquicardico, irregular, em dois tempos, sem sopros; murmurio vesicular fi siologico com crepitacoes bibasais; abdome livre, indolor, ruidos hidroaereos positivos; aparelho locomotor sem alteracoes. saturacao periferica de oxigenio de 87%. solicitado ecg: figura i - tracado eletrocardiografi co. instalada a suplementacao de oxigenio e monitorizacao cardiaca. assinale a alternativa que identifi ca a arritmia e a conduta a ser tomada ainda na sala de pronto atendimento.',
     options: ['A) flutter atrial e amiodarona.', 'B) taquicardia supra ventricular paroxistica e procainamida.', 'C) sindrome de wolff-parkinson-white e beta bloqueador.', 'D) taquicardia atrial multifocal e bloqueadores de canais de calcio.', 'E) fibrilacao atrial e digitalico.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q042',
@@ -492,7 +492,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'mulher, com 35 anos de idade, procura atendimento medico por apresentar quadro de dor de inicio subito, com localizacao inicial na regiao epigastrica, inicialmente acompanhada de vomitos, com rapida expansao para o fl anco e a fossa iliaca direita e, posteriormente, para todo o abdome. a paciente apresenta extremidades frias e respiracao superfi cial; busca manter-se imovel e adota posicao antalgica, com pernas fl etidas sobre o tronco. o abdome e difusamente doloroso, sendo evidentes a contratura abdominal e a rigidez da musculatura abdominal a palpacao e a respiracao. a radiografi a de torax e a radiografi a simples de abdome, ambas realizadas em ortostatismo, mostram pneumoperitoneo. 11 exame nacional de revalidacao de diplomas medicos expedi com relacao a complicacao apresentada pela paciente, e correto afi rmar que',
     options: ['A) fi gura entre as causas mais frequentes de abdome agudo nao traumatico e metade dos casos ocorre em pacientes com idade entre 20 e 40 anos.', 'B) nas ulceras duodenais as perfuracoes ocorrem, de um modo geral, na parede posterior e na curvatura do duodeno.', 'C) nas ulceras gastricas as perfuracoes ocorrem, usualmente, na parede posterior do antro e da regiao pre-pilorica.', 'D) a area mais acometida por perfuracoes de ulceras pepticas e o estomago, na proporcao de 14:1 em relacao ao duodeno.', 'E) a mortalidade e proporcionalmente maior nas perfuracoes duodenais, em torno de 20%, talvez porque acometam pacientes mais idosos.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q043',
@@ -504,7 +504,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'paciente, com 35 anos de idade, sexo masculino, etilista, e trazido por familiares ao hospital apos ter apresentado crise convulsiva generalizada e perda de consciencia. esposa relata que o paciente nao fazia uso de medicamentos, tendo realizado consulta medica recente. nega que tenham ocorrido quedas ou traumatismos antecedendo o inicio do quadro. ao exame: pressao arterial = 190 x 100 mmhg, frequencia cardiaca = 50 bpm ritmo cardiaco regular em dois tempos, sem sopros; murmurio vesicular fi siologico sem ruidos adventicios. escala de coma de glasgow: 7, pupilas anisocoricas (maior a direita) e fotorreagentes; hemiplegico a esquerda. saturacao periferica de oxigenio de 98 %. qual a conduta a ser tomada para esse paciente no momento da admissao?',
     options: ['A) entubacao orotraqueal + hiperventilacao mecanica; manitol.', 'B) ventilacao nao invasiva; manitol e solucao hipertonica.', 'C) suplementacao de oxigenio por mascara; manitol.', 'D) entubacao orotraqueal + ventilacao mecanica.', 'E) entubacao orotraqueal + ventilacao mecanica + antihipertensivo. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q044',
@@ -516,7 +516,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'homem, assintomatico, com 45 anos de idade e que apresenta tumor renal, procura atendimento em consultorio medico portando documento que o identifi ca como testemunha de jeova, informando que nao devera ser submetido a transfusao de sangue. o documento foi registrado em cartorio e enumera todos os motivos pelos quais o mesmo tem o direito de nao receber transfusao de sangue. e provavel que este paciente seja submetido a tratamento cirurgico, pois esta alternativa terapeutica aponta melhor sobrevida. ele se nega veementemente a receber transfusao, caso seja necessario. qual a conduta baseada nos principios eticos positivados na ultima versao do codigo de etica medica brasileiro?',
     options: ['A) nao dar certeza ao paciente que nao transfundira o sangue e realizar o procedimento cirurgico.', 'B) garantir ao paciente que tentara ao maximo nao transfundir, mas transfundir se necessario.', 'C) tentar dissuadir o paciente da sua crenca religiosa para o bem da sua saude.', 'D) realizar o procedimento cirurgico e, se necessario, transfundir, informando a familia.', 'E) negar-se a realizar o procedimento e orientar o paciente a procurar outro medico.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q045',
@@ -528,7 +528,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'uma mulher, com 32 anos de idade - tres gestacoes, dois partos e zero abortos -, tem idade gestacional de nove semanas, confi rmada por ultrassonografi a realizada ha tres dias. deu entrada na emergencia de um hospital, com dor abdominal em colica, sangramento transvaginal moderado com odor fetido, relatando febre e calafrios. informa ter sido manipulada, em tentativa de abortamento, ha dois dias. o exame clinico revelou dor a manipulacao do utero, colo uterino pervio e confi rmou presenca de sangramento com odor fetido.',
     options: ['A) paciente apresenta pulso fi liforme, com frequencia cardiaca = 110 bpm, pressao arterial = 85 x 40 mmhg e temperatura axilar = 39 oc. os exames laboratoriais realizados evidenciaram leucocitos = 18.000 cel/mm3, com desvio a esquerda e proteina c reativa = 18 mg/ dl (valor normal < 0,1 mg/dl). diante do quadro da paciente, o diagnostico e conduta sao, respectivamente,', 'A) abortamento incompleto por manipulacao. o restante do conteudo uterino deve ser esvaziado e, se a febre persistir por mais 48 horas, iniciar antibioticoterapia, de preferencia com ampicilina por via endovenosa, 1g de 6/6 horas. a paciente recebe alta, se afebril, sem medicacao antimicrobiana.', 'B) abortamento septico por manipulacao. o restante do conteudo uterino deve ser esvaziado quando a paciente apresentar estabilidade hemodinamica e somente apos 12 horas de instituida antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. a paciente recebe alta com medicacao antimicrobiana, apos 48 horas da curetagem.', 'C) abortamento infectado por manipulacao. curetagem uterina deve ser realizada quando a paciente apresentar estabilidade hemodinamica. inicia-se antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. a histerectomia deve ser efetuada se a infeccao nao responder ao tratamento. a paciente recebe alta com medicacao antimicrobiana, apos 48 horas do procedimento.', 'D) abortamento septico por manipulacao. instituir antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. o conteudo uterino deve ser esvaziado quando a paciente apresentar estabilidade hemodinamica. a paciente pode receber alta apos 48 horas, se apiretica e com bom estado geral, sem uso de antimicrobianos.', 'E) abortamento infectado por manipulacao. deve ser realizada a curetagem uterina, quando a paciente apresentar estabilidade hemodinamica. em seguida, inicia-se a antibioticoterapia, preferencialmente com esquema duplo: metronidazol e gentamicina. apos 48 horas da curetagem, recebe alta sem medicacao antimicrobiana. idos por instituicoes de educacao superior estrangeiras 12'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q046',
@@ -540,7 +540,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'crianca, com 15 meses de idade, foi a unidade basica de saude para receber as vacinas do programa nacional de imunizacao. a mae da crianca perguntou se ele podia tomar todas as vacinas, porque seu fi lho mais velho, de 10 anos de idade, encontra-se em tratamento quimioterapico para leucose aguda. qual a conduta recomendada?',
     options: ['A) a crianca pode receber todas as vacinas previstas.', 'B) a crianca pode receber todas as vacinas, com excecao da sabin.', 'C) a crianca deve adiar a vacinacao contra difteria, tetano e coqueluche.', 'D) a crianca pode receber somente a triplice viral.', 'E) a crianca deve adiar a vacinacao para o proximo mes.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q047',
@@ -552,7 +552,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'mulher, com 19 anos de idade, procura o pronto-socorro de um hospital secundario com queixa de dor abdominal e vomitos ha dois dias. ha cerca de quinze dias, apresenta tosse e coriza amarelada e, ha dez dias, poliuria e polidipsia. comenta ter emagrecido 12 kg (18% do peso) nas ultimas duas semanas. informa nao ter tido febre. nao relata antecedentes morbidos pessoais ou familiares relevantes. ao exame clinico, aparece vigil, consciente, orientada. pontuacao na escala de coma de glasgow = 15. corada, desidratada 2+/4+, taquipneica. pressao arterial = 106 x 62 mmhg, pulso = 104 bpm, frequencia respiratoria = 28 irpm. abdome doloroso a palpacao profunda de epigastrio, sem dor a descompressao brusca. semiologia cardiaca, pulmonar, e de membros, normais. saturacao de oxigenio em ar ambiente: 99 %. glicemia capilar a entrada = 364 mg/dl. foram solicitadas dosagens sericas de eletrolitos, exame sumario de urina e gasometria venosa. alem de se considerar o inicio de antibioticoterapia para o quadro respiratorio alto, a conduta terapeutica imediata adequada e',
     options: ['A) aguardar os exames, antes de outras etapas do tratamento.', 'B) iniciar insulinoterapia, em bolus endovenoso, a ser mantida por infusao continua.', 'C) aguardar resultado da dosagem de eletrolitos (k+) e iniciar expansao com soro fi siologico.', 'D) preparar expansao com soro fi siologico e reposicao de potassio.', 'E) introduzir expansao com soro fi siologico, reposicao de potassio e insulinoterapia. 13 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q048',
@@ -564,7 +564,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'homem, com 45 anos de idade, e submetido a cirurgia pelvica com duracao de uma hora. no segundo dia de pos-operatorio desenvolve quadro de dor na panturrilha, aumento de temperatura e edemas locais. clinicamente, apresenta pressao arterial = 140 x 90 mmhg, com frequencia cardiaca = 120 bpm e frequencia respiratoria = 30 irpm. realizado eletrocardiograma, observa-se taquicardia com ritmo sinusal. o metodo de escolha para o diagnostico primario da intercorrencia apresentada no segundo dia de pos-operatorio e',
     options: ['A) a venografi a por ter maior acuracia no diagnostico e localizacao do problema e ser pouco invasiva.', 'B) a dosagem de d-dimero por ter alto valor preditivo positivo e ser bastante especifi ca.', 'C) a pletismografi a de bioimpedancia por medir a capacitancia venosa e ser pouco invasiva.', 'D) a venografi a de ressonancia magnetica por ser ideal em casos agudos e ser bem tolerada pelos pacientes.', 'E) a ultrassonografi a com doppler por ter otimo valor preditivo positivo e ser pouco invasiva. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q049',
@@ -576,7 +576,7 @@ export const generatedQuestions = [
     questionNumber: 49,
     questionText: 'um menino, com um ano de idade, esta sendo atendido no pronto-socorro de pediatria com historico de febre alta, falta de apetite e irritabilidade ha dois dias. a mae informou que hoje a crianca apresentou vomitos, tremores e recusou toda a alimentacao. ao exame fisico, apresenta- se hipoativo, com desidratacao de primeiro grau e febre (39 oc). para a investigacao desse quadro febril, sem foco aparente, foram realizados os seguintes exames: estudo do liquor: normal eritrograma: hb: 11,5 g/dl ht: 37,5 %. leucograma: 25.000 /mm3, com 10% de bastonetes. plaquetas: normais exame sumario de urina (colhido com saco coletor): nitrito positivo; leucocitos: 430.000 /ml; eritrocitos: 15.000 /ml urocultura: em execucao com base na suspeita de infeccao urinaria, qual e a conduta a ser adotada?',
     options: ['A) colher novo exame de urina por meio de puncao supra-pubica, internar o paciente e instituir a hidratacao e a antibioticoterapia parenteral, prescrevendo cefalosporina.', 'B) internar o paciente, instituir hidratacao parenteral e aguardar o resultado da urocultura colhida no pronto- socorro, para iniciar a antibioticoterapia de acordo com antibiograma.', 'C) hidratar o paciente no pronto-socorro e, apos melhora clinica, libera-lo com prescricao de cefalosporina por via oral. pedir a responsavel pelo menino que leve o resultado da urocultura, assim que esteja pronto, ao medico assistente.', 'D) hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou puncao supra-pubica e, apos melhora clinica, libera-lo com prescricao de cefalosporina por via oral. orientar a mae que leve o resultado da urocultura, assim que esteja pronto, ao medico assistente.', 'E) hidratar o paciente no pronto-socorro, colher novo exame de urina por sondagem vesical ou puncao supra-pubica e, apos melhora clinica, libera-lo; aguardar o resultado da urocultura, para defi nir sobre uso de antibioticoterapia.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q050',
@@ -588,7 +588,7 @@ export const generatedQuestions = [
     questionNumber: 50,
     questionText: 'um medico da unidade basica de saude encontrava-se diante de uma dificil situacao que envolvia o atendimento de uma crianca de dois anos de idade, em que a melhor medicacao disponivel para o tratamento nao estava disponivel gratuitamente para pacientes nessa idade, apesar das evidencias cientifi cas mostrarem que, para outras faixas etarias, ha beneficio com seu uso. o medico orientou a mae sobre a necessidade exame nacional de revalidacao de diplomas medicos expedi revalida 2011 exam e nacional de revalidacao de diplomas medicos da medicacao, seus importantes efeitos benefi cos e os possiveis efeitos adversos, esclarecendo que utiliza-la seria o ideal para a crianca, permitindo que ela optasse pelo uso de medicacao fornecida gratuitamente ou pela medicacao que deveria ser adquirida. por confi ar na opiniao do profi ssional, com base na relacao de parceria na atencao a seus doentes, a mae decidiu comprar a medicacao. a atitude do medico, nesta situacao, considerou os principios fundamentais da etica medica contemporanea e da bioetica. nesta situacao, evidencia-se o principio',
     options: ['A) da benefi cencia.', 'B) da nao-malefi cencia.', 'C) da justica.', 'D) do assentimento.', 'E) da autonomia.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q051',
@@ -600,7 +600,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'mulher, com 44 anos de idade, apresenta quadro de dor epigastrica, com irradiacao em faixa para hipocondrio direito e esquerdo, com vomitos e distensao abdominal, de inicio subito sem relacao com esforco, ocorrendo ha seis horas. relata dois episodios semelhantes anteriores, de menor intensidade, nos ultimos tres anos, dos quais se recuperou apenas com restricao de dieta. relata ainda trombose de retina a esquerda apos um desses episodios. durante o exame fisico, foram visualizadas mucosas descoradas, anicterica, pele com turgor e elasticidade reduzidos. pressao arterial = 40x90 mmhg. pulso radial = 120 bpm, ritmico e fi no. ausculta respiratoria - expansibilidade reduzida em base de hemitorax esquerdo, com submacicez local. ausculta cardiaca - bulhas taquicardicas em dois tempos. abdome distendido, com equimoses nos fl ancos. ruidos hidroaereos diminuidos e dor difusa a palpacao. extremidades: pulsos perifericos palpaveis e simetricos. exame laboratoriais mostram ht = 52%, hb = 14 g/l. amilase = 104 u/l (valor normal = 27 a 131u/l). glicemia na admissao = 230 mg/dl. creatinina = 1,5 mg/ dl (valor normal = 0,7 a 1,3 mg/dl). troponina serica = 0,5 ng/ml (valor normal < 0,1 ng/ml). ecg sem alteracoes. o laboratorio informa que o soro apresenta aspecto francamente leitoso na centrifugacao. ultrassonografi a de abdome mostra vias biliares nao dilatadas e vesicula biliar de paredes fi nas, sem calculos. o retroperitoneo nao foi visualizado. qual o diagnostico compativel com o quadro descrito?',
     options: ['A) pancreatite aguda.', 'B) disseccao de aorta.', 'C) infarto do miocardio.', 'D) colecistite aguda.', 'E) infarto mesenterico. idos por instituicoes de educacao superior estrangeiras 14'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q052',
@@ -612,7 +612,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'paciente do sexo masculino, com 22 anos de idade, submetido a tratamento cirurgico de apendicite aguda ha oito dias, procura a unidade basica de saude queixando-se de dor intensa e infl amacao no local da incisao cirurgica que ainda encontra-se com pontos. relata que evoluiu bem apos a cirurgia recebendo alta no segundo dia pos-operatorio com prescricao de dipirona, se necessario. desde entao, retomava as atividades habituais ate que ha um dia comecou a notar aumento de volume no local da ferida operatoria. nao informa febre e apresenta boa aceitacao alimentar. durante o exame fisico, nota-se ferida operatoria de aproximadamente 7 cm, obliqua em fossa iliaca direita discretamente elevada, hiperemiada, com calor local e saida de pequena quantidade de secrecao amarelada, sem brilho, viscosa e que suja a roupa. abdome fl acido e indolor fora da area de incisao. temperatura axilar normal. frequencia cardiaca = 72 bpm, frequencia respiratoria = 16 irpm. diante do quadro, qual o diagnostico e a conduta para o caso nesse momento?',
     options: ['A) infeccao de sitio cirurgico e iniciar antibioticoterapia.', 'B) seroma e colocar dreno laminar pela incisao, apos retirada de um dos pontos.', 'C) infeccao de sitio cirurgico e abrir a incisao, seguida de lavagem com soro fi siologico.', 'D) seroma e orientar o paciente que o conteudo sera absorvido pelo organismo.', 'E) hernia incisional e orientar o paciente a procurar imediatamente o cirurgiao que o operou.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q053',
@@ -624,7 +624,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'homem, com 55 anos de idade, alcoolatra, em acompanhamento ambulatorial devido a cirrose hepatica, comparece ao pronto-socorro com hematemese. clinicamente se apresenta taquipneico, descorado, pulso fi no, pressao arterial de 90 x 60 mmhg. foi submetido a endoscopia digestiva alta que mostrou varizes esofagicas, com sangramento ativo. a proxima conduta para esse paciente deve ser',
     options: ['A) iniciar antibioticoterapia profi latica.', 'B) iniciar somatostatina.', 'C) iniciar reposicao volemica.', 'D) passar balao de sengsaken-blakemore.', 'E) realizar escleroterapia endoscopica.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q054',
@@ -636,7 +636,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'paciente do sexo feminino, assintomatica, em avaliacao de rotina, determinada pelo seu medico assistente, e submetida a coleta de duas amostras de urinocultura, que revelam crescimento de >100.000 unidades formadoras de colonias/ml de escherichia coli, nas duas amostras, com o mesmo perfi l de sensibilidade. 15 exame nacional de revalidacao de diplomas medicos expedi',
     options: ['A) solicitacao das urinoculturas e o tratamento antibiotico da bacteria isolada sao justifi cadas, se a paciente em', 'A) muito idosa, moradora de asilo.', 'B) diabetica, insulino-dependente.', 'C) portadora de cateter vesical de demora.', 'D) gestante, em qualquer idade gestacional.', 'E) jovem, sexualmente ativa.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q055',
@@ -648,7 +648,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'paciente, com 23 anos de idade, encontra-se na nona semana de gestacao e comparece a unidade basica de saude para sua primeira consulta de pre-natal. dentre os exames de rotina para essa idade gestacional, o medico solicita',
     options: ['A) sorologia para hepatite b e c.', 'B) citologia oncotica e creatinina.', 'C) sorologia para hiv e vdrl.', 'D) glicemia de jejum e teste de tolerancia oral a glicose.', 'E) exame sumario de urina e ecografi a obstetrica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q056',
@@ -660,7 +660,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'mulher, com 58 anos de idade, diabetica, e admitida no pronto-socorro com dor precordial opressiva, intensa, irradiada para membro superior esquerdo ha 40 minutos, associada a sudorese fria e sensacao de morte iminente. durante o exame clinico, encontra-se em bom estado geral, eupneica, pressao arterial = 100 x 70 mmhg, frequencia cardiaca = 92 bpm, frequencia respiratoria = 20 ipm. pulmoes limpos. ritmo cardiaco regular, dois tempos, sem sopros. abdome fl acido, sem visceromegalias, ruidos hidroaereos presentes. sem edemas de membros inferiores, panturrilhas livres. fez uso de dinitrato de isossorbida 5 mg sublingual, tendo cessado a dor. eletrocardiograma realizado na admissao esta normal. qual a recomendacao para o acompanhamento desta paciente?',
     options: ['A) acompanhamento ambulatorial, se troponina e ckmb massa colhidas na admissao estiverem normais.', 'B) internacao hospitalar, monitorizacao cardiaca continua, mesmo com troponina normal a admissao.', 'C) acompanhamento ambulatorial especializado, com cardiologista, se troponina colhida na admissao estiver normal.', 'D) internacao hospitalar, monitorizacao cardiaca continua, se troponina colhida na admissao estiver elevada.', 'E) internacao hospitalar, sem monitorizacao cardiaca continua, se a troponina e ckmb massa colhidas na admissao estiverem normais. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q057',
@@ -672,7 +672,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'considere as tres situacoes abaixo. i. medico recebe comunicado do diretor clinico da clinica onde trabalha de que passara a receber desconto no aluguel do consultorio de acordo com o numero de pacientes encaminhados para outros especialistas. ii. mae traz a fi lha de 16 anos de idade, aluna do segundo ano do ensino medio, para consulta ginecologica. a adolescente nao apresenta alteracoes ao exame clinico. apos a consulta, a mae procura o medico para obter informacoes sobre o que foi discutido pelo medico com a fi lha em relacao a sexualidade. o medico se nega a fornecer as informacoes sem a autorizacao da fi lha menor. iii. um medico especialista e chamado para falar sobre um tema de saude em uma emissora de radio. durante o programa, atendendo a solicitacao de ouvintes do programa, realizado ao vivo, o medico informa o telefone do seu consultorio. qual (is) desta(s) situacao(oes) constitui(em) infracoes do codigo brasileiro de etica medica ?',
     options: ['A) i e ii.', 'B) i e iii.', 'C) ii e iii.', 'D) iii.', 'E) i, ii e iii.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q058',
@@ -684,7 +684,7 @@ export const generatedQuestions = [
     questionNumber: 58,
     questionText: 'em consulta medica no posto de saude, paciente jovem relata ferida na genitalia externa que surgiu ha cerca de 30 dias. ao exame, nota-se ulcera vulvar, unica, de contornos imprecisos, fundo purulento e dolorosa ao toque, associada a linfadenopatia homolateral. o esfregaco do material da borda da ulcera, corado pelo metodo de gram, revelou bacilos gram negativos intracelulares. a hipotese diagnostica principal e',
     options: ['A) sifi lis primaria.', 'B) ulcera luetica secundaria.', 'C) cancro mole.', 'D) donovanose.', 'E) linfogranuloma venereo.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q059',
@@ -720,7 +720,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'o plantonista da unidade de terapia intensiva aciona a equipe de notifi cacao e captacao de orgaos do seu hospital relatando que foi realizado e confi rmado o diagnostico de morte encefalica em um jovem de 20 anos, vitima de traumatismo cranio-encefalico. quanto ao prosseguimento do processo de doacao de orgaos pode-se afi rmar que',
     options: ['A) se houver manifestacao favoravel da familia quanto a doacao, o diagnostico de morte encefalica deve ser comunicado a central de notifi cacao, captacao e distribuicao de orgaos.', 'B) se o potencial doador apresentar estabilidade hemodinamica e ausencia de infeccao sistemica ou tumor maligno, o diagnostico de morte encefalica deve ser comunicado a central de notifi cacao, captacao e distribuicao de orgaos.', 'C) deve ser dada sequencia aos procedimentos para a retirada de orgaos, tendo por base o consentimento presumido , uma vez que nao ha manifestacao conhecida do potencial doador, de oposicao a doacao.', 'D) a morte encefalica e de notifi cacao compulsoria e a continuidade dos procedimentos para a retirada de orgaos para transplante depende do consentimento da familia do potencial doador.', 'E) uma vez esclarecida a familia sobre o diagnostico de morte encefalica e com a certeza de sua compreensao deve ser dada sequencia aos procedimentos para a retirada de orgaos, tendo por base o consentimento informado.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q062',
@@ -732,7 +732,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'mulher, com 57 anos de idade, sem acompanhamento medico regular, e atendida em ambulatorio de clinica medica de hospital secundario por queixa de edema de membros inferiores e face e de urina espumosa ha tres meses. a paciente nao refere doencas anteriores e desconhece seus antecedentes familiares. ao exame clinico encontra-se orientada, normocorada, hidratada, afebril, com edema de face (++/4). pressao arterial (posicao deitada) = 176 x 102 mmhg com pulso = 76 bpm; pressao arterial (posicao supina) = 154 x 78 mmhg com pulso = 72 bpm. frequencia respiratoria = 18 irpm. exame cardiaco normal. ausculta pulmonar: murmurio vesicular diminuido nas bases pulmonares, sem ruidos adventicios. abdome com sinais de ascite moderada, membros inferiores com edema compressivel (++/4). fundoscopia: prejudicada por opacifi cacao do cristalino. exames complementares: glicemia de jejum = 283 mg/dl, creatinina = 1,8 mg/ dl, ureia = 60 mg/dl. colesterol total = 312 mg/dl, ldl = 230 mg/dl, hdl = 40 mg/dl, vldl = 42 mg/dl, triglicerides = 210 mg/dl. albumina serica = 1,8 g/dl. exame sumario de urina: proteinuria (++++/4), glicosuria (++/4), sem outras alteracoes. proteina na urina de 24h= 5,5g. dosagem de eletrolitos e hemograma normais. 17 exame nacional de revalidacao de diplomas medicos expedi qual a principal etiologia para o quadro apresentado por essa paciente?',
     options: ['A) hipertensao arterial sistemica.', 'B) diabetes mellitus.', 'C) dislipidemia.', 'D) glomerulopatia por lesoes minimas.', 'E) lupus eritematoso sistemico.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q063',
@@ -744,7 +744,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'paciente do sexo masculino, com 59 anos de idade, tabagista ha mais de 10 anos, hipertenso e dislipidemico, procura a unidade basica de saude relatando o aparecimento, ha um mes, de lesao ulcerada em dorso de pe esquerdo, apos pequeno trauma abrasivo com sandalia mal-adaptada. a lesao e seca, dolorosa, com fundo sujo e palido. ha um discreto halo de eritema ao seu redor. evolui ha uma semana com piora do aspecto e do tamanho da lesao, com dor de repouso, edema de pe e tornozelo. os pulsos arteriais nao sao perceptiveis (palpaveis) abaixo dos joelhos, bilateralmente. qual a hipotese diagnostica e conduta para esse paciente?',
     options: ['A) doenca aterosclerotica obliterante periferica(daop) com isquemia critica; referenciar para revascularizacao de urgencia.', 'B) trombose venosa profunda; referenciar para consulta em ambulatorio de especialidades e prescricao de anticoagulantes.', 'C) ulcera varicosa infectada; referenciar para internacao hospitalar de urgencia para antibioticoterapia e desbridamento.', 'D) trombose venosa profunda; referenciar para internamento hospitalar de urgencia para trombolise.', 'E) microangiopatia diabetica; referenciar para ambulatorio especializado. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q064',
@@ -756,7 +756,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'paciente do sexo feminino, com 34 anos de idade, sem antecedentes patologicos pregressos signifi cativos, procurou a unidade basica de saude com historia de pirose e regurgitacao ha mais ou menos seis meses, e piora do quadro no ultimo mes. relata ganho ponderal de 10 kg nos ultimos tres meses (indice de massa corporeo atual = 36,8 kg/m2). faz uso irregular de antiacido por conta propria. trazia consigo um resultado de endoscopia digestiva alta com o seguinte laudo: erosoes lineares de ate 5 mm, nao confl uentes, localizadas em esofago distal. baseado no diagnostico acima, voce prescreve um inibidor de bomba de protons durante oito semanas e orienta a paciente a',
     options: ['A) perder peso e evitar deitar-se imediatamente apos as refeicoes.', 'B) evitar ingestao de cafe e praticar esportes.', 'C) suspender carne vermelha da alimentacao e ingestao de bebidas gaseifi cadas.', 'D) dormir com cabeceira da cama elevada e abolir fi bras na dieta.', 'E) aumentar a ingesta de proteinas e reduzir a ingesta de carboidratos.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q065',
@@ -768,7 +768,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'paciente do sexo masculino, com 58 anos de idade, casado, pedreiro, tabagista ha 15 anos (13 cigarros/dia), procura a unidade basica de saude queixando-se de um caroco na virilha esquerda que surgiu ha cinco meses. informa que essa tumoracao apresentou crescimento lentamente progressivo desde entao e que procurou o servico de saude porque passou a apresentar dor na regiao inguinal esquerda durante suas atividades laborais. o exame do torax nao apresenta alteracoes. o abdome e indolor e sem visceromegalias palpaveis. o exame das extremidades superiores e inferiores, bem como o do perineo, nao apresenta anormalidades. ao exame da regiao inguinal esquerda verifi ca-se a presenca de tumoracao mole, bem delimitada, retratil, dolorosa a palpacao profunda e que aumenta de tamanho quando se realiza a manobra de valsalva. diante dessa situacao, a hipotese diagnostica e conduta sao, respectivamente,',
     options: ['A) hernia inguino-escrotal esquerda, encarcerada; solicitar ultrassom escrotal e encaminhar o paciente para o pronto-socorro para avaliacao de urgencia pelo cirurgiao.', 'B) linfoadenomegalia a esclarecer, suspeita de neoplasia; solicitar biopsia excisional e encaminhar o paciente para o ambulatorio de especialidades para avaliacao do cirurgiao.', 'C) hernia inguinal direta esquerda, nao complicada; encaminhar o paciente para o ambulatorio de especialidades para avaliacao do cirurgiao geral.', 'D) hernia inguinal indireta esquerda; solicitar tomografi a de abdome e pelve e encaminhar o paciente para avaliacao ambulatorial especializada com cirurgiao.', 'E) massa inguinal a esclarecer, provavel neoplasia; solicitar biopsia por puncao guiada por ultrassom e referenciar o paciente para avaliacao ambulatorial com cirurgiao.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q066',
@@ -780,7 +780,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'uma nova unidade de saude da familia sera implantada em um municipio. a territorializacao devera ser realizada visando obter como primeiro produto',
     options: ['A) a determinacao dos coefi cientes de morbi- mortalidade.', 'B) a obtencao de dados de vigilancia comparativos com outras areas do mesmo municipio.', 'C) a identifi cacao de reivindicacoes de movimentos sociais e grupos organizados.', 'D) a defi nicao de micro-areas de risco e grupos prioritarios.', 'E) a determinacao dos indices de mortalidade infantil e materna.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q067',
@@ -792,7 +792,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'paciente do sexo masculino, com 26 anos de idade, procura ambulatorio de clinica medica com queixas, ha uma semana, de mal estar, febre de baixa intensidade nao aferida, inapetencia, vomitos ocasionais e aversao a fumaca de cigarro, evoluindo com coluria e acolia fecal ha tres dias. relata que costuma alimentar- se em bares com baixo nivel de higiene, proximos a universidade onde estuda; e viagem, ha um mes, para acampamento. informa manter relacoes sexuais sem uso de preservativos, com parceiros e parceiras desconhecidos. ao exame fisico apresenta-se em bom estado geral, corado, hidratado, icterico ++/4+, lucido, orientado, pressao arterial =120 x 70 mmhg , frequencia cardiaca= 64bpm. figado palpavel a tres centimetros do rebordo costal direito; baco impalpavel. o restante do exame fisico nao mostrou alteracoes signifi cativas. foram solicitadas dosagens de aminotransferases, que se mostraram muito elevadas (>1000 ui/ml) e marcadores sorologicos virais das hepatites determinaram que o paciente era carreador cronico do virus da hepatite b e apresentava tambem hepatite viral aguda pelo virus da hepatite a. a infeccao pelo virus da hepatite c foi excluida por sorologia e tecnicas moleculares. o perfi l sorologico compativel com o diagnostico do paciente e',
     options: ['A) anti-hav igg reativo e igm nao reativo; anti-hbc igm e igg reativos; hbsag reativo.', 'B) anti-hav igg e igm reativos; anti-hbc igg e igm nao reativos; hbsag nao reativo.', 'C) anti-hav igg e igm nao reativos; anti-hbc igg reativo e igm nao reativo; hbsag nao reativo.', 'D) anti-hav igg nao reativo e igm reativo; anti-hbc igm e igg nao reativos; hbsag nao reativo.', 'E) anti-hav igg e igm reativos; anti-hbc igm nao reativo e igg reativo; hbsag reativo. idos por instituicoes de educacao superior estrangeiras 18'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q068',
@@ -804,7 +804,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'uma crianca de sexo feminino, com quatro anos de idade, e atendida no pronto atendimento com queixa de poliuria, polidipsia e emagrecimento nos ultimos dois meses. apesar de ter havido um atendimento anterior por esta queixa, nao houve uma defi nicao diagnostica. a mae decidiu retornar ao servico porque nos ultimos dois dias, a crianca comecou a apresentar sonolencia, acompanhada de febre (dois picos de 38,6 c), vomitos, fadiga, sinais de desidratacao e taquipneia. imediatamente, voce decidiu encaminhar a paciente para um servico de emergencia, devido a hipotese diagnostica de cetoacidose diabetica.',
     options: ['A) decisao de encaminhamento imediato foi determinada', 'A) pela preocupacao com a hipotensao, achado bastante comum nas criancas que desenvolvem cetoacidose diabetica.', 'B) para reposicao volemica e controle da glicemia. a hipotensao, na crianca em cetoacidose diabetica, e evento raro e tardio.', 'C) pela alta mortalidade, caracteristica da doenca, cuja principal causa de morte esta relacionada a hipotensao.', 'D) pela hipertermia da crianca, que requer imediata investigacao diagnostica.', 'E) porque, em criancas lactentes e pre-escolares, alem de adolescentes gravidas, a cetoacidose ocorre com niveis de glicemia sempre muito elevados.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q069',
@@ -816,7 +816,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'uma crianca, com dois anos de idade, sexo masculino, e atendida no servico de pronto atendimento. a mae relata que a crianca vem apresentando sintomas de obstrucao nasal e secrecao hialina ha seis dias, evoluindo com febre (dois picos diarios de 38,8 oc) nos ultimos dois dias, irritabilidade, difi culdade de aceitacao da alimentacao, sobretudo da mamadeira que e oferecida a noite, apos deitar. o exame fisico mostra abaulamento da membrana timpanica esquerda. qual a principal hipotese diagnostica e a conduta terapeutica?',
     options: ['A) trata-se de otite media aguda. o uso de antibioticoterapia esta indicado, pois o quadro clinico e compativel com otite media, cuja principal etiologia, nessa idade, e bacteriana. alem disso, a presenca de abaulamento da membrana timpanica sugere a etiologia bacteriana.', 'B) trata-se de otite media aguda. o uso de antibioticoterapia esta indicado, pois, apesar do abaulamento da membrana timpanica ser visto nas otites de etiologia viral e nas de etiologia bacteriana, a antibioticoterapia reduz o tempo de doenca.', 'C) trata-se de otite media aguda. o uso de medicacao sintomatica esta indicado, pois o quadro clinico e compativel com otite viral, sendo o abaulamento da membrana timpanica um forte elemento de diferenciacao a favor da etiologia viral.', 'D) trata-se de otite serosa. e indicado, portanto, o uso de antibioticoterapia nessa faixa etaria, ja que a presenca de abaulamento da membrana timpanica sugere o diagnostico de otite serosa.', 'E) trata-se de otite serosa. e indicado, portanto, o uso de sintomaticos, pois o abaulamento da membrana timpanica, patognomonico da otite serrosa, devera regridir com essa medida. 19 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q070',
@@ -828,7 +828,7 @@ export const generatedQuestions = [
     questionNumber: 70,
     questionText: 'homem, com 45 anos de idade, com dor epigastrica diaria, ocorrendo no periodo pos-prandial e a noite, e perda ponderal de 4 kg, comecou uso de inibidor de bomba de proton (ibp) com alguma melhora. informa que nao usa alcool ou antinfl amatorios nao hormonais. ainda na vigencia da medicacao realizou endoscopia digestiva alta que revelou gastrite nodosa de antro e corpo, e ulcera duodenal em fase de cicatrizacao. biopsias de mucosa gastrica foram realizadas durante o procedimento, e submetidas ao teste rapido de urease em fase liquida, cujo resultado foi negativo. quanto ao tratamento para helicobacter pylori nesse paciente, conclui-se que',
     options: ['A) nao ha necessidade de tratamento, pois o agente etiologico nao e o helicobacter pylori.', 'B) nao ha necessidade de tratamento, pois a cicatrizacao da ulcera ocorre apos a erradicacao da bacteria.', 'C) o tratamento esta indicado e o uso de ibp interfere no teste de urease.', 'D) ha necessidade de tratamento profi latico contra reinfeccao, mesmo havendo cura.', 'E) ha necessidade de tratamento especial para helicobacter pylori resistente aos antibioticos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q071',
@@ -840,7 +840,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'crianca em idade pre-escolar foi atendida na unidade basica de saude, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuacoes explosivas logo apos a ingestao de alimentos. no atendimento atual a crianca encontra-se desidratada, apresenta assadura perianal e distensao abdominal. os exames laboratoriais evidenciaram a presenca de substancias redutoras nas fezes e ph fecal menor do que 5,5. qual a suspeita diagnostica principal?',
     options: ['A) diarreia infecciosa persistente.', 'B) diarreia aguda recorrente.', 'C) parasitose intestinal.', 'D) intolerancia a lactose.', 'E) doenca infl amatoria pelvica. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q072',
@@ -852,7 +852,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'crianca, com seis anos de idade, e atendida em servico de urgencia. a mae informa que a crianca apresenta chiado no peito, tosse e falta de ar. ao exame, voce constata frequencia cardiaca = 125 bpm, frequencia respiratoria = 50 irpm, sibilos expiratorios, tiragem intercostal e batimento de asas do nariz. qual deve ser a conduta clinica para iniciar o tratamento da crianca?',
     options: ['A) salbutamol 5 mg/ml, 1 gt/2kg e brometo de ipratropio 0,25 mg/ml, 20 a 40 gotas; hidrocortisona 4 mg/2kg.', 'B) fenoterol 5 mg/ml, 1 gt/3kg; hidrocortisona 4 mg/2kg.', 'C) salbutamol 5mg/ml, 1gt/kg e brometo de ipratropio 0,25 mg/ml, 10 gotas; metilprednisolona 1 mg/kg.', 'D) fenoterol 5 mg/ml, 1 gt/kg; hidrocortisona 4 mg/kg.', 'E) salbutamol 5 mg/ml, 1 gt/3kg e brometo de ipratropio 0,25 mg/ml, 20 a 40 gotas; metilprednisolona 2 mg/kg.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q073',
@@ -864,7 +864,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'menina, com seis anos de idade, foi levada pela mae a consulta em unidade basica de saude por apresentar, ha uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38oc) e dor articular, localizada inicialmente no joelho esquerdo, acompanhada de calor e rubor discreto e que, ha dois dias, acomete o tornozelo direito. a mae informa que, ha cerca de seis semanas, a crianca apresentou quadro de infeccao de vias aereas superiores (faringite), que regrediu com o uso de amoxicilina durante cinco dias. ao exame fisico a crianca encontrava-se afebril, eupneica, hidratada, com intensa adinamia, hipocorada (+/4), frequencia cardiaca=125 bpm, pressao arterial= 100 x 60 mmhg. a ausculta cardiaca e a ausculta pulmonar foram normais. foi observada hiperemia, calor e dor no tornozelo direito, com limitacao de movimentos e a presenca de areas eritematosas com centros esbranquicados no tronco e na regiao proximal de membros superiores e inferiores. os exames laboratoriais revelaram: hemoglobina=10 g/dl, hematocrito=34%, leucocitos=14000/mm3, velocidade de hemossedimentacao = 26mm/h, proteina c reativa= 2,0 ng/ml (valor de referencia= <0,1 ng/ml); glicose, ureia e creatinina normais. o eletrocardiograma mostra um prolongamento do intervalo p-r (0,20 s). com base no quadro clinico descrito e nos exames complementares realizados, qual o provavel diagnostico dessa crianca?',
     options: ['A) artrite idopatica juvenil.', 'B) lupus eritematoso sistemico.', 'C) febre reumatica.', 'D) sindrome de reiter.', 'E) espondilartrose.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q074',
@@ -876,7 +876,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'paciente do sexo feminino, com 14 anos de idade, recebe atendimento medico por apresentar quadro de hematuria macroscopica acompanhada de mialgia discreta, adinamia, discreta hipertermia (temperatura axilar=37.8c). a mae informa que a paciente apresentou infeccao de vias exame nacional de revalidacao de diplomas medicos expedi revalida 2011 exam e nacional de revalidacao de diplomas medicos aereas superiores ha cerca de um mes, que regrediu apos tratamento com amoxicilina durante sete dias. por ocasiao dessa primeira consulta a paciente apresenta hipertensao arterial (pressao arterial = 150x110 mmhg), o fundo de olho e normal e nao ha outras alteracoes do exame fisico. a paciente e hospitalizada pois os primeiros exames laboratoriais ja mostram creatinina serica elevada (8,4 mg/dl) e ela evolui rapidamente com oligoanuria, edema e agravamento da funcao renal. a hematuria macroscopica regride, mas persiste hematuria microscopica, com presenca de cilindros hematicos e a paciente passa a apresentar tambem proteinuria (3g/24 h). a investigacao clinico-laboratorial nao evidencia presenca de vasculite ou doenca sistemica.',
     options: ['A) dosagem de complemento serico (c3, ch50) e normal; anticorpos antinucleares ausentes, pesquisa de fator anti-nuclear negativa. a paciente foi submetida a biopsia renal - fragmento com 30 glomerulos, com proliferacao das celulas epiteliais da capsula de bownan e infiltracao por macrofagos e linfocitos, configurando a presenca de crescentes epiteliais em 70% dos glomerulos, alguns com aspecto fibrocelular.', 'A) imunofluorescencia da biopsia renal, reproduzida abaixo, evidencia deposicao linear de igg - nao ha depositos mesangiais; imunofluorescencia negativa para igm, iga e c3. com base na historia clinica, evolucao e na biopsia renal e imunofl uorescencia, pergunta-se qual o mecanismo responsavel pelo dano glomerular?', 'A) reacao antigeno-anticorpo in situ ao longo da membrana basal glomerular.', 'B) deposicao de complexos imunes circulantes ao longo da membrana basal glomerular.', 'C) alteracoes da imunidade celular, notadamente de macrofagos e linfocitos t auxiliares.', 'D) deposicao de anticorpo antiantigeno citoplasmatico de neutrofi los.', 'E) deposicao de anticorpos antiantigenos estreptococicos ao longo da membrana basal glomerular. idos por instituicoes de educacao superior estrangeiras 20'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q075',
@@ -888,7 +888,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'paciente do sexo feminino, com 20 anos de idade, vai a unidade basica de saude queixando-se de corrimento genital presente ha um mes, de coloracao esbranquicada, em quantidade abundante, com odor fetido, que piora apos o coito. nao relata outros sintomas associados. a paciente iniciou a atividade sexual ha um ano e, nesse periodo, teve tres parceiros sexuais. atualmente tem apenas um parceiro e, nas relacoes sexuais, faz uso ocasional de preservativo. ao exame especular vaginal foi observado corrimento vaginal esbranquicado e abundante, fetido, e ausencia de anormalidades nas paredes vaginais e colo uterino. o teste de aminas foi positivo e o ph=5,5. qual o diagnostico principal e o tratamento adequado para esta paciente?',
     options: ['A) tricomoniase. tratar com metronidazol, por via oral, durante sete dias, e o parceiro com metronidazol em dose unica.', 'B) candidiase vulvovaginal. tratar a paciente com fl uconazol, por via oral, em dose unica.', 'C) vaginose bacteriana. tratar a paciente com metronidazol, por via oral , durante sete dias.', 'D) gonorreia. tratar a paciente e o parceiro com azitromicina em dose unica.', 'E) infeccao por clamidia. tratar a paciente com doxiciclina por 14 dias e o parceiro, com azitromicina em dose unica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q076',
@@ -900,7 +900,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'homem, com 29 anos de idade, vitima de queda de moto com explosao do baco, apresenta lesao hepatica sangrante e fratura fechada de ossos da perna esquerda. encontra-se na sala de recuperacao pos-anestesica de um hospital terciario, apos ter sido submetido a laparotomia exploradora, esplenectomia e rafi a hepatica, alem de fi xacao externa dos ossos da perna esquerda, ha 5 horas. o procedimento transcorreu sem intercorrencias. o paciente se queixa de dor em todo membro inferior operado, mais acentuadamente em terco distal de perna e pe. apresenta parestesia no membro esquerdo, com importante e tenso edema na perna. o tempo de perfusao na perna operada e de mais de tres segundos. o membro nao se encontra rodado e os fi xadores nao apresentam problemas aparentes. os pulsos femorais e popliteos sao presentes e normais bilateralmente, bem como os tibiais a direita. a esquerda, nota-se uma diminuicao acentuada dos pulsos tibial posterior e pedioso. diante desta situacao, o diagnostico e a conduta apropriada sao, respectivamente,',
     options: ['A) trombose venosa profunda; heparinizacao.', 'B) oclusao arterial aguda; tromboembolectomia de urgencia.', 'C) desalinhamento do sitio de fratura; reintervencao cirurgica.', 'D) sindrome compartimental; fasciotomia de urgencia.', 'E) trombose arterial aguda; trombolise. 21 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q077',
@@ -912,7 +912,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'paciente, com 27 anos de idade, segunda gestacao (um parto normal anterior), com idade gestacional de 38 semanas, confi rmada por ultrassonografi a de 10 semanas, apresenta dinamica uterina positiva e forte cefaleia. refere uso de metildopa - 750mg/dia em tres tomadas. foi admitida com esse quadro na emergencia de um hospital, queixando-se tambem de visao turva e de grande mal estar. a anamnese e exame fisico indicam paciente inquieta, poliqueixosa, referindo medo de morrer. pressao arterial = 190x120mmhg, colo uterino fi no e dilatado para 8 cm, apresentacao cefalica, dorso a esquerda, contracoes uterinas presentes - tres em 10 minutos, de 45 segundos . com base no quadro acima, qual o diagnostico correto e a conduta a ser adotada?',
     options: ['A) pre-eclampsia grave. paciente com indicacao de parto cesareo apos normalizacao pressorica com nifedipina ou hidralazina.', 'B) eclampsia eminente. indicacao de sulfato de magnesio e hidralazina para correcao dos niveis pressoricos e resolucao do parto por via alta.', 'C) pre-eclampsia grave. indicacao de sulfato de magnesio e nifedipina para correcao dos niveis pressoricos e resolucao por parto abdominal.', 'D) crise hipertensiva na gestacao e pre eclampsia. indicacao de cesarea pela necessidade de remocao da placenta e introducao de nifedipina para correcao dos niveis pressoricos.', 'E) eminencia de eclampsia. indicacao de sulfato de magnesio e hidralazina para correcao dos niveis pressoricos e resolucao por parto vaginal.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q078',
@@ -924,7 +924,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'primigesta, com 16 anos de idade, procura a unidade basica de saude para sua primeira consulta pre-natal, na trigesima sexta semana de gestacao. a paciente disse nao ter iniciado o pre-natal antes, pois demorou a aceitar a gestacao, e nao quer ter um parto vaginal. relata que brigou com os pais e esta morando com o pai da crianca, que tem 25 anos e e saudavel. o exame fisico nao revela anormalidades e o exame obstetrico mostra altura uterina de 34 cm, batimentos cardiofetais com frequencia de 140 bpm e o toque vaginal evidenciou colo grosso, posterior e impervio. qual a conduta a seguir?',
     options: ['A) solicitar a presenca dos pais para realizar a consulta, por se tratar de menor de idade.', 'B) pedir os exames de rotina pre-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar a presenca do pai da crianca na proxima consulta.', 'C) encaminhar a paciente para avaliacao diretamente na maternidade, devido ao inicio tardio do pre-natal.', 'D) encaminhar a paciente para a maternidade, pois as caracteristicas da gestacao na adolescencia indicam que a via de parto devera ser a cesarea.', 'E) solicitar os exames de rotina pre-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar retorno antecipado ao pre-natal. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q079',
@@ -936,7 +936,7 @@ export const generatedQuestions = [
     questionNumber: 79,
     questionText: 'mulher, com 20 anos de idade, branca, e recebida no pronto-socorro com queixa de edema ha uma semana. inicialmente, o edema era nos membros inferiores, porem, agora, nota a face edemaciada. relata, ainda, diminuicao do volume urinario, astenia, hiporexia, mal-estar e febre baixa. quanto aos antecedentes patologicos, artralgia de interfalangeanas proximais ha cerca de oito meses. na ocasiao, fez uso de prednisona com desaparecimento do quadro. nao usa nenhuma medicacao no momento. o exame clinico demonstra estado geral regular, hipocorada (++/4), edema de membros inferiores (++/4) e de face. ausculta pulmonar com murmurio vesicular presente e simetrico, sem ruidos adventicios. ausculta cardiaca com ritmo cardiaco regular, em 2 tempos, sem sopros, pressao arterial = 160 x 110 mmhg, frequencia cardiaca = 120 bpm. abdome fl acido, sem visceromegalias. exames no pronto-socorro: hemoglobina = 8,0 g/l, hematocrito 24,0 %, leucocitos totais = 2.400 /mm3 (segmentados= 84%, bastoes= 2%, linfocitos = 8%, eosinofi los = 2%, monocitos = 2%), plaquetas = 100.000 /mm3 (valor de referencia = 150.000  300.000 /mm3). ureia = 140 mg/dl, (valor de referencia: 15-40 mg/dl), creatinina = 2,0 mg/dl (valor de referencia: 0,6-1,2 mg/dl), potassio = 5,5 meq/l (valor de referencia: 3,5-5,0 meq/l). qual a hipotese diagnostica para o caso?',
     options: ['A) endocardite infecciosa.', 'B) dengue.', 'C) pielonefrite.', 'D) insufi ciencia renal cronica.', 'E) lupus eritematoso sistemico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q080',
@@ -948,7 +948,7 @@ export const generatedQuestions = [
     questionNumber: 80,
     questionText: 'paciente, com 25 anos de idade, secundigesta, com parto cesareo anterior (g2p1c1), pre-natal sem intercorrencias, foi internada em trabalho de parto e apresenta evolucao de acordo com partograma, apresentado abaixo. na decima hora de evolucao, apresenta atividade uterina regular de 5 contracoes/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm. analisando o partograma, qual e o diagnostico e a conduta para o caso?',
     options: ['A) parada secundaria da descida e forceps.', 'B) parada secundaria da dilatacao e ocitocina.', 'C) parada secundaria da dilatacao e forceps.', 'D) parada secundaria da descida e cesarea.', 'E) periodo expulsivo prolongado e cesarea.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q081',
@@ -960,7 +960,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'homem, com 65 anos de idade, tabagista, internado com suspeita de trombose venosa profunda, realizou tomografi a de torax e angiotomografi a de membro inferior com contraste. dois dias apos o procedimento, houve reducao de volume urinario para 400ml, em 24 horas. exames solicitados em carater de urgencia evidenciam creatinina = 2,5 mg/dl, k = 5,7 meq/l e ureia = 112 mg/dl. o eletrocardiograma realizado mostra hemibloqueio de ramo esquerdo e alteracoes inespecifi cas da repolarizacao ventricular. para o caso, considerando os niveis de potassio serico, a intervencao apropriada, neste momento e',
     options: ['A) furosemida ev.', 'B) gluconato de calcio ev.', 'C) resina trocadora de potassio oral.', 'D) betaadrenergico inalatorio.', 'E) insulina com glicose ev. idos por instituicoes de educacao superior estrangeiras 22'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q082',
@@ -972,7 +972,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'um menino, com quatro anos de idade, chegou ao setor de emergencia com grave alteracao na perfusao sistemica. sua mae relatou que o menor estava febril ha 20 dias e que nao havia feito o tratamento indicado pelo medico para infeccao do trato urinario. foi diagnosticado choque septico e administrado oxigenio (concentracao 100%), providenciado acesso venoso e iniciada a infusao de soro fisiologico, 30 ml/kg em quinze minutos, sendo entao realizada a sequencia rapida de intubacao orotraqueal e instalada ventilacao pulmonar mecanica. apos essa conduta, enquanto esperava vaga na unidade de cuidados intensivos, o paciente foi reavaliado e apresentou: frequencia respiratoria = 40 irpm, frequencia cardiaca = 140 bpm, tempo de enchimento capilar de cinco segundos, pressao arterial = 75 x 50 mmhg. as extremidades estavam frias. diante desse quadro, qual deve ser a conduta para essa crianca?',
     options: ['A) manter infusao de volume e iniciar dopamina ou dobutamina.', 'B) manter infusao de volume e iniciar dopamina ou norepinefrina.', 'C) suspender infusao de volume e iniciar dopamina dose alfa adrenergica ou epinefrina.', 'D) manter infusao de volume e iniciar dopamina dose alfa adrenergica ou norepinefrina.', 'E) manter infusao de volume e iniciar dopamina dose alfa adrenergica ou epinefrina. 23 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q083',
@@ -984,7 +984,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'paciente, com 29 anos de idade, procura o pronto-socorro local em virtude de queimadura com agua quente na coxa direita, ocorrida ha 10 minutos enquanto preparava cafe. queixa-se de dores no local da queimadura. informa ter dado a luz ha dois anos e o cartao de acompanhamento da gestante mostra que todo o esquema vacinal foi realizado adequadamente. a paciente esta consciente, orientada, eupneica, hidratada, normocorada e afebril, frequencia cardiaca = 79bpm, pressao arterial = 120x80mmhg. ao exame local apresenta fl ictenas, eritema e edema em face anterior de coxa direita. qual a conduta para o caso descrito?',
     options: ['A) realizar lavagem da ferida com solucao fi siologica a 0,9%. analgesia endovenosa com dipirona. recomendar nao romper as fl ictenas e realizar curativo com solucao fi siologica a 0,9%, associada a sulfadiazina de prata. analgesia domiciliar com dipirona, se necessario.', 'B) realizar a limpeza da ferida com clorhexidina. analgesia endovenosa com meperidina endovenosa e antibioticoterapia oral com cefalexina - 500mg por via oral, de 6/6h durante 7 dias. recomendar nao romper as fl ictenas e realizar curativo com solucao fi siologica a 0,9% e neomicina. analgesia domiciliar com cloridrato de tramadol.', 'C) realizar a limpeza da ferida com pvpi (polivinilpirrolidona-iodo, lauril ester sulfato de sodio) topico seguida de termoterapia com gelo. analgesia endovenosa com cloridrato de tramadol e antibioticoterapia parenteral com penincilina benzatina por via im. recomendar rotura e debridamento das fl ictenas e curativo com clorhexidina e sulfadiazina de prata topico.', 'D) realizar lavagem da ferida com soro fi siologico a 0,9%. analgesia oral com paracetamol. realizar curativo com clorhexidina e lidocaina topica, romper as fl ictenas e realizar debridamento de tecidos desvitalizados. antibioticoterapia parenteral com penincilina cristalina por via im. curativo oclusivo com clorhexidina.', 'E) realizar limpeza da ferida com soro fi siologico a 0,9%. analgesia oral com dipirona. recomendar nao romper as fl ictenas. realizar curativo com pvpi (polivinilpirrolidona-iodo, lauril ester sulfato de sodio) e lidocaina topica. prescrever analgesia oral com tramadol e antibioticoterapia com amoxicilina + acido clavulanico - 500mg por via oral, de 8/8h durante 7 dias. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q084',
@@ -996,7 +996,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'um lactente, com nove meses de idade, foi levado ao pronto atendimento porque, ha 5 horas vem apresentando choro inconsolavel, vomitos, fezes com sangue e distensao abdominal. a mae refere que a crianca fi cou gripada ha uma semana. durante o exame fisico, o pediatra palpou massa abdominal e solicitou radiografi a simples de abdome que foi inespecifi ca e ultrassonografi a de abdome total que mostrou aneis concentricos de camadas hipoecoicas e hiperecoicas alternantes, com porcao central hiperecoica (sinal da rosquinha/alvo/olho de boi). foi encaminhado ao centro cirurgico para laparotomia. baseado nos sintomas apresentados, o quadro descrito e compativel com abdome agudo, tendo como causa',
     options: ['A) volvo do intestino medio.', 'B) hernia inguinal estrangulada.', 'C) diverticulo de meckel.', 'D) intussuscepcao intestinal.', 'E) oclusao intestinal por ascaris lumbricoides.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q085',
@@ -1008,7 +1008,7 @@ export const generatedQuestions = [
     questionNumber: 85,
     questionText: 'primigesta, com 23 anos de idade, 27 semanas de gestacao, procura servico de urgencia relatando que, ha dois dias, apresenta dor na regiao lombar a direita. relata, ainda, que ha um dia vem se sentindo muito mal, com calafrios e nauseas. hoje, pela manha, apresentou febre de 38,5 oc, tendo feito uso de antitermico. ao exame fisico: estado geral regular; descorada +/4+; levemente desidratada; afebril, eupneica; frequencia cardiaca de 104 bpm; pressao arterial = 110 x 70 mmhg. relatou dor intensa a punho percussao na regiao lombar direita. ao exame obstetrico: altura uterina de 28 cm, 156 batimentos cardiacos fetais por minuto, movimentos fetais presentes, ausencia de contracoes uterinas. qual a conduta a ser tomada?',
     options: ['A) solicitar exame sumario de urina e de urocultura e retorno em 24 horas para resultado de exames.', 'B) hemograma, urocultura, antibioticoterapia e retorno em 24 horas para resultado de urocultura.', 'C) internacao hospitalar, hidratacao e antibioticoterapia, apos resultado da cultura de urina.', 'D) hemograma, ultrassonografi a de abdome e de vias urinarias e antibioticoterapia por via oral.', 'E) internacao hospitalar, hemograma, eletrolitos, cultura de urina e antibioticoterapia endovenosa.'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q086',
@@ -1020,7 +1020,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'crianca do sexo masculino, com tres anos de idade e que apresenta anemia falciforme, e levado pela mae a consulta na unidade basica de saude porque esta tendo febre ha quatro dias, chegando a 39c. apresenta tosse produtiva que aumentou de intensidade. encontra-se em estado geral de prostracao e a mae notou que a crianca esta mais palida e icterica nos ultimos dias. o pediatra encaminhou a crianca de imediato para o hospital de referencia, considerando que',
     options: ['A) as infeccoes sao as complicacoes mais frequentes na anemia falciforme, acompanhadas de esplenomegalia que se acentua apos os cinco anos de idade.', 'B) a importancia das infeccoes como complicacoes na anemia falciforme, deve-se a maior susceptibilidade a bacteria salmonella na faixa etaria abaixo dos cinco anos.', 'C) a mortalidade entre criancas falcemicas menores de cinco anos e elevada, sendo as complicacoes mais frequentes as infeccoes por haemophilus infl uenzae tipo b (hib) e por pneumococo.', 'D) as infeccoes sao as complicacoes mais frequentes, e o uso de profi laxia com penicilina e contra-indicado pelos riscos de aumento da taxa de colonizacao por cepas de pneumococos resistentes.', 'E) as infeccoes sao as complicacoes mais frequentes, o que leva a necessidade de profi laxia com penicilina, recomendada do momento do diagnostico da anemia falciforme e mantida por toda a vida.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q087',
@@ -1032,7 +1032,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'gestante de 39 semanas, com quatro gestacoes e tres partos, foi internada no pre-parto com dinamica uterina de tres contracoes fortes em 10 minutos, cervicodilatacao de 5 cm, bolsa integra e cardiotocografi a com padrao ativo. em uma hora evoluiu para 7 cm de dilatacao, apresentando quatro contracoes fortes em 10 minutos. qual deve ser a indicacao de analgesia obstetrica para essa paciente?',
     options: ['A) bloqueio de pudendo no segundo periodo do parto, visto que a paciente e multipara.', 'B) bloqueio peridural com anestesico local e cateter para complementacao anestesica subsequente.', 'C) bloqueio raquidiano em sela com anestesico local.', 'D) analgesia endovenosa com meperidina.', 'E) nao ha necessidade de analgesia e o parto ocorrera rapidamente se considerarmos a evolucao do trabalho de parto na ultima hora. idos por instituicoes de educacao superior estrangeiras 24'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q088',
@@ -1044,7 +1044,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'homem, com 25 anos de idade, solteiro, procura atendimento na unidade basica de saude, queixando-se de ferida genital. ao exame clinico, foi observada lesao peniana ulcerada, eritematosa, com diametro de 1 cm, sem secrecao, base endurada, limites nitidos, bordas a pique, nao dolorosa, nem pruriginosa. qual o diagnostico clinico principal?',
     options: ['A) sifi lis primaria.', 'B) sifi lis secundaria.', 'C) cancro mole.', 'D) cancro misto.', 'E) linfogranuloma venereo.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q089',
@@ -1056,7 +1056,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'adolescente do sexo masculino, com 14 anos de idade, busca atendimento em unidade basica de saude por considerar sua estatura muito baixa. o seu peso ao nascer foi de 3 kg e o comprimento, de 50 cm. manteve- se com velocidade de crescimento adequada ate os dois anos de vida. depois desse periodo, o pediatra constatou desaceleracao no padrao de crescimento. atualmente, apresenta velocidade de crescimento e estatura compativeis com a idade ossea. estagio de tanner = 1; idade ossea = 13,5 anos; radiografi a de cranio normal. qual a conduta adequada para essa situacao?',
     options: ['A) encaminhar o paciente para endocrinologista para inducao puberal imediata com testosterona.', 'B) referenciar o paciente para endocrinologista para inducao imediata do crescimento com sulfato de zinco.', 'C) acompanhar a evolucao e nao referenciar o paciente nesse momento, pois trata-se de atraso puberal constitucional.', 'D) referenciar o paciente para endocrinologista para investigacao imediata de hipogonadismo hipogonadotrofi co.', 'E) nao referenciar o paciente e tranquiliza-lo, pois nao ha evidencia de atraso puberal.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q090',
@@ -1068,7 +1068,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'mulher, com 21 anos de idade, estava proxima ao ponto de onibus, quando foi abordada por um individuo estranho, que mediante ameaca com uma faca a obrigou entrar em uma casa abandonada, proxima aquele local, onde a agrediu fi sicamente e obrigou-a a manter relacao sexual vaginal e anal. em seguida o agressor evadiu-se. a mulher procurou, imediatamente um posto policial onde foi orientada a buscar auxilio medico e foi encaminhada a unidade de atendimento de emergencia. 25 exame nacional de revalidacao de diplomas medicos expedi analise os itens abaixo: i. comunicar a unidade policial para a realizacao de boletim de ocorrencia, apos autorizacao da paciente. ii. nao realizar toque vaginal ao atender a paciente por ser vitima de violencia sexual e estupro. iii. promover o acolhimento da paciente e examinar para verifi car se existem lesoes. iv. explicar que trata-se de atendimento exclusivo da alcada do instituto medico legal. v. promover assistencia medica visando a prevencao de doencas de transmissao sexual. vi. ofertar anticoncepcao de emergencia caso nao possua um metodo anticonceptivo efetivo. vii. solicitar, antes de iniciar a avaliacao da paciente, a presenca do pai ou marido, se for o caso. assinale a alternativa que contem apenas itens corretos de medidas medico-legais a serem tomadas pelo medico de plantao.',
     options: ['A) i, iv, vi e vii.', 'B) i, ii, iv e vii.', 'C) i, iii, v e vi.', 'D) ii, iii, iv e vi.', 'E) iii, v, vi e vii.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q091',
@@ -1080,7 +1080,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'paciente, com 25 anos de idade, sem queixas, retorna para consulta de rotina na unidade basica de saude trazendo o resultado do exame citopatologico do colo uterino que apresentou amostra satisfatoria, com atipia de celulas escamosas de signifi cado indeterminado (ascus). o exame especular vaginal feito na consulta em que o material colhido era normal. o citopatologico anterior da paciente havia sido colhido dois anos antes e nao apresentava sinais de malignidade. qual a conduta a ser adotada?',
     options: ['A) encaminhar a paciente para colposcopia com biopsia dirigida.', 'B) solicitar retorno da paciente em seis meses para repetir o exame citopatologico.', 'C) encaminhar a paciente para avaliacao especializada em setor de patologia do trato genital inferior.', 'D) tratar a paciente com creme vaginal de metronidazol e repetir o citopatologico em seguida.', 'E) colher o exame novamente, pois trata-se de erro do laboratorio. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q092',
@@ -1092,7 +1092,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'paciente, com 60 anos de idade, do sexo masculino, residente da zona da mata de pernambuco, procura servico medico de urgencia porque iniciou ha 48 horas dor abdominal em colica, agora difusa, vomitos de cor acastanhada escura e odor fetido. relata ter intestino preso, ha muitos anos, mas nunca se preocupou, pois sempre foi assim. nao faz uso de qualquer medicacao e nunca foi submetido a procedimento cirurgico. nao e tabagista e nem etilista. ao exame, esta desidratado, hipocorado 1+/++++, frequencia cardiaca = 110 bpm, pressao arterial = 90/40 mmhg, sem alteracao do aparelho respiratorio. apresenta abdome muito distendido, com ruidos hidroaereos presentes, com timbre metalico, timpanico e doloroso a percussao difusa e a palpacao superfi cial em todo o abdome. alem da correcao da desidratacao, a conduta sequencial para esse paciente e',
     options: ['A) iniciar sedacao e encaminha-lo para tratamento cirurgico de urgencia.', 'B) passar cateter nasogastrico, prescrever jejum e iniciar antibioticoterapia.', 'C) passar cateter nasogastrico e encaminha-lo para tratamento cirurgico de urgencia.', 'D) encaminhar para centro de especialidades medicas para realizar propedeutica complementar e diagnostico.', 'E) prescrever jejum, iniciar antibioticoterapia e encaminha-lo para tratamento cirurgico de urgencia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q093',
@@ -1104,7 +1104,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'mulher, com 35 anos de idade, obesa. teve duas gestacoes, um parto e zero abortos. atualmente, gestante de 14 semanas, vem a consulta de pre-natal trazendo seus exames, nos quais a glicemia de jejum tem valor de 90 mg/dl. tem historico obstetrico com fi lho anterior pesando 4.200 g, nascido com 37 semanas e cinco dias. nesse caso, alem da orientacao dietetica para prevencao de ganho de peso anormal, a conduta apropriada e',
     options: ['A) internacao para realizar perfi l glicemico e realizacao de ecografi a pelo alto risco de mas formacoes fetais, especialmente cardiacas e de tubo neural.', 'B) realizacao de teste de sobrecarga da glicose e, se normal, reavaliacao em idade gestacional posterior.', 'C) realizacao de teste de sobrecarga da glicose e, se alterado, introducao de insulina.', 'D) realizacao de teste oral de sobrecarga da glicose e, se normal, afastada a possibilidade de desenvolvimento de diabetes gestacional durante a gravidez atual.', 'E) internacao para realizar perfi l glicemico e introducao de insulina para prevenir macrossomia fetal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q094',
@@ -1116,7 +1116,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'primigesta, com 30 anos de idade e idade gestacional de 18 semanas, retorna para sua segunda consulta de pre-natal. a gestacao transcorre bem e a paciente nao tem nenhuma queixa. traz, dentre os exames solicitados na primeira consulta, a pesquisa para hiv com resultado indeterminado. a paciente nunca havia feito a sorologia anteriormente. conta que o parceiro e saudavel e nao tem historico de dst. que conduta deve ser tomada neste caso?',
     options: ['A) solicitar inicialmente a sorologia do parceiro e, caso negativa, encerrar a pesquisa.', 'B) solicitar a repeticao do teste, uso de preservativo em todas as relacoes sexuais e prescrever antirretroviral, de maneira a evitar o risco de transmissao fetal.', 'C) solicitar imediatamente nova sorologia, orientando o uso de preservativo em todas as relacoes sexuais enquanto aguarda o resultado.', 'D) solicitar nova sorologia em 30 dias, orientando o uso de preservativo em todas as relacoes sexuais.', 'E) encaminhar a paciente para avaliacao do infectologista.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q095',
@@ -1128,7 +1128,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'visando aferir, em nosso meio, os fatores que infl uenciam no crescimento de pre-escolares, com destaque para a suplementacao nutricional, foi desenvolvido um estudo em uma populacao de bairro periferico de uma cidade do interior paulista. durante um ano, em quatro observacoes trimestrais, acompanhou-se a evolucao de indicadores de peso e altura de 444 criancas, identifi cadas em censo especifi co. entre essas, 164 eram assistidas por creche local, enquanto as outras 280 nao recebiam esse tipo de tratamento. a admissao a essa creche dava-se por meio da comprovacao de que a mae trabalhava fora do lar. o plano analitico adotou a analise multivariada por regressao linear multipla. quanto ao delineamento, podemos afi rmar que esse estudo e',
     options: ['A) randomizado.', 'B) quasi-experimental.', 'C) caso-controle.', 'D) descritivo.', 'E) transversal. idos por instituicoes de educacao superior estrangeiras 26'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q097',
@@ -1140,7 +1140,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'um paciente, com 55 anos de idade, etilista cronico, procurou um pronto-atendimento com hematemese e alteracao do nivel de consciencia. ao exame fisico, observou-se individuo emagrecido, agitado, com pressao arterial de 80 x 50 mmhg, palido, taquipneico, com moderada ascite. apos internacao, os exames laboratoriais revelaram dosagem de albumina de 2,6 g/dl, bilirrubina de 3,5 mg/dl, inr (international normalized ratio) = 2,0 e sorologia positiva para virus da hepatite c. as enzimas hepaticas encontravam-se elevadas e a razao entre ast/alt duas vezes maior que o normal. a dosagem de ggt estava elevada. qual a causa principal de descompensacao clinica deste paciente?',
     options: ['A) baixo debito cardiaco.', 'B) ingestao elevada de alcool.', 'C) hipoalbuminemia.', 'D) intoxicacao medicamentosa.', 'E) reativacao da hepatite cronica. 27 exame nacional de revalidacao de diplomas medicos expedi'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q098',
@@ -1152,7 +1152,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'paciente, com 35 anos de idade, nuligesta, procura medico para realizar exames de mama. relata ter muito medo, pois sua mae teve cancer de mama bilateral, diagnosticado aos 49 anos. o exame clinico das mamas e normal, bem como o restante do exame fisico da paciente. qual a conduta a ser adotada pelo medico no rastreamento do cancer de mama para esta paciente?',
     options: ['A) autoexame de mamas mensal e exame clinico anual.', 'B) exame clinico e mamografi a anuais.', 'C) exame clinico, mamografi a e ultrassonografi a mamaria anuais.', 'D) exame clinico e mamografi a a cada dois anos.', 'E) exame clinico anual e ressonancia magnetica de mamas a cada dois anos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q099',
@@ -1164,7 +1164,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'paciente, internado ha oito dias em hospital secundario, vitima de politraumatismo por queda de moto apresentava trauma toracico e abdominal contusos. foi submetido a drenagem toracica direita devido a hemotorax, com sucesso, sendo o dreno retirado sem intercorrencias, ha dois dias. foi submetido a laparotomia exploradora sendo realizada rafi a de lesao hepatica e limpeza da cavidade. paciente evoluia satisfatoriamente, alimentando-se, deambulando e evacuando normalmente, porem ha 24 horas queixa-se de dor toracica a inspiracao, com irradiacao para o dorso, tosse seca, folego curto e falta de ar. apresentou dois picos febris nas ultimas 24 horas. o abdome e indolor, depressivel, com ruidos hidroaereos presentes e normais. a ausculta do torax revela murmurio vesicular discretamente diminuido em base pulmonar direita. diante desta situacao, pergunta-se qual a hipotese diagnostica e a conduta?',
     options: ['A) empiema pleural. radiografi a simples de torax. drenagem toracica.', 'B) pneumonia hospitalar. raio x simples de torax. iniciar ceftriaxona 2g/dia por via endovenosa.', 'C) encarceramento pulmonar. tomografi a computadorizada de torax. decorticacao pulmonar.', 'D) atelectasia pulmonar a direita. raio x simples de torax. fisioterapia respiratoria e deambulacao.', 'E) abcesso pulmonar. tomografi a de torax. lobectomia de urgencia. idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'E',
   },
   {
     id: '2011-q100',
@@ -1188,7 +1188,7 @@ export const generatedQuestions = [
     questionNumber: 101,
     questionText: 'crianca do sexo masculino, com quatro anos de idade, e atendido na unidade basica de saude com historia de febre ha tres dias, cansaco, tosse seca frequente, as vezes seguida de vomitos, astenia, anorexia e dor abdominal. ha dez dias apresentou resfriado febril com duracao de cinco dias, tendo usado ampicilina por dois dias. no momento o estado geral e regular, apresenta dispneia leve, palidez e hipoatividade. a ausculta pulmonar revela diminuicao do murmurio vesicular em terco inferior do hemitorax dorsal direito. peso e estatura adequados para a idade. nao informa doencas anteriores.tem mais dois irmaos saudaveis. esta em uso de salbutamol, de 6/6 horas, ha tres dias.',
     options: ['A) conduta apropriada para a crianca e', 'A) apenas sintomatico e manter o salbutamol.', 'B) internacao e uso de penicilina endovenosa.', 'C) ampicilina via oral, em doses e intervalos adequados.', 'D) amoxicilina, via oral, em doses e intervalos adequados.', 'E) investigar imunodefi ciencia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q102',
@@ -1200,7 +1200,7 @@ export const generatedQuestions = [
     questionNumber: 102,
     questionText: 'em relacao a osteoporose, e correto afi rmar que',
     options: ['A) sao considerados fatores de risco de osteoporose nao modifi caveis: idade, pequena estrutura corporal, origem etnica, historia familiar de osteoporose.', 'B) sao considerados fatores de risco de osteoporose modifi caveis: tabagismo, consumo excessivo de alcool, terapia de reposicao hormonal estrogenica.', 'C) nas mulheres com antecedentes familiares de osteoporose, a avaliacao diagnostica da densidade mineral ossea deve ser recomendada a partir de 40 anos.', 'D) o uso de reposicao de calcio e vitamina d aliada ao uso de bifosfonatos deve ser considerado apenas nos casos de ocorrencia de fraturas previas.', 'E) os efeitos de deplecao ossea, induzidos pelo uso prolongado de corticoides, no hipotireoidismo e na doenca renal cronica podem ser evitados pela ingesta complementar de calcio.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q103',
@@ -1212,7 +1212,7 @@ export const generatedQuestions = [
     questionNumber: 103,
     questionText: 'paciente, com 55 anos de idade, procurou consultorio medico referindo o aparecimento de nodulo na regiao cervical a direita. o exame fisico constatou que o paciente apresentava nodulo tireoideano a direita, de aproximadamente 6 cm. a ultrassonografi a revelou nodulo isoecogenico, de 6 cm, no lobo inferior da tireoide. o estudo citologico, realizado em material colhido por puncao aspirativa de agulha fi na, foi sugestivo de carcinoma papilifero. o paciente foi entao submetido a tireoidectomia, sem registro de intercorrencias no ato operatorio. no pos-operatorio imediato o paciente passou a apresentar rouquidao e a laringoscopia realizada revelou paralisia de prega vocal a direita. mediante o quadro clinico e considerando a anatomia cirurgica, qual a causa prevalente de rouquidao nesses casos?',
     options: ['A) lesao do ramo tireoideano do ganglio simpatico cervical durante o ato cirurgico.', 'B) lesao da alca cervical do nervo parasimpatico cervical durante o ato cirurgico.', 'C) lesao do ramo inferior do nervo laringeo superior durante o ato cirurgico.', 'D) lesao do nervo laringeo superior durante o ato cirurgico.', 'E) lesao do nervo laringeo recorrente durante o ato cirurgico. idos por instituicoes de educacao superior estrangeiras 28'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q104',
@@ -1224,7 +1224,7 @@ export const generatedQuestions = [
     questionNumber: 104,
     questionText: 'gestante, primigesta, 18 anos de idade, com dezessete semanas de gestacao, traz cartao de vacinacao para a consulta de pre-natal, mostrando esquema vacinal completo para tetano aos 10 anos de idade. em relacao a recomendacao do esquema vacinal da dupla adulto (difteria e tetano), durante a gravidez, qual a conduta correta para essa gestante?',
     options: ['A) repetir esquema vacinal completo, composto por tres doses.', 'B) repetir esquema vacinal modifi cado, composto por duas doses.', 'C) aplicar dose de reforco, pois o esquema vacinal completo foi realizado ha mais de cinco anos.', 'D) nao aplicar dose de reforco, ja que o esquema vacinal completo foi realizado ha menos de dez anos.', 'E) nao realizar vacinacao, pois a vacina dupla adulto nao faz parte dos cuidados da assistencia pre-natal.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q105',
@@ -1236,7 +1236,7 @@ export const generatedQuestions = [
     questionNumber: 105,
     questionText: 'para a resolucao da questao a seguir, primeiro leia o caso clinico, depois analise as assertivas relacionadas a ele e, em seguida, marque a alternativa correta. caso: gestante, com 18 anos de idade, primigesta, gestacao com 39 semanas e 6 dias, foi admitida no setor de emergencia obstetrica apresentando convulsoes tonico-clonicas generalizadas. ao exame fisico: pressao arterial=180 x 120mmhg, bcf=65 bpm; hipertonia uterina franca, toque vaginal: colo uterino fechado, grosso e posterior. apos administracao endovenosa de sulfato de magnesio e controle da crise convulsiva, a paciente foi encaminhada ao centro obstetrico para resolucao por via alta, com as hipoteses diagnosticas de eclampsia, descolamento prematuro de placenta e sofrimento fetal agudo. o parto cesareo ocorreu de forma rapida, atraves de incisao mediana, apos anestesia geral. nao havia acompanhantes da gestante na sala de parto. o recem-nascido nasceu com peso de 3.850g, medindo 50cm, palido, hipotonico, nao responsivo, sem choro. foi imediatamente atendido pelo pediatra que identifi cou ausencia de batimentos cardiacos e procedeu as manobras de ressuscitacao neonatal, sem sucesso. apos o nascimento, confi rmou-se o descolamento extenso da placenta, com grande quantidade de sangue e coagulos retroplacentarios. na evolucao do parto operatorio, nao houve contracao do utero, e apos exaustivas manobras e medicamentos uterotonicos, nao houve controle da hemorragia uterina profusa, que levou a equipe medica a realizar histerectomia puerperal.',
     options: ['A) hemorragia foi entao controlada e a intervencao 29 exame nacional de revalidacao de diplomas medicos expedi concluida sem outras intercorrencias. todo o suporte de vida necessario durante o trans e o pos-operatorio foi disponibilizado. a parturiente foi encaminhada a unidade de terapia intensiva (uti), em estado grave, sob ventilacao mecanica e apresentando quadro de coagulacao intravascular disseminada. apos dez dias, obteve alta da uti e foi encaminhada para a enfermaria obstetrica, ainda com estado geral comprometido e, pela primeira vez, consciente apos o parto. chegando a enfermaria, perguntou pelo recem-nascido. assertivas: i. a melhor conduta neste caso, em relacao ao obito do recem-nascido, seria nao informar a mae neste momento, dizendo apenas que o recem- nato estaria em estado grave na uti-neonatal. ii. a responsabilidade de assinar o atestado de obito do recem-nato e do obstetra. iii. a equipe medica deveria ter consultado a familia da parturiente antes da decisao de realizar a histerectomia puerperal, tendo em vista a idade da paciente, o fato de ser primigesta, alem da morte do recem-nato. iv. a julgar pelo relato do caso, existem evidencias de impericia e imprudencia, mas nao de negligencia por parte da equipe medica. v. nao houve, a julgar pelo relato do caso, evidencias de negligencia, impericia ou imprudencia por parte da equipe medica. estao de acordo com os preceitos eticos da assistencia medica apenas as afi rmacoes:', 'A) i e ii.', 'B) ii e v.', 'C) iii e iv.', 'D) i e v.', 'E) iii e v.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2011-q106',
@@ -1248,7 +1248,7 @@ export const generatedQuestions = [
     questionNumber: 106,
     questionText: 'considere que, em uma cidade de dois milhoes de habitantes, houve 400 casos de gripe pelo virus h1n1, no ano de 2009. oito pessoas faleceram. o calculo do coefi ciente de letalidade das infeccoes pelo virus h1n1 nessa cidade resulta em que valor?',
     options: ['A) 0,000004', 'B) 0,0002', 'C) 0,02', 'D) 0,04', 'E) 0,2 idos por instituicoes de educacao superior estrangeiras'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q107',
@@ -1260,7 +1260,7 @@ export const generatedQuestions = [
     questionNumber: 107,
     questionText: 'considere uma comunidade rural, onde um numero aparentemente elevado de neonatos com ma formacao congenita e atribuido pelas maes agricultoras aos agrotoxicos utilizados na lavoura. ao realizar um estudo de coorte retrospectivo dos nascimentos ocorridos na cidade nos ultimos tres anos, foi encontrado um risco relativo igual a 1,5, com um intervalo de confianca de 95%, entre 1,02 e 2,57. qual a interpretacao desse estudo?',
     options: ['A) maes agricultoras tem risco 50% maior de conceber fi lhos com ma formacao congenita em relacao a maes nao-agricultoras.', 'B) maes agricultoras tem risco 95% maior de conceber fi lhos com ma formacao congenita em relacao a maes nao-agricultoras.', 'C) maes agricultoras tem risco 102% maior de conceber fi lhos com ma formacao congenita em relacao a maes nao-agricultoras.', 'D) maes agricultoras tem risco 150% maior de conceber fi lhos com ma formacao congenita em relacao a maes nao-agricultoras.', 'E) maes agricultoras tem risco 257% maior de conceber fi lhos com ma formacao congenita em relacao a maes nao-agricultoras.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2011-q108',
@@ -1272,7 +1272,7 @@ export const generatedQuestions = [
     questionNumber: 108,
     questionText: 'crianca, com 5 anos de idade, mora com os pais em bairro de periferia. seu pai e fumante, ha tres meses apresenta tosse cronica, produtiva, sudorese noturna e febre diaria e nao procura cuidados medicos. sua mae e aparentemente saudavel. ha tres semanas, a crianca iniciou tosse produtiva com escarro purulento, febre ao fi nal da tarde e emagrecimento. o cartao de vacinas demonstra que ele foi vacinado com bcg id no primeiro ano de vida. no atendimento e constatada temperatura oral de 37,5 c, taquipneia e reducao de murmurio vesicular em terco medio do hemitorax direito. o exame radiologico do torax mostra condensacao homogenea em apice de pulmao direito. o ppd e de 10 mm. qual a conduta terapeutica para essa crianca?',
     options: ['A) quimioprofi laxia primaria.', 'B) quimioprofi laxia secundaria e controle com exames a cada 2 meses.', 'C) revacinar com bcg e controle com exames a cada 2 meses.', 'D) esquema triplice (2hrz ) e duplo (4hr) e controle com exames a cada 2 meses.', 'E) esquema quadruplo 2(hrze) e duplo (5hr) e controle com exames a cada 2 meses.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2011-q109',
@@ -1284,7 +1284,7 @@ export const generatedQuestions = [
     questionNumber: 109,
     questionText: 'no atendimento do pronto-socorro e admitido um jovem de 19 anos, de origem indigena, que narra ter sido vitima de uma picada de cobra na mao direita, ha aproximadamente 30 minutos, relatando dor local. voce constata edema e equimose local. outros habitantes da aldeia onde reside o rapaz trouxeram a cobra sem vida ao hospital na esperanca de que isso pudesse ajudar na identifi cacao da especie da cobra que o havia picado. a observacao, nota-se que a cobra tem fosseta loreal e cauda lisa. considerando o quadro clinico, as caracteristicas da cobra e a epidemiologia brasileira dos envenenamentos por animais peconhentos, que tipo de soro antiofidico devera ser administrado?',
     options: ['A) soro antilonomico.', 'B) soro anticrotalico.', 'C) soro antibotropico.', 'D) soro antilaquetico.', 'E) soro antielapidico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2011-q110',
@@ -1296,7 +1296,7 @@ export const generatedQuestions = [
     questionNumber: 110,
     questionText: 'foi realizado estudo epidemiologico, durante periodo de 10 anos, entre individuos usuarios de uma determinada droga, alguns a usavam por via inalatoria, outros, por via intravenosa. o objetivo do estudo foi o de averiguar se a via de administracao da droga poderia estar relacionada com maior mortalidade em um dos grupos. os dados disponiveis do estudo sao: obito nao-obito injetavel 400 4600 inalatoria 80 1920 qual o risco relativo de morte ao se usar a droga na forma injetavel em relacao a forma inalatoria?',
     options: ['A) 1.', 'B) 2.', 'C) 3.', 'D) 4.', 'E) 5. idos por instituicoes de educacao superior estrangeiras 30', 'A) muito facil.', 'B) facil.', 'C) medio.', 'D) dificil.', 'E) muito dificil. pergunta ii considerando a extensao da prova, em relacao ao tempo total, voce considera que a prova foi', 'A) muito longa.', 'B) longa.', 'C) adequada.', 'D) curta.', 'E) muito curta. pergunta iii os enunciados das questoes da prova estavam claros?', 'A) sim, todos.', 'B) sim, a maioria.', 'C) apenas cerca da metade.', 'D) poucos.', 'E) nao, nenhum. pergunta iv as informacoes/instrucoes fornecidas para a resolucao das questoes foram sufi cientes para resolve-las?', 'A) sim, ate excessivas.', 'B) sim, em todas elas.', 'C) sim, na maioria delas.', 'D) sim, somente em algumas.', 'E) nao, em nenhuma delas.', 'A) desconhecimento do conteudo.', 'B) forma diferente de abordagem de conteudo.', 'C) espaco insufi ciente para responder as questoes.', 'D) falta de motivacao para fazer a prova.', 'E) nao tive qualquer tipo de difi culdade em responder a prova. pergunta vi voce ja participou, no brasil, de outro(s) processo(s) de', 'A) sim.', 'B) nao. idos por instituicoes de educacao superior estrangeiras 32'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2012-q001',
@@ -14568,7 +14568,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'um paciente com 54 anos, em acompanhamento ha 4 meses em funcao de cardiopatia isquemica dilatada, foi admitido na unidade de emergencia com queixas de subitas palpitacoes e dispneia ha cerca de 3 horas. o paciente nega dor precordial, informando ser portador, de longa data, de hipertensao arterial sistemica e diabetes melito, em uso de carvedilol, enalapril, furosemida, espironolactona, dapagliflozina e insulina nph (dose apenas noturna). ao exame fisico, o paciente se encontra em moderado desconforto respiratorio, sudorese presente, pressao arterial de 80  62 mmhg, frequencia cardiaca de 120 batimentos por minuto, com ritmo cardiaco irregular e com estertoracao bolhosa bibasal. e realizado um eletrocardiograma (ecg) que evidencia padrao irregular, com existencia de ondas f, sendo caracterizada fibrilacao atrial paroxistica com elevada resposta ventricular; fora a presenca de ondas q patologicas na parede anterior, nao ha disturbios de st-t no ecg. a medica que o atende opta por realizar um procedimento que exige previa aplicacao de sedacao e analgesia ao paciente, passando a explicar-lhe o que sera realizado em seguida. diante da situacao apresentada, o procedimento que sera realizado no paciente e',
     options: ['A) cineangiocoronariografia com angioplastia coronaria.', 'B) cateterismo cardiaco com estudo eletrofisiologico.', 'C) implante de marca-passo provisorio transvenoso.', 'D) aplicacao de cardioversao eletrica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q002',
@@ -14580,7 +14580,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'um homem com 62 anos comparece, acompanhado de sua filha, a uma unidade basica de saude, apos terem sido alertados pelos vizinhos sobre a campanha de deteccao de cancer de prostata, denominada novembro azul. o paciente nao mantem contato com os irmaos nem com o restante da familia, portanto desconhece se ha historia familiar de cancer. esta completamente assintomatico. relata que seu pai faleceu aos 65 anos de idade e que nao sabe a causa da morte. nesse caso, do ponto de vista da prevencao, a conduta do medico deve ser',
     options: ['A) orientar o rastreio, indicado para homens de 50 a 70 anos de idade e esclarecer a filha de que sera solicitado o psa (antigeno prostatico especifico), metodo com grande sensibilidade e especificidade para diagnostico de estagio precoce de doenca.', 'B) iniciar o rastreio indicado para homens de 50 a 70 anos de idade, como recomendado pelo ministerio da saude, que preve, nessa faixa etaria, a realizacao do toque retal e a ultrassonografia da prostata, apos concordancia, expressa no consentimento informado.', 'C) avaliar a necessidade de rastreio, indicado para homens de 50 a 70 anos de idade, esclarecendo a filha de que serao solicitados um exame de toque retal, a coleta do psa e a ultrassonografia da prostata, apos concordancia, expressa no consentimento informado.', 'D) discutir o rastreio do cancer de prostata com o paciente e sua filha, dado que ele esta assintomatico e que, nesse caso, ha muitos dados que mostram que possiveis danos relacionados a testes diagnosticos e tratamentos excessivos superam respectivos beneficios.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q003',
@@ -14592,7 +14592,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'uma lactente com 6 meses, nascida a termo, sem doencas previas, encontra-se em consulta medica de puericultura. a mae refere uso de leite de cabra in natura exclusivo na alimentacao da crianca desde o nascimento. ao exame fisico, a crianca apresenta palidez cutaneo-mucosa importante e lingua lisa. foi solicitado hemograma, que apresentou anemia macrocitica, neutropenia com hipersegmentacao de neutrofilos e plaquetopenia. ampliada a investigacao, o mielograma apresentou-se normal. considerando-se a hipotese diagnostica mais provavel, alem de adequacao dietetica, o tratamento medicamentoso indicado para reverter essa situacao e a administracao de',
     options: ['A) vitamina e e iodo.', 'B) vitamina b12 e folato.', 'C) zinco e acido ascorbico.', 'D) sais de ferro e vitamina a.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q004',
@@ -14604,7 +14604,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'uma paciente com 21 anos, nuligesta, comparece a consulta em um centro de saude com queixa de amenorreia ha 6 meses, acne com pustulas, aumento de pelos, principalmente na face e nos membros inferiores. relata dificuldade em perder peso e ciclos menstruais irregulares e longos desde a menarca. afirma ser sexualmente ativa. e realizado, durante o atendimento, teste rapido para gravidez, com resultado negativo. ao exame fisico, apresenta indice de massa corporea de 30 kg/m2, pressao arterial de 120  70 mmhg. considerando-se o quadro clinico da paciente, qual e a conduta inicial mais adequada no momento desse atendimento?',
     options: ['A) dosar tsh, t4 livre, prolactina e 17 hidroxiprogesterona, para descartar patologias sistemicas.', 'B) dosar cortisol livre, dehidroepiandrosterona e perfil metabolico, para confirmar perfil androgenico.', 'C) prescrever etinilestradiol 10 mg 1 vez ao dia, por 10 dias, para descartar causas uterinas de amenorreia.', 'D) iniciar espironolactona 50 mg 2 vezes ao dia e solicitar ultrassonografia, para confirmar diagnostico de sindrome dos ovarios policisticos. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q005',
@@ -14616,7 +14616,7 @@ export const generatedQuestions = [
     questionNumber: 5,
     questionText: 'sindemia e um conjunto de problemas de saude intimamente interligados e que aumentam mutuamente, que afetam significativamente o estado geral de saude de uma populacao no contexto de persistencia de condicoes sociais adversas. singer, m. a dose of drugs, a touch of violence, a case of aids: conceptualizing the sava syndemic. free inquiry in creative sociology. okhlahoma, estados unidos, v. 24, n. 2, p. 99-110, 1996.',
     options: ['A) sindemia nao constitui simplesmente um sistema de comorbidade; ao contrario, significa um sistema de transmorbidade. implica, ademais, entender essa sindemia como determinada socialmente e, por consequencia, compreender que ela nao sera solucionada somente com modelos de intervencao provenientes exclusivamente do campo biomedico. vilaca mendes, e. o lado oculto de uma pandemia: a terceira onda da covid-19 ou o paciente invisivel. conass. 2020. acerca da perspectiva sindemica da covid-19, assinale a opcao correta.', 'A) a distribuicao das taxas de morbidade e mortalidade da covid-19 entre os diferentes segmentos sociais reflete as desigualdades estruturais e os determinantes sociais da saude.', 'B) a suspensao dos atendimentos de pessoas com doencas cronicas foi medida acertada diante da emergencia sanitaria, dada a necessidade de priorizar o atendimento e o acompanhamento dos casos de covid-19.', 'C) a interacao entre epidemias resulta na reducao consideravel da taxa de incidencia das doencas, assim como da severidade dos casos e das repercussoes para as comunidades, prevalecendo uma das epidemias em detrimento das demais.', 'D) a teoria sindemica da covid-19 reforca a importancia de investimentos em politicas de natureza curativa, sobretudo na estruturacao e ampliacao de leitos clinicos e de terapia intensiva direcionados aos casos graves, que requerem acompanhamento hospitalar.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q006',
@@ -14628,7 +14628,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'um paciente com 65 anos faz acompanhamento na unidade basica de saude devido a doenca de parkinson e evolui com quadro de sonolencia diurna excessiva, anosmia, fadiga e apatia. os familiares referem que o paciente faz uso regular dos seguintes medicamentos: levodopa, dipirona, losartana e acido acetilsalicilico. ele e, entao, encaminhado para internacao hospitalar para investigacao diagnostica do quadro relatado. o exame fisico revela presenca de rigidez muscular importante com sinal da roda dentada presente e tremores nas extremidades. o paciente apresenta-se muito sonolento, respondendo as solicitacoes, com perda do olfato, cansaco importante e apatia. foram realizados exames laboratoriais que se mostraram dentro dos parametros da normalidade. nesse caso, a provavel evolucao do quadro clinico do paciente esta relacionada a',
     options: ['A) quadro infeccioso com exames laboratoriais dentro dos parametros da normalidade.', 'B) disturbios neurodegenerativos nao relacionados a doenca de parkinson.', 'C) manifestacao neuropsiquiatrica e nao motora da doenca de parkinson.', 'D) parkinsonismo secundario associado a medicamentos.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q007',
@@ -14640,7 +14640,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'um paciente de 55 anos, obeso, tabagista, foi internado no servico de urologia. apresentava hematuria franca, tendo sido submetido a cistoscopia com resseccao transuretral de lesoes. o laudo anatomopatologico revelou a resseccao de 3 lesoes tumorais superficiais, limitadas ao revestimento da bexiga, compativeis com carcinoma de celulas transicionais de alto grau, alem de ausencia de invasao muscular. a pesquisa realizada por meio de ultrassonografia nao demonstrou acometimento de linfonodos locais. nessa situacao, qual conduta deve ser adotada para o caso?',
     options: ['A) solicitar cistectomia total.', 'B) indicar tratamento intravesical com bcg.', 'C) indicar tratamento com dose unica de mitomicina.', 'D) solicitar cistoscopia com nova resseccao trimestral.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q008',
@@ -14652,7 +14652,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'um recem-nascido a termo recebeu alta com orientacoes gerais, mas retornou para avaliacao apos 72 horas. a mae relata que, embora ele estivesse bem, estava preocupada, pois achava que o amarelao estava ficando cada vez mais acentuado. na avaliacao medica, observou-se ictericia (3+/4+), zona 4 de kramer. a crianca foi internada e foram solicitados exames laboratoriais. a bilirrubina total era de 25,6 mg/dl as custas da fracao de bilirrubina indireta. nao havia historico de incompatibilidade abo ou rh. considerando o caso clinico, assinale a opcao que apresenta, corretamente, a causa de hiperbilirrubinemia indireta neonatal associada a sua fisiopatologia, a avaliacao complementar de diagnostico e a conduta imediata, respectivamente.',
     options: ['A) alfatalassemia (doenca hemolitica); teste do pezinho; fototerapia.', 'B) hipotireoidismo (policitemia); dosagem de hormonio tireoidiano; exsanguineo transfusao.', 'C) sindrome de crigler najjar (doenca hemolitica); teste do pezinho; exsanguineo transfusao.', 'D) estenose hipertrofica de piloro (colecao sanguinea extravascular); ultrassonografia abdominal; fototerapia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q010',
@@ -14664,7 +14664,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'uma mulher com 26 anos, foi atendida pela equipe de triagem de uma unidade de saude da familia localizada na area rural de um municipio de pequeno porte. em razao de queixa de atraso de alguns dias da menstruacao, a paciente realizou um teste rapido de gravidez, que se revelou positivo. o medico que a atende, apos anamnese completa e exame clinico, classifica-a como gestante de baixo risco e solicita testes rapidos para hepatite b, sifilis (teste treponemico) e hiv. os resultados de todos os exames, exceto o de sifilis, sao negativos. a paciente relata que nao tem alergia a medicamentos, que nunca teve sifilis nem realizou tratamento medicamentoso para essa doenca. o medico solicita que ela compareca com seu parceiro a proxima consulta, para que ele tambem realize os testes rapidos e decide, entao, iniciar, para a paciente, o tratamento para sifilis tardia. apos solicitar todos os exames laboratoriais para o pre-natal de baixo risco e o exame vdrl confirmar a doenca, o medico prescreve que seja administrado a paciente, na unidade de saude, benzilpenicilina benzatina de 1.200.000 ul (intramuscular), em',
     options: ['A) 1 dose por semana, durante 3 semanas; o vdrl devera ser monitorado mensalmente; o indicador de cura e que o vdrl reduza pelo menos 1 diluicao em relacao ao vdrl constatado no momento do diagnostico.', 'B) 2 doses por semana, durante 3 semanas; o vdrl devera ser monitorado mensalmente; o indicador de cura e que o vdrl reduza pelo menos 2 diluicoes em relacao ao vdrl constatado no momento do diagnostico.', 'C) 2 doses por semana, durante 2 semanas; o vdrl devera ser monitorado no 3, no 9 e no 12 mes apos o diagnostico; o indicador de cura e que o vdrl reduza pelo menos 1 diluicao em relacao ao vdrl verificado no momento do diagnostico.', 'D) 1 dose por semana, durante 2 semanas; o vdrl devera ser monitorado no 3, no 9 e no 12 mes apos o diagnostico; o indicador de cura e que o vdrl reduza pelo menos 2 diluicoes em relacao ao vdrl verificado no momento do diagnostico. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q011',
@@ -14676,7 +14676,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'uma paciente com 30 anos, branca, procura servico de emergencia devido a sangramento gengival e ao aparecimento de pontos avermelhados nos membros inferiores ha 15 dias, com piora progressiva das lesoes e fadiga. nega febre, uso de medicamentos e ingesta de bebidas a base de quinino. foram solicitados exames que mostraram: valores de referencia hemograma resultado mulheres homens hemacias 4,0 x 1012/l 0,5-4,3 x 1012/l 0,5-5,0 x 1012/l hemoglobina 10 g/dl 12,0-16,0 g/dl 13,5-17,5 g/dl hematocrito 30% 36-46 (%) 41-53 (%) leucocitos 5,0 x 103/l 3,0-7,0 x 103/l plaquetas 10 x 103/l 150-400 x 103/l obs.: foram observadas macroplaquetas na lamina do esfregaco de sangue. valor de coagulograma resultado referencia tp (tempo de protrombina) 12 seg 11,70,5 seg atividade 100% 70 a 120% rni (razao normalizada internacional) 1,0 1,0 ttpa (tempo de tromboplastina parcial ativada) 20 seg 22 a 40 seg r (relacao = tempo paciente/tempo de 1,0 0,8 a 1,3 controle interno) outros exames laboratoriais resultado valor de referencia ureia 30 mg/dl 13 a 43 mg/dl creatinina 0,8 mg/dl 0,6 a 1,2 mg/dl dhl (desidrogenase latica) 150 u/dl 125 a 220 u/dl bilirrubina total 1,0 mg/dl ate 1,2 mg/dl bilirrubina direta 0,3 mg/dl ate 0,3 mg/dl bilirrubina indireta 0,6 mg/dl ate 0,6 mg/dl teste de coombs direto negativo negativo teste de coombs indireto negativo negativo atividade da enzima adamts13 >10% 10% ao exame clinico, notou-se a presenca de lesoes na pele, com petequias no dorso do pe e no tornozelo (sola dos pes sem lesoes) e hemorragia bolhosa na mucosa bucal. com base nas informacoes descritas, a principal hipotese diagnostica e',
     options: ['A) sindrome hemolitico-uremica (shu).', 'B) purpura trombocitopenica trombotica.', 'C) trombocitopenia induzida por farmaco.', 'D) purpura trombocitopenica imunologica grave.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q012',
@@ -14688,7 +14688,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'um paciente com 20 anos, com historia de aumento de hemiescroto direito ha 4 semanas, comparece a unidade basica de saude para consulta. nega dor em bolsa escrotal, disuria, corrimento uretral ou febre. ao exame fisico, apresenta testiculo direito com aumento de volume, consistencia petrea, sem eritema e indolor a palpacao. nesse caso, a conduta medica a ser adotada e a indicacao de',
     options: ['A) antibioticoterapia.', 'B) compressas mornas.', 'C) anti-inflamatorio nao esteroidal.', 'D) ultrassonografia de bolsa escrotal.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q013',
@@ -14700,7 +14700,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'um recem-nascido de 12 dias de vida foi levado a unidade de pronto-socorro por apresentar vomitos, anorexia, irritabilidade, desconforto respiratorio e convulsoes. o hemograma completo mostrou anemia. a analise do liquido cefalorraquidiano mostrou pleocitose discreta com predominio de celulas mononucleares, hiperproteinorraquia e glicorraquia normal. na admissao, ainda em crise convulsiva, foi medicado com fenobarbital, com dose de ataque de 20 mg/kg, porem permaneceu com crises epilepticas subentrantes. considerando-se como a principal etiologia uma infeccao do sistema nervoso central, para o manejo da condicao apresentada pelo paciente devera ser administrado',
     options: ['A) diazepam, fenitoina, tiopental.', 'B) fenitoina, midazolam, tiopental.', 'C) fenitoina, lorazepam, piridoxina.', 'D) nitrazepam, fenitoina, piridoxina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q014',
@@ -14712,7 +14712,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'uma adolescente de 17 anos procura atendimento medico, com queixa de lesoes vulvares recorrentes dolorosas e com drenagem de secrecao. no exame da genitalia externa da paciente, evidenciam-se multiplos abscessos e cicatrizes profundas nos labios, acompanhadas de secrecao de odor fetido a expressao. ela tambem refere nodulos persistentes e doloridos que costumam durar semanas ou meses. a paciente relata o aparecimento ocasional de lesoes similares na axila. para esse caso, o diagnostico e compativel com',
     options: ['A) sifilis primaria.', 'B) vulvite herpetica.', 'C) hidradenite supurativa.', 'D) linfogranuloma venereo.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q015',
@@ -14724,7 +14724,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'um paciente com 32 anos, enfermeiro em hospital de referencia em urgencia e emergencia, queixa-se de eritema, descamacao e papulas na face, principalmente na regiao malar. ele relata ter percebido que esse quadro clinico, compativel com eczema de contato na face, manifestou-se apos o uso constante de certo tipo de mascara de protecao. apesar do risco de contagio pelo novo covid-19 ja ter diminuido, os profissionais da area de saude continuam a usar com frequencia seus equipamentos de protecao individual, entre eles, as mascaras n95. considerando-se a situacao descrita, assinale a opcao correta.',
     options: ['A) os medicamentos topicos, como pomadas compostas por corticoide e antibiotico, sao de prescricao obrigatoria na conducao clinica desse paciente.', 'B) os testes epicutaneos constituem ferramenta diagnostica confirmativa, podendo ser utilizados amplamente na atencao primaria a saude.', 'C) o afastamento, temporario ou permanente, desse trabalhador deve ser avaliado, a partir da confirmacao ou suspeita de doenca relacionada ao trabalho.', 'D) o diagnostico de dermatose ocupacional, frequente entre profissionais dessa area, possui prevalencia real registrada elevada, existindo baixa prevalencia de sub-registros depois das notificacoes realizadas na atencao primaria a saude.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q016',
@@ -14736,7 +14736,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'uma paciente com 40 anos, branca, encaminhada da unidade basica de saude, e atendida para investigacao de trombose venosa profunda (tvp). conta que apresentou um segundo episodio de tvp do membro inferior esquerdo ha 30 dias. informa que faz uso de anticoncepcional oral desde os 18 anos e que a primeira tvp ocorreu aos 36 anos, quando foi tratada com varfarina por 6 meses, sem intercorrencias. conta que teve 3 gestacoes, a primeira delas, aos 22 anos, resultou em um aborto espontaneo, as outras 2 foram a termo. ela informa ainda que sua mae tambem ja apresentou tvp. relata tambem que atualmente vem fazendo uso de rivaroxabana. para investigacao de tvp na paciente nesse momento, deve-se solicitar',
     options: ['A) anticorpos anti-beta-2 glicoproteina 1 igg e igm.', 'B) anticorpos anticardiolipina igg e igm.', 'C) proteina c e proteina s livre.', 'D) pcr para fator v leiden.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q017',
@@ -14748,7 +14748,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'um paciente com 45 anos, vitima de colisao automobilistica do tipo auto vs anteparo (muro) com velocidade aproximada de 60 km/h, foi trazido a unidade de emergencia pelo servico de resgate pre-hospitalar em prancha rigida e com colar cervical. relata que estava utilizando cinto de seguranca e que o air-bag foi acionado. nega qualquer sintomatologia no momento. na avaliacao primaria, feita na chegada do paciente a sala de emergencia, registram-se: vias aereas pervias, exame respiratorio normal, frequencia respiratoria de 22 incursoes respiratorias por minuto, frequencia cardiaca de 88 batimentos por minuto, pressao arterial de 130  90 mmhg. alem disso, apresentou exame neurologico sumario normal, escala de coma de glasgow de 15 e ausencia de lesoes externas aparentes. em relacao a imobilizacao da coluna desse paciente, a conduta mais adequada e',
     options: ['A) solicitar radiografias de coluna cervical ap e perfil, com visualizacao ate c7; caso as radiografias demonstrem normalidade, autorizar a retirada do colar cervical e da prancha rigida.', 'B) retirar o colar cervical e manter o paciente em observacao, com imobilizacao na prancha rigida por mais seis horas, e retirar a prancha caso o exame fisico da coluna e o exame neurologico estejam normais.', 'C) manter o paciente com colar cervical e em prancha rigida em observacao por doze horas e, apos esse periodo, repetir exame neurologico, retirando o colar e a prancha rigida caso o exame indique normalidade.', 'D) executar o rolamento "do corpo em bloco" mantendo a cabeca do paciente em posicao neutra, e proceder ao exame fisico da coluna e exame neurologico, retirando o colar e a prancha rigida caso os exames indiquem normalidade.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q018',
@@ -14760,7 +14760,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'um recem-nascido de 2 dias de vida, a termo, sem pre-natal adequado e que esta em alojamento conjunto, vem apresentando ictericia e hepatomegalia. na investigacao, foi realizado o diagnostico de toxoplasmose congenita. como uma complicacao dessa doenca, a crianca podera apresentar',
     options: ['A) hipoglicemia.', 'B) coriorretinite.', 'C) pneumonia alba.', 'D) hipogamaglobulinemia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q019',
@@ -14796,7 +14796,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'um paciente com 20 anos, previamente higido, e recebido em pronto atendimento referindo que iniciou, ha cinco dias, tosse produtiva acompanhada de astenia e febre diaria entre 38 e 39 c e que evoluiu com dor no hemitorax direito, que piorava com inspiracao profunda e dispneia progressiva. conta que procurou medico ha 3 dias, o qual lhe prescreveu analgesicos e anti-inflamatorios, nao tendo obtido melhora significativa do quadro. ao exame fisico, o paciente encontra-se em regular estado geral, com expansibilidade da caixa toracica reduzida a direita, fremito toracovocal reduzido, com submacicez e murmurio vesicular abolido em base pulmonar a direita. com base na situacao apresentada, a hipotese diagnostica mais provavel e',
     options: ['A) pneumonia viral complicada com atelectasia.', 'B) neoplasia de pulmao complicada com atelectasia.', 'C) tuberculose pulmonar complicada com pneumotorax.', 'D) pneumonia bacteriana complicada com derrame pleural.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q022',
@@ -14808,7 +14808,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'uma paciente com 25 anos apresentou edema, rubor e dor em palpebra superior direita, com resolucao espontanea do quadro em 48 horas. no momento, apresenta nodulacao de 0,3 cm, indolor, localizada na face interna do terco medio da palpebra superior direita. nega febre ou qualquer outro sintoma. nesse caso, qual e o diagnostico mais provavel?',
     options: ['A) calazio.', 'B) hordeolo.', 'C) canaliculite.', 'D) dacriocistite.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q023',
@@ -14820,7 +14820,7 @@ export const generatedQuestions = [
     questionNumber: 23,
     questionText: 'uma adolescente com 16 anos procura a unidade basica de saude para avaliacao de uma mancha na pele. relata que, ha cerca de 1 mes, desenvolveu uma lesao caracterizada como uma placa eritematosa, liquenificada e pruriginosa, localizada acima da regiao umbilical, proxima ao local onde colocou um piercing. ao ser examinada, a lesao foi confirmada e constatou- se tambem que o desenvolvimento puberal era m1p1, conforme os criterios de tanner. a adolescente tambem apresentava baixa estatura, pescoco alado e implantacao baixa de orelhas. ao ser questionada sobre o fluxo menstrual, ela informou que ainda nao tinha menstruado. considerando-se o quadro clinico e o exame fisico descritos, os diagnosticos mais provaveis sao',
     options: ['A) tinea corporis; sindrome de kabuki.', 'B) dermatite atopica; sindrome de noonan.', 'C) dermatite de contato; sindrome de turner.', 'D) dermatite seborreica; sindrome de carpenter.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q024',
@@ -14832,7 +14832,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'uma paciente com 29 anos, nuligesta, sexualmente ativa, foi submetida a exame citopatologico em uma unidade basica de saude. exame anterior realizado ha 1 ano nao apresentava alteracoes. o exame atual apresentou o seguinte resultado: metaplasia escamosa, alteracoes inflamatorias moderadas, presenca de bacilos de doderlein. nesse caso, a paciente deve ser orientada a',
     options: ['A) cauterizar colo uterino.', 'B) repetir citologia em 3 anos.', 'C) repetir citologia em 6 meses.', 'D) usar creme vaginal com metronidazol.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q025',
@@ -14844,7 +14844,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'uma mulher leva sua filha de 6 anos para uma consulta na unidade basica de saude do bairro, por suspeitar que a filha esteja sendo abusada sexualmente pelo tio de 24 anos de idade. o tio toma conta da menina quando ela se ausenta para trabalhar como faxineira. a menina conta que brinca de "papai e mamae" com o tio, mas afirma nao querer falar mais sobre o assunto, dizendo que o tio lhe havia dito que a brincadeira era um segredo apenas entre os dois. com relacao a situacoes de suspeita de abuso infantil, a exemplo da descrita, e correto afirmar que',
     options: ['A) o mais comum e o agressor/abusador ser uma pessoa conhecida da familia, ou um membro dela, o que favorece a repeticao do abuso.', 'B) os casos de abusos sexuais contra meninos sao mais recorrentes do que contra meninas, pois eles tendem a esconder mais as agressoes de que sao vitimas.', 'C) as criancas muito novas que sofrem abuso sexual tendem a esquecer o que aconteceu na fase adulta, havendo, portanto, pouca repercussao desse abuso no futuro.', 'D) a equipe de saude da familia deve se restringir ao tratamento das lesoes fisicas e eventuais danos psicologicos, sem se envolver no encaminhamento da denuncia as autoridades policiais. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q026',
@@ -14856,7 +14856,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'uma paciente com 22 anos foi atendida na atencao primaria, acompanhada pelos pais, que estao preocupados com sua perda de peso. eles contam que, desde os 14 anos, ela come muito pouco e que ja esteve internada para ser alimentada.',
     options: ['A) paciente tambem refere ansiedade e palpitacoes que estao afetando o seu dia a dia. os pais dizem que nao sabem exatamente o quanto a paciente esta comendo agora, mas que ela nao provoca vomitos ou abusa de medicamentos. ao exame fisico, o indice de massa corporal da paciente e 14,8 kg/m2 e sua pressao arterial esta normal (100  60 mmhg), mas ela apresenta hipotensao postural assintomatica (queda de 18 mmhg na diastolica), desidratacao e frequencia cardiaca de 42 batimentos por minuto. diante dessa situacao, o medico deve', 'A) encaminhar a paciente para avaliacao em hospital terciario para possivel internacao hospitalar.', 'B) iniciar com topiramato para melhorar o transtorno alimentar e manter acompanhamento da paciente.', 'C) iniciar com amitriptilina para melhorar o transtorno de ansiedade e manter acompanhamento da paciente.', 'D) encaminhar a paciente para o ambulatorio de atencao terciaria para avaliacao quanto a colocacao de sonda nasoenterica.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q027',
@@ -14868,7 +14868,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'uma paciente com 40 anos identificou nodulo em regiao cervical anterior. ao exame fisico, palpa-se nodulo firme, de cerca de 1 cm, em regiao cervical anterior e movel a degluticao. foram solicitados exames de funcao tireoidiana, que indicaram normalidade, e ultrassonografia, que mostrou nodulo solido de 1,3 cm em lobo esquerdo da tireoide. realizada puncao aspirativa com agulha fina, o exame citopatologico mostrou lesao de classificacao bethesda v. nesse caso, qual e a conduta mais adequada?',
     options: ['A) encaminhar para cirurgia da tireoide.', 'B) repetir puncao aspirativa com agulha fina.', 'C) solicitar cintilografia de tireoide com iodo 131.', 'D) realizar ultrassonografia a cada 6 meses para acompanhamento.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q028',
@@ -14880,7 +14880,7 @@ export const generatedQuestions = [
     questionNumber: 28,
     questionText: 'um lactente com 2 anos, previamente higido, com historia de um dia de febre, tosse e coriza, e atendido no pronto-socorro. a mae conta que, desde a madrugada, ele apresenta obstrucao nasal, sono agitado e cansaco. ao exame de entrada, mostra-se em bom estado geral, corado, acianotico, agitado; a ausculta pulmonar, sao notados murmurios vesiculares diminuidos e simetricos, tiragem de furcula moderada e estridor leve ao repouso. com base na principal hipotese diagnostica para esse quadro clinico, a conduta mais adequada no momento e indicar',
     options: ['A) salmeterol inalatorio e claritromicina.', 'B) salbutamol inalatorio e metilprednisolona.', 'C) dexametasona e nebulizacao com epinefrina.', 'D) prednisolona e nebulizacao com soro fisiologico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q029',
@@ -14892,7 +14892,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'uma paciente de 20 anos, primigesta, idade gestacional de 12 semanas, comparece a consulta de pre-natal apresentando lesoes em alto relevo e aveludadas na regiao genital proxima ao clitoris. relata aparecimento, ha 1 semana, de lesoes cutaneas papulosas eritemato-acastanhadas no abdome e nas regioes palmar e plantar. ela apresenta vdrl positivo. diante dessas condicoes, o diagnostico e o tratamento devem ser, respectivamente,',
     options: ['A) sifilis recente primaria; iniciar penicilina benzatina 2.400.000 ui (intramuscular) em dose unica.', 'B) sifilis recente secundaria; iniciar penicilina benzatina 2.400.000 ui (intramuscular) em dose unica.', 'C) sifilis latente tardia; iniciar penicilina benzatina 2.400.000 ui (intramuscular) uma vez por semana, por 3 semanas.', 'D) sifilis latente recente; iniciar penicilina benzatina 2.400.000 ui (intramuscular) uma vez por semana, por 3 semanas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q030',
@@ -14904,7 +14904,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'um paciente com 42 anos, assintomatico, compareceu, pela primeira vez, a uma unidade basica de saude (ubs), mencionando a medica de familia e comunidade que ele havia se mudado recentemente para area de atuacao da ubs. na consulta, ele traz relatorio medico do centro de atencao psicossocial (caps), informando o diagnostico de esquizofrenia ha 7 anos, sem crise nos ultimos 3 anos, e uso de psicofarmacos. o paciente relata que nao usa outras medicacoes e que, ha 1 mes, fez exames laboratoriais cujos resultados foram: glicemia de jejum: 189 mg/dl; colesterol total: 225 mg/dl; colesterol-hdl: 35 mg/dl; colesterol-ldl: 168 mg/dl. por fim, queixa-se de ter comecado a engordar desde o diagnostico de esquizofrenia (indice de massa corporal atual: 36,2 kg/m2) e solicita a renovacao da receita dos psicofarmacos de que faz uso. nessa situacao, qual a conduta adequada para o caso?',
     options: ['A) nao renovar a receita ate a avaliacao do paciente pela psiquiatria e iniciar medidas para emagrecimento.', 'B) renovar a receita ate o paciente retomar o seguimento no caps, e prescrever sulfonilureia nesse atendimento.', 'C) renovar a receita, realizar seguimento multiprofissional no nucleo ampliado de saude da familia, e iniciar medidas para controle metabolico.', 'D) encaminhar o paciente ao caps para renovacao da receita, solicitar avaliacao de nutricionista e do endocrinologista do nucleo ampliado de saude da familia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q031',
@@ -14916,7 +14916,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'uma paciente com 54 anos, portadora de nefropatia diabetica em estagio 5 da kdigo (do ingles kidney disease: improving global outcomes), comparece ao ambulatorio de nefrologia de hospital terciario, onde faz seguimento de sua terapia por dialise peritoneal ambulatorial continua (capd) instituida ha alguns meses. a paciente relata certo desconforto abdominal e aspecto turvo do liquido que e drenado de sua cavidade peritoneal. nega febre ou outros sintomas e refere aumento de peso nas ultimas semanas. ao exame fisico, a paciente se mostra normotensa, afebril, com dor leve a palpacao abdominal difusamente. exames laboratoriais que recentemente realizou revelam hiperglicemia e hipoalbuminemia. e coletado material da cavidade peritoneal, atraves do cateter de capd, para analise citologica e cultura para germes comuns. acerca da condicao que afeta essa paciente, assinale a opcao correta.',
     options: ['A) o quadro clinico mais comum e o descrito, sendo rara a presenca de febre e de outros sintomas constitucionais.', 'B) o diagnostico provavel do caso e sustentado apenas se estiverem presentes mais de 250 polimorfonucleares/mm3 no liquido analisado.', 'C) a ocorrencia de hiperglicemia e hipoalbuminemia e explicada pelo processo infeccioso, nao podendo ser causadas tao somente pela capd.', 'D) o tratamento do caso envolve a retirada do cateter de capd, caso a cultura para germes comuns isole um bastonete gram-negativo hidrofilico, como a pseudomonas sp.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q032',
@@ -14928,7 +14928,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'uma paciente com 54 anos apresenta tosse com expectoracao e astenia ha 5 dias, acompanhada de dispneia aos medios esforcos e um pico febril. ao exame fisico, encontra-se consciente, contatuante, descorada (+2/+4), desidratada (+2/+4), com pressao arterial de 90  60 mmhg, frequencia respiratoria de 23 incursoes respiratorias por minuto, frequencia cardiaca de 120 batimentos por minuto, saturacao o de 90% em ar ambiente, murmurio vesicular presente em 2 hemitorax direito e diminuido em hemitorax esquerdo, abolido em base esquerda, sem ruidos adventicios; radiografia de torax demonstrou derrame pleural a esquerda. foi realizada toracocentese, seguida de drenagem pleural fechada a esquerda. o liquido, de aspecto turvo, foi encaminhado para analise, sendo confirmado empiema pleural. acerca do liquido analisado, infere-se que',
     options: ['A) o ph foi maior que 7,2.', 'B) a dosagem de ldh foi superior a 1.000 ui.', 'C) a dosagem de glicose foi superior a 60 mg/dl.', 'D) a dosagem de proteinas foi inferior a 3 g/100 ml.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q033',
@@ -14940,7 +14940,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'um escolar com 8 anos, acompanhado da mae, chega a unidade basica de saude com queixa de estar muito cansado e sonolento. a mae refere que, ha aproximadamente 20 dias, ele vem perdendo peso (cerca de 5 kg). ela relata ainda que o filho, embora tenha controle esfincteriano noturno desde os 5 anos, tem agora apresentado enurese noturna, desde o inicio do quadro. conta tambem que, no mesmo periodo, passou a demonstrar apetite exagerado e que, ha 5 dias, comecou a apresentar dor abdominal de moderada intensidade, sem localizacao especifica, intermitente, associada a nauseas e vomitos (1 vez ao dia). ao exame fisico, a crianca se apresenta em regular estado geral, hipocorado (+1/+4), afebril, acianotico, mucosas secas, hipoativo, facies de dor, normotenso. a ausculta pulmonar, nao ha ruidos adventicios; frequencia respiratoria de 50 incursoes respiratorias por minuto, com movimentos respiratorios amplos; ausculta cardiaca sem alteracoes, frequencia cardiaca de 90 batimentos por minuto; abdome doloroso a palpacao profunda, com ruidos hidroaereos presentes, sem massas ou visceromegalias. apos o manejo inicial, qual das opcoes a seguir apresenta o seguimento a longo prazo adequado para essa doenca?',
     options: ['A) o apoio familiar e fundamental para que o problema possa ser controlado, evitando-se as complicacoes, uma vez que se trata de uma doenca cronica.', 'B) o uso ambulatorial farmacologico com analogo sintetico da vasopressina, associado ao tratamento psicologico com alarme, costuma levar a remissao do processo por volta dos 15 anos.', 'C) os pacientes apresentam, com frequencia, periodos de remissao que geralmente duram decadas, conhecidos por lua de mel, sendo desnecessaria reposicao hormonal ao termino desses periodos.', 'D) a adocao de um estilo de vida saudavel, alimentacao balanceada e pratica de exercicios fisicos regulares, e considerada um pilar do tratamento, sendo desnecessaria terapia farmacologica a longo prazo.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q034',
@@ -14952,7 +14952,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'paciente secundigesta, pesando 70 kg, e encaminhada ao pre-natal de alto risco, em razao de historia de abortamento espontaneo na 8a semana, na gestacao anterior. traz consigo um exame de mutacao homozigotica do gene da enzima metilenotetrahidrofolato redutase. a paciente nega historia pessoal ou familiar de trombose. nesse caso, a conduta imediata deve ser',
     options: ['A) dar seguimento de pre-natal habitual.', 'B) solicitar exames laboratoriais para o diagnostico de trombofilia gestacional.', 'C) prescrever acido acetilsalicilico, 100 mg/dia, associado a enoxparina, 40 mg/dia.', 'D) solicitar exames laboratoriais: anticoagulante lupico, anticardiolipina e anti-beta 2 glicoproteina 1.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q035',
@@ -14964,7 +14964,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'um paciente com 68 anos, branco, previamente higido, e atendido em consulta agendada na atencao primaria, com diagnostico recente de hipertensao arterial estagio 2, sem comorbidades. seus exames fisico e laboratoriais nao mostram lesoes de orgaos-alvo. o paciente relata nao fazer uso de medicamentos e foi classificado como portador de fragilidade leve pela escala de fragilidade clinica, apresentando risco cardiovascular baixo pelo escore global de risco. no projeto terapeutico para esse paciente, alem da mudanca de estilo de vida, incluem-se terapeutica medicamentosa e metas da pressao arterial (pa) e de seguimento mais adequadas. nesse contexto, a conduta recomendada e iniciar',
     options: ['A) tratamento nao medicamentoso, para se atingir a meta pressorica (pressao arterial sistolica de 130 a 139 mmhg e pressao arterial diastolica de 70 a 79 mmhg) por um periodo de 3 a 6 meses.', 'B) terapia medicamentosa com bloqueador do canal de calcio associado a inibidor da enzima conversora da angiotensina em doses baixas e marcar retorno em ate 30 dias, para aferir se a meta pressorica (pa menor que 140  90 mmhg) foi atingida.', 'C) monoterapia com espironolactona, metildopa ou clonidina, marcando retorno em ate 30 dias, para aferir se a meta pressorica (pressao arterial sistolica de 130 a 139 mmhg e pressao arterial diastolica de 70 a 79 mmhg) foi atingida.', 'D) uso de betabloqueador, em monoterapia ou associado a diuretico em baixa dose, reforcando mudanca de estilo de vida e recomendando consultas anuais no caso de a meta pressorica (pa menor que 140  90 mmhg) ter sido atingida.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q036',
@@ -14976,7 +14976,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'uma mulher com 52 anos comparece a consulta medica na unidade basica de saude com queixa de dores musculoesqueleticas cronicas, mal localizadas, difusas, acima e abaixo da cintura. refere que o quadro tem cerca de 4 meses de evolucao, tendo surgido aparentemente apos episodio de dengue (nao grave). a paciente tambem refere fadiga e quadro depressivo ha longa data, alem de transtorno da articulacao temporomandibular e sindrome do intestino irritavel. relata apetite preservado. seu exame fisico e normal, salvo por dor a compressao e palpacao muscular difusa. digno de nota e que a simples insuflacao do esfigmomanometro leva a dor significativa em ponto localizado cerca de 2 centimetros distais do epicondilo lateral do membro superior avaliado. alem disso, ha dor a compressao digital bilateral nos pontos de insercao dos musculos subocciptais, no ponto medio da borda superior de ambos os musculos trapezios, sobre a borda medial das escapulas, nos quadrantes superiores externos das nadegas, posteriormente as eminencias trocantericas dos femures, sobre a 2a articulacao condroesternal direita e sobre as partes moles localizadas superior e medialmente a ambos os joelhos. nao ha alteracoes no hemograma completo, nem na dosagem de proteina c reativa, t4 livre, tsh e velocidade de hemossedimentacao. no caso apresentado, qual o diagnostico dessa paciente?',
     options: ['A) fibromialgia', 'B) hipotireoidismo subclinico.', 'C) transtorno psicossomatico.', 'D) transtorno depressivo maior.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q037',
@@ -14988,7 +14988,7 @@ export const generatedQuestions = [
     questionNumber: 37,
     questionText: 'um paciente com 25 anos, vitima de acidente motociclistico, apresenta trauma contuso toracoabdominal. no local do acidente, encontrava-se com pressao arterial sistolica de 90 mmhg e com frequencia cardiaca de 120 batimentos por minuto. durante o transporte para o hospital, evoluiu com inconsciencia, queda da pressao arterial sistolica para 60 mmhg e aumento da frequencia cardiaca para 140 batimentos por minuto. apresenta distensao de veias cervicais e murmurio vesicular presente bilateralmente. nesse caso, o manejo mais adequado para o paciente e',
     options: ['A) toracocentese e drenagem pleural fechada.', 'B) manutencao de vias aereas e pericardiocentese.', 'C) entubacao orotraqueal e ultrassonografia de torax.', 'D) cricotireoidostomia e toracotomia anterolateral esquerda.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q038',
@@ -15000,7 +15000,7 @@ export const generatedQuestions = [
     questionNumber: 38,
     questionText: 'retorna a maternidade um recem-nascido com 3 dias, conforme sua ficha, ele nasceu com 37 semanas de gestacao por parto cesareo devido a restricao de crescimento intrauterino e centralizacao fetal, pesando 1.950 gramas, apgar 8/9 e com bolsa rota no ato. a mae relata ter 34 anos, que nao houve intercorrencias na gestacao, que as sorologias do pre-natal apresentaram-se nao reagentes, que foi feito o teste da orelhinha no recem-nascido e que os olhos e o coracao dele se apresentaram sem alteracoes. acrescenta que seu filho recebeu alta da maternidade com 24 horas de vida. ao exame fisico, a crianca apresenta um peso de 1.850 gramas, estatura de 44 cm, perimetro cefalico de 27 cm e mostra-se ativo, reativo, algo irritado, icterico, notando-se a presenca de petequias na pele; abdome com figado palpavel a 5 cm e baco a 2 cm do rebordo costal, nao havendo alteracoes no restante do exame. o hemograma apresenta anemia, leucopenia e plaquetopenia; tambem hiperbilirrubinemia as custas principalmente de elevacao de bilirrubinas diretas; transaminases 4 vezes acima dos valores de referencia e ultrassom de cranio com leucomalacia periventricular e calcificacoes periventriculares. considerando-se esses dados, quais sao, respectivamente, a hipotese diagnostica e o manejo adequado para o caso?',
     options: ['A) sifilis congenita; uso de penicilina cristalina por 10 dias, avaliacao neurologica, oftalmologica e fonoaudiologica.', 'B) citomegalovirose; uso de aciclovir por 2 meses, acompanhamento mensal com pediatra na unidade basica de saude.', 'C) sifilis congenita; uso de penicilina procaina por 10 dias, seguimento mensal com pediatria na unidade basica de saude.', 'D) citomegalovirose; uso de ganciclovir por 6 meses, acompanhamento auditivo com fonoaudiologo e otorrinolaringologista.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q039',
@@ -15036,7 +15036,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'uma paciente com 24 anos, estudante de medicina, procura atendimento no ambulatorio de uma universidade com historia de febre nao aferida e mal-estar generalizado iniciados ha cerca de 48 horas. conta que hoje comecou a apresentar cefaleia intensa, motivo de sua procura por assistencia. informa ter tido varicela e rubeola quando crianca. refere ter sido vacinada na infancia e que, quando entrou na faculdade, tomou uma dose de dt e da vacina para hepatite b, mas nao completou o esquema. nega vacinacao em campanhas, pois teve rubeola na infancia. ao exame fisico, apresenta frequencia respiratoria de 24 incursoes respiratorias por minuto, frequencia cardiaca de 100 batimentos por minuto, pressao arterial de 120  80 mmhg, temperatura axilar de 38,8 c; mucosas normocoradas, hipohidratadas (+1/+4), escleroticas anictericas; aparelho respiratorio: murmurio vesicular universalmente audivel, ausencia de ruidos adventicios; aparelho cardiovascular: ritmo cardiaco regular em dois tempos, bulhas normofoneticas, sem sopros ou atritos; abdome: flacido, peristaltico, sem visceromegalias. no exame neurologico esta acordada, lucida, movimenta os quatro membros, sem deficit focal aparente, com rigidez de nuca (+3/+4), sinal de kernig e sinal de brudzinski presentes. nao foram observadas lesoes cutaneas ou mucosas. na fundoscopia ocular: nervos oticos bem visualizados, sem alteracoes. com relacao a abordagem diagnostica, assinale a opcao correta.',
     options: ['A) a coleta de liquido cefalorraquidiano devera ser realizada atraves de puncao suboccipital, pois ha contraindicacao para realizacao de puncao na regiao lombar.', 'B) o exame microscopico do liquido cefalorraquidiano, utilizando-se a coloracao de gram, que evidencie bastonetes gram negativos, confirma o diagnostico de meningite pneumococica.', 'C) a puncao liquorica com exame da bioquimica do liquido cefalorraquidiano devera ser realizada, pois permitira a distincao entre infeccao bacteriana e viral, o que orientara a conduta terapeutica.', 'D) a paciente devera ser submetida a um exame de imagem antes da realizacao da coleta de liquido cefalorraquidiano para exame diagnostico, pois ha contraindicacao para realizacao de puncao lombar.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q042',
@@ -15048,7 +15048,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'uma paciente com 30 anos, gravida de 34 semanas, sofreu colisao frontal auto vs anteparo (muro), sentada no banco do passageiro e sem uso de cinto de seguranca. foi atendida por equipe de emergencia pre-hospitalar, com relato de parada cardiaca e manobras de reanimacao por cerca de 5 minutos, sem sucesso, durante sua remocao ate o pronto-socorro de um hospital. foi admitida pelo cirurgiao geral, em parada cardiorrespiratoria e midriase paralitica bilateral, com hematoma volumoso em regiao frontal. nesse caso, qual deve ser a conduta do profissional que realiza o atendimento?',
     options: ['A) considerar morte materno-fetal.', 'B) realizar cirurgia cesariana de urgencia.', 'C) encaminhar a paciente para o gineco-obstetra.', 'D) solicitar ultrassonografia, para a avaliacao do feto.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q043',
@@ -15060,7 +15060,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'um paciente desnutrido, com 6 meses, deu entrada no pronto-socorro, acompanhado por familiares que relatam diarreia abundante e piora progressiva do nivel de consciencia, que vem ocorrendo ha 2 dias. ao exame, o paciente encontra--se desidratado, hipocorado, sonolento, comatoso e sem sinais localizatorios. mantido em ar ambiente, colheu-se uma gasometria arterial, que revelou ph = 7,22; pressao parcial de co de 48 mmhg; pressao parcial de o de 2 2 75 mmhg; saturacao de o de 94%; bicarbonato de 12,5 meq/l 2 e excesso de bases (be) = -13. considerando o quadro descrito, assinale a opcao que apresenta o diagnostico correto para o caso.',
     options: ['A) acidose mista, respiratoria e metabolica.', 'B) acidose metabolica compensada por hiperventilacao alveolar.', 'C) alcalose respiratoria compensada por uma acidose metabolica.', 'D) acidose metabolica compensada por uma alcalose respiratoria.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q044',
@@ -15072,7 +15072,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'uma paciente primigesta de 16 anos, com 36 semanas de idade gestacional, procura a unidade basica de saude apresentando ruptura prematura de membranas ovulares. encaminhada ao hospital em franco trabalho de parto, e admitida em periodo expulsivo. o recem-nascido (rn), acolhido pela equipe de neonatologia, tem peso adequado para a idade gestacional e sua avaliacao na escala apgar e de 9/9 no primeiro e quinto minutos. no entanto, apos 36 horas do nascimento, o rn apresenta quadro de pneumonia e evolui rapidamente para sepse. nesse caso, para prevenir a ocorrencia da sepse, deveria ter sido realizado durante o pre-natal o rastreio e a quimioprofilaxia de qual agente etiologico?',
     options: ['A) streptococcus -hemoliticos do grupo b.', 'B) chlamydia trachomatis.', 'C) staphylococcus aureus.', 'D) escherichia coli. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q045',
@@ -15084,7 +15084,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'em reuniao de equipe de saude de uma unidade basica de saude (ubs) localizada em cidade de medio porte com lideres de organizacoes sociais defensoras dos direitos da populacao de lesbicas, gays, bissexuais, travestis e transexuais, queer, intersexo, assexuais (lgbtqia+), foram levantados alguns problemas, como: dificuldade no acesso das mulheres lesbicas a realizacao de exame de papanicolau, falta de acesso a tratamento transexualizador para travestis e transexuais, nao utilizacao do nome social dessa populacao pelos funcionarios da ubs, falta de oferta de servicos e/ou acoes voltados para a saude mental dessa populacao. diante dos problemas descritos e com base na politica nacional de saude integral de lesbicas, gays, bissexuais, travestis e transexuais, o medico da equipe de saude deve, nessa ocasiao, esclarecer que',
     options: ['A) a adocao do uso do nome social das pessoas lgbtqia+, apesar de indicado pela legislacao brasileira, e uma prerrogativa de cada ubs.', 'B) sao previstas politicas publicas especificas relativas a saude mental, alcool e outras drogas, para a populacao lgbtqia+ na rede de atencao psicossocial.', 'C) a dificuldade no acesso ao exame papanicolau e equivocada, visto que a cobertura de realizacao do exame e maior para as mulheres lesbicas e bissexuais do que para os outros grupos mencionados.', 'D) ainda nao ha legislacao que assegure a oferta do processo transexualizador pelo sistema unico de saude (sus), apesar de essa demanda ser reconhecida como valida e procedente.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q046',
@@ -15096,7 +15096,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'um homem com 78 anos, acamado ha meses em funcao de quadro demencial avancado, chega a unidade de emergencia com quadro de rebaixamento do nivel de consciencia, febre e hipotensao arterial. segundo familiares, o paciente vem apresentando tosse desde a ocorrencia, ha 3 dias, de episodio compativel com broncoaspiracao durante tentativa de alimentacao por via oral. relatam que, nos ultimos 2 dias, ele passou a se mostrar mais apatico, nao interagindo minimamente com os familiares, nem aceitando alimentacao e que, no dia de hoje, surgiu febre e a acompanhante aferiu pressao arterial de 90  60 mmhg, uma queda de cerca de 40 mmhg na pressao sistolica em relacao ao parametro habitual do paciente. ao exame fisico, e confirmada hipotensao arterial sistemica (88  48 mmhg), alem de sonolencia (escore de coma de glasgow de 9 pontos), desidratacao (+2/+4), descoramento de mucosas (+1/+4), taquicardia (120 batimentos por minuto), taquipneia (26 incursoes respiratorias por minuto) e presenca de roncos difusos, com estertores crepitantes na base direita. exames laboratoriais iniciais revelam anemia (hemoglobina de 8,5 g/dl - valor de referencia [vr]: 13- 17 g/dl), elevacao de creatinina (2,3 mg/dl - vr: 0,8- 1,2 mg/dl), ureia (102 mg/dl - vr: 20-40 mg/dl) e lactato (5,1 mmol/l - vr: <= 2,0 mmol/l), alem de acidose metabolica e hipoxemia. sao colhidas hemoculturas. o paciente e monitorizado adequadamente, submetido a oferta suplementar de oxigenio, e inicia-se o tratamento indicado para o quadro clinico que apresenta. alem da antibioticoterapia de amplo espectro adequada, a conduta prioritaria a ser adotada para esse paciente ainda nas primeiras horas de abordagem e',
     options: ['A) iniciar terapia de substituicao renal com hemodialise.', 'B) administrar cristaloides intravenosos para resgate volemico.', 'C) proceder a hemotransfusao com 2 concentrados de hemacias.', 'D) administrar glicocorticoide devido a possibilidade de insuficiencia adrenal.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q047',
@@ -15108,7 +15108,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'uma paciente com 40 anos, indice de massa corporea de 38kg/m2, com historia de colelitiase sintomatica ha 2 anos, apresenta-se para cirurgia de colecistectomia videolaparoscopica. os resultados de seus exames laboratoriais sao normais e a ultrassonografia de abdome mostra multiplos calculos em vesicula biliar. e realizada a operacao, descrita como tecnicamente dificil em razao da obesidade e das aderencias inflamatorias no leito vesicular. a paciente foi encaminhada a enfermaria, acordada e sem queixas. foram reiniciadas dieta e deambulacao nas primeiras 24 horas de pos- operatorio. apos 36 horas de pos-operatorio, apresentou pico febril de 39 c, dor abdominal e discreta ictericia. novos exames laboratoriais mostraram leucograma de 20.500 leucocitos com 8% bastoes, bilirrubina direta 2,0 mg/dl, bilirrubina indireta 1,0 mg/dl, aspartatoaminotransferase 60 u/l, alanina aminotransferase 80 u/l, fosfatase alcalina 230 u/l e gamaglutamiltransferase 450 u/l. a paciente evoluiu, em 4 horas, com hipotensao, prostracao e queda do estado geral. acerca desse quadro clinico, assinale a opcao correta.',
     options: ['A) a incidencia de lesao de via biliar na via videolaparoscopica e menor que na cirurgia aberta, por ser procedimento menos invasivo e proporcionar melhor e mais rapida recuperacao; a complicacao em curso pode ser sepse de origem pulmonar, pois a obesidade e a dor no pos-operatorio facilitam restricao respiratoria e infeccao, devendo-se, portanto, iniciar antibioticoterapia de amplo espectro imediatamente.', 'B) a colecistectomia aberta e a tecnica recomendada para pacientes obesos, dado o risco de complicacoes; o quadro de possivel fistula biliar deve ser tratado imediatamente com antibioticos e drenagem percutanea guiada por ultrassonografia, evitando-se nova abordagem e a possibilidade de ocorrencia de danos secundarios.', 'C) a possibilidade de lesao de via biliar como complicacao precisa ser informada a paciente e a sua familia, devendo ser solicitada a transferencia para um centro com unidade de terapia intensiva, tendo em vista suporte e antibioticoterapia de largo espectro, aguardando-se o esfriamento do processo para planejar a reabordagem.', 'D) a possibilidade de lesao de via biliar como complicacao precisa ser informada a paciente e a sua familia, devendo ser solicitada a transferencia para um centro com unidade de terapia intensiva e acesso a equipe especializada e a metodos diagnosticos, como a colangiorressonancia magnetica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q048',
@@ -15120,7 +15120,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'ao fazer o historico alimentar de uma crianca de 12 meses com alergia ao leite de vaca, a pediatra ouve o seguinte relato da mae da crianca: ao acordar ofereco um suco; no lanche do meio da manha, dou fruta e castanhas; no almoco, ela come diariamente folhas, legumes cozidos e crus e, eventualmente, arroz e feijao; a tarde, ofereco um lanche com fruta, bolo ou biscoito; a noite, sopa de legumes acrescido de macarrao e azeite; e, antes de dormir, suco. considerando-se o relato da mae, qual grupo de nutrientes esta deficiente na alimentacao dessa lactente?',
     options: ['A) vitaminas.', 'B) gorduras.', 'C) carboidratos.', 'D) aminoacidos essenciais.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q051',
@@ -15132,7 +15132,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'uma paciente com 25 anos chega para consulta na unidade basica de saude devido a quadro de disuria e polaciuria ha 5 dias, que se agravou, tendo se iniciado hematuria nas ultimas 24 horas. ela relata que e a primeira vez que apresenta os sintomas descritos, que e sexualmente ativa, negando ter quaisquer outras queixas. o exame fisico e normal, exceto por dor a palpacao profunda em hipogastrio. nessa situacao, a conduta medica adequada para o caso e',
     options: ['A) solicitar urocultura.', 'B) prescrever empiricamente antibiotico.', 'C) prescrever empiricamente antifungico.', 'D) solicitar bacterioscopia do conteudo vaginal. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q052',
@@ -15144,7 +15144,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'uma paciente com 70 anos, diabetica, com dor em flanco esquerdo, de inicio insidioso e piora progressiva ha 72 horas, chega ao pronto-socorro acompanhada de familiares. eles relatam que, nos ultimos 3 meses, observaram a ocorrencia de episodios de sangramento retal vermelho-vivo, anorexia e perda ponderal de 10 kg. ao exame fisico, a paciente apresenta-se em mau estado geral, torporosa, com frequencia respiratoria de 24 incursoes respiratorias por minuto, frequencia cardiaca de 116 batimentos por minuto, pressao arterial de 90  50 mmhg, abdome globoso, doloroso a palpacao, com sinais de irritacao peritoneal difusa. o resultado de radiografia simples evidencia pneumoperitoneo volumoso. apos discussao do caso com a familia, deve ser proposto pelo cirurgiao geral plantonista a realizacao de uma laparotomia, de uma',
     options: ['A) enterectomia segmentar e de uma ileostomia.', 'B) colectomia segmentar e de uma coloanastomose.', 'C) limpeza e de uma drenagem da cavidade abdominal.', 'D) colectomia segmentar e de uma colostomia de hartmann.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q053',
@@ -15156,7 +15156,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'um pediatra e chamado para atendimento de um recem- nascido (rn) em sala de parto, sendo informado de que a gestante nao realizou pre-natal. a crianca nasce em apneia. o cordao umbilical foi clampeado imediatamente e o rn e levado a mesa de reanimacao. o pediatra realiza os passos iniciais em, no maximo, 30 segundos, mas o rn continua em apneia. considerando-se o quadro clinico descrito, qual e a conduta adequada nesse momento?',
     options: ['A) oferecer oxigenio inalatorio.', 'B) indicar a entubacao traqueal.', 'C) aplicar estimulo tatil com friccao circular no abdome.', 'D) iniciar a ventilacao com pressao positiva por mascara.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q054',
@@ -15168,7 +15168,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'o nascimento prematuro continua sendo a principal causa de mortalidade e morbidade perinatais, sendo responsavel por ate dois tercos das mortes neonatais e por deficits fisicos, mentais e do desenvolvimento de longo prazo. nos ultimos trinta anos, os avancos foram significativos nos cuidados neonatais e na reducao da mortalidade infantil na prematuridade, porem as morbidades e as consequencias em longo prazo permanecem. acerca dos cuidados gestacionais para evitar a prematuridade, assinale a opcao correta.',
     options: ['A) as evidencias cientificas indicam a eficacia de uso de progesterona por toda gestante na prevencao a prematuridade.', 'B) as pacientes no estagio 3, conforme a classificacao de risco de hobel, devem continuar em acompanhamento ambulatorial.', 'C) a infeccao urinaria e fator de risco para a prematuridade, devendo toda gestante com bacteriuria assintomatica ser submetida a antibioticoterapia.', 'D) os bloqueadores de canal de calcio sao medicamentos proibidos na inibicao dos trabalhos de parto por causarem hipotensao materna e baixo fluxo placentario.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q055',
@@ -15180,7 +15180,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'uma idosa com 75 anos, acompanhada de sua filha, busca a unidade basica de saude queixando-se ao medico de estar tendo alguns esquecimentos. relata que a familia insistiu muito para que buscasse atendimento medico e que a filha quase a obrigou a ir a consulta. considerando a necessidade de uma primeira abordagem com avaliacao multidimensional do caso, o medico se propos a utilizar o indice de vulnerabilidade clinico-funcional-20 (ivcf-20). acerca desse instrumento de avaliacao, assinale a opcao correta.',
     options: ['A) um dos itens avaliados pelo ivcf-20 e a renda familiar dos idosos, que indica a sua situacao socioeconomica.', 'B) independentemente do resultado do ivcf-20, os idosos devem submeter-se, na sequencia, a avaliacao geriatrica ampla (aga).', 'C) entre os questionamentos a serem feitos para o calculo do ivcf-20, inclui-se o do numero de quedas do idoso no ano anterior ao do exame.', 'D) o uso do ivcf-20 permite identificar os idosos frageis, prescindindo da utilizacao de ferramenta complementar, seja qual for o seu resultado.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q056',
@@ -15192,7 +15192,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'um homem com 45 anos, em uso de anti-inflamatorio nao hormonal ha 20 dias devido a tendinite de ombro esquerdo, chega ao pronto-socorro com quadro de melena ha 24 horas, de moderado volume, associado a epigastralgia intensa e mal-estar. nega doencas preexistentes. ao exame fisico, apresenta-se em bom estado geral, consciente, orientado, com mucosas anictericas, hidratadas e hipocoradas (+1/+4), facies atipica, tempo de enchimento capilar de 2 segundos, frequencia cardiaca de 90 batimentos por minuto, pressao arterial de 120  80 mmhg, abdome flacido, com ruidos hidroaereos aumentados, dor a palpacao de epigastrio. os resultados de seus exames complementares apresentaram: hemacias: 4.500.000; hemoglobina: 13%; hematocrito: 39%; leucocitos: 4.400; plaquetas: 220.000; inr: 1,2 (valor de referencia [vr]: 1-1,4); ureia: 45 mg/dl (vr: 16-40), creatina: 1,2 mg/dl (vr: 0,7-1,3); potassio: 5,4 meq/l (vr: 3,5-5,5); tipagem sanguinea: a+, endoscopia digestiva alta com erosoes agudas de mucosa gastrica em regiao de antro e bulbo.',
     options: ['A) conduta inicial mais adequada ao caso seria dieta zero e', 'A) transfusao de plaquetas e de plasma fresco congelado.', 'B) transfusao de concentrado de hemacias em ate duas horas.', 'C) reposicao volemica com cristaloides e uso de inibidores da bomba protonica (ibp).', 'D) reposicao volemica com cristaloides e transfusao de concentrado de hemacias e plaquetas.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q057',
@@ -15204,7 +15204,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'um paciente com 65 anos apresenta quadro de disfagia a solidos que evoluiu rapidamente para liquidos, acompanhado de tosse, rouquidao e perda ponderal de 20 kg nos ultimos 90 dias. o paciente e tabagista (consumo de 1 a 2 macos de cigarro/dia) ha 40 anos e etilista de bebida destilada ha 30 anos. realizada endoscopia digestiva alta, confirmou-se o diagnostico de neoplasia de esofago cervical.',
     options: ['A) traqueobroncoscopia demonstrou doenca avancada, com paralisia das cordas vocais e invasao da arvore traqueobronquica. nesse caso, entre as seguintes opcoes de tratamento paliativo, a mais adequada e a realizacao de', 'A) esofagectomia trans-hiatal.', 'B) tunelizacao cirurgica.', 'C) esofagostomia.', 'D) gastrostomia.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q058',
@@ -15240,7 +15240,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'um homem com 50 anos chega ao pronto-socorro apos queda da propria altura e dor em pulso direito. relata perda ponderal de 25 kg nos ultimos dois anos, referindo hiporexia e ma alimentacao. relata ingestao de bebidas destiladas diariamente ha 10 anos, cerca de 500 a 800 ml/dia, nega tabagismo, doencas preexistentes, uso de medicamentos e de drogas ilicitas. o paciente apresenta-se em estado geral ruim, apatico, alerta, orientado em espaco, pouco orientado em tempo; sua marcha e ataxica. ao exame fisico, registram-se indice de massa corporal de 18 kg/m2; frequencia cardiaca de 100 batimentos por minuto; frequencia respiratoria de 16 incursoes respiratorias por minuto; pressao arterial de 100  60 mmhg. observam-se diplopia, nistagmo e estrabismo convergente bilateral, punho direito edemaciado, alem de amnesia retrograda e distorcao ao relatar historias passadas. os resultados de seus exames de sangue apresentam: hemoglobina: 13,1 g/dl (valor de referencia [vr]: 13-16); hematocrito: 38% (vr: 38-50); leucocitos: 8.890 /ml (vr: 4.000-10.000); plaquetas: 280.000/ml (vr: 150.000- 400.00); sodio: 140 meq/l (vr: 135-145); potassio: 3,8 mg/dl (vr: 3,5-5,5); calcio: 8,4 mg/dl (vr: 8,510,4); magnesio: 0,9 mg/dl (vr: 1,8-2,7); glicose: 68 mg/dl (vr: 70-99); tgo/ast: 70 u/l (vr: <40); tgp/alt: 85 u/l (vr: < 40); vitamina b1: 15 mmol/l (vr: 60-120). no resultado da ressonancia magnetica plano axial t2, observam-se sinais hiperintensos na regiao do tecto e na substancia cinzenta proxima ao aqueduto cerebral. considerando-se esse quadro clinico e a suspeita diagnostica da sindrome de wernick korsakoff, quais seriam, respectivamente, o fator etiopatogenico dessa sindrome e a conduta terapeutica adequada para o paciente?',
     options: ['A) alcoolismo; hidratacao com soro glicofisiologico a 10% + complexo b oral.', 'B) traumatismo cranioencefalico; internacao na unidade de terapia intensiva (uti).', 'C) traumatismo cranioencefalico; observacao e hidratacao com soro glicofisiologico a 10%.', 'D) alcoolismo; tiamina parenteral intravenosa ou intramuscular (500 mg, 2 a 3 vezes por dia, por 3 dias).'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q062',
@@ -15252,7 +15252,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'um paciente com 40 anos, diabetico e obeso, comparece ao pronto-socorro, com evolucao de 24 horas de dor em nadega direita e febre. o exame fisico indica nadega direita sem sinais de flogose, com dor a palpacao perianal. ao exame de toque retal, notam-se fezes e discreta elevacao da mucosa, a cerca de 6 cm da margem anal. nesse caso, devem ser prescritos ao paciente o uso de',
     options: ['A) anti-inflamatorio e a realizacao de anuscopia.', 'B) antibiotico e o retorno em 7 dias para reavaliacao.', 'C) antibiotico e a realizacao de tratamento cirurgico.', 'D) anti-inflamatorio e a realizacao de banho de assento.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q063',
@@ -15264,7 +15264,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'um menino com 2 anos chega para atendimento no servico de urgencia com a mae, que conta que ele ingeriu desinfetante ha menos de uma hora. ao exame, a crianca apresenta-se consciente, irritada, chorosa, normotermica, corada e hidratada, exalando um leve odor de desinfetante pela boca. suas conjuntivas estao claras, as pupilas, isocoricas e fotorreativas; o ritmo cardiaco e regular em 2 tempos, sem sopros. alem disso, apresenta: perfusao periferica normal; frequencia cardiaca de 120 batimentos por minuto; pressao arterial de 80  50 mmhg; frequencia respiratoria de 20 incursoes por minuto, eupneica; murmurio vesicular fisiologico sem ruidos adventicios.',
     options: ['A) conduta inicial no atendimento dessa crianca e', 'A) usar agentes neutralizantes ou substancias diluentes, como leite e agua.', 'B) fazer lavagem gastrica e utilizar carvao ativado para adsorver a substancia.', 'C) induzir vomito para eliminar a maior quantidade possivel da substancia ingerida.', 'D) examinar a mucosa oral e observar por 2 a 4 horas para verificar se permanece integra. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q064',
@@ -15276,7 +15276,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'uma paciente com 39 semanas e 2 dias de idade gestacional chega a unidade de pronto atendimento para avaliacao obstetrica e, apos anamnese e exame fisico geral, foi constatada, no exame de toque vaginal, uma apresentacao fetal como a ilustrada na foto a seguir. com relacao a foto, e correto afirmar que se trata de uma apresentacao cefalica',
     options: ['A) defletida de 1 grau, bregmatica.', 'B) defletida de 2 grau, de fronte.', 'C) defletida de 3 grau, de face.', 'D) fletida, occipital.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q065',
@@ -15288,7 +15288,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'um paciente com 10 anos, pertencente a uma comunidade ribeirinha na regiao do tapajos, e atendido em unidade basica de saude fluvial por medico de familia e comunidade, queixando-se de parestesia e fraqueza em membros inferiores, desequilibrio, tremores, alem de dificuldade de aprendizagem, tonturas e irritabilidade. os pais relatam que, mais recentemente, a crianca vem apresentando tambem dificuldade para falar. durante a avaliacao dos habitos da crianca, os pais tambem informam que consomem basicamente mandioca, plantada por eles, e peixes do rio. referem, ainda, que residem em uma area que ja vem sendo ocupada por grupos de garimpeiros ilegais ha alguns anos, o que tem alterado as caracteristicas das aguas do rio. qual e o principal diagnostico para o caso desse paciente?',
     options: ['A) poliomielite.', 'B) intoxicacao por mercurio.', 'C) sindrome de guillain-barre.', 'D) intoxicacao por organofosforados.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q066',
@@ -15300,7 +15300,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'apos dois dias de arduos treinamentos militares sob sol intenso, um recruta com 18 anos queixa-se de mal-estar, fraqueza generalizada, relatando urina avermelhada e em pequeno volume. levado a uma unidade de emergencia, apresenta-se, no momento da consulta, em regular estado geral, levemente taquipneico e hemodinamicamente estavel, com ausculta cardiaca e pulmonar normais e sem edemas. exames complementares revelam: creatinina: 4,2 mg/dl (valor de referencia [vr]: 0,7-1,2 mg/dl); ureia: 189 mg/dl (vr: 20-40 mg/dl); potassio: 6,2 meq/l (vr: 3,5-5,5 meq/l) e acidose metabolica moderada (gasometria arterial com bicarbonato: 14 mmol/l - vr: 24 +/- 2 mmol/l), alem de um teste de fita apresentar resultado falso-positivo para hemoglobinuria. feito eletrocardiograma, o resultado mostra a presenca de "ondas t em tenda", e o paciente recebe administracao de gluconato de calcio intravenoso (iv). alem disso, diante da hipotese principal, cuja etiologia provavel parece ser rabdomiolise, o paciente e inicialmente tratado por via iv com reposicao hidrica, oferta de bicarbonato de sodio 8,4% e glicoinsulinoterapia, alem de nebulizacao regular com beta-2 agonista. algumas horas depois, o paciente mantem-se estavel, sem sinais de uremia ou congestao pulmonar. seus exames de entao revelam: creatinina: 3,9 mg/dl; ureia: 165 mg/dl: potassio: 6,1 meq/l; e bicarbonato: 20 mmol/l. nesse momento, o medico opta pela instituicao de terapia de substituicao renal (tsr). considerando-se o caso descrito, e correto afirmar que a indicacao de tsr foi baseada na presenca de',
     options: ['A) hipercalemia refrataria.', 'B) elevacao refrataria da ureia.', 'C) acidose metabolica refrataria.', 'D) elevacao refrataria da creatinina.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q067',
@@ -15312,7 +15312,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'uma paciente com 40 anos, hipertensa, diabetica e obesa morbida, e atendida em uma unidade basica de saude, queixando-se de dor em hipocondrio direito, pos-prandial, ha aproximadamente 24 horas. relata inicio subito, tipo colica, constante, com piora progressiva e irradiacao para dorso ipsilateral, associada a nauseas, vomitos e calafrios. ao exame fisico, notam-se: facies de sofrimento, abdome globoso, flacido, depressivel, sinal de murphy presente, sinal de blumberg ausente. diante desse caso, a conduta medica deve ser',
     options: ['A) encaminhamento ao pronto-socorro para avaliacao de urgencia.', 'B) solicitacao de ultrassonografia eletiva e reavaliacao em 48 horas.', 'C) prescricao domiciliar de antiespasmodico e reavaliacao em 48 horas.', 'D) prescricao domiciliar de antibiotico e sintomaticos e reavaliacao em 7 dias.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q068',
@@ -15324,7 +15324,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'uma pre-escolar com queixa principal de febre e dor ao urinar esta sendo atendida em uma unidade de pronto atendimento.',
     options: ['A) mae relata que, ha 2 dias, apos uma longa viagem de carro, a menor iniciou quadro de febre de 38-39 c, associada a dor em baixo ventre de forte intensidade, disuria e um episodio de vomitos. conta que ela aceita parcialmente a dieta, que a diurese esta presente e as fezes tambem, e sem alteracoes. refere ocorrencia de um episodio semelhante ha 6 meses. o diagnostico dessa condicao clinica e confirmado pelo achado de', 'A) qualquer contagem de colonias na coleta pela tecnica clean catch.', 'B) mais de 1.000 ufc/ml, na coleta por cateterismo vesical.', 'C) qualquer valor de piocitos no exame de urina.', 'D) 10.000 ufc/ml na coleta por jato medio.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q069',
@@ -15336,7 +15336,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'uma paciente com 10 semanas de idade gestacional comparece a consulta para avaliacao de resultados dos exames solicitados na rotina do pre-natal. apresenta exame de glicemia de jejum 91 mg/dl. o teste oral de tolerancia a glicose (totg) com avaliacao da glicemia de jejum, apos uma hora e apos duas horas, tem os limites para o dmg de 92 mg/dl (jejum), de 180 mg/dl (apos uma hora) e de 153 mg/dl (apos duas horas). nesse caso, a conduta recomendada para o rastreamento e para a definicao da presenca ou nao de diabetes gestacional e realizar o totg com',
     options: ['A) 100 g, entre 32 e 36 semanas gestacional, ja que o diagnostico e feito com pelo menos um valor alterado.', 'B) 75 g, entre 24 e 28 semanas de gestacao, visto que o diagnostico e feito com pelo menos um valor alterado.', 'C) 75 g, entre 22 e 28 semanas de gestacao, pois o diagnostico e feito com pelo menos dois valores alterados.', 'D) 100 g, entre 34 e 36 semanas de gestacao, uma vez que o diagnostico e feito com pelo menos dois valores alterados. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q070',
@@ -15348,7 +15348,7 @@ export const generatedQuestions = [
     questionNumber: 70,
     questionText: 'uma paciente com 26 anos de idade procura a unidade de saude da familia com quadro de febre de 39 c ha 3 dias, associada a cefaleia, intensa mialgia, nauseas e vomitos. relata que nao havia procurado atendimento antes, pois suspeitava de que fosse um quadro gripal, ou alguma intoxicacao alimentar, porem, no dia da consulta, apareceu um exantema, principalmente em membros inferiores. ao exame fisico, a paciente encontra-se em regular estado geral, com temperatura de 38,5 c, anicterica, acianotica, sem alteracoes as auscultas cardiaca e pulmonar, abdome sem alteracao, apresentando exantema maculopapular no dorso, no abdome e mais intenso nos membros inferiores, acometendo a planta dos pes, em que se notam edema (+1/+4), alem da presenca de picadas em regiao de tornozelos e panturrilhas. durante a investigacao epidemiologica, a paciente afirma ter ido realizar trilha com o namorado na semana anterior em uma regiao de cachoeiras, onde acamparam. considerando-se a principal suspeita diagnostica, alem de notificar o caso, por ser suspeita de doenca de notificacao compulsoria, o medico devera solicitar, em relacao a paciente, reacao de imunofluorescencia indireta (rifi)',
     options: ['A) imediatamente e repetir exame entre 14 e 21 dias; iniciar tratamento com doxiciclina imediatamente; orientar o namorado a observar aparecimento de sintomas.', 'B) imediatamente e repetir exame entre 14 e 21 dias; iniciar tratamento com ceftriaxona imediatamente; iniciar tratamento profilatico com ceftriaxona para o namorado.', 'C) imediatamente, sem necessidade de repeticao do exame; iniciar tratamento com doxiciclina apos confirmacao do resultado; iniciar tratamento profilatico com doxiciclina para o namorado.', 'D) a partir do setimo dia do inicio dos sintomas e repetir exame entre 14 e 21 dias; iniciar tratamento com ceftriaxona imediatamente; orientar namorado a observar aparecimento de sintomas.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q071',
@@ -15360,7 +15360,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'um homem com 38 anos foi encaminhado ao ambulatorio de referencia em infectologia do seu municipio devido a episodios de cefaleia, confusao mental e febre (ate 38,5 c) ocorridos ha cerca de uma semana, tendo havido perda de peso no ultimo mes (peso habitual = 70 kg). ele relata que, no dia anterior, iniciou com rebaixamento do nivel de consciencia, encontrando-se letargico no momento da consulta. nega tosse ou diarreia. os familiares contam que o paciente e tabagista e que faz consumo excessivo de bebida alcoolica. os exames iniciais mostraram leucocitos: 3.200/mm3, com 69% de neutrofilos, 21% de linfocitos e 10% de eosinofilos; anemia hipocromica, microcitica, com anisocitose; plaquetas normais; velocidade de hemossedimentacao: 120 mm na 1a hora; ureia, creatinina, tgo/ast, tgp/alt, eletrolitos normais. foi realizada a analise do liquido cefalorraquidiano (lcr), que mostrou 200 leucocitos/mm3, com 78% de linfocitos, niveis elevados de proteina, baixos niveis de glicose e tinta nanquim negativa. considerando-se o quadro descrito, a hipotese diagnostica pertinente ao caso e de',
     options: ['A) meningite tuberculosa.', 'B) meningite bacteriana.', 'C) neurocriptococose.', 'D) meningite viral.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q072',
@@ -15372,7 +15372,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'um paciente com 65 anos foi admitido em unidade de terapia intensiva por sepse de origem pulmonar. evolui com insuficiencia respiratoria e hipotensao refrataria a expansao volumetrica, com necessidade de entubacao orotraqueal e de drogas vasoativas. foi indicada a obtencao de acesso venoso central em veia subclavia. apos a insercao do cateter, o paciente apresentou hipoxemia inexplicavel e colapso cardiocirculatorio. a suspeita e de embolia aerea. nesse caso, a conduta mais adequada e a aspiracao do ar',
     options: ['A) por procedimento endovascular de urgencia, sob radioscopia.', 'B) por toracotomia lateral direita e puncao cardiaca sob visao direta.', 'C) pelo mesmo cateter, na posicao de trendelenburg em decubito lateral esquerdo.', 'D) por meio da passagem imediata de outro cateter em veia subclavia contralateral.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q073',
@@ -15384,7 +15384,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'um lactente de 9 meses e levado a emergencia de um hospital publico municipal para avaliacao de dor abdominal aguda.',
     options: ['A) mae refere que a crianca comecou a apresentar os sintomas ha cerca de 12 horas e que a dor ocorre de forma intensa seguida por periodos de acalmia e subsequente piora. ela tambem diz que reparou que a fralda da crianca estava com fezes entremeadas de sangue e muco. ao exame clinico, a crianca se apresentava irritada, desidratada (+2/+4) e hipocorada (+2/+4); as auscultas cardiaca e respiratoria nao apresentavam anormalidades; e percebeu-se o abdome distendido, sem visceromegalias, com peristalse aumentada.', 'A) principal hipotese diagnostica e a condicao clinica geralmente associada sao, respectivamente,', 'A) invaginacao intestinal; infeccao viral de vias aereas.', 'B) volvo intestinal; constipacao devido a aganglionose do colon.', 'C) estenose hipertrofica de piloro; primogenitos do sexo masculino.', 'D) apendicite aguda; alimentacao pobre em residuos com formacao de coprolitos.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q074',
@@ -15396,7 +15396,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'uma paciente com 30 anos, primigesta, tipagem sanguinea b+, sem comorbidades, sem queixas atuais e estavel hemodinamicamente, chega a uma unidade ambulatorial com o seguinte resultado de exame feito no mesmo dia: bhcg de 2.500 mui/ml, e com ecografia mostrando uma massa anexial de 2,0 cm (sem embriao vivo) e ausencia de gestacao intrauterina. a paciente ja havia feito exames ha 3 dias que mostraram um bhcg de 1.500 mui/ml. considerando-se que essa paciente deseja gestar no futuro, que todos os demais exames laboratoriais estao normais e que ela tem possibilidade de dar seguimento ao tratamento proposto, e melhor',
     options: ['A) indicar cirurgia aberta.', 'B) adotar conduta expectante.', 'C) adotar conduta medicamentosa com metotrexato.', 'D) indicar cirurgia videolaparoscopica para salpingoplastia. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q075',
@@ -15408,7 +15408,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'uma paciente com 40 anos comparece a consulta medica no posto de saude contando que, em razao de suas varias queixas de insonia e dificuldades para dormir, ja havia sido orientada sobre higiene do sono, tendo obtido melhora parcial, e que, ha um mes e meio, havia se consultado com a enfermeira dessa unidade, que iniciou um tratamento semanal de aplicacao de auriculoterapia. refere ainda que comecou, ha 3 semanas, a tomar tintura de mulungu, uma planta de que dispoe em sua casa e de que sua familia sempre se utiliza, de geracao em geracao, para ansiedade e insonia. no momento, a paciente relata ter obtido uma resposta muito boa a esse tratamento, mas afirma que a consulta se deve a preocupacao com 1 episodio de insonia que teve ha 1 semana. nesse caso, assinale a opcao que apresenta a conduta medica adequada.',
     options: ['A) orientar a suspensao da tintura de mulungu, devido ao risco de intoxicacao por uma planta sem evidencia cientifica robusta.', 'B) prescrever zolpidem 10 mg para o controle da insonia e encaminhar a paciente para o psiquiatra, se nao houver melhora.', 'C) manter o uso da tintura de mulungu e o tratamento da auriculoterapia, e pedir a paciente que retorne se houver piora ou novos sintomas.', 'D) orientar a enfermeira informando que a pratica de auriculoterapia e de acupuntura devem ser realizadas exclusivamente em centros especializados.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q076',
@@ -15420,7 +15420,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'uma mulher com 35 anos iniciou quadro de tremores, irritabilidade, aumento de apetite com perda de peso de 8 kg em 2 meses. notou que houve aumento da regiao cervical e que os olhos ficaram mais evidentes. no mesmo periodo, relata palpitacoes e aumento do numero de evacuacoes diarias. no exame fisico, apresenta facies basedowniana, pele aveludada e com sudorese profusa, frequencia cardiaca de 120 batimentos por minuto, tremores de extremidades, pressao arterial de 140  70 mmhg e tireoide aumentada cerca de 3 vezes o tamanho normal, com superficie lisa e presenca de fremito. nos exames complementares, observou-se t4 livre: 5,6 ng/dl (valor de referencia [vr]: 0,9-1,8), tsh < 0,01 mu/l (vr: 0,4 - 4,5). diante do diagnostico de hipertiroidismo, qual seria a melhor terapeutica para esse caso?',
     options: ['A) levotiroxina 75 mg ao dia e atenolol 25 mg de 12/12 horas.', 'B) metimazol (tiamazol) 30 mg ao dia e propanolol 40 mg de 12/12 horas.', 'C) atenolol 25 mg de 12/12 horas e radioiodoterapia com i131.', 'D) propanolol 40 mg de 12/12 horas e radioiodoterapia com i131.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q077',
@@ -15432,7 +15432,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'uma paciente com 20 anos foi atendida na emergencia de hospital secundario, vitima de queimadura acidental em membros superiores e parte anterior do torax, ocorrida ha 30 minutos. consciente e orientada, queixa-se de dor no local das queimaduras e de nausea. ao exame fisico, observam-se membros superiores com hiperemia e bolhas em toda a extensao; pressao arterial de 80  50 mmhg, frequencia cardiaca de 120 batimentos por minuto, frequencia respiratoria de 35 incursoes respiratorias por minuto, indice de massa corporal de 40 kg/m2. foi realizada tentativa de acesso venoso central em veia femoral direita, sem sucesso. acesso central subclavio direito bem-sucedido. cerca de 25 minutos apos o inicio da hidratacao e da analgesia intravenosa, a paciente refere "falta de ar". foi solicitado raio x de torax, que mostrou a imagem a seguir. considerando a complicacao mais frequente no acesso venoso profundo por via subclavia no contexto do caso apresentado, a imagem mostra',
     options: ['A) pneumotorax, impondo intervencao imediata para drenagem e descompressao.', 'B) hemotorax, comprimindo estruturas e impondo intervencao imediata para drenagem e descompressao.', 'C) hidrotorax, recomenda-se nova puncao contralateral, via jugular, para se estabelecer nova via de acesso central.', 'D) elevacao diafragmatica direita, por paralisia frenica, recomenda-se nova puncao contralateral, via jugular, para se estabelecer nova via de acesso central.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q078',
@@ -15444,7 +15444,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'um lactente com 30 dias de vida apresentou, ha 3 dias, lesoes na cabeca, com escamas gordurosas, espessas e aderentes, semelhantes a uma crosta lactea. as lesoes se estendiam para a regiao retroauricular e a area das sobrancelhas. seguindo orientacao da pediatra, a mae aplicou oleo de uva nas lesoes uma hora antes do banho para a retirada das crostas. considerando-se o quadro apresentado, sao caracteristicas dessa dermatose',
     options: ['A) exudacao e vesiculas.', 'B) liquenificacao e eritema.', 'C) descamacao e aumento da ige serica.', 'D) ausencia de prurido e ausencia de eosinofilia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q079',
@@ -15456,7 +15456,7 @@ export const generatedQuestions = [
     questionNumber: 79,
     questionText: 'uma paciente com 27 anos, primigesta, com 37 semanas, foi admitida no pronto atendimento com quadro de dor abdominal subita, sangramento vaginal vermelho vivo de pequena/moderada quantidade. foi realizado o diagnostico de descolamento prematuro de placenta e um dos medicos da equipe propos a realizacao de amniotomia durante o toque vaginal, pois, ao exame fisico, constatou-se que o colo e pervio para 4 cm e e possivel a palpacao das membranas com facilidade, e que o bebe esta em nivel + 1 de plano de apresentacao. com relacao a proposta da amniotomia, o medico estava',
     options: ['A) incorreto, pois a amniotomia se relaciona a um aumento de risco de embolia amniotica.', 'B) correto, pois a amniotomia se relaciona a um menor tempo de dequitacao da placenta apos o parto.', 'C) correto, pois a amniotomia se relaciona a reducao do risco de coagulacao intravascular disseminada.', 'D) incorreto, pois a amniotomia se relaciona a um risco aumentado de piora da zona de descolamento de placenta. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q080',
@@ -15468,7 +15468,7 @@ export const generatedQuestions = [
     questionNumber: 80,
     questionText: 'uma crianca com 8 anos chega, com sua mae, a unidade de saude da familia com queixa de dispneia e sibilancia ha cerca de 2 horas. a crianca tem historico de asma, em acompanhamento na unidade, fazendo uso de beclometasona 200 mcg por dia. quando questionada sobre o controle das crises da crianca, a mae refere que vinha usando salbutamol 100 mcg, 3 a 4 vezes por semana, devido a quadros de tosse seca e discreto desconforto respiratorio. relata que, hoje, porem, mesmo apos 2 puffs de salbutamol, os sintomas apresentados pela crianca estavam mais intensos e persistentes. a crianca demonstra desconforto e agitacao, com fala entrecortada, frequencia respiratoria de 32 incursoes respiratorias por minuto, frequencia cardiaca de 110 batimentos por minuto, saturacao de o de 89% em ar ambiente, sibilos difusos e 2 tiragem intercostal. nesse caso, as condutas medicas para o controle da crise e para o tratamento de manutencao contra a asma devem ser, respectivamente,',
     options: ['A) indicar mascara de oxigenio, para manter saturacao entre 93 e 95%, beta-2 agonista de curta duracao inalatorio 6 puffs, que podera ser repetido a cada 20 minutos e, se necessario, brometo de ipratropio e prednisolona 2-4 mg/kg, enquanto aguarda a remocao da crianca para internacao; e aumentar beclometasona para 200 mcg 12/12h, mantendo o corticoide oral por 5 a 7 dias.', 'B) indicar mascara de oxigenio, para manter saturacao entre 94 e 98%, beta-2 agonista de curta duracao inalatorio 2 puffs, que podera ser repetido a cada 20 minutos, brometo de ipratropio e, se necessario, prednisolona 1-2 mg/kg, enquanto aguarda a remocao da crianca para internacao; e aumentar beclometasona para 200 mcg 12/12h, mantendo o corticoide oral por 3 a 5 dias.', 'C) indicar mascara de oxigenio, para manter saturacao entre 94 e 98%, beta-2 agonista de curta duracao inalatorio 6 puffs, que podera ser repetido a cada 20 minutos, brometo de ipratropio e prednisolona 1-2 mg/kg, enquanto aguarda a remocao da crianca para internacao; e aumentar beclometasona para 200 mcg 12/12h, associar agonista beta-2 de longa duracao, mantendo o corticoide oral por 3 a 5 dias.', 'D) indicar mascara de oxigenio, para manter saturacao entre 93 e 95%, beta-2 agonista de curta duracao inalatorio 2 puffs, que podera ser repetido a cada 20 minutos, brometo de ipratropio e, se necessario, prednisolona 1-2 mg/kg, enquanto mantem a crianca em observacao na unidade de saude; e manter beclometasona 200 mcg por dia, associar agonista beta-2 de longa duracao, mantendo o corticoide oral por 5 a 7 dias.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q081',
@@ -15480,7 +15480,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'uma paciente com 57 anos, assintomatica, foi submetida a exames complementares iniciais de check-up que revelaram a presenca de hipercalcemia leve a moderada (11,5 mg/dl  valor de referencia [vr]: 8,0-10,5 mg/dl), sendo referenciada para ambulatorio de endocrinologia de um hospital terciario. ao ser atendida nesse servico, foi solicitada a dosagem de pth (paratormonio), cujo resultado revelou-se aumentado (189 pg/ml - vr: 10-65 pg/ml). considerada a hipotese diagnostica principal, foram realizados outros exames complementares que revelaram os seguintes achados: ultrassonografia abdominal com calculos em calices renais e aspecto de nefrocalcinose bilateral, alem da presenca de colelitiase em vesicula biliar; densitometria ossea com escore-t menor que - 2,5 em coluna lombar e colo femural; calciuria de 600 mg em 24 horas. com vistas a possivel resseccao cirurgica minimamente invasiva de lesao adenomatosa, e feito um exame de spect com 99mtc-sestamibi, que revela hipercaptacao nodular de cerca de 2,5 cm na base do pescoco, a direita. considerando-se esse contexto, que dado e indicativo de intervencao cirurgica, mesmo estando a paciente assintomatica?',
     options: ['A) o desenvolvimento de colelitiase.', 'B) a idade superior a 50 anos da paciente.', 'C) o tamanho do nodulo cervical ao exame spect.', 'D) o escore t menor que -2,5 na densitometria ossea.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q082',
@@ -15492,7 +15492,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'adolescente com 12 anos, atendida em uma unidade de pronto atendimento, relata choque eletrico ao manusear um cabo de energia na rua onde mora e que nao houve perda de consciencia. a paciente se encontra orientada e estavel hemodinamicamente. ao exame fisico, observam-se: roupas chamuscadas, area avermelhada com lesao cutanea compativel com queimadura de 1 grau em todo o membro superior direito e no pescoco, alem de area esbranquicada com lesao cutanea de 1 cm, profunda, no calcaneo direito. o medico assistente, apos instituir as medidas iniciais de estabilizacao, opta por solicitar a transferencia da paciente para uma unidade de tratamento de queimaduras (utq). um criterio que justifica a solicitacao da transferencia pedida pelo medico e a queimadura ser',
     options: ['A) de qualquer profundidade, desde que em area maior que 10% da superficie corporal.', 'B) de profundidade ate segundo grau em 5% da superficie corporal.', 'C) eletrica em extremidade do corpo com passagem de corrente.', 'D) eletrica de baixa voltagem, com formacao de arco voltaico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q083',
@@ -15504,7 +15504,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'um menino com 13 anos, previamente saudavel, foi avaliado no ambulatorio de pneumologia, por causa de uma historia de 20 dias de febre (> ou = 38 c), mal-estar, sudorese noturna profusa e tosse seca, que nao foram modificados pelo tratamento previo com amoxicilina. ao exame fisico, foram observados no paciente multiplos linfonodos de consistencia endurecida, fixos, indolores, em cadeia cervical e supraclavicular esquerda, com diametro entre 2 a 5 cm cada um. foi realizada radiografia de torax, que mostrou infiltrados pulmonares bilaterais, arredondados, e adenopatia hilar bilateral. diante do caso descrito, assinale a opcao que apresenta, respectivamente, a principal hipotese diagnostica e a conduta correta para a sua confirmacao.',
     options: ['A) mononucleose; solicitar biopsia aspirativa de ganglio e sorologias especificas.', 'B) tuberculose; solicitar hemograma, hemocultura e tomografia computadorizada de alta resolucao de corpo inteiro.', 'C) pneumonia comunitaria; solicitar hemograma, hemocultura e tomografia computadorizada por emissao de positrons de torax.', 'D) linfoma de hodgkin; solicitar biopsia excisional de ganglio e tomografia computadorizada por emissao de positrons de corpo inteiro.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q084',
@@ -15516,7 +15516,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'uma paciente com 35 anos, casada, nuligesta, procurou atendimento especializado, queixando-se de ciclos irregulares, fogachos, insonia, diminuicao da lubrificacao vaginal e da libido. o medico, apos solicitacao de exames e verificacao dos resultados, fez o diagnostico de insuficiencia ovariana. nesse caso, o diagnostico pode ser confirmado com base nos resultados dos seguintes exames:',
     options: ['A) fsh e estradiol elevados, inibina baixa.', 'B) fsh elevado, estradiol e inibina baixos.', 'C) fsh baixo, estradiol e inibina elevados.', 'D) fsh e estradiol baixos, inibina elevada. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q086',
@@ -15528,7 +15528,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'uma paciente com 35 anos faz tratamento em um ambulatorio de referencia em reumatologia devido a esclerose sistemica, forma difusa. faz uso regular de medicacoes como prednisona e metotrexato. ha 3 meses, ela apresenta dor toracica em queimacao, retroesternal, associada a sensacao de regurgitacao, disfagia e episodios de tosse seca principalmente ao deitar. o diagnostico e a conduta para esse caso sao, respectivamente,',
     options: ['A) pleurite; radiografia de torax.', 'B) angina instavel; cateterismo coronariano.', 'C) dismotilidade esofagica; manometria esofagica.', 'D) doenca intersticial pulmonar; tomografia computadorizada de torax.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q087',
@@ -15540,7 +15540,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'uma paciente com 26 anos, vitima de atropelamento em via publica, chega ao pronto-socorro com colar cervical, imobilizada em prancha longa. foi entubada, no local do acidente, pelo medico socorrista, devido a alteracao do nivel de consciencia (escala de coma de glasgow: 6). na sala de emergencia, encontra-se com: pulso de 128 batimentos por minuto, pressao arterial de 90  60 mmhg, saturacao de o de 2 89%, ventilada manualmente. a ausculta pulmonar esta normal a direita, mas o murmurio vesicular esta muito diminuido em todo o hemitorax esquerdo. a paciente nao apresenta desvio de traqueia nem estase jugular. diante desse quadro, a primeira medida a ser tomada e',
     options: ['A) solicitar radiografia de torax.', 'B) checar a entubacao traqueal.', 'C) realizar toracocentese a esquerda.', 'D) proceder a drenagem fechada de torax a esquerda.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q088',
@@ -15552,7 +15552,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'uma crianca com dois anos e atendida em consulta de puericultura com historia de ter apresentado, ha aproximadamente 1 mes, uma queimadura de segundo grau em tronco devido a derramamento de conteudo de uma panela que estava sobre o fogao e foi puxada pelo cabo pela crianca. esse tipo de queimadura caracteriza',
     options: ['A) um acidente, porque foi um evento fortuito, que ocorreu ao acaso.', 'B) um caso de maus tratos devido as caracteristicas clinicas da queimadura.', 'C) uma negligencia, uma vez que existiam fatores de risco que poderiam ser evitadas.', 'D) um caso de violencia domestica devido as caracteristicas epidemiologicas da queimadura.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q089',
@@ -15564,7 +15564,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'os metodos contraceptivos hormonais femininos combinados sao seguros e eficazes, porem devem ser prescritos por um medico ou profissional da saude que faca parte de um servico de planejamento familiar e que avalie se a paciente tem alguma contraindicacao a esse uso. segundo a oms, com relacao aos criterios de elegibilidade dos metodos contraceptivos orais combinados, categoria 4, assinale a opcao correta.',
     options: ['A) nao se deve utilizar o metodo de contraceptivos orais combinados, pois a contraindicacao e absoluta, como no caso de cefaleia tensional.', 'B) nao se deve utilizar o metodo de contraceptivos orais combinados, pois a contraindicacao e absoluta, como no caso de trombofilia conhecida.', 'C) nao e recomendado o uso de contraceptivos orais combinados, a menos que metodos mais adequados nao estejam disponiveis ou nao sejam aceitaveis, como no caso de presenca de cancer de mama.', 'D) nao e recomendado o uso de contraceptivos orais combinados, a menos que metodos mais adequados nao estejam disponiveis ou nao sejam aceitaveis, como nos casos de trombose venosa profunda ou de embolia pulmonar atual ou pregressa. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q090',
@@ -15576,7 +15576,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'o gestor de um municipio de pequeno porte pretende organizar os servicos de atencao primaria a saude (aps), a partir de meados de 2023, fazendo a transicao do modelo tradicional, vigente no municipio (integralmente composto por especialistas focais lotados em unidades basicas de saude), para a estrategia de saude da familia: equipes de saude da familia (esf), agentes comunitarios de saude (acs), nucleos ampliados de saude da familia (nasf), etc. para isso, ele pretende utilizar os dados do censo demografico do ibge de 2022. de acordo com o censo demografico de 2010, o municipio possuia 12.366 habitantes.',
     options: ['A) partir dos parametros avaliados em ambos os censos e conforme as recomendacoes da politica nacional de atencao basica (2017), quais sao as acoes corretas a serem indicadas para a reestruturacao da aps pretendida no municipio?', 'A) definicao do numero de acs por esf com base em criterios demograficos e socioeconomicos fornecidos pelo censo e em dados epidemiologicos do municipio.', 'B) implantacao de, pelo menos, 1 nasf, considerando-se o numero de esf previsto e da populacao encontrada pelo censo, para prover assistencia especializada focal a populacao.', 'C) definicao da modalidade das equipes de saude bucal que irao compor as esf, considerando-se os dados sobre condicoes de saude bucal coletados e consolidados pelo censo.', 'D) implantacao de, pelo menos, 3 esf para atender a toda a populacao do municipio, considerando-se que o crescimento populacional encontrado tenha sido menor que 10% desde 2010.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q091',
@@ -15588,7 +15588,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'uma mulher com 40 anos e encaminhada da unidade basica de saude para o ambulatorio de referencia em neurologia devido a cefaleia. relata que apresenta episodios de cefaleia hemicraniana, acompanhada de nauseas e escotomas visuais, desde a adolescencia, e que, aos 30 anos, fez tratamento com propranolol por 1 ano, o que reduziu significativamente o numero de crises de cefaleia, que passaram a ocorrer 1 a 2 vezes no mes. acrescenta que, no entanto, ha 3 meses, a frequencia dos episodios aumentou; tornaram-se diarios, com despertares noturnos devido a dor, aumento da intensidade e, no momento, descreve a cefaleia como holocraniana. nessa situacao, a conduta adequada para o caso deve ser',
     options: ['A) realizar puncao lombar.', 'B) reiniciar o uso de propranolol.', 'C) solicitar ressonancia magnetica de encefalo.', 'D) iniciar tratamento com amitriptilina ou outro triciclico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q092',
@@ -15600,7 +15600,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'em visita domiciliar da estrategia de saude da familia, e atendido um homem com 53 anos, ex-tabagista (consumo de 20 cigarros/dia) que parou de fumar ha 15 anos. ele relata que foi submetido a colonoscopia ha 3 meses, em razao de diarreia prolongada, quando se evidenciou uma lesao polipoide com 0,5 cm no reto, tendo sido realizada polipectomia, cujo laudo anatomopatologico revelou um polipo hiperplasico. afirma nao haver historia de cancer colorretal na familia.',
     options: ['A) classificacao de risco para cancer colorretal nesse paciente e a estrategia de acompanhamento, visando o rastreamento desse tipo de neoplasia conforme as diretrizes brasileiras, sao, respectivamente,', 'A) risco baixo; colonoscopia anual.', 'B) risco moderado; colonoscopia anual.', 'C) risco baixo; pesquisa anual de sangue oculto nas fezes.', 'D) risco moderado; pesquisa anual de sangue oculto nas fezes.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q093',
@@ -15612,7 +15612,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'um pre-escolar aguardando um atendimento eletivo foi vitima de colapso subito em ambiente intra-hospitalar; parece inconsciente e esta cianotico. de acordo com as diretrizes do suporte avancado de pediatria (2020), deve-se, inicialmente,',
     options: ['A) avaliar a responsividade e, se nao houver resposta, chamar por ajuda; logo apos palpar pulso carotideo e verificar a respiracao, simultaneamente; se pulso carotideo ausente, iniciar compressoes toracicas (15 compressoes toracicas: 2 ventilacoes).', 'B) avaliar a responsividade e, se nao houver resposta, chamar por ajuda; logo apos palpar pulso radial e verificar a respiracao, simultaneamente; se pulso radial ausente, iniciar compressoes toracicas (30 compressoes toracicas: 2 ventilacoes).', 'C) chamar por ajuda, avaliar a responsividade e, se nao houver resposta, palpar pulso radial e verificar a respiracao, simultaneamente; se pulso radial ausente, iniciar compressoes toracicas (15 compressoes toracicas: 2 ventilacoes).', 'D) chamar por ajuda e, se nao houver resposta, palpar pulso carotideo e verificar a respiracao, simultaneamente; se pulso carotideo ausente, iniciar compressoes toracicas (30 compressoes toracicas: 2 ventilacoes). area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q094',
@@ -15624,7 +15624,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'uma mulher de 19 anos comparece a uma unidade de emergencia com dor em fossa iliaca esquerda ha 3 dias, mais intensa neste dia. nega febre e afirma ter relacao sexual heterossexual, utilizando-se de condon como meio de anticoncepcao, de forma irregular. refere que a ultima menstruacao ocorreu ha 45 dias. ao exame fisico, apresenta pressao arterial de 90  50 mmhg, frequencia cardiaca de 110 batimentos por minuto, temperatura axilar de 36,7 oc, abdome doloroso em andar inferior, principalmente em fossa iliaca esquerda, com descompressao dolorosa. ao exame especular, nota-se sangramento discreto pelo orificio externo do colo; toque com dor a palpacao de regiao anexial esquerda, utero intrapelvico, colo fechado. considerando-se o quadro descrito e os dados apresentados, o principal diagnostico e a conduta adequada sao, respectivamente,',
     options: ['A) gravidez ectopica esquerda; solicitar beta hcg e ultrassonografia transvaginal.', 'B) torcao anexial esquerda; solicitar ultrassonografia de abdome total e hemograma.', 'C) doenca inflamatoria pelvica; solicitar hemograma e pcr para pesquisa de clamidia.', 'D) cisto roto de ovario esquerdo; solicitar hemograma e tomografia de abdome e pelve.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-1-q095',
@@ -15636,7 +15636,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'um medico de familia e comunidade atende, pela primeira vez, um paciente com queixa de dispneia a moderados esforcos, tosse persistente, que piora pela manha, e episodios de sibilancia. o paciente traz resultados de exames solicitados por outro servico e, entre eles, encontram-se uma espirometria e uma tomografia computadorizada (tc) de torax, que diz terem sido solicitadas para investigar enfisema pulmonar, pois e fumante. ao avaliar a tc, o medico fica em duvida com relacao a uma imagem, que poderia sugerir um cancer de pulmao e decide discutir o caso com outros profissionais no grupo de aplicativo de troca de mensagens.',
     options: ['A) respeito dos aspectos da etica medica relativos ao uso de grupo de aplicativo de troca de mensagens, e correto afirmar que', 'A) permite-se o uso de grupo recreativo de aplicativo de troca de mensagens, formado apenas por medicos registrados nos conselhos de medicina, desde que seja feita a ressalva de que os dados compartilhados sejam mantidos em sigilo.', 'B) e permitido o uso de aplicativo de troca de mensagens, exclusivo para discussao de casos, formado apenas por medicos registrados nos conselhos de medicina, desde que haja expressa autorizacao do paciente para compartilhamento de suas informacoes.', 'C) e permitido o uso de grupo de aplicativo de troca de mensagens, exclusivo para discussao de casos clinicos, formado apenas por medicos registrados nos conselhos de medicina, desde que se mantenha o carater confidencial das informacoes compartilhadas.', 'D) nao e permitido o uso de grupo de aplicativo de troca de mensagens para discussao de casos clinicos, mesmo com a manutencao de sigilo e confidencialidade dos dados pessoais dos pacientes e com expressa autorizacao do paciente para compartilhamento de suas informacoes.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q096',
@@ -15648,7 +15648,7 @@ export const generatedQuestions = [
     questionNumber: 96,
     questionText: 'um homem com 22 anos, pesando 75 kg, sofreu multiplas fraturas e contusao pulmonar em acidente automobilistico, evoluindo com sara (sindrome da angustia respiratoria do adulto), estando em ventilacao mecanica ha 7 dias. apresenta escala de coma de glasgow < 8. a ausculta pulmonar, observa-se murmurio vesicular presente, diminuido em bases, associado a estertores finos em bases. a radiografia de torax mostra imagens sugestivas de consolidacoes difusas em pulmao direito e esquerdo, tipicas de sara, com infiltrado intersticial difuso. a tomografia de cranio demonstra imagem compativel com hematoma subdural a direita. o paciente apresenta, ainda, ph: 7,35 (valor de referencia [vr]: 7,35-7,45); pressao parcial de co2: 45 mmhg (vr: 35- 45 mmhg); pressao parcial de o2: 85 mmhg (vr: 80 a 100 mmhg); bicarbonato: 24 mmol (vr: 22 a 26 mmol). nesse caso, de acordo com a associacao de medicina intensiva brasileira (amib)  diretrizes brasileiras de ventilacao mecanica, recomenda-se',
     options: ['A) realizar traqueostomia apos 14 dias de entubacao orotraqueal.', 'B) realizar traqueostomia precoce ate 7 dias de entubacao orotraqueal.', 'C) realizar cricotireoidostomia de demora ate 7 dias de entubacao orotraqueal.', 'D) extubar e iniciar ventilacao nao invasiva apos 14 dias de entubacao orotraqueal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q097',
@@ -15660,7 +15660,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'um paciente com 65 anos procura a unidade de pronto atendimento com queixa de ter acordado com dor abdominal, subita, difusa, de intensidade crescente. conta que fez uso de medicacao sintomatica e apresentou 2 episodios de vomitos. nega sintomas urinarios e alteracao do habito intestinal. relata tabagismo (consumo de 60 macos/ano) e etilismo habitual (2 doses de destilado/dia), alem das seguintes comorbidades: hipertensao arterial, em uso de atenolol, losartana, aspirina e sinvastatina; infarto agudo do miocardio ha 10 anos. acrescenta que passou por uma cirurgia previa, de urgencia, de ulcera no estomago ha 18 anos. ao exame fisico, apresenta-se: obeso, em regular estado geral, agitado. registram-se, ainda: pressao arterial de 100  60 mmhg; frequencia cardiaca de 110 batimentos por minuto; frequencia respiratoria de 20 incursoes respiratorias por minuto; temperatura axilar de 37,8 c; estando o paciente icterico (+1/+4), corado, desidratado (+1/+4), com abdome normotenso, doloroso a palpacao profunda difusamente, sem sinais de irritacao peritoneal. resultados de seus exames laboratoriais apresentam: hemoglobina: 13 g/dl, leucocitos: 14.000/mm3, amilase: 238 u/l, lipase: 130 u/l, proteina c reativa: 8 mg/l, gasometria venosa mostrando ph: 7,32 e lactato: 27 mg/dl. nesse caso, a principal hipotese diagnostica e de abdome agudo',
     options: ['A) perfurativo por ulcera perfurada.', 'B) inflamatorio por pancreatite aguda.', 'C) obstrutivo por obstrucao intestinal.', 'D) isquemico por isquemia mesenterica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-1-q098',
@@ -15672,7 +15672,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'uma crianca com 2 anos, do sexo feminino, com sindrome de down, comparece a unidade basica de saude para acompanhamento do estado nutricional.',
     options: ['A) respeito da avaliacao nutricional de criancas com sindrome de down, assinale a opcao correta.', 'A) o peso ideal, para criancas obesas com essa sindrome de down, e utilizado para estimar as necessidades nutricionais.', 'B) o peso corporal e utilizado como um dos marcadores diretos da massa proteica e de reservas de energia em criancas com e sem sindrome de down.', 'C) as curvas antropometricas especificas de desenvolvimento para a faixa de idade devem ser consultadas para criancas com sindrome de down.', 'D) as criancas com sindrome de down, assim como os adultos, podem ter a sua altura estimada pela extensao da perna esquerda.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-1-q100',
@@ -15684,7 +15684,7 @@ export const generatedQuestions = [
     questionNumber: 100,
     questionText: 'uma medica iniciou suas atividades em uma equipe de saude da f equipe, questionou de que forma os trabalhadores organizavam necessidades da populacao da area adstrita, do ponto de vis participantes da reuniao nao conseguiram responder a essa pergun',
     options: ['A) seguir e apresentado o modelo de determinantes sociais da saud disponivel em: <https://publica.c considerando o modelo de determinacao social da saude apresent', 'A) considerar que apenas os fatores geneticos, estilo de vida reconhecerem as especificidades da populacao da area adstrit', 'B) entender que, apesar das condicoes de vida e trabalho serem atividades desenvolvidas no territorio.', 'C) considerar que os fatores hereditarios; estilo de vida; condico mais importantes para a determinacao das suas acoes.', 'D) entender que os individuos e suas caracteristicas individuais de estilos de vida individuais estao situados no limiar entre os fato'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-1-q099',
@@ -15696,7 +15696,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'ao receber resultados de citologia realizada por mulheres de determinada comunidade em uma unidade basica de saude (ubs), uma medica verifica que os resultados do exame de duas delas apresentaram lesao intraepitelial escamosa de alto grau. ao entrar em contato com essas mulheres, a medica deve solicitar que',
     options: ['A) retornem em 6 meses a ubs para repeticao do exame.', 'B) retornem imediatamente a ubs para repeticao do exame.', 'C) procurem o atendimento secundario para realizacao de colposcopia.', 'D) procurem o atendimento secundario para realizacao de cirurgia de conizacao. familia (esf) de um grande centro urbano. na primeira reuniao de seu processo de trabalho para compreender as especificidades e sta dos determinantes sociais da saude (dss). os profissionais nta. de (dss), proposto por dahlgren e whitehead. buss e pellegrini filho, saneamento e saude ambiental. ciar.ufg.br/ebooks/saneamento-e-saude-ambiental/modulos/4_modulo_saude/01.html.> acesso em 03 fev. 23 (adaptado). tado, os profissionais dessa esf deveriam e as redes sociais e comunitarias devem ser avaliadas para se ta. m importantes para os dss, elas nao influenciam ou orientam as oes socioeconomicas, culturais e ambientais gerais, sao os fatores de idade, sexo e fatores hereditarios estao na base do modelo, e os ores individuais e os dss. as perguntas abaixo visam obter sua opiniao de realizar. para cada uma delas, assinale a espacos proprios do cartao-resposta. agradecemos a sua colaboracao. pergunta 1 qual o grau de dificuldade da prova?', 'A) muito facil.', 'B) facil.', 'C) medio.', 'D) dificil.', 'E) muito dificil. pergunta 2 considerando a extensao da prova, em relacao ao tempo total, voce considera que a prova foi', 'A) muito longa.', 'B) longa.', 'C) adequada.', 'D) curta.', 'E) muito curta. pergunta 3 os enunciados das questoes da prova estavam claros?', 'A) sim, todos.', 'B) sim, a maioria.', 'C) cerca da metade.', 'D) poucos.', 'E) nao, nenhum.', 'A) sim, ate excessivas.', 'B) sim, em todas elas.', 'C) sim, na maioria delas.', 'D) sim, somente em algumas.', 'E) nao, em nenhuma delas. pergunta 5 qual a maior dificuldade encontrada por voce ao responder a prova?', 'A) desconhecimento do conteudo.', 'B) forma diferente de abordagem do conteudo.', 'C) extensao das questoes.', 'D) falta de motivacao para fazer a prova.', 'E) nao tive qualquer tipo de dificuldade em responder a prova. pergunta 6 voce ja participou, no brasil, de outro(s) processo(s) de', 'A) sim.', 'B) nao.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q001',
@@ -15708,7 +15708,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'uma mulher de 60 anos, hipertensa, em uso irregular de medicamentos, e levada pelo filho ao pronto-socorro com historia de ter comecado a sentir, ha 8 horas, cefaleia holocraniana intensa, apresentando nauseas e vomitos. ela passou a ter confusao mental e, na ultima hora, esta mais sonolenta. ao exame fisico, apresenta pressao arterial de 220  140 mmhg em ambos os membros superiores; esta sonolenta, mas e responsiva ao chamado verbal. percebe-se, tambem, que esta desorientada no tempo e no espaco. alem disso, suas pupilas estao isocoricas e fotorreativas e ela nao apresenta deficit motor ou sensitivo. diante da hipotese diagnostica mais provavel, a conduta adequada e realizar uma',
     options: ['A) puncao liquorica e prescrever betabloqueadores.', 'B) tomografia de cranio e infundir nitroprussiato de sodio.', 'C) tomografia de cranio imediata e administrar furosemida endovenosa.', 'D) ressonancia magnetica de cranio imediata e administrar acido acetilsalicilico.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q002',
@@ -15720,7 +15720,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'um paciente de 48 anos e internado devido a uma fratura de femur fechada, a qual ocorreu ha 12 horas. durante a internacao, o paciente mantem-se estavel; nao ha intercorrencias. ele nao apresenta comorbidades e nao faz uso de medicacoes. ao avaliar o caso, a equipe de ortopedia indica fixacao definitiva da fratura. visando a seguranca do paciente, de acordo com as praticas recomendadas para realizacao de cirurgia segura, e importante verificar uma listagem de itens durante a etapa de identificacao, antes da inducao anestesica para o procedimento cirurgico. com base nessas informacoes, o que deve ser realizado pela equipe medica durante a etapa de identificacao do paciente, visando a sua seguranca?',
     options: ['A) apresentacao de cada membro da equipe pelo nome e funcao; e confirmacao de vaga em unidade de terapia intensiva para o pos-operatorio imediato.', 'B) confirmacao da explicacao do procedimento e seus riscos para os familiares do paciente; e verificacao da existencia de equipe de acolhimento hospitalar.', 'C) contagem de materiais a serem utilizados, como pincas e compressas; e checagem do funcionamento adequado de aparelhagem radiologica e anestesica.', 'D) demarcacao da lateralidade (direita ou esquerda) do procedimento; avaliacao de alergias conhecidas; e checagem da existencia do termo de consentimento para o procedimento.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q003',
@@ -15732,7 +15732,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'um menino de 9 anos, com peso de 29 kg e altura de 1,36 m, recem-adotado, comparece a primeira consulta de rotina com a familia atual. seus pais questionam o medico sobre a forma mais segura de transportar o filho na parte central do banco traseiro do automovel, a fim de zelar por sua integridade fisica em caso de acidente. em resposta ao questionamento dos pais, o medico deve orientar que a forma mais segura de transportar a crianca e de frente para o painel do veiculo,',
     options: ['A) no banco, utilizando o cinto de seguranca de tres pontos do veiculo.', 'B) na cadeirinha, utilizando o cinto de seguranca da propria cadeirinha.', 'C) na cadeirinha, utilizando o cinto de seguranca de tres pontos do veiculo.', 'D) no assento de elevacao, utilizando o cinto de seguranca de tres pontos do veiculo.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q004',
@@ -15744,7 +15744,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'uma mulher de 49 anos comparece a unidade basica de saude para consulta de rotina. ela relata ao medico que ficou muito preocupada depois de ler uma materia na internet sobre os riscos da osteoporose apos a menopausa. sua ultima menstruacao ocorreu ha 15 meses. a paciente afirma nao praticar atividade fisica regularmente, mas relata alimentacao balanceada e sem restricoes. ela nega doencas cronicas, uso de medicacoes continuas, etilismo ou tabagismo. na historia familiar, relata que sua mae, de 67 anos de idade, possui diagnostico de hipertensao arterial e de hipotireoidismo. ao exame, a paciente apresenta pressao arterial de 126  78 mmhg, indice de massa corporal 27 kg/m2. sua tireoide e normal a palpacao. os exames das mamas, do aparelho cardiovascular e do abdome apresentam-se dentro dos limites da normalidade. nesse caso, para prevencao primaria da osteoporose, o medico deve',
     options: ['A) suplementar com carbonato de calcio e com vitamina d, alem de iniciar rastreio com a densitometria ossea aos 55 anos de idade.', 'B) manter uma dieta rica em calcio e em vitamina d, com exposicao solar adequada e exercicios fisicos regulares para fortalecimento muscular e osseo.', 'C) realizar densitometria ossea e, caso seja confirmada osteopenia, suplementar com carbonato de calcio e com vitamina d e usar alendronato de sodio ou raloxifeno.', 'D) realizar dosagem serica do hormonio foliculo estimulante e do estradiol e, caso seja confirmada a menopausa, fazer uso da terapia hormonal com estrogenos conjugados.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q005',
@@ -15756,7 +15756,7 @@ export const generatedQuestions = [
     questionNumber: 5,
     questionText: 'em um territorio com populacao em situacao de vulnerabilidade, uma unidade basica de saude possui duas equipes que atendem 9 000 pessoas cadastradas. estima-se que as demandas por atendimento medico se tornarao ainda maiores, ja que a populacao local esta em rapida expansao, pois ha ocupacoes em areas proximas a um corrego que corta a extremidade do territorio de abrangencia. devido a sobrecarga dessas duas equipes e do potencial crescimento populacional, o gestor, portanto, decide implantar uma nova equipe de saude da familia. nesse contexto, qual e a melhor estrategia para a nova equipe de saude da familia organizar o processo de territorializacao?',
     options: ['A) dividir o territorio a partir da escala de risco familiar, a fim de distribuir as familias vulneraveis de forma igualitaria entre os agentes comunitarios, evitando, assim, a sobrecarga de trabalho desses profissionais.', 'B) dividir o territorio em micro areas, mesmo que de forma assimetrica geograficamente, garantindo maior semelhanca das necessidades dos grupos nele contidos, a fim de facilitar o direcionamento das acoes sociais e sanitarias.', 'C) utilizar mapas esquematicos ou mapas-base impressos para a representacao do territorio de abrangencia e para a divisao do territorio em micro areas, pois eles permitem melhor analise dos dados em relacao ao geoprocessamento.', 'D) utilizar dados primarios para a divisao do territorio em micro areas, como bancos de dados do datasus e do ibge, pois eles oferecem informacoes em niveis de desagregacao suficientes para ajudar a estabelecer o diagnostico situacional local.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q006',
@@ -15768,7 +15768,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'um homem de 20 anos, previamente higido e sem uso cronico de medicacao, procura um medico da unidade basica de saude relatando que, ha 2 dias, iniciou o uso de nimesulida para alivio de dor causada por uma entorse de tornozelo. no entanto, ha 24 horas, afirma ter comecado a apresentar prurido e papulas vermelhas de tamanhos variados, distribuidas de forma irregular em tronco e em membros superiores. o paciente nega dispneia, palpitacoes ou alteracoes gastrointestinais. alem de suspender o uso da nimesulida, a conduta do medico da atencao primaria deve ser',
     options: ['A) iniciar medicamento anti-histaminico e hidratacao da pele.', 'B) fazer uma dose de epinefrina subcutanea e iniciar anti- histaminico oral.', 'C) encaminhar o paciente para observacao em pronto-socorro devido ao risco de insuficiencia respiratoria aguda.', 'D) administrar corticoide topico e oral e, caso persistam os sintomas por mais de 24 horas, iniciar corticoide endovenoso.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q007',
@@ -15780,7 +15780,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'os plantonistas do servico de atendimento pre-hospitalar socorrem um rapaz de 18 anos, que foi atropelado por carro ao atravessar uma rodovia, e o levam ate a emergencia hospitalar para continuidade do atendimento. apos estabilizacao hemodinamica e realizacao de exames complementares, e diagnosticada fratura de pelve anterior e posterior e, no exame fisico, observa-se hematoma perineal e sangue no ostio externo da uretra. nesse caso, para confirmar o diagnostico de lesao uretral total associada, e indicado realizar uma',
     options: ['A) uretrocistografia retrograda.', 'B) cateterizacao suprapubica.', 'C) cateterizacao uretral.', 'D) tomografia pelvica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q008',
@@ -15792,7 +15792,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'um adolescente de 18 anos encontra-se internado apos cirurgia bariatrica (derivacao gastrica em y-de-roux) realizada ha 3 meses. ele refere que, ocasionalmente, apresenta nauseas, diarreia, dor abdominal, sudorese, sensacao de desmaio iminente e fraqueza cerca de 2 a 3 horas apos a ingestao de carboidratos simples, os quais consome com frequencia. seu exame fisico apresenta-se sem alteracoes no momento. exames de bioquimica, de imagem e endoscopia digestiva alta tambem apresentam-se sem alteracoes. diante desse quadro, qual e a hipotese diagnostica mais provavel?',
     options: ['A) fistula gastro-gastrica.', 'B) sindrome de dumping.', 'C) peritonite bacteriana secundaria.', 'D) deficiencia de ferro e de vitaminas do complexo b.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q009',
@@ -15804,7 +15804,7 @@ export const generatedQuestions = [
     questionNumber: 9,
     questionText: 'uma crianca de 9 anos e 4 meses e levada a consulta pela sua mae, que esta muito preocupada porque sua filha esta apresentando desenvolvimento mamario ha 2 meses. a mae nega que a paciente tenha doencas cronicas ou que faca uso de medicacoes continuas. relata que a menina possui boa alimentacao e que faz atividade fisica regular. na historia familiar, a irma da crianca apresentou menarca aos 13 anos. ao exame fisico: curvas de crescimento e peso dentro da normalidade, mamas em fase de botao (tanner m2), pelos pubianos longos, ligeiramente pigmentados ao longo dos grandes labios (tanner p2), e genitalia externa de aspecto normal. diante desse quadro, a conduta medica adequada e informar a mae e paciente que se trata de um caso sugestivo de',
     options: ['A) puberdade precoce central e encaminhar para endocrinopediatria.', 'B) hiperplasia congenita da suprarrenal e solicitar exames hormonais.', 'C) puberdade precoce por tumor de hipofise e encaminhar para neuropediatria.', 'D) desenvolvimento puberal normal e que nao ha necessidade de exames complementares no momento.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q010',
@@ -15816,7 +15816,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'uma crianca de 1 ano e 3 meses e trazida pela mae a unidade basica de saude. a mae refere que a crianca vem apresentando febre ha 48 horas, que varia entre 38,5 e 39 c, associada a prostracao, a inapetencia, a sonolencia e a um episodio de vomito na madrugada anterior. ao exame fisico, a crianca se encontra em regular estado geral, corada, desidratada +/4+, acianotica, anicterica, eupneica e sonolenta. a otoscopia, nota-se opacificacao da membrana timpanica a direita, que esta abaulada, sem saida de secrecao, associada a alteracao da regiao retroauricular, apresentando hiperemia e dor. restante do exame fisico sem alteracoes. por estar em periodo de epidemia de dengue, o medico de familia e comunidade solicita a prova do laco, a qual nao identifica nenhuma petequia. nesse caso, a conduta medica deve ser',
     options: ['A) notificar suspeita de dengue, solicitar sorologia, iniciar ceftriaxone intravenoso e encaminhar a paciente para internacao hospitalar.', 'B) descartar suspeita de dengue, iniciar ceftriaxone intravenoso, associar analgesico em caso de dor e encaminhar a paciente para internacao hospitalar.', 'C) notificar suspeita de dengue, solicitar sorologia, prescrever amoxicilina-clavulanato por 7 dias, associar analgesico em caso de dor e reavaliar a paciente em 2 dias.', 'D) descartar suspeita de dengue, prescrever amoxicilina- clavulanato por 8 dias, associar analgesico em caso de dor, orientar sobre os sinais de alerta e reavaliar a paciente em 2 dias.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q011',
@@ -15828,7 +15828,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'um medico e chamado para avaliar um homem internado por pancreatite aguda biliar. ao chegar ao posto de enfermagem, a tecnica narra que o paciente comecou a se queixar de uma caibra na mao, enquanto ela estava comecando a desinflar o manguito do esfignomanometro. o paciente queixa-se de parestesias periorais e nas extremidades. ao exame, o paciente esta angustiado e sudoretico, com os sinais vitais inalterados e com glicemia capilar de 138 mg/dl. o medico, entao, pede um manguito, infla a bolsa durante 3 minutos acima da pressao sistolica e observa a mao contraturada. depois, percute o nervo facial e observa contracao dos musculos perilabiais ipsilateralmente. diante disso, ele solicita um eletrocardiograma e constata que o intervalo qtc esta aumentado. considerando o caso clinico apresentado, assinale a opcao que descreve a hipotese clinica correta para explicar o cenario e as alteracoes descritos.',
     options: ['A) hipocalemia.', 'B) hiperglicemia.', 'C) hipocalcemia.', 'D) hipercalcemia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q012',
@@ -15840,7 +15840,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'um paciente de 87 anos, portador de hipertensao arterial sistemica e de fibrilacao atrial, comparece a unidade de emergencia de um hospital terciario sentindo dor abdominal incapacitante e apresentando distensao abdominal ha 1 dia. ele relata que, por motivos de esquecimento, nao toma seus medicamentos ha, aproximadamente, 1 semana. ao exame fisico, apresenta regular estado geral, facies de dor, palidez, sudorese, desidratado. abdome plano, levemente distendido, com dor difusa a palpacao profunda e sem sinais de irritacao peritoneal. restante do exame sem alteracoes. com relacao a esse caso, assinale a opcao que apresenta o metodo complementar mais sensivel e especifico para realizar o diagnostico desse paciente.',
     options: ['A) radiografia simples do abdome.', 'B) dosagem serica da desidrogenase latica.', 'C) angiotomografia computadorizada de abdome com contraste.', 'D) ultrassonografia com doppler colorido das arterias viscerais.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q013',
@@ -15852,7 +15852,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'um pre-escolar de 4 anos e levado a uma unidade de pronto-atendimento devido a uma queda da propria altura ha cerca de 30 minutos, tendo apresentado traumatismo em regiao occipital. logo apos a queda, a crianca apresentou choro intenso e um unico episodio de vomito. ao exame fisico, apresenta escala de coma de glasgow de 15, exames fisico e neurologico normais e ausencia de evidencias de fratura de cranio. em relacao a necessidade de realizacao de tomografia computadorizada (tc) de cranio para esse paciente, assinale a alternativa correta.',
     options: ['A) ha indicacao de realizacao de tc, pois a crianca apresentou um episodio de vomito, o que sugere lesao intracraniana.', 'B) nao ha indicacao de realizacao de tc, pois a crianca nao apresenta qualquer sinal de alerta para risco de lesao intracraniana.', 'C) ha indicacao de realizacao de tc, pois, nessa faixa etaria, o exame deve ser realizado independentemente dos sinais e dos sintomas apresentados.', 'D) nao ha indicacao de realizacao de tc e sim de radiografia simples de cranio, a fim de evidenciar fraturas que podem nao ter sido observadas em exame fisico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q014',
@@ -15864,7 +15864,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'uma mulher de 51 anos vem ao ambulatorio de referencia mencionando fogachos, insonia, irritabilidade e labilidade emocional ha 3 meses. a ultima menstruacao foi ha 6 meses e nunca usou hormonios. e hipertensa em uso de medicacao com niveis tensionais controlados. realizou revisao ginecologica recentemente, com exames clinico e complementares normais. apos a explanacao do medico sobre os riscos e beneficios da terapia hormonal (th) no climaterio, a paciente informa que deseja usar hormonios para alivio da sintomatologia, solicitando um esquema hormonal de menor risco para o seu organismo. considerando as evidencias disponiveis quanto ao perfil farmacologico e clinico dos esquemas de th, o medico devera prescrever',
     options: ['A) estradiol 1 mg + acetato de noretisterona 0,5 mg, por via oral, continuo.', 'B) estradiol 50 mcg + acetato de noretisterona em adesivo, por via transdermica, continuo.', 'C) estrogenios equinos conjugados 0,625 mg + acetato de medroxiprogesterona 5 mg, por via oral, continuo.', 'D) estradiol 1 mg em gel, por via transdermica, continuo + progesterona natural micronizada 100 mg, por via vaginal, ciclico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q015',
@@ -15876,7 +15876,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'uma paciente de 34 anos, solteira, g2p2a0c0, com ligadura tubaria ha 4 anos, sem parceria sexual, e sem uso de outros metodos contraceptivos, apresenta aumento de volume menstrual nos ultimos 6 ciclos, associado a aumento do periodo menstrual de 3 para 7 dias. refere a presenca ha 5 dias, de sangramento excessivo com coagulos, e aumento do volume ha 6 horas, associado a dor abdominal em colica, astenia, cansaco e fraqueza.',
     options: ['A) paciente nega possuir doencas previas ou fazer uso de medicamentos. apresenta-se em regular estado geral, descorada +/4+, desidratada +/4+, com pressao arterial de 80  50 mmhg, frequencia cardiaca de 108 batimentos por minuto, sem outras alteracoes. ao exame especular, observa-se grande quantidade de sangue saindo pelo orificio cervical externo, e parede vaginal integra. diante disso, o medico de familia e comunidade inicia a hidratacao com soro fisiologico 0,9%, 1 000 ml intravenoso, e solicita a remocao da paciente para o servico de urgencia. com base nesse quadro, quais devem ser, respectivamente, os primeiros exames complementares e a terapeutica medicamentosa inicial a serem ofertados a paciente?', 'A) hemograma, tsh, ultrassonografia transvaginal; prescricao de acetato de medroxiprogesterona.', 'B) tgo, tgp, coagulograma e hemograma; prescricao de desogestrel de uso continuo.', 'C) coagulograma e ultrassonografia transvaginal; prescricao de acido mefenamico.', 'D) fsh, lh e prolactina; prescricao de diclofenaco sodico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q016',
@@ -15888,7 +15888,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'uma mulher de 28 anos e avaliada em unidade basica de saude com queixa de diarreia cronica. a paciente refere estar preocupada, pois sua mae e irma tem doenca de crohn. ela relata que a diarreia tem 2 anos de evolucao, sendo, as vezes, intercalada por periodos de constipacao intestinal. afirma, tambem, que nunca foi despertada do sono em funcao da diarreia e que ha dor abdominal recorrente que sempre alivia com a evacuacao. refere que nao notou emagrecimento ao longo desse periodo e afirma, ainda, que as fezes nao flutuam no vaso sanitario nem contem muco, pus ou sangue. ao exame fisico, a paciente revela-se eutrofica (indice de massa corporal de 25 kg/m2), normocorada, acianotica, sem edemas e com sinais vitais normais. o resultado de sua colonoscopia esta normal e ela ainda aguarda o resultado do exame histopatologico. acerca do caso relatado, a principal hipotese diagnostica e',
     options: ['A) doenca de crohn.', 'B) sindrome disabsortiva.', 'C) sindrome do intestino irritavel.', 'D) retocolite ulcerativa idiopatica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q017',
@@ -15900,7 +15900,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'um homem de 49 anos procura atendimento com queixa de dor epigastrica e retroesternal em queimacao, diaria, nos ultimos 5 meses. relata que esses sintomas parecem agravar-se quando se deita e apos terminar as refeicoes. ele nega disfagia ou perda de peso. refere tosse e rouquidao pela manha nos ultimos meses. o paciente fez uso, por conta propria, de um medicamento inibidor da bomba de protons por 1 mes, com melhora parcial dos sintomas. ele refere ingesta ocasional de bebidas alcoolicas, mas nao fuma. ao exame fisico, observa-se obesidade grau 2 e nao sao identificadas anormalidades cardiopulmonares ou abdominais. considerando esse caso clinico, assinale a opcao que apresenta o exame mais adequado para confirmacao diagnostica',
     options: ['A) phmetria esofagica prolongada.', 'B) endoscopia digestiva alta.', 'C) esofagografia baritada.', 'D) manometria esofagica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q018',
@@ -15912,7 +15912,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'um menino de 7 anos e atendido em consulta de rotina na unidade basica de saude. ele nao apresenta queixas no momento da consulta, porem, ao exame fisico genital, e verificada a impossibilidade da retratibilidade completa do prepucio, para exposicao parcial do meato uretral, com anel cicatricial prepucial. quando a responsavel foi questionada acerca dos sintomas observados no paciente, ela referiu que, em duas ocasioes pregressas, ocorreram infeccoes locais que foram tratadas com antimicrobianos. com base no quadro desse paciente, e correto afirmar que ele apresenta',
     options: ['A) fimose fisiologica e deve permanecer em acompanhamento pediatrico, com provavel resolucao espontanea do processo.', 'B) fimose patologica e deve ser referenciado para servico de cirurgia pediatrica para realizacao de postectomia eletiva.', 'C) parafimose e deve ser encaminhado ao servico de emergencia referenciado para realizacao de manobra de reducao pelo cirurgiao.', 'D) fimose fisiologica e sua responsavel deve ser orientada sobre a necessidade de realizar manobras visando a acelerar a abertura do prepucio.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q019',
@@ -15924,7 +15924,7 @@ export const generatedQuestions = [
     questionNumber: 19,
     questionText: 'uma mulher de 52 anos e encaminhada a atencao secundaria com um resultado de mamografia bi-rads 0. a paciente relata dor e sensibilidade na mama direita e menciona que sua mae teve cancer de mama. ao examina-la, o medico identifica uma massa palpavel de cerca de 3 cm, localizada na parte superior da mama. considerando as orientacoes definidas pelo sistema unico de saude, qual deve ser a primeira conduta tomada pelo medico?',
     options: ['A) realizar biopsia da lesao.', 'B) repetir a mamografia em 6 meses.', 'C) realizar exame de ultrassonografia.', 'D) realizar puncao aspirativa por agulha fina (paaf) da lesao.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q020',
@@ -15948,7 +15948,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'uma mulher de 35 anos e encaminhada ao ambulatorio de referencia de um hospital de atencao secundaria, em funcao de queixas de nervosismo, insonia e tremores. a paciente nega dor na regiao cervical, assim como linfonodomegalias palpaveis. nega, tambem, quadros infecciosos recentes. ao exame fisico, a paciente exibe facies basedoweana tipica, extremidades quentes e umidas, taquicardia (120 batimentos por minuto) e hipertensao arterial sistolica isolada (164  78 mmhg). no exame da tireoide, nota-se pequeno aumento de tamanho, nao nodular e sem sopro local a ausculta. diante desse quadro, visando confirmar a hipotese diagnostica, a conduta do medico deve ser a solicitacao do exame de',
     options: ['A) captacao de iodo radioativo.', 'B) ultrassonografia de tiroide.', 'C) puncao aspirativa por agulha fina (paaf).', 'D) pesquisa de anticorpos do tipo trab. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q022',
@@ -15960,7 +15960,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'uma mulher de 45 anos procura o pronto-socorro com queixa de dor abdominal ha 3 dias em regiao epigastrica e hipocondrio direito, de intensidade crescente, associada a nausea e vomitos. refere sudorese e calafrios, porem nao aferiu temperatura corporal. alem disso, apresenta urina de coloracao escurecida.',
     options: ['A) paciente nega episodios anteriores e nao possui antecedentes pessoais relevantes. ao exame fisico, apresenta regular estado geral, corada e hidratada; icterica 2+/4+; frequencia cardiaca de 108 batimentos por minuto; pressao arterial de 110  70 mmhg; saturacao de oxigenio de 97% em ar ambiente; frequencia respiratoria de 23 incursoes respiratorias por minuto; e temperatura axilar de 38,5 c; abdome doloroso a palpacao em regiao epigastrica e em hipocondrio direito. os exames laboratoriais apresentaram o seguinte resultado: exame resultado valor de referencia leucocitos 16 150 mm3 4 500 a 11 000 mm3 transaminase glutamico 81 u/l 0 a 35 u/l oxalacetica (tgo) transaminase glutamico 79 u/l 0 a 35 u/l piruvica (tgp) fosfatase alcalina 850 u/l 30 a 120 u/l gama glutamil transferase 790 u/l 1 a 94 u/l ggt bilirrubinas totais 6,90 mg/dl 0,3 a 1,0 mg/dl bilirrubinas diretas 6,50 mg/dl 0,1 a 0,3 mg/dl amilase 45 u/l 20 a 160 u/l proteina c reativa (pcr) 220 mg/dl < 8 mg/dl ultrassonografia de abdome: vesicula biliar de paredes finas, com multiplos pequenos calculos em seu interior, e moderada dilatacao de vias biliares, sem evidencia de fator obstrutivo ao metodo; figado e pancreas estavam sem alteracoes. acerca do quadro dessa paciente, qual e a principal hipotese diagnostica e a conduta imediata adequada?', 'A) colangite aguda; realizar antibioticoterapia.', 'B) colecistite aguda; realizar papilotomia endoscopica.', 'C) colangite aguda; realizar colecistostomia percutanea.', 'D) colecistite aguda; realizar colecistectomia com exploracao de via biliar.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q024',
@@ -15972,7 +15972,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'uma paciente de 28 anos, g3p2a1 (partos normais), procura a unidade basica de saude para informar-se acerca de metodos contraceptivos para o seu caso. ela refere ter utero didelfo e relata fazer acompanhamento no ambulatorio de hematologia por ter tido tromboembolismo pulmonar apos covid-19. alem disso, tambem faz acompanhamento no ambulatorio de reumatologia por possuir lupus eritematoso sistemico. a paciente apresenta fluxo menstrual intenso e nao deseja laqueadura, por questoes pessoais. segundo os criterios de elegibilidade, qual metodo e indicado para o caso dessa paciente?',
     options: ['A) sistema intrauterino de levonogestrel (siu-l).', 'B) dispositivo intrauterino de cobre (diu t-cu).', 'C) pilula de etinilestradiol e gestodeno.', 'D) pilula de progestageno isolado. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q025',
@@ -15984,7 +15984,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'durante uma visita domiciliar a um casal de idosos, o medico de familia e comunidade aplica o mini exame do estado mental (meem) ao paciente de 82 anos de idade, que e advogado aposentado. ele e hipertenso, em uso de enalapril 20 mg de 12 em 12 horas, e nao possui outras comorbidades.',
     options: ['A) pontuacao obtida pelo paciente no teste foi 25. a esposa, de 78 anos de idade, revela ao medico que tem se sentido bastante sobrecarregada com a manutencao da casa e com o cuidado com o marido, pois, ha cerca de 6 meses, ele tem demonstrado dificuldades progressivas para realizar o pagamento de suas contas, para fazer compras e para utilizar o celular  praticas, ate entao, cotidianas. apesar disso, ele mantem sua independencia para o autocuidado, mantendo a higiene e a aparencia preservadas, e demonstra motivacao para realizar tarefas sugeridas.', 'A) partir do contexto apresentado, o medico de familia e comunidade devera', 'A) reconhecer que o idoso apresenta manifestacoes demenciais avancadas e referenciar ao geriatra e ao servico neuropsicologico.', 'B) avaliar a presenca de sobrecarga da esposa atraves de instrumento de avaliacao de nivel de estresse em entrevista sem a presenca do idoso.', 'C) avaliar a autonomia e funcionalidade do idoso, atraves do instrumento de avaliacao de snellen, e sugerir as adaptacoes necessarias para o domicilio.', 'D) aplicar o index de independencia nas atividades basicas de vida diaria e avaliar o desempenho funcional do idoso em termos de atividades instrumentais. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q026',
@@ -15996,7 +15996,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'um homem de 19 anos, previamente higido, vem a consulta na unidade de saude relatando o surgimento, ha algumas semanas, de lesao unica na mao direita. inicialmente, a lesao era como papula, que aumentou progressivamente ate ficar com o aspecto atual. o paciente e militar, pardo, servindo na floresta amazonica, solteiro, natural de belem do para. ele nega dor. ao exame, a lesao apresenta consistencia firme e o aspecto como mostrado na imagem. diante dessas informacoes, quais sao, respectivamente, o diagnostico mais provavel e o tratamento adequado para esse paciente?',
     options: ['A) blastomicose; prescricao de itraconazol oral.', 'B) carcinoma espinocelular; realizacao de excisao cirurgica da lesao.', 'C) hanseniase; administracao de rifampicina, clofazimina e dapsona.', 'D) leishmaniose tegumentar; tratamento com antimoniato de n-metilglucamina.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q027',
@@ -16008,7 +16008,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'um homem de 58 anos, trabalhador na construcao civil, procura o ambulatorio com historia clinica de lesao na face ha, aproximadamente, 4 anos, com crescimento ha 2 meses, conforme figura a seguir. ele nega outras lesoes cutaneas ou outras comorbidades. o exame fisico se mostrou sem alteracoes. figura  lesao cutanea',
     options: ['A) partir dessas informacoes, qual e a hipotese diagnostica mais provavel?', 'A) melanoma.', 'B) nevo melanocitico.', 'C) ceratose seborrerica.', 'D) carcinoma espinocelular.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q028',
@@ -16020,7 +16020,7 @@ export const generatedQuestions = [
     questionNumber: 28,
     questionText: 'um lactente de 3 meses e 3 semanas, nascido a termo, previamente higido e sem intercorrencias no pre-natal, encontra-se em consulta de rotina em unidade basica de saude e sua mae refere que retornara ao trabalho em uma semana. em funcao disso, o paciente ficara sem receber o leite materno das 8 as 20 horas a partir da semana seguinte. considerando a impossibilidade de armazenamento de leite materno pela mae e a lei n. 11 265/2006, que regulamenta a comercializacao de alimentos para lactentes e para criancas de primeira infancia e os produtos de puericultura correlatos, assinale a opcao que apresenta a alimentacao que satisfara corretamente as necessidades nutricionais desse paciente a partir da ausencia materna.',
     options: ['A) formula infantil para lactentes, sem introducao de alimentacao complementar.', 'B) formula infantil de seguimento para lactentes, sem introducao de alimentacao complementar.', 'C) formula infantil para lactentes, com introducao, tambem, de papas de fruta, de legumes e de carne.', 'D) formula infantil de seguimento para lactentes, com introducao, tambem, de papas de fruta, de legumes e de carne.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q029',
@@ -16032,7 +16032,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'uma mulher de 27 anos vai em consulta por demanda espontanea na unidade basica de saude com queixa de corrimento vaginal e de prurido ha 3 dias. ela nao e fumante nem possui historico de infeccoes sexualmente transmissiveis. sua ultima menstruacao ocorreu ha 20 dias. ao exame fisico, a paciente esta em bom estado geral, com temperatura de 36,8 c, frequencia cardiaca de 80 batimentos por minuto, sem sinais de dor abdominal nem de alteracoes ginecologicas ao toque vaginal. ao exame especular, e observado um corrimento esbranquicado, sem cheiro forte, grumoso e aderente na parede vaginal e ectocervice, alem de hiperemia da mucosa vaginal. o teste de whiff (koh 10%) foi negativo e o ph vaginal estava normal (< 4,5).',
     options: ['A) partir desses achados, assinale a opcao que apresenta o agente etiologico mais provavel.', 'A) candida sp.', 'B) gardnerella vaginalis.', 'C) trichomonas vaginallis.', 'D) chlamydia trachomatis.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q030',
@@ -16044,7 +16044,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'o caso de um homem de 72 anos e avaliado em reuniao de equipe na unidade basica de saude apos uma visita domiciliar realizada pelo agente comunitario de saude (acs). a esposa, de 68 anos, ao perceber uma piora do quadro de incontinencia urinaria, associada a perda ponderal expressiva em 08 meses, levou o idoso ao urologista, do qual havia abandonado o seguimento do acompanhamento previo da hiperplasia benigna prostatica (hpb).',
     options: ['A) visita foi solicitada porque ao receber o diagnostico de neoplasia de prostata avancado sem possibilidade de cura, a esposa percebeu o desinteresse do idoso em realizar tarefas cotidianas e para tomar banho, se levantar da cama e se vestir, alem da falta de apoio, em relacao aos cuidados com o pai, da filha do casal, uma mulher de 33 anos que da muito trabalho, segundo a mae. o ecomapa exibido a seguir foi construido pelos membros da equipe, considerando outras informacoes colhidas pelo acs durante a visita domiciliar. figura  genograma elaborado pela equipe de saude da familia. figura  ecomapa elaborado pela equipe de saude da familia. legenda: nasf  nucleo ampliado de saude da familia; amb.  ambulatorio; usf  unidade de saude da familia.', 'A) partir das informacoes apresentadas no texto e no ecomapa, a equipe de saude da familia devera', 'A) desenvolver um projeto terapeutico singular definitivo para a esposa se orientar e seguir, pois o idoso se encontra sem perspectiva de cura.', 'B) sugerir a internacao compulsoria para tratamento da filha do casal, diminuindo a quantidade de problemas que a esposa do idoso precisara gerenciar nesta fase.', 'C) reconhecer a dinamica de funcionamento familiar, detectando disfuncionalidades e planejar intervencoes precoces na busca do reequilibrio dessa estrutura de relacoes.', 'D) sugerir a internacao do idoso em um servico de cuidados paliativos para possibilitar que uma equipe de paliativismo preparada possa gerenciar o cuidado prestado.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q031',
@@ -16056,7 +16056,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'um homem branco de 56 anos, sexualmente ativo, portador de sindrome metabolica, retorna ao ambulatorio de referencia 2 semanas apos ter sido diagnosticado com artrite gotosa aguda em joelho direito, atraves de artrocentese com analise do liquido sinovial. apos o diagnostico, o paciente manteve o uso de colchicina e interrompeu o tratamento com alopurinol. segundo relato, apresentou melhora nos seus sintomas com o uso do anti-inflamatorio nao esteroidal prescrito. ao exame fisico, a articulacao do joelho direito revela-se novamente bastante inflamada, com intenso rubor, calor e edema, alem de impotencia funcional. realiza nova artrocentese, cujos resultados iniciais revelam 120 000 leucocitos/mm3, com 95% de polimorfonucleares. considerando a situacao desse paciente, a melhor explicacao para o quadro articular atual e',
     options: ['A) artrite septica bacteriana.', 'B) desenvolvimento de pseudogota local.', 'C) re-exacerbacao da artrite gotosa aguda.', 'D) artrite secundaria a infeccao sexualmente transmissivel.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q032',
@@ -16068,7 +16068,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'um homem de 53 anos foi submetido a laparotomia de emergencia devido a diverticulite perfurada e, em seu caso, realizadas sigmoidectomia com colostomia a hartmann, ha 7 dias. desde o segundo dia de pos-operatorio, o paciente apresenta febre intermitente de 39 c e nao consegue se alimentar em razao de distensao abdominal persistente. ele nao apresenta outras queixas. ao exame fisico, apresenta temperatura de 38,9 c; frequencia respiratoria de 22 incursoes respiratorias por minuto; frequencia cardiaca de 114 batimentos por minuto; pressao arterial de 110  70 mmhg; pele quente e umida; pulmoes com murmurios vesiculares pouco diminuidos em bases, sem ruidos adventicios; ritmo cardiaco regular, com bulhas normofoneticas, sem sopros; abdome distendido, ruidos hidroaereos diminuidos, hipertimpanico, doloroso a palpacao profunda difusamente; ferida operatoria limpa e seca, sem sinais flogisticos; colostomia com bom aspecto; e sinal de giordano negativo. o paciente esta usando ciprofloxacino e metronidazol endovenosos. hemograma: leucocitos 21 500 mm3 (valor de referencia: 4 500 a 11 000 mm3), 4% de bastoes (vr: 0%). considerando o caso apresentado, quais sao, respectivamente, o diagnostico mais provavel e o(s) exame(s) mais adequado(s) para investigacao neste momento?',
     options: ['A) pneumonia pos-operatoria; radiografia de torax ap e perfil.', 'B) infeccao de trato urinario; urina tipo 1, urocultura e antibiograma.', 'C) sepse; hemocultura, urocultura e cultura de secrecao do sitio cirurgico.', 'D) infeccao intra-abdominal; tomografia computadorizada de abdome e pelve.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q033',
@@ -16080,7 +16080,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'um menino de 15 meses, previamente higido e com peso de 11,0 kg, aferido ha 1 semana, apresenta-se em uma unidade de pronto-atendimento com quadro de diarreia e de vomitos persistente ha 3 dias. na ultima hora, ja apresentou 5 episodios de vomitos de conteudo alimentar. ao exame fisico durante a consulta, apresenta-se com peso de 10,0 kg, hipotonico, com pulsos fracos, com tempo de enchimento capilar de 3 segundos, com olhos fundos, choro sem lagrimas, e sem conseguir ingerir liquidos. diante do quadro desse paciente, a conduta inicial e imediata do medico deve ser realizar administracao endovenosa de',
     options: ['A) 200 ml de cloreto de sodio a 0,9% por 20 minutos.', 'B) 300 ml de cloreto de sodio a 0,9% por 30 minutos.', 'C) 300 ml da solucao de ringer com lactato por 1 hora.', 'D) 200 ml da solucao de ringer com lactato por 20 minutos.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q034',
@@ -16092,7 +16092,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'uma mulher de 28 anos comparece a consulta medica para apresentar o resultado de colpocitologia oncotica colhida ha 10 dias. relata que faz o exame regularmente e nega alteracoes em resultados anteriores. apresenta historia de dois partos vaginais anteriores e de laqueadura tubaria. o laudo de seu exame descreve amostra satisfatoria, flora com lactobacillus sp, achados de coilocitose e conclusao de lesao intraepitelial de baixo grau. nesse caso, a conduta medica correta e realizar',
     options: ['A) coleta de colpocitologia oncotica apos 6 meses.', 'B) colposcopia e biopsia do colo do utero.', 'C) exerese da zona de transformacao.', 'D) coleta para o teste de dna-hpv. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q035',
@@ -16104,7 +16104,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'um menino de 6 meses e 15 dias e trazido pela mae em consulta de puericultura na unidade basica de saude. a crianca recusa papas solidas e aceita apenas o leite materno. revisando consultas anteriores, o medico de familia e comunidade identifica que a mae ja havia demonstrado preocupacao, pois a crianca ainda nao apresentava sorriso social, nao observava a mae nem olhava nos seus olhos enquanto mamava, nao se interessava por outras criancas, nao respondia a chamados e nao apresentava nenhum tipo de lalacao. por isso, a crianca foi encaminhada para investigacao com um otorrinolaringologista, o qual nao identificou nenhum deficit auditivo. a mae, de 39 anos, apresentou diabetes gestacional. diante desse quadro, a conduta do medico de familia deve ser',
     options: ['A) manter rotina de puericultura e estimulacao adequada e precoce por equipe multidisciplinar ate 24 meses.', 'B) rastrear transtorno do espectro autista nessa crianca, para descartar essa condicao, antes de referencia-la para a atencao especializada.', 'C) acompanhar o desenvolvimento da crianca ate os 16 meses de idade, pela ausencia de sinais de alerta sugestivos de transtorno do espectro autista.', 'D) referenciar a crianca para atencao especializada, para acompanhamento, investigacao e planejamento terapeutico em conjunto com a atencao primaria.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q036',
@@ -16116,7 +16116,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'um homem de 30 anos e atendido em unidade basica de saude com queixa de alteracao no padrao do sono, alternando noites de insonia com noites de sono inquieto ha 7 meses. sente-se preocupado, com medo excessivo de adoecer ou de algo desagradavel ocorrer. seus amigos o consideram inquieto, tenso, irritado e com dificuldade de se concentrar. ele relata que mantem suas atividades profissionais normalmente. diante desse quadro, qual e o diagnostico mais provavel?',
     options: ['A) depressao maior.', 'B) transtorno bipolar do humor.', 'C) transtorno de ansiedade generalizada.', 'D) transtorno do deficit da atencao em adulto.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q037',
@@ -16128,7 +16128,7 @@ export const generatedQuestions = [
     questionNumber: 37,
     questionText: 'um paciente de 71 anos apresenta quadro de sangramento intermitente na urina ha 4 semanas, acompanhado por dor em peso no hipogastrio, sensacao de plenitude vesical e urgencia miccional. ele relata dois episodios previos de hematuria com eliminacao de calculos. possui, como antecedente, hipertensao arterial sistemica controlada, diabetes mellitus tipo 2, dislipidemia, obesidade e tabagismo (40 macos/ano). acerca desse caso, assinale a opcao que apresenta a principal hipotese diagnostica e os exames mais adequados para a investigacao.',
     options: ['A) tumor urotelial; ressonancia nuclear magnetica e cistoscopia.', 'B) ureterolitiase obstrutiva; urina tipo 1 e urotomografia com contraste.', 'C) hiperplasia benigna de prostata; dosagem de psa e ultrassonografia transrretal.', 'D) tuberculose genitourinaria; urocultura especifica para baar e urografia excretora. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q038',
@@ -16140,7 +16140,7 @@ export const generatedQuestions = [
     questionNumber: 38,
     questionText: 'durante uma consulta de rotina com o medico da unidade basica de saude, uma adolescente de 15 anos relata ter iniciado sua vida sexual com o namorado de mesma idade. ela refere que tem usado preservativo, porem sente-se insegura e gostaria de iniciar o uso de anticoncepcionais orais, assim como suas amigas ja o fazem. a paciente nao apresenta queixas e nao tem antecedentes patologicos pessoais ou familiares. frequenta o primeiro ano do ensino medio e relata que nao gostaria de informar seus pais sobre as questoes de sua sexualidade. considerando o codigo de etica medica e o estatuto da crianca e do adolescente, a conduta correta do medico, nesse caso, e',
     options: ['A) optar por nao prescrever a anticoncepcao oral, uma vez que a adolescente pretende usar pilula para evitar a gravidez e estara arriscada a contrair infeccoes sexualmente transmissiveis, caracterizando imaturidade psicologica e risco para si; ele deve reforcar, tambem, a pratica sexual segura e, devido ao risco iminente a saude da adolescente, esta obrigado a informar os responsaveis sobre o motivo da consulta.', 'B) ponderar sobre a prescricao de anticoncepcao, pois a busca pelo aconselhamento medico e um indicio de decisao madura, sendo provavel que, em caso de recusa da prescricao, a paciente decida se automedicar; ele deve, tambem, aproveitar esse momento para abordar a pratica sexual segura, assim como deve incentivar o fortalecimento dos lacos de comunicacao familiar sobre as decisoes da adolescente.', 'C) decidir por nao prescrever a anticoncepcao oral, uma vez que nao consegue, com base na consulta, julgar a maturidade da adolescente, podendo ser responsabilizado em caso de uso inadequado e de gravidez subsequente; ele deve aproveitar o momento para abordar a pratica sexual segura e para manter os principios de confidencialidade sobre a consulta, ja que nao ha risco de vida iminente.', 'D) considerar a prescricao de anticoncepcao, visto que a menina ja iniciou atividade sexual, aproveitando o momento, tambem, para abordar a pratica sexual segura; ele deve comunicar a adolescente de que o assunto sera tratado com seus pais, uma vez que os menores de 16 anos sao classificados como absolutamente incapazes de exercer pessoalmente os atos da vida civil".'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q039',
@@ -16176,7 +16176,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'uma mulher de 19 anos vai a uma consulta devido a edema de membros inferiores. ela relata que teve gestacao sem intercorrencias, embora tenha feito apenas duas consultas de pre-natal. contudo, 1 mes apos o parto, procurou atendimento medico devido a persistencia e piora progressiva do edema de membros inferiores, que, inicialmente, atribuiu a gravidez. ao exame fisico, apresenta edema depressivel de membros inferiores e pressao arterial de 130  80 mmhg. os exames laboratoriais apresentam urina de rotina com proteina positiva (4+/4+); proteinuria de 24h de 4g (valor de referencia [vr]: < 150 mg/24h); colesterol total de 300 mg/dl (vr: < 200 mg/dl); colesterol hdl de 20 mg/dl (vr: > 35 mg/dl); triglicerideos de 280 mg/dl (vr: < 150 mg/dl); glicemia de jejum de 201 mg/dl (vr: < 100 mg/dl); albumina de 1,8 g/dl (vr: 3,5 a 5,2 g/dl); pesquisa de autoanticorpos fan positiva com padrao nuclear homogeneo e titulo de 1:640. o diagnostico sindromico e o diagnostico etiologico mais provaveis sao, respectivamente,',
     options: ['A) sindrome nefrotica; diabetes mellitus.', 'B) sindrome nefritica; sindrome de sjogren.', 'C) sindrome nefritica; trombose de veia renal.', 'D) sindrome nefrotica; lupus eritematoso sistemico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q042',
@@ -16188,7 +16188,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'uma paciente de 70 anos foi submetida a histerectomia total transabdominal ha 3 meses por prolapso uterino completo. procura atendimento, com historia de perda involuntaria de liquido pelo canal vaginal, progressiva, ha pouco mais de 2 meses. a miccao e normal. a ultrassonografia de pelve demonstra colecao liquida perivesical. diante do quadro clinico apresentado, qual a principal hipotese diagnostica?',
     options: ['A) incompetencia do assoalho vesical.', 'B) abscesso pelvico pos-operatorio.', 'C) seroma pelvico pos-operatorio.', 'D) fistula uretero-vaginal. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q043',
@@ -16200,7 +16200,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'um menino de 3 anos encontra-se em consulta em servico de especialidades com historia de ter apresentado quadro autolimitado de rinofaringite ha 9 dias. na ocasiao, foi realizado painel viral por meio de rt-pcr para sars-cov-2, virus sincicial respiratorio e influenza a e b, o qual resultou negativo para todas as doencas. ha 1 dia, o paciente esta apresentando petequias e equimoses nao pruriginosas em extremidades inferiores e em regiao glutea associadas a artralgia e a limitacao de movimento em joelhos e tornozelos, alem de dor abdominal peri-umbilical intermitente. sua responsavel refere, ainda, que hoje o menino teve um episodio de vomito pos-prandial. sua pressao arterial apresenta-se sem alteracoes. exames complementares, hemograma completo, parasitologico de fezes, coagulograma, ureia e creatinina normais. apresenta aslo negativo e seu resultado de urina de rotina mostra hematuria +, proteinuria +, sem piuria. diante do quadro desse paciente, qual e a hipotese diagnostica mais provavel?',
     options: ['A) glomerulonefrite pos-estreptococica.', 'B) sindrome-hemolitico uremica.', 'C) lupus eritematoso sistemico.', 'D) vasculite por iga.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q044',
@@ -16212,7 +16212,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'uma mulher de 58 anos foi atendida pela primeira vez no ambulatorio especializado em climaterio. faz uso de terapia hormonal combinada via oral ha 6 anos. interrompeu o uso ha 5 meses, mas voltou a usar a medicacao devido aos sintomas intensos de climaterio, principalmente devido aos fogachos e ao impacto negativo na relacao sexual. ha cinco anos foi internada por um quadro de trombose venosa profunda, porem, desde entao, nao houve outros episodios. os exames de rotina recentes sao apresentados na tabela a seguir: exame resultado mamografia bi-rads ii ultrassonografia transvaginal endometrio de 4 mm hematocrito 36% hemoglobina 12 g/dl c-hdl 80 mg/dl c-ldl 130 mg/dl colesterol total 270 mg/dl triglicerideos 330 mg/dl glicemia de jejum 98 mg/dl diante do caso acima, a conduta mais segura e',
     options: ['A) interromper a medicacao oral e indicar o uso de fitoterapicos para terapia hormonal.', 'B) trocar por estrogenio oral isolado e inserir o sistema intrauterino liberador de levonorgestrel.', 'C) manter a terapia hormonal oral somente com estrogenio e realizar histeroscopia com biopsia.', 'D) interromper o uso da medicacao oral e prescrever terapia hormonal combinada com estradiol transdermico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q045',
@@ -16224,7 +16224,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'um homem de 59 anos comparece a unidade basica de saude com queixas de dispneia aos esforcos fisicos e de tosse seca, os quais se desenvolveram gradualmente ao longo dos ultimos anos. ele relata sono e apetite normais, no entanto refere febre e perda de mais de 5% do peso corporal nos ultimos 2 meses. menciona que e divorciado e que esta tendo dificuldades para encontrar emprego desde que o local onde trabalhava encerrou suas atividades. paciente apresenta tomografia computadorizada de torax com espessamento da pleura visceral e parietal, derrame pleural e formacao de placas pleurais. considerando o contexto clinico-epidemiologico desse caso, e correto afirmar que o paciente trabalhava na',
     options: ['A) agricultura (com agrotoxico).', 'B) construcao civil (com amianto).', 'C) fabricacao de solventes quimicos (com benzeno).', 'D) extracao do carvao (com poeira do carvao mineral).'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q046',
@@ -16236,7 +16236,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'uma adolescente de 14 anos procura uma unidade basica de saude com queixa de cefaleia. ela conta que, durante a prova de matematica, apresentou dificuldade para enxergar os enunciados; ela descreve que via imagens brilhantes e que, a seguir, a visao dela ficou como uma mancha escura e passou a ter dor de cabeca. depois de 30 minutos, a visao se normalizou. a menina tentou continuar a prova, mas a dor na lateral da cabeca comecou a latejar e piorou. em seguida, teve vontade de vomitar e precisou sair da sala as pressas. ela diz que nunca teve isso antes e que os sons mais fortes estao muito desconfortaveis. a paciente nega o uso de anticoncepcional oral. ao exame fisico, esta palida, sudoreica, nauseada e com dor. com relacao aos sinais vitais, apresenta pressao arterial de 110  70 mmhg; frequencia cardiaca de 96 batimentos por minuto; frequencia respiratoria de 14 incursoes respiratorias por minuto; e temperatura axilar de 36,9 c. nao ha sinais neurologicos focais, nem sinais meningeos, e o exame de fundo de olho revela pulso venoso espontaneo presente. em relacao ao quadro clinico apresentado, a hipotese mais provavel e de cefaleia causada por',
     options: ['A) tumor cerebral, havendo indicacao de exame de imagem com urgencia.', 'B) hemicrania com aura, havendo indicacao de tratamento sintomatico e acompanhamento.', 'C) hemorragia subaracnoidea, havendo indicacao de acionar o servico medico de emergencia.', 'D) hipertensao intracraniana, havendo indicacao de encaminhamento urgente para servico de emergencia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q047',
@@ -16248,7 +16248,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'uma paciente de 40 anos, cosmetologista, e trazida ao pronto- socorro com relato de exposicao acidental de olho esquerdo a acido tricloroacetico durante a realizacao de procedimento dermatologico ambulatorial, ha 1 hora.',
     options: ['A) conduta terapeutica inicial adequada para essa paciente e realizar', 'A) oclusao do olho esquerdo com gaze umedecida.', 'B) aplicacao de pomada de corticoide no olho afetado.', 'C) instilacao do olho afetado como lidocaina liquida a 2%.', 'D) irrigacao abundante do olho afetado com solucao cristaloide.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q048',
@@ -16260,7 +16260,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'um menino de 9 anos, sem comorbidades, e levado pela mae a consulta ambulatorial por apresentar baixa estatura. a mae refere que seu filho e o mais baixo entre os colegas da sala de aula. na avaliacao antropometrica, evidencia-se que o paciente apresenta mais de 3 desvios-padrao (escore z: -3) da curva de altura/idade e escore z=0 para peso/altura da organizacao mundial de saude. demais aspectos do exame fisico sem alteracoes. foram realizados dois testes provocativos da secrecao de hormonio de crescimento (gh), com resultados de 4,2 e 4,3 mcg/dl respectivamente (valor de referencia de gh > 5mcg/l). com base nesse achado, o diagnostico etiologico mais provavel da baixa estatura, e',
     options: ['A) hipotireoidismo.', 'B) deficiencia de gh.', 'C) ma absorcao de nutrientes.', 'D) baixa estatura constitucional.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q049',
@@ -16272,7 +16272,7 @@ export const generatedQuestions = [
     questionNumber: 49,
     questionText: 'uma mulher de 35 anos procura unidade basica de saude para fazer exame de rastreio de cancer de mama. ela informa que sua mae foi diagnosticada com cancer de ovario aos 72 anos e que seu pai faleceu de cancer de intestino. a paciente e nulipara, faz uso de anticoncepcional oral desde a adolescencia, e obesa e tabagista ha 10 anos fazendo uso de 10 cigarros por dia. nesse caso, a conduta adequada e',
     options: ['A) solicitar mamografia e ultrassonografia de mamas.', 'B) examinar as mamas da paciente e solicitar mamografia.', 'C) encaminhar a paciente para pesquisa de mutacao do gene brca1.', 'D) examinar as mamas da paciente e orientar o controle clinico periodico a ela.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q050',
@@ -16284,7 +16284,7 @@ export const generatedQuestions = [
     questionNumber: 50,
     questionText: 'na abordagem imediata ao paciente com cetoacidose diabetica na unidade de pronto-atendimento, o medico deve',
     options: ['A) solicitar dosagem de sodio, potassio, glicemia, hemoglobina glicada, cetonemia/cetonuria, gasometria e funcao renal.', 'B) rever as medicacoes em uso (orais e insulinas) e indicar a utilizacao de insulina nph e/ou regular, conforme glicemia capilar.', 'C) iniciar hidratacao venosa com 1 l de soro fisiologico 0,9% na primeira hora, atentando-se para as condicoes cardiacas do paciente.', 'D) promover a remocao do usuario para o hospital de referencia apos 24 horas, caso o paciente apresente convulsoes ou caso nao apresente diurese.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q051',
@@ -16296,7 +16296,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'um paciente de 22 anos com retardo mental moderado e trazido a unidade de pronto-atendimento por quadro de nauseas, vomitos, incontinencia fecal e urinaria, fasciculacoes musculares e sialorreia. o acompanhante, que e o avo do paciente e agricultor, refere nao saber o que possa ter ocorrido com o neto, o qual estava em visita a sua propriedade rural pela segunda vez. ele nao soube afirmar se o paciente ingeriu algum dos medicamentos que o avo faz uso ou outras substancias. ao exame, o paciente encontra-se em regular estado geral, com pupilas mioticas, lacrimejamento excessivo e sialorreia. apresenta frequencia cardiaca de 49 batimentos por minuto; glicemia capilar de 80 mg/dl; e pressao arterial de 100  60 mmhg. alem disso, possui ritmo cardiaco regular em dois tempos com bulhas normofoneticas e sem sopros. com base nessas informacoes, a principal hipotese diagnostica e o tratamento imediato devem ser, respectivamente,',
     options: ['A) intoxicacao por diltiazem; administrar fisiostigmina.', 'B) intoxicacao por varfarina; administrar plasma fresco.', 'C) intoxicacao por salbutamol; administrar fentolamina.', 'D) intoxicacao por organofosforados; administrar atropina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q052',
@@ -16308,7 +16308,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'uma mulher de 59 anos e atendida em unidade de pronto-atendimento, queixando-se de dor lombar continua, de forte intensidade, de carater progressivo e com piora no ultimo mes. realizou tratamento previo com analgesico e com anti- inflamatorio, porem os sintomas persistiram. ela refere historia previa de tratamento para cancer de mama ha 3 anos. no momento, esta sem queixas acerca da mama. o exame fisico mostra hiperalgesia aos estimulos em coluna lombar. radiografia da coluna lombar: lesoes liticas. com base no caso clinico apresentado, a principal hipotese diagnostica e',
     options: ['A) metastase.', 'B) tuberculose.', 'C) hernia discal.', 'D) fratura vertebral.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q053',
@@ -16320,7 +16320,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'uma menina de 6 anos em tratamento para leucemia linfoide aguda, e levada a uma unidade de pronto-atendimento infantil devido a pico febril de 38,5c, sem outros sintomas associados. ela utiliza um cateter de longa permanencia para a administracao de quimioterapia, realizada ha uma semana. seu exame fisico nao revela alteracoes. diante do quadro clinico apresentado, assinale a opcao correta em relacao a propedeutica.',
     options: ['A) a paciente deve ser tratada com antibioticos de largo espectro, sendo indicada a troca imediata do cateter de longa permanencia.', 'B) a paciente dispensa a propedeutica complementar, por se tratar de um primeiro pico febril e por nao haver alteracoes no exame fisico que indiquem foco infeccioso.', 'C) a paciente apresenta alto risco para neutropenia febril e, por isso, deve realizar hemograma, hemocultura de sangue periferico e de cateter central e provas inflamatorias.', 'D) a paciente deve realizar hemograma completo e, caso o resultado indique neutrofilos < 1 000/mm3, a investigacao deve prosseguir com hemocultura, com provas inflamatorias e com hemocultura de cateter central.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q054',
@@ -16332,7 +16332,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'duas gestantes procuram atendimento na emergencia da maternidade: paciente x, de 17 anos, primigesta; realizou quatro consultas no pre-natal da unidade basica de saude, onde nao foi feita cultura para pesquisa do estreptococo do grupo b (egb). a paciente comparece a maternidade com perda liquida desde o dia anterior; sem outras queixas. sua idade gestacional calculada pela ultrassonografia e de 35 semanas e 5 dias e o obstetra confirmou amniorrexe no exame especular. paciente y, de 31 anos, tercigesta, com duas cesarianas anteriores; apresenta hipertensao cronica controlada com metildopa 1g/dia. a paciente realizou, no pre-natal de alto risco, cultura para egb com 36 semanas e o resultado foi negativo. ela comparece a maternidade sem queixas, pois foi encaminhada pela obstetra para cesariana eletiva com 39 semanas. com relacao aos casos apresentados, e correto afirmar que a antibioticoprofilaxia intraparto com a finalidade de prevenir a doenca neonatal de inicio precoce por estreptococo do grupo b e obrigatoria',
     options: ['A) apenas na paciente y, pois, apesar de a cultura realizada para egb ser negativa, a paciente e multipara e hipertensa.', 'B) em ambas as pacientes, pois elas possuem fatores de risco para doenca neonatal de inicio precoce por estreptococo do grupo b.', 'C) apenas na paciente x, pois sua idade gestacional e inferior a 37 semanas e houve diagnostico de rotura prematura de membranas ovulares.', 'D) em nenhuma das pacientes, pois ambas nao possuem fatores de risco para doenca neonatal de inicio precoce por estreptococo do grupo b.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q055',
@@ -16344,7 +16344,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'observe a imagem a seguir. jornal o tempo, edicao de 21 jan. 2013. disponivel em: otempo.com.br/charges. acesso em 30 abril de 2023. em relacao aos pressupostos e as caracteristicas do sistema unico de saude (sus) e da atencao primaria em saude (aps), a charge apresentada esta relacionada a problemas de',
     options: ['A) descentralizacao e de hierarquizacao, uma vez que muitas pessoas gostariam de ser atendidas ao mesmo tempo, em um so lugar.', 'B) acessibilidade e de gestao, uma vez que o subfinanciamento e o subgerenciamento podem explicar as longas filas para acesso ao sistema.', 'C) resolubilidade e de integralidade, uma vez que os pacientes a serem atendidos primeiro terao maior chance de terem seus problemas resolvidos.', 'D) universalidade e de coordenacao do cuidado, uma vez que o paciente menos doente ou com menores necessidades de cuidados esta no final da fila.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q056',
@@ -16356,7 +16356,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'um homem de 65 anos, trabalhador rural, procura atendimento em uma unidade de atencao primaria a saude por queixa de dor na regiao lombar esquerda iniciada ha 1 mes. a dor vem piorando progressivamente e, nos ultimos dias, tem impossibilitado o sono reparador do paciente. sua esposa se queixa de que as calcas do marido estao com cheiro de urina ultimamente. ao exame, o paciente esta lucido, colaborativo e as mucosas estao umidas e hipocoradas. ha retificacao da coluna lombar, espasmo muscular localizado e dor a palpacao delicada das apofises vertebrais de l2 e l3. as manobras de elevacao do membro inferior esquerdo estendido (lasegue) e do membro inferior direito estendido (lasegue cruzado) nao reproduzem a dor. como o paciente se queixa de dor com o decubito ventral, o sinal de lasegue invertido (wasserman) foi pesquisado em pe. a extensao das coxas com o paciente em ortostatismo tambem nao provocaram dor. em relacao a essa situacao, assinale a opcao que apresenta, respectivamente, o diagnostico clinico correto e a conduta medica apropriada.',
     options: ['A) dor lombar musculoesqueletica; prescrever anti-inflamatorios.', 'B) dor lombar por radiculopatia; encaminhar paciente para o neurocirurgiao.', 'C) dor lombar com comprometimento neurologico; solicitar exame de imagem.', 'D) dor lombar postural relacionada a profissao; recomendar repouso e solicitar fisioterapia.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q057',
@@ -16368,7 +16368,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'uma paciente de 35 anos possui hernia incisional em cicatriz mediana infraumbilical de moderado volume, decorrente de apendicectomia realizada ha 10 anos, e colo herniario de cerca de 15  7 cm. ela apresenta indice de massa corporal de 37 kg/m2 e nega sintomas algicos, tabagismo, etilismo e outras comorbidades. em relacao ao manejo pre-operatorio dessa paciente, a conduta medica adequada, neste momento, e',
     options: ['A) indicar acompanhamento conservador ambulatorial, com uso de cinta abdominal compressiva.', 'B) encaminhar para tratamento cirurgico o mais rapido possivel, devido ao risco de encarceramento.', 'C) encaminhar para tratamento multidisciplinar para perda ponderal antes de planejar a correcao da hernia.', 'D) solicitar ultrassonografia de parede abdominal para confirmacao diagnostica e para planejamento cirurgico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q058',
@@ -16416,7 +16416,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'um paciente de 17 anos, previamente higido, relata cefaleia, dor de garganta e febre ha 8 dias. ao exame fisico, apresenta linfonodos cervicais com caracteristicas fibroelasticas, que sao indolores; o maior possui 1,5 cm de diametro. seu exame abdominal esta sem alteracoes. o hemograma revela leucocitose (15 500 celulas/mm3) e linfocitose com presenca de linfocitos atipicos. diante desse quadro, a conduta diagnostica inicial adequada e a realizacao de',
     options: ['A) sorologia para epstein-barr.', 'B) biopsia excisional do linfonodo.', 'C) puncao aspirativa da medula ossea.', 'D) tomografia computadorizada do pescoco.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q062',
@@ -16428,7 +16428,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'um paciente de 20 anos, vitima de colisao frontal de automovel contra parede de alvenaria, em alta velocidade, sem cinto de seguranca e sem airbag, e trazido por familiares a um pronto-socorro. ao exame, o rapaz apresenta traumatismo craniofacial extenso, escala de coma de glasgow de 6, sinais de fratura e de instabilidade do arco mandibular, laceracao e perda tissular significativa no segmento  labios, lingua, gengivas e elementos dentarios  associadas a sangramento profuso. diante desse quadro clinico, o medico deve, imediatamente, realizar',
     options: ['A) aspiracao, canula orofaringea e mascara de o . 2', 'B) intubacao orotraqueal.', 'C) cricotireoidostomia.', 'D) traqueostomia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q063',
@@ -16440,7 +16440,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'um recem-nascido prematuro tardio de 36 semanas de idade gestacional nasceu de parto cesareo apos a rotura das membranas amnioticas sem evolucao para trabalho de parto. no pos-parto imediato, o recem-nascido evoluiu com taquipneia, apresentando frequencia respiratoria de 70 incursoes respiratorias por minuto, tiragem intercostal, retracao esternal, cianose e necessidade de oxigenoterapia. foram realizadas radiografias de torax com 1 hora, com 12 horas e com 24 horas de vida, as quais sao exibidas, respectivamente, a seguir. 1 hora 12 horas 24 horas considerando a evolucao radiologica do paciente, e correto afirmar que o diagnostico e compativel com',
     options: ['A) pneumonia congenita.', 'B) doenca da membrana hialina.', 'C) sindrome da aspiracao meconial.', 'D) taquipneia transitoria do recem-nascido. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q064',
@@ -16452,7 +16452,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'uma paciente de 28 anos, em pos parto imediato (seu terceiro parto vaginal), teve parto a termo rapido e a dequitacao da placenta sem intercorrencias. a revisao perineal foi realizada e estava normal, sem necessidade de sutura. entretanto, 30 minutos apos o parto, a paciente apresentou-se ansiosa e com queixa de tontura e de falta de ar. ao exame fisico, apresenta palidez e extremidades frias, frequencia cardiaca de 120 batimentos por minuto e pressao arterial de 90  55 mmhg. o utero apresenta-se amolecido e quatro centimetros acima da cicatriz umbilical. a paciente apresenta sangramento vaginal intenso. ela ja possuia um acesso venoso, por meio do qual foi iniciada a expansao volumetrica com soro fisiologico aquecido. com relacao ao quadro apresentado, assinale a opcao correta.',
     options: ['A) a administracao do acido tranexamico devera ser iniciada e paciente encaminhada para histerectomia.', 'B) o uso de acido tranexamico por via endovenosa esta indicado assim que possivel, alem de drogas uterotonicas.', 'C) a administracao de drogas uterotonicas e necessaria, mas o acido tranexamico nao deve ser usado, pela ausencia de laceracoes de trajeto.', 'D) o uso de acido tranexamico por via endovenosa pelo menos 1 hora apos o inicio da ocitocina e indicado, sobretudo se nao houver resposta as drogas uterotonicas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q065',
@@ -16464,7 +16464,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'um paciente de 42 anos, em situacao de rua ha 2 anos, e atendido por um medico da equipe do consultorio na rua. ao ser questionado sobre sintomas respiratorios, refere tosse pouco produtiva ha 2 semanas. ele nega febre, queda do estado geral e dispneia, porem vem emagrecendo ha 4 meses, o que atribui a dificuldade de conseguir dinheiro para se alimentar. teste rapido para sifilis e para hiv no ultimo mes negativos. faz uso regular de enalapril 20 mg de 12 em 12 horas para tratamento de hipertensao arterial e consome 2 doses de destilados por dia, quando tem dinheiro. ele tambem nega tabagismo e uso de outras substancias psicoativas. ao exame fisico, apresenta murmurio vesicular presente bilateralmente, diminuido em terco superior de hemitorax esquerdo e restante do exame fisico inalterado. diante das informacoes obtidas, o medico do consultorio na rua deve considerar o diagnostico e tratamento de tuberculose',
     options: ['A) com resistencia a rifampicina e iniciar esquema basico, dispensando o tratamento diretamente observado (tdo), considerando a dificuldade de acesso do paciente aos servicos de saude', 'B) com resistencia a rifampicina e aguardar o resultado da cultura de escarro e encaminhar para a referencia terciaria, que devera se responsabilizar pelo tratamento diretamente observado (tdo).', 'C) sem resistencia a rifampicina e iniciar esquema basico, que podera ser diretamente observado por pessoas que possuem vinculo com o paciente e com os servicos de saude, desde que supervisionadas semanalmente pelo profissional de saude responsavel.', 'D) sem resistencia a rifampicina e aguardar o resultado da cultura de escarro e encaminhar o paciente para a referencia terciaria para tratamento com esquema basico, devido a impossibilidade de realizar tratamento diretamente observado para a pessoa em situacao de rua.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q066',
@@ -16476,7 +16476,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'um homem de 50 anos vai ao ambulatorio relatando 3 dias de febre e ictericia. ele mora em area urbana com falta de saneamento basico e nega viagens recentes. alem de febre e de ictericia, apresenta nauseas, eritema conjuntival bilateral e dor muscular, especialmente em panturrilhas. os exames iniciais indicam leucocitose com neutrofilia e apresentam os seguintes resultados: potassio de 3 meq/l (valor de referencia [vr]: 3,5 a 5,1 meq/l); creatinina de 1,8 mg/dl (vr: 0,6 a 1,2 mg/dl); bilirrubina total de 24 mg/dl (vr: 0,2 a 1,2 mg/dl); bilirrubina direta de 19 mg/dl (vr: ate 1 mg/dl); transaminase glutamico oxalacetica (tgo) de 98 u/l (vr: 5 a 40 u/l); e transaminase glutamico piruvica (tgp) de 102 u/l (vr: 7 a 56 u/l).',
     options: ['A) partir dessas informacoes, e correto afirmar que a hipotese pertinente para o caso apresentado e a investigacao complementar sao, respectivamente,', 'A) dengue; sorologia igm para dengue.', 'B) hepatite por virus b; anti-hbc e hbsag.', 'C) leptospirose; teste de microaglutinacao.', 'D) febre amarela; sorologia igm para febre amarela.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q067',
@@ -16488,7 +16488,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'um paciente de 16 anos, vitima de acidente automobilistico, chega ao pronto-socorro com escoriacao extensa em parede toracica anterior, murmurio vesicular fisiologico e simetrico, bulhas cardiacas hipofoneticas, frequencia cardiaca de 48 batimentos por minuto, pressao arterial de 80  40 mmhg e turgencia bilateral de jugulares. o paciente sofre uma parada cardiorrespiratoria logo apos a admissao. com relacao ao quadro desse paciente, a conduta medica adequada e realizar',
     options: ['A) toracotomia e massagem cardiaca interna.', 'B) massagem cardiaca externa.', 'C) toracostomia bilateral.', 'D) pericardiocentese.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q068',
@@ -16500,7 +16500,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'ao realizar visita domiciliar a uma familia, a equipe da saude da familia (esf) identifica atraso vacinal nas tres criancas residentes na casa, todas menores de 5 anos de idade. os pais informaram que optaram por suspender o esquema de vacinacao dos seus filhos, pois questionam os beneficios de vacinas. de acordo com o estatuto da crianca e do adolescente, a esf, nesse caso, deve',
     options: ['A) acatar a decisao dos pais que possuem o patrio poder, respeitando as conviccoes da familia frente a questao da necessidade da imunizacao cada vez mais controversa.', 'B) sensibilizar a familia por meio de estrategias de convencimento sobre beneficios da vacinacao e, em situacoes especiais, como em risco iminente de adoecimento, acionar o conselho tutelar.', 'C) acionar o conselho tutelar de forma imediata e proceder a vacinacao nessa mesma visita, uma vez que a imunizacao das criancas e obrigatoria nos casos recomendados pelas autoridades sanitarias.', 'D) realizar a vacinacao das criancas nessa mesma visita, contrariando a opiniao dos pais, pois, do ponto de vista da protecao a crianca, negar-lhes a vacinacao pode ser considerado negligencia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q069',
@@ -16512,7 +16512,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'o sistema unico de saude (sus) possui normativo a respeito da presenca de acompanhantes nos servicos de saude em sua rede propria ou conveniada. em relacao dos servicos de saude durante o periodo de trabalho de parto, parto e pos-parto imediato, assinale a alternativa correta.',
     options: ['A) e desnecessaria autorizacao para filmar o parto, sendo facultado ao acompanhante faze-lo.', 'B) e necessario que o acompanhante tenha grau de instrucao pelo menos de primeiro grau completo', 'C) e preciso que o acompanhante seja, obrigatoriamente, um parente de 1.o grau  pai, mae ou irma(o).', 'D) e permitida a mudanca de acompanhante ao longo do processo de trabalho de parto, do parto e do pos-parto.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q070',
@@ -16524,7 +16524,7 @@ export const generatedQuestions = [
     questionNumber: 70,
     questionText: 'um paciente de 11 anos e trazido pela mae para consulta de puericultura na unidade basica de saude. a familia vivia, anteriormente, em uma regiao de dificil acesso a servicos de saude e se mudou para o territorio de abrangencia ha 3 meses. durante a consulta, a mae informa que a crianca nao apresenta problemas de saude e nao faz uso regular de medicamentos. quando questionada sobre a situacao vacinal da crianca, a mae informa que so se lembra de que o paciente recebeu algumas vacinas do primeiro ano de vida e que nao tem o cartao vacinal. nesse contexto, qual deve ser o esquema vacinal indicado para esse paciente?',
     options: ['A) 3 doses de hepatite b, 3 doses da dupla adulto (dt), dose unica de febre amarela, 2 doses de triplice viral, 2 doses de hpv e dose unica de meningococica acwy.', 'B) 3 doses de hepatite b, 3 doses da dupla adulto (dt), dose unica de febre amarela, dose unica de triplice viral, 3 doses de hpv e dose unica de meningococica c.', 'C) 3 doses de hepatite b, 3 doses da dupla adulto (dt), dose unica de febre amarela, 2 doses de triplice viral e dose unica de meningococica acwy.', 'D) 3 doses da pentavalente, 2 doses de febre amarela, 2 doses de triplice viral, 2 doses de hpv e 2 doses de meningococica c.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q071',
@@ -16536,7 +16536,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'um homem de 68 anos retorna do ambulatorio de referencia devido a dores em coluna toracica e em lombar, de intensidade progressivamente maior nos ultimos 3 meses. os exames realizados apresentaram os seguintes resultados: exame resultado valor de referencia hemoglobina 7,5 g/dl 13 a 15 g/dl hematocrito 23% 36 a 47% leucocitos totais 8 000 mm3 4 500 a 11 000 mm3 proteinas totais 9,4 g/dl 6,5 a 8,1 g/dl albumina 2,2 g/dl 3,5 a 5,2 g/dl calcio serico 12,3 mg/dl 8,8 a 10,4 mg/dl creatinina 1,4 mg/dl 0,6 a 1,2 mg/dl imunoeletroforese de proteinas  banda monoclonal de imunoglobulina (ig): iga 5 200 mg/dl 40 a 350 mg/dl igg 180 mg/dl 700 a 1 600 mg/dl igm 100 mg/dl 50 a 300 mg/dl',
     options: ['A) radiografia de coluna vertebral mostrou lesoes osteoliticas e fraturas vertebrais em t11, t12, l1 e l2. nas ultimas 2 semanas, o paciente apresenta-se excessivamente sonolento. considerando essas informacoes, a hipotese diagnostica e o exame mais adequado para confirma-la sao, respectivamente,', 'A) anemia falciforme; eletroforese de hemoglobina.', 'B) linfoma; biopsia de linfonodos abdominais.', 'C) hiperparatireoidismo; paratormonio (pth).', 'D) mieloma multiplo; mielograma.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q072',
@@ -16548,7 +16548,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'uma mulher de 26 anos e atendida em unidade basica de saude relatando que, ha 15 dias, sente dor significativa ao evacuar e possui pequeno sangramento anal vivo, notado durante a higiene local. ela afirma que a dor persiste com menor intensidade por alguns minutos apos a eliminacao das fezes e que o sangramento se repete em cada evacuacao. a paciente refere constipacao habitual, com eliminacao de fezes ressecadas em media 3 vezes por semana. com base na historia clinica dessa paciente, ao realizar o exame fisico, o medico provavelmente encontrara',
     options: ['A) fissura anal na linha media posterior com fundo raso.', 'B) veias do plexo hemorroidario com sinais de sangramento.', 'C) fistula anorretal com sinais de sangramento pelo orificio cutaneo.', 'D) abscesso perianal com sinais flogisticos e drenagem de secrecao local.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q073',
@@ -16560,7 +16560,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'um menino de 9 anos sofre atropelamento enquanto andava de bicicleta pela rua e e trazido, por pessoas que estavam presentes no momento do acidente, a emergencia do hospital. a admissao, o menino encontra-se em parada cardiorrespiratoria em assistolia. ao perceber o quadro do paciente, os medicos de plantao iniciam medidas de suporte avancado de vida para essa crianca, instituindo, inicialmente, via aerea avancada com sucesso. diante dessa situacao, quais medidas devem ser tomadas imediatamente?',
     options: ['A) manter as compressoes toracicas e realizar uma ventilacao a cada 2 a 3 segundos.', 'B) manter compressoes toracicas na frequencia de 15 compressoes e de 2 ventilacoes.', 'C) administrar cristaloides para o paciente, visto que se trata de um choque hemorragico.', 'D) administrar epinefrina para o paciente, visto que nao houve retorno da circulacao espontanea. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q074',
@@ -16572,7 +16572,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'uma paciente primigesta de 25 anos, com 30 semanas de idade gestacional, comparece para a consulta de pre-natal de rotina na unidade basica de saude apresentando febre, lombalgia e queda do estado geral. nega sinais e sintomas de infeccao de vias aereas superiores e possui diagnostico previo de litiase renal. ao exame fisico, apresenta regular estado geral, acianotica, anicterica, corada e hidratada. temperatura axilar de 38,5 c, frequencia cardiaca de 98 batimentos por minuto, frequencia respiratoria de 20 incursoes respiratorias por minuto, pressao arterial de 120  80 mmhg, abdome gravidico, tonus uterino normal e ausencia de contracoes. altura uterina de 29 cm, frequencia cardiaca fetal de 158 batimentos por minuto e ausencia de edemas em membros inferiores. diante desses achados na paciente, a conduta medica adequada e',
     options: ['A) prescrever antitermico para a gestante e marcar retorno ambulatorial em 7 dias.', 'B) prescrever antiespasmodico para a gestante e referencia-la para uma avaliacao eletiva com o infectologista.', 'C) prescrever antitermico para a gestante e referencia-la para uma avaliacao urgente no pronto-socorro obstetrico.', 'D) prescrever antiespasmodico para a gestante e referencia-la para uma avaliacao de urgencia no pronto socorro obstetrico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q075',
@@ -16584,7 +16584,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'um medico de familia e comunidade tem identificado certa piora nos indicadores de saude de criancas de sua populacao adstrita. durante uma reuniao com os profissionais de saude, ele expoe essa preocupacao e sugere que a equipe estabeleca estrategias de acompanhamento das criancas do territorio, atribuindo responsabilidades e metas para cada categoria profissional. quais acoes voltadas para a populacao poderao ser realizadas pelos agentes comunitarios de saude que compoem essa equipe?',
     options: ['A) verificar os cuidados com o coto umbilical nas criancas menores de 28 dias de idade; identificar possiveis dificuldades em relacao ao aleitamento materno; orientar pais sobre alimentacao de criancas abaixo do percentil +3 no grafico de peso para idade.', 'B) verificar as condicoes de higiene e a presenca de assaduras em menores de 28 dias de idade; oferecer orientacoes alimentares para pais de criancas obesas; orientar sobre uso de medicamentos para controle de sintomas leves apos aplicacao de vacinas.', 'C) verificar se o teste do pezinho, a vacinacao bcg e a vacinacao contra hepatite b foram realizados em criancas ate 28 dias de idade; avaliar sinais que indicam violencia em criancas de todas as idades; verificar se a familia esta inscrita no programa bolsa familia.', 'D) verificar o peso e o comprimento das criancas de ate 1 ano de idade e anotar os valores na caderneta de saude da crianca; encaminhar para a unidade basica de saude as criancas sem a cicatriz da vacina bcg apos 4 meses da aplicacao da vacina; verificar se a familia esta inscrita no programa bolsa familia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q076',
@@ -16596,7 +16596,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'um homem de 58 anos e levado ao pronto-socorro devido a dor retroesternal de forte intensidade, em aperto, com irradiacao para o braco esquerdo, iniciada ha 1 hora. e hipertenso, diabetico e tabagista. foi submetido a uma angioplastia por cateterismo cardiaco, havendo resolucao dos seus sintomas. no segundo dia apos a angioplastia, durante a visita de um familiar, subitamente houve rebaixamento do nivel de consciencia, o paciente permanece com pulso central. o monitor cardiaco mostrou o tracado a seguir. diante do quadro clinico apresentado, a conduta a ser adotada imediatamente e',
     options: ['A) realizar cardioversao eletrica.', 'B) realizar novo cateterismo cardiaco.', 'C) administrar metoprolol endovenoso.', 'D) administrar lidocaina endovenosa.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q077',
@@ -16608,7 +16608,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'uma paciente de 57 anos, fumante e obesa, procura atendimento medico por possuir ulcera de membro inferior. queixa-se do aparecimento de ferida no tornozelo esquerdo nos ultimos 2 meses, que vem aumentando de tamanho progressivamente, acompanhada por dor de forte intensidade e refrataria ao uso de analgesicos. ela relata que, em seu trabalho, caminha grandes percursos no dia e que, ha 1 ano, vem apresentado dor no membro inferior esquerdo durante a deambulacao, claudicacao, obrigando-a a sentar por alguns minutos para melhorar. por orientacao de um parente, tem procurado repousar com os membros inferiores elevados ao chegar em casa, entretanto nao tem obtido bons resultados com essa manobra, referindo, inclusive, piora da dor. ao exame do membro inferior esquerdo, nota-se ulcera profunda na regiao do maleolo medial, com bordas bem definidas, palida, com areas necroticas e sem tecidos de granulacao. a regiao em torno da ulcera apresenta coloracao eritematovinhosa. nesse caso, a etiologia mais provavel da ulcera e',
     options: ['A) linfedema cronico.', 'B) ulcera neuropatica.', 'C) insuficiencia arterial cronica.', 'D) insuficiencia venosa cronica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q078',
@@ -16620,7 +16620,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'um recem-nascido a termo, adequado para a idade gestacional, evoluiu sem eliminacao de meconio nas primeiras 48 horas de vida. depois, desenvolveu quadro de vomitos, apresentando hipoatividade, com recusa ao seio materno e distensao abdominal. ao exame fisico, encontra-se desidratado, descorado, com abdome distendido e doloroso, com ruidos hidroaereos diminuidos. ao toque retal, nota-se anus sem alteracoes, com eliminacao de meconio em grande quantidade. foi realizada radiografia de abdome, exibida a seguir. com base no caso apresentado e na imagem radiologica, assinale a propedeutica correta.',
     options: ['A) a colonoscopia sem biopsia de urgencia e indicada para confirmacao diagnostica.', 'B) o sinal da dupla bolha presente na radiografia simples de abdome sugere o diagnostico.', 'C) o exame clinico detalhado, associado a ultrassonografia abdominal confirma o diagnostico.', 'D) o enema opaco com retencao do bario, de 24 a 36 horas apos o exame, sugere o diagnostico.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q079',
@@ -16656,7 +16656,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'um homem de 43 anos procura a unidade de pronto atendimento por aumento do volume abdominal ha 4 semanas, associado a edema de membros inferiores. ele nega ingestao de bebida alcoolica. nao possui alteracao do habito intestinal ou sintomas dispepticos. relata que, quando tinha 22 anos, sofreu um atropelamento com fratura de tibia e recebeu 2 unidades de concentrado de hemacias, quando foi diagnosticado com hepatite por virus c. nao possui historico medico familiar relevante. ao exame fisico, apresenta sinais vitais normais, mucosas hipocoradas +/4+ e ictericia +/4+. os exames do aparelho cardiovascular e respiratorio estao normais. o abdome apresenta-se globoso, com ruidos hidroaereos presentes, indolor a palpacao e com sinal de piparote e macicez movel positivos. presenca de edema em membros inferiores; pulsos arteriais presentes bilateralmente. uma paracentese de alivio foi realizada com a drenagem de 2 litros de liquido ascitico de aspecto amarelo citrino.',
     options: ['A) contagem de celulas veio com 450 leucocitos por mm3, sendo 320 polimorfonucleares. nao houve acidente de puncao e o diferencial entre a albumina serica e ascitica teve resultado de 1,3. considerando o caso clinico apresentado, a conduta terapeutica mais adequada para tratamento dessa complicacao e prescrever', 'A) ceftriaxona.', 'B) gentamicina.', 'C) levofloxacino.', 'D) penicilina cristalina.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q082',
@@ -16668,7 +16668,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'um homem de 22 anos e atendido em hospital de medio porte apos ter mergulhado em lagoa e ter batido a cabeca em uma pedra submersa. ao chegar ao hospital, apos ser trazido pela equipe de atendimento pre-hospitalar, encontra-se consciente, com colar cervical, imobilizado adequadamente em prancha rigida. relata que apresenta sensibilidade diminuida (graduacao sensorial 1) do primeiro ao terceiro dedos das maos, mas nao identifica toque leve ou estimulos dolorosos no quarto e no quinto dedos das maos, no tronco, na pelve e nos membros inferiores. realiza a extensao dos cotovelos (triceps) apenas com os membros superiores apoiados sobre o leito, sem acao da gravidade (forca muscular grau 2), e nao consegue fletir os dedos das maos ou mover o tronco, a pelve e ou os membros inferiores. com base no quadro clinico desse paciente, ele apresenta uma',
     options: ['A) fratura do arco anterior e posterior da primeira vertebra cervical (de jefferson).', 'B) fratura da setima vertebra cervical e subluxacao entre essa vertebra e a primeira vertebra toracica.', 'C) fratura de processo transverso da terceira vertebra cervical com comprometimento de arteria vertebral.', 'D) fratura transversa do elemento posterior da segunda vertebra cervical (corpo do axis) em sua parte interarticular.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q083',
@@ -16680,7 +16680,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'um recem-nascido a termo, com 38 semanas e 3 dias de idade gestacional, com apgar de 8/9, parto sem intercorrencias, peso de nascimento de 3 200 g, com 18 horas de vida, ainda na maternidade, apresenta quadro de ictericia que acomete cabeca e tronco, estendendo-se ate a raiz dos membros.',
     options: ['A) mae tem tipo sanguineo o negativo e a crianca a negativo. os exames colhidos mostram bilirrubina total de 19,4 mg/dl, com bilirrubina direta de 0,9 mg/dl e indireta de 18,5 mg/dl (valor de referencia de bilirrubina total para a idade gestacional: < 10 mg/dl).', 'A) respeito desse quadro, assinale a opcao que apresenta o diagnostico e a conduta adequados.', 'A) ictericia moderada; por ser um recem-nascido a termo e sem incompatibilidade sanguinea, deve ser colocado em fototerapia e deve ser colhida nova bilirrubina com 12 horas e, caso haja reducao dos valores, e preciso avaliar a sua retirada da fototerapia e alta em 24 horas.', 'B) ictericia grave; ha indicacao de exsanguineotransfusao; ele deve ser colocado imediatamente em fototerapia e e preciso solicitar nova bilirrubina em 2 a 3 horas, enquanto o material para exsanguineotransfusao e preparado.', 'C) ictericia grave; nesse momento, a fototerapia e ineficaz; deve ser feita exsanguineotransfusao imediata e, enquanto o sangue a ser transfundido nao chega, pode ser feita reposicao com soro fisiologico.', 'D) ictericia moderada, porem, sem incompatibilidade sanguinea; o risco de aumento nas proximas horas e baixo; ele deve ser colocado em fototerapia e nova bilirrubina deve ser colhida em 6 horas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q084',
@@ -16692,7 +16692,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'uma paciente primigesta, de 30 anos, com 24 semanas de gestacao, encontra-se internada em uma maternidade para introducao de insulina, devido a diabetes gestacional, a fim de obter melhor controle metabolico. a paciente relata que o bebe tem se mexido menos nas ultimas 24 horas. o medico indica a realizacao de uma cardiotocografia de repouso. nesse caso, a indicacao da cardiotocografia esta',
     options: ['A) incorreta, pois a cardiotocografia e contraindicada em caso de diabetes gestacional, devido as oscilacoes metabolicas frequentes.', 'B) correta, pois, no caso de diabetes descompensado, a cardiotocografia e o exame de escolha para avaliacao precoce da vitalidade fetal.', 'C) correta, pois e o primeiro exame a ser solicitado em caso de suspeita de sofrimento fetal decorrente de diabetes, com alta sensibilidade.', 'D) incorreta, pois, nessa idade gestacional, pela imaturidade no equilibrio dos sistemas simpatico e parassimpatico do feto, e alta a taxa de resultados falso-positivos.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q085',
@@ -16704,7 +16704,7 @@ export const generatedQuestions = [
     questionNumber: 85,
     questionText: 'uma equipe de saude da familia tem enfrentado muitas reclamacoes de seus usuarios  os quais sao residentes de uma comunidade que fica em uma regiao periferica de um municipio de medio porte  pela dificuldade para realizar agendamento de consultas medicas e odontologicas, para colher os exames solicitados pelo medico e para conseguir os medicamentos prescritos. isso ocorre pelas seguintes razoes: a populacao adstrita a equipe tem mais de 4 000 pessoas cadastradas; ha uma reducao do numero de profissionais; e ha falta de medicamentos na farmacia. em reuniao de equipe, os profissionais de saude discutem a melhor maneira de resolver essas questoes.',
     options: ['A) melhor estrategia para a resolver esses problemas, com a participacao da comunidade, e por meio do', 'A) conselho local de saude  orgao consultivo  aproximando, assim, a comunidade da unidade de saude, e compartilhando informacoes sobre o funcionamento da equipe para a resolucao de problemas, como o fluxo de agendamento e de coleta de exames na unidade de saude.', 'B) conselho municipal de saude  orgao consultivo e permanente  com usuarios, gestores e trabalhadores da saude, a fim de avaliar a situacao de saude local, de planejar acoes de organizacao da agenda da unidade de saude e de fiscalizar a gestao da assistencia farmaceutica.', 'C) conselho gestor de saude  orgao deliberativo e permanente  com profissionais de saude e com gestores, os quais analisarao a situacao da unidade de saude e proporao alternativas de solucao para a falta de profissionais, as quais serao apresentadas a comunidade.', 'D) nucleo de saude coletiva  orgao consultivo  a fim de ampliar as acoes coletivas de forma organizada e permanente, com impacto local de suas acoes, tais como a organizacao da demanda por meio da implantacao de uma nova equipe de saude da familia apos a divisao do territorio de abrangencia.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q086',
@@ -16716,7 +16716,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'uma mulher de 21 anos, portadora de diabetes mellitus tipo 1 ha 8 anos, em tratamento com insulina nph e esquema com insulina regular, e submetida, anualmente, a testes para avaliacao de complicacoes microvasculares da doenca de base. neste ano, pela primeira vez, foi documentada alteracao laboratorial que indica a presenca de nefropatia em fase inicial. o teste foi repetido apos 3 meses, confirmando que a alteracao e persistente. assinale a opcao que apresenta o resultado do exame laboratorial que permitiu a elaboracao de tal hipotese.',
     options: ['A) proteinuria no exame simples de urina (tipo 1).', 'B) creatinina serica acima do limite superior da normalidade.', 'C) taxa de filtracao glomerular estimada eletronicamente inferior a 45 ml/min/1,73 m2.', 'D) microalbuminuria com excrecao de albumina superior a 30 mg por grama de creatinina.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q087',
@@ -16728,7 +16728,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'uma paciente de 54 anos vem ao consultorio com queixa de vermelhidao e dor no olho esquerdo ha 4 meses, sem melhora ao usar colirio lubrificante ou anti-inflamatorio. alem disso, ha 2 semanas, iniciou turvacao visual em visao periferica de olho esquerdo. ela nega queixas no olho direito.',
     options: ['A) paciente apresenta antecedente de hipertensao arterial sistemica, diabetes mellitus tipo 2 e depressao, e esta em tratamento regular com losartana 50 mg/dia, atenolol 25 mg/dia, hidroclorotiazida 25 mg/dia, metformina 850 mg/dia e amitriptilina 75 mg/dia. o medico, entao, realiza exame de fundo de olho e nota, no olho esquerdo, aumento de escavacao na periferia da papila optica sem sinais de hemorragia ou alteracoes de vasos retinianos ou edema de papila. com base nas informacoes apresentadas, o medico deve', 'A) ajustar os hipoglicemiantes orais para evitar a perda visual, pois trata-se de retinopatia diabetica.', 'B) indicar o uso de vitaminas c e e, betacaroteno e zinco, pois podem retardar a evolucao da degeneracao.', 'C) realizar teste de pressao intraocular e substituir a amitriptilina, pois seu uso aumenta a pressao intraocular.', 'D) solicitar exame de imagem intracraniana, pois trata-se de suspeita de tumor que causa compressao retrorbitaria.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q088',
@@ -16740,7 +16740,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'um adolescente de 15 anos comparece a unidade basica de saude. ele relata lombalgia ha 6 meses, com 3 episodios semanais. nega trauma local e nega pratica de atividades fisicas, como musculacao. diariamente, carrega mochila nas costas no translado de casa para a escola, o qual dura 20 minutos. na inspecao do paciente, ao ficar de costas, na posicao ereta, foi observado que o ombro esquerdo e mais elevado do que o ombro direito. o teste de adams (presenca de gibosidade) deu positivo. a afericao do membro inferior direito e de 98 cm e do membro inferior esquerdo e de 98 cm. considerando a historia e o exame clinico apresentados, qual propedeutica complementar deve ser solicitada para comprovar a principal hipotese diagnostica?',
     options: ['A) radiografia panoramica da coluna.', 'B) escanometria de membros inferiores.', 'C) ultrassonografia de coluna lombossacra.', 'D) ressonancia magnetica da coluna lombar.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q089',
@@ -16752,7 +16752,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'uma paciente com 34 semanas de gestacao, g3p2a0, tabagista, com suspeita de restricao de crescimento fetal, e encaminhada ao pre-natal de alto risco para acompanhamento e avaliacao. no caso dessa paciente, para a avaliacao de idade gestacional fidedigna, o melhor parametro a ser utilizado e',
     options: ['A) data da ultima menstruacao, mesmo que a paciente tenha ciclos irregulares.', 'B) media biometrica fetal observada no exame morfologico realizado com 22 semanas.', 'C) comprimento cranio-nadegas em ultrassonografia realizada ate 12 semanas da gestacao.', 'D) medida do diametro biparietal observada em ultrassonografia obstetrica realizada entre 14 e 17 semanas.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q090',
@@ -16764,7 +16764,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'uma mulher de 46 anos, trabalhadora domestica, apresenta-se ao medico com queixa de lombalgia ha 1 semana, com intensidade de 5 em 10 na escala numerica da dor, de carater continuo e nao irradiado. ela ja apresentou quadro semelhante antes e possui indicacao de uso de relaxante muscular. diante desse quadro, quais sao, respectivamente, a hipotese diagnostica mais provavel e a conduta medica adequada?',
     options: ['A) lombalgia de origem mecanico-postural; iniciar tratamento conservador.', 'B) lombalgia inespecifica; dispensar investigacao com exames complementares.', 'C) lombalgia com sinais de alerta; solicitar ressonancia magnetica da coluna lombossacra.', 'D) lombalgia inespecifica; indicar repouso e prescrever paracetamol ou anti-inflamatorio nao esteroidal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q091',
@@ -16776,7 +16776,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'uma mulher de 28 anos encontra-se internada em hospital de atencao secundaria com quadro sugestivo de pielonefrite aguda, secundaria a nefrolitiase impactada no ureter direito, confirmada por tomografia de abdome. a despeito da analgesia potente e do uso de bloqueador alfa1-adrenergico, a paciente evoluiu muito sintomatica, surgindo febre e calafrios no segundo dia de internacao. seus niveis pressoricos estao em torno de 70 mmhg de pressao arterial media (pam), mas ela encontra-se febril e taquipneica. ha evidencias de disfuncao renal e respiratoria no escore sofa (sepsis-related organ failure assessment). diante do quadro clinico apresentado, a medida terapeutica imediata e',
     options: ['A) expansao volemica generosa intravenosa.', 'B) abordagem urologica para descompressao da obstrucao ureteral.', 'C) introducao de amina vasopressora com a meta de elevacao da pam.', 'D) antibioticoterapia voltada basicamente a cobertura contra gram-positivos multirresistentes.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q092',
@@ -16788,7 +16788,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'um homem de 19 anos e atendido na unidade basica de saude queixando-se de aumento indolor do saco escrotal com inicio ha cerca de 2 meses, que esta progredindo. nega comorbidades e informa que pratica ciclismo 3 a 4 vezes por semana. ao exame fisico, nota-se aumento do volume escrotal a esquerda, com hidrocele medindo 8 cm  5 cm em dimensoes cefalocaudal e transversal, respectivamente. com base no caso apresentado, qual o provavel diagnostico da causa da hidrocele e qual o exame e o mais apropriado para sua confirmacao.',
     options: ['A) orquiepididimite; sumario de urina com cultura.', 'B) cancer de testiculo; ultrassonografia de bolsa escrotal.', 'C) torcao testicular; dopplermetria das arterias testiculares.', 'D) trauma testicular; tomografia computadorizada da bolsa escrotal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q093',
@@ -16800,7 +16800,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'uma adolescente de 15 anos e levada ao pronto-atendimento por seu pai, que refere ter encontrado sua filha desacordada ao lado de uma cartela de comprimidos de bromazepam vazia. ele diz que os comprimidos, originalmente, pertenciam a avo, que sofre de insonia e reside no mesmo domicilio, e nao sabe dizer quantos comprimidos a adolescente ingeriu ou ha quanto tempo ocorreu a ingestao. na avaliacao inicial, a adolescente apresenta rebaixamento do nivel de consciencia, abrindo os olhos e murmurando palavras incompreensiveis quando submetida a estimulo doloroso. suas vias aereas estao pervias e a respiracao e regular, com saturacao de oxigenio de 96% em ar ambiente. diante do quadro dessa paciente, quais sao as condutas clinicas indicadas?',
     options: ['A) dosar o nivel serico de benzodiazepinicos; administrar, imediatamente, o flumazenil.', 'B) realizar lavagem gastrica apos intubacao orotraqueal para protecao de vias aereas; administrar carvao ativado.', 'C) iniciar lavagem gastrica; monitorar eletrocardiograma, eletrolitos, funcao renal e hepatica; administrar flumazenil.', 'D) monitorar eletrocardiograma, eletrolitos, funcao renal e hepatica; realizar hidratacao para estimular a eliminacao renal; manter oximetria de pulso continuo.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q094',
@@ -16812,7 +16812,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'uma paciente primigesta, de 33 anos, com idade gestacional de 29 semanas e 4 dias, esta em tratamento para infeccao urinaria e e admitida em trabalho de parto pre-termo.',
     options: ['A) paciente relata ser tabagista eventual e frequentar academia 3 vezes por semana com exercicios de pilates e de hidroginastica desde os 30 anos. em seu cartao de pre-natal, le-se: indice de massa corporal de 30,4 kg/m2, hemoglobina de 9 g/dl e hematocrito de 32%.', 'A) partir das informacoes coletadas acerca dessa paciente, quais sao fatores de risco identificados para trabalho de parto pre-termo?', 'A) tabagismo e pratica de atividade fisica.', 'B) infeccao urinaria e idade materna.', 'C) anemia e infeccao urinaria.', 'D) idade materna e anemia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2023-2-q095',
@@ -16824,7 +16824,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'um medico de familia e comunidade deseja ampliar seu campo de atuacao para incluir a saude suplementar. ele reconhece que muitas pessoas tem planos de saude e desejam receber atendimento medico abrangente e personalizado, em modelos assistenciais que garantam os atributos essenciais da atencao primaria a saude. no que se refere a saude suplementar, e correto afirmar que esse medico de familia podera atuar',
     options: ['A) na gestao de operadoras de planos de saude, organizando uma rede integrada e funcional, priorizando o modelo assistencial tradicional, garantindo, dessa forma, o cuidado longitudinal.', 'B) na atencao domiciliar, por meio de operadoras de planos de saude, devido a impossibilidade de realizar esse tipo de atendimento de forma autonoma, garantindo a coordenacao do cuidado de pacientes domiciliados, com foco na familia.', 'C) em consultorios de estabelecimentos de saude, prestando atendimento a clientes que estabeleceram contrato com o proprietario, em um modelo de atencao primaria a saude, com a garantia de longitudinalidade e coordenacao do cuidado.', 'D) na assistencia em clinica de operadora de plano de saude ou em consultorio particular, atuando no modelo assistencial com a coordenacao de cuidados pela atencao primaria a saude, garantindo a integralidade e longitudinalidade do cuidado.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q096',
@@ -16836,7 +16836,7 @@ export const generatedQuestions = [
     questionNumber: 96,
     questionText: 'um policial leva ao pronto-socorro um homem em situacao de rua, com idade aproximada de 55 anos, que esta com febre (temperatura axilar de 38,8 c) e com tosse com expectoracao putrida abundante, iniciadas ha varias semanas. o paciente e etilista, usuario de crack e nao sabe informar sobre a existencia de doencas previas. foi realizada uma radiografia de torax, a qual pode ser vista a seguir. com base nesse quadro clinico, assinale a opcao que indica, respectivamente, o diagnostico mais provavel e a conduta inicial mais apropriada.',
     options: ['A) tromboembolismo pulmonar; iniciar anticoagulacao.', 'B) abscesso pulmonar; iniciar antibioticoterapia empirica.', 'C) neoplasia pulmonar primaria; aguardar broncoscopia e biopsia.', 'D) tuberculose pulmonar; aguardar resultado de cultura de m. tuberculosis. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2023-2-q097',
@@ -16848,7 +16848,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'uma paciente de 28 anos procura unidade basica de saude solicitando encaminhamento a um servico de cirurgia bariatrica. ela relata que desistiu de tratamentos conservadores apos tentar emagrecer, sem sucesso, por mais de 10 meses, utilizando metodos farmacologicos e restricao calorica. tambem relata que sua vizinha foi submetida a cirurgia bariatrica com menos peso que ela e que perdeu 30 kg em 6 meses, com grande ganho de qualidade de vida. a paciente tem 1,62 m de altura e peso de 112 kg. e portadora de hipertensao arterial sistemica, a qual e controlada com losartana 100 mg/dia, e diabetes melittus tipo 2, com uso de dapagliflozina 10 mg/dia e de metformina 1 g/dia. alem disso, faz uso de rosuvastatina 20 mg/dia para tratamento de dispilidemia e apresenta amenorreia. ela tambem e tabagista e sedentaria e revela que sofre de depressao. diante dessa demanda da paciente, assinale a opcao que apresenta a conduta medica adequada.',
     options: ['A) orientar a paciente sobre a necessidade de acompanhamento multidisciplinar e encoraja-la a continuar com a abordagem conservadora, pois a indicacao da cirurgia acontece apos tentar emagrecer, sob supervisao medica, por 5 meses em um periodo de 2 anos.', 'B) encaminhar a paciente ao servico cirurgico, o qual lhe esclarecera sobre a necessidade de mudancas nos habitos de vida e, considerando o impacto permanente da cirurgia, serao apresentadas e discutidas as tecnicas cirurgicas tanto com a paciente quanto com a familia.', 'C) informar a paciente sobre os criterios de indicacao de cirurgia bariatrica, como imc > 40 kg/m2 e presenca de comorbidades, e encaminha-la a equipe multidisciplinar para tracar plano de cuidados individualizado e estrategia conservadora com acompanhamento semanal.', 'D) esclarecer a paciente que as comorbidades sao fatores de contraindicacao a cirurgia e encaminha-la a equipe multidisciplinar para estabilizacao e adequacao de medicacoes, alem de elaboracao de um plano individual de cuidados que inclua antidepressivo na abordagem farmacologica.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q098',
@@ -16860,7 +16860,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'um paciente de 15 anos e atendido em ambulatorio de pediatria devido ao diagnostico de deficiencia intelectual. ele apresenta crises convulsivas que estao sob controle com uso de medicamentos. anteriormente, o psiquiatra fez o diagnostico de transtorno do deficit de atencao e hiperatividade. ao exame fisico, o paciente apresenta perimetro cefalico acima da media, frontal alto, face alongada, orelhas proeminentes e prognatismo. alem disso, e observado peito escavado, escoliose, macrorquidia, hernia inguinal, pes planos e hiperextensibilidade de articulacoes metacarpofalangianas. para confirmacao da etiologia da deficiencia intelectual e das caracteristicas fenotipicas encontradas nesse caso, o exame indicado e a(o)',
     options: ['A) sequenciamento genetico.', 'B) ressonancia de sela turcica.', 'C) tomografia computadorizada de cranio.', 'D) eletroencefalograma em sono induzido.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2023-2-q099',
@@ -16872,7 +16872,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'uma paciente de 26 anos, com 39 semanas de gestacao, comparece ao pronto-socorro da maternidade queixando-se de perda de liquido claro em abundante quantidade ha 2 horas. ela nega outras queixas e refere movimentacao fetal ativa. pre-natal de risco habitual e sem antecedentes pessoais e familiares. ao exame fisico, a paciente apresenta dinamica uterina ausente, frequencia cardiaca fetal de 140 batimentos por minuto com boa variabilidade, feto cefalico e altura uterina de 34 cm. ao exame especular, apresenta saida de liquido claro com grumos grandes em moderada quantidade e visualizado colo pervio 1 polpa digital. com relacao a esse caso clinico e possivel afirmar que e',
     options: ['A) suficiente observar o quadro clinico e o exame fisico para fazer o diagnostico.', 'B) recomendavel realizar um ultrassom para avaliar se ha diminuicao de liquido amniotico para fazer o diagnostico.', 'C) necessario proceder com um teste de ph vaginal ou um teste diagnostico imunocromatico para fazer o diagnostico.', 'D) preciso realizar, ao menos, um teste diagnostico imunocromatico ou avaliacao de cristalizacao do conteudo vaginal ao microscopio para fazer o diagnostico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2023-2-q100',
@@ -16896,7 +16896,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'uma mulher com 25 anos, solteira, sem comorbidades previas, e atendida em uma unidade de pronto-socorro devido a queixas de alguria, polaciuria, dor hipogastrica e urgencia miccional ha 2 dias. ela nega corrimento vaginal e relata que a menstruacao esta regular e que nao tem relacoes sexuais ha mais de 1 mes. a paciente nega: febre, uso de antimicrobianos nos ultimos 3 meses e outros sintomas sistemicos. nesse caso, quais sao, respectivamente, a hipotese diagnostica mais provavel e a melhor conduta terapeutica?',
     options: ['A) itu baixa; iniciar nitrofurantoina.', 'B) itu alta nao complicada; iniciar norfloxacino.', 'C) itu por staphylococcus aureus; iniciar antibiotico de amplo espectro.', 'D) nefrolitiase complicada com itu; iniciar antibiotico apos resultado de urocultura.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q002',
@@ -16908,7 +16908,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'um paciente com 28 anos, vitima de atropelamento, e levado ao departamento de emergencia pelo servico de atendimento medico de urgencia (samu). ao exame abdominal, apresenta escoriacoes e hematoma em baixo ventre, instabilidade a palpacao da pelve e hematoma perineal. apos avaliacao primaria, qual das seguintes alternativas corresponde ao melhor metodo diagnostico de possivel lesao do trato urinario, no caso apresentado?',
     options: ['A) uretrocistografia retrograda.', 'B) cistostomia suprapubica aberta.', 'C) tomografia pelvica sem contraste.', 'D) ultrassonografia de abdome e pelve.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q003',
@@ -16920,7 +16920,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'um lactente com 3 meses comparece a uma consulta na unidade de saude da familia por mover os olhos de um lado para outro de forma anormal e repetitiva. a mae do paciente informa que o teste do olhinho, realizado anteriormente, foi inconclusivo e que o bebe recebeu alta sem orientacoes. a gestacao e o parto foram sem intercorrencias. ao exame fisico, o lactente apresenta-se eutrofico, com o movimento dos globos oculares oscilatorios, sem a presenca de outras alteracoes neurologicas ou motoras. com base nessas informacoes, quais sao, respectivamente, o diagnostico e a conduta medica adequada para esse caso?',
     options: ['A) catarata congenita; refazer o teste do olhinho no paciente.', 'B) estrabismo; tranquilizar a mae do paciente e agendar retorno precoce.', 'C) nistagmo; encaminhar o paciente ao oftalmologista e ao neuropediatra.', 'D) xeroftalmia; solicitar dosagem de vitamina a do paciente com urgencia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q004',
@@ -16932,7 +16932,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'uma gestante com 24 anos, g2 p1 a0, chega a maternidade com sangramento vermelho vivo por via vaginal. conta que descobriu sua segunda gravidez ha 2 semanas. no momento, refere dor pelvica intensa e persiste com sangramento vaginal vivo. ao exame, apresenta-se em bom estado geral, normocorada, pressao arterial de 110 x 70 mmhg, frequencia cardiaca de 82 bpm e saturacao de oxigenio de 98%. no exame fisico, o medico plantonista constata colo pervio no toque bimanual, utero compativel com 10 semanas de gravidez e sangramento vivo com saida de material sugestivo de restos ovulares. considerando-se essa historia clinica e os achados do exame fisico, quais sao a hipotese diagnostica e a melhor conduta para a paciente?',
     options: ['A) ameaca de abortamento; solicitar ultrassonografia transvaginal e, se feto com boa vitalidade, recomendar repouso e iniciar pre-natal.', 'B) ameaca de abortamento; prescrever analgesico, recomendar repouso no domicilio e orientar retorno se houver piora do sangramento.', 'C) abortamento em evolucao; explicar com linguagem acessivel o quadro, internar e realizar ultrassonografia pelvica para confirmar utero vazio.', 'D) abortamento em evolucao; explicar com linguagem acessivel o quadro, orientando que pode optar por aspiracao manual intrauterina (amiu) / curetagem ou conduta expectante. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q005',
@@ -16944,7 +16944,7 @@ export const generatedQuestions = [
     questionNumber: 5,
     questionText: 'ao assumir a coordenacao de uma equipe de saude da familia, um medico de familia e comunidade percebe que sua equipe nao utiliza criterios para estabelecimento de fluxo de agendamento de visitas domiciliares. diante dessa situacao, ele decide promover uma roda de conversa a fim de sensibilizar sua equipe acerca da necessidade de organizar criterios para a definicao das visitas domiciliares como uma abordagem ao individuo em seu aspecto familiar e comunitario. nesse caso, qual e o principio do sistema unico de saude (sus) que melhor se enquadra na estrategia adotada para melhoria do trabalho da equipe?',
     options: ['A) equidade.', 'B) autonomia.', 'C) integralidade.', 'D) universalidade.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q006',
@@ -16956,7 +16956,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'uma mulher com 64 anos, sabidamente hipertensa e diabetica tipo 2, em acompanhamento regular, comparece a consulta medica para atualizacao vacinal, pois deseja se proteger contra doencas comuns na comunidade. ao ser indagada sobre seus antecedentes patologicos, ela informa que ja teve sarampo, caxumba, rubeola e varicela antes dos 5 anos de idade e que teve hepatite a aos 10 anos. considerando a historia clinica descrita, qual vacina esta indicada para essa paciente?',
     options: ['A) caxumba.', 'B) hepatite a.', 'C) triplice viral.', 'D) varicela-zoster.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q007',
@@ -16968,7 +16968,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'um paciente com 68 anos, submetido a hemicolectomia esquerda por neoplasia com anastomose terminoterminal, sem intercorrencias, refere, no quinto dia de pos-operatorio, dor leve abdominal. ao exame fisico, apresenta-se hidratado, com temperatura axilar de 38,1 c, frequencia cardiaca de 96 bpm, pressao arterial de 100 x 70 mmhg, frequencia respiratoria de 20 irpm. abdome distendido 1+/4+, ruidos hidroaereos presentes, timpanismo generalizado a percussao e levemente doloroso a palpacao profunda generalizada. aparelhos cardiovascular e respiratorio sem alteracoes. ferida operatoria limpa, sem sinais flogisticos. nesse caso, qual e a origem mais provavel do quadro de febre apresentado pelo paciente?',
     options: ['A) atelectasia.', 'B) infeccao urinaria.', 'C) abcesso subfrenico.', 'D) infeccao do sitio cirurgico profundo.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q008',
@@ -16980,7 +16980,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'um menino com 2 anos e trazido a emergencia com queixa de febre e de crise convulsiva tonico-clonica generalizada com liberacao esfincteriana, a qual foi observada em domicilio. segundo a mae do paciente, a crise convulsiva durou cerca de 7 minutos. ao chegar a emergencia, o menino estava, ainda, com uma temperatura axilar de 38,5 c. depois de cerca de 1 hora do termino da crise, verificou-se que a crianca estava ativa e reativa, interagindo, com pupilas isocoricas e fotorreagentes, sem sinais meningeos, eupneica, normocardica e sem febre, apos ministracao de medicacao antitermica.',
     options: ['A) mae alega que seu filho nunca teve problemas de saude e nega crises anteriores. diante do quadro descrito, assinale a opcao que contem, respectivamente, o diagnostico e a conduta medica apropriada para o caso.', 'A) convulsao febril simples; realizar, diante do quadro febril, tomografia computadorizada e puncao lombar.', 'B) convulsao febril complexa; realizar internacao hospitalar e eletroencefalograma para investigar o quadro febril.', 'C) convulsao febril simples; investigar o quadro febril e tratar o paciente de acordo com os resultados encontrados.', 'D) convulsao febril complexa; realizar internacao hospitalar e ressonancia magnetica para investigar o quadro febril.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q009',
@@ -16992,7 +16992,7 @@ export const generatedQuestions = [
     questionNumber: 9,
     questionText: 'uma paciente com 55 anos, em acompanhamento de rotina, encontra-se no ambulatorio de ginecologia geral, assintomatica e, ao exame fisico, apresenta-se normal. realizada a mamografia de rotina, verifica-se laudo com categoria birads 4, devido a presenca de microcalcificacoes agrupadas. considerando-se o caso descrito, qual e a conduta adequada?',
     options: ['A) realizacao de quadrantectomia.', 'B) biopsia para investigacao histologica.', 'C) repeticao de mamografia em 6 meses.', 'D) complementacao com ultrassonografia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q010',
@@ -17004,7 +17004,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'um homem com 55 anos e levado pelo filho a uma unidade basica de saude com quadro agudo de dor toracica, dispneia e alteracao do nivel de consciencia. o paciente ja estava, anteriormente, em acompanhamento de hipertensao arterial sistemica (has). ao aferir sua pressao arterial, a medida encontrada foi de 190 x 120 mmhg. diante desse quadro, o medico deve',
     options: ['A) medicar o paciente com o objetivo de reduzir a pressao arterial no periodo de 24 a 48 horas e dar seguimento ambulatorial.', 'B) administrar anti-hipertensivo oral, encaminhar o paciente para a sala de observacao e aguardar a reducao dos niveis pressoricos.', 'C) avaliar a adesao ao tratamento de has e, se necessario, introduzir um novo tratamento medicamentoso ou adequar o tratamento atual.', 'D) monitorar pressao arterial, frequencia cardiaca e saturacao de oxigenio, ministrar 300 mg de acido acetilsalicilico e encaminhar o paciente para o servico de urgencia imediatamente.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q011',
@@ -17016,7 +17016,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'uma paciente com 24 anos procura atendimento medico com relato de sudorese excessiva, palpitacoes, irritacao ocular, nervosismo, fadiga e perda de peso apesar do aumento do apetite, com achado de edema ocular e aumento difuso da tireoide ao exame fisico. o medico levanta a suspeita de doenca de graves. durante a propedeutica laboratorial, sao resultados compativeis com a hipotese diagnostica apresentada',
     options: ['A) niveis sericos reduzidos de anticorpos contra o receptor de tsh (trab) e de anticorpos antitireoperoxidase (anti-tpo).', 'B) aumento do tamanho e da ecogenicidade do parenquima da tireoide e presenca de nodulos cisticos difusos a ultrassonografia.', 'C) elevacao dos niveis sericos do hormonio tireoestimulante (tsh) e supressao dos niveis da fracao livre de tiroxina (t4 livre) e da tri-iodotironina (t3).', 'D) teste de iodo radioativo mostrando elevada captacao pela tireoide e cintilografia mostrando distribuicao difusa de radiomarcador no parenquima da glandula.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q012',
@@ -17028,7 +17028,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'um homem com 22 anos procura atendimento medico na unidade basica de saude com queixa de sensacao de peso em regiao escrotal ha 3 meses. nao se lembra de ter sofrido traumatismo na area afetada e nao apresenta queixas urinarias. nega comorbidades, etilismo e tabagismo. apresenta-se em bom estado geral, afebril. ao exame fisico, verificam-se: torax e abdome sem alteracoes; presenca de lesao de consistencia endurecida no testiculo esquerdo sem aumento a manobra de valsalva; transiluminacao negativa; toque retal sem alteracoes; ausencia de linfadenopatia inguinal e supraclavicular. diante desse quadro, quais sao, respectivamente, o diagnostico e a conduta adequada?',
     options: ['A) tumor de testiculo; orquiectomia.', 'B) hidrocele; eversao tunica vaginalis.', 'C) hernia inguinescrotal; herniorrafia inguinal.', 'D) orquiepididimite; exploracao de bolsa escrotal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q013',
@@ -17040,7 +17040,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'um lactente com 3 meses apresenta constipacao intestinal desde o seu nascimento, com registro de retardo de eliminacao de meconio de 48h. o paciente foi diagnosticado com aganglionose em todo o sigmoide e aguarda a cirurgia. no dia anterior, apresentou um episodio de diarreia sanguinolenta em grande quantidade, com quadro de febre, distensao abdominal e parada de eliminacao de gases e fezes. chegou ao servico de emergencia em mau estado geral, palido, hipotenso, sudoreico, taquicardico, com distensao abdominal importante e temperatura axilar de 38 c. nesse momento, foram realizadas reposicao volemica, descompressao com uma sonda nasogastrica e retal e foram ministrados antibioticos de amplo espectro para cobertura de organismos aerobicos e anaerobicos. a seguir, reproduz-se o resultado do exame de imagem trazido pela mae do paciente a emergencia. com base nessas informacoes, e correto afirmar que, apos a estabilizacao clinica do paciente, o tratamento definitivo e',
     options: ['A) abaixamento de colon endoanal sem colostomia.', 'B) abaixamento de colon abdominoperineal com colostomia.', 'C) colostomia descompressiva na zona de dilatacao do colon.', 'D) sigmoidectomia abdominoperineal com colostomia definitiva.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q014',
@@ -17052,7 +17052,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'os dados da carteirinha de uma gestante com 28 anos, primigesta, em uma unidade basica de saude, estao transcritos a seguir: data ig pa au bcf/mf 15/09 7 sem. 100/70 - -/- 12/10 11 sem. 94/62 6 cm -/- 12/11 15 sem. 100/64 12 cm +/- 09/12 19 sem. 110/72 17 cm +/+ 07/01 21 sem. 104/68 20 cm +/+ 11/02 26 sem. 130/98 24 cm +/+ 15/03 31 sem. 140/82 26 cm +/+ 12/04 35 sem. 142/88 29 cm +/+ ig: idade gestacional; pa: pressao arterial sistemica; au: altura uterina; mf: m com base nesses dados, e correto afirmar que:',
     options: ['A) o atendimento pre-natal foi adequadamente realizado.', 'B) o diagnostico de pre-eclampsia sem criterios de gravidade pod', 'C) o referenciamento da paciente para o pre-natal de alto risco n', 'D) a usg obstetrica morfologica do segundo trimestre foi solicita'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q015',
@@ -17064,7 +17064,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'uma crianca com 5 anos e levada pela avo a unidade basica de saude (ubs) com queixa de muito prurido em area periungueal do halux direito e na planta do pe direito, alem de discreta dor.',
     options: ['A) avo do paciente refere visitas frequentes da crianca ao sitio, onde anda descalca. ao exame fisico, detectam-se quatro lesoes puntiformes nos locais das queixas, sendo papulas ceratoticas com elevacao central enegrecida, eritematosa, e duas lesoes ja pustulosas. com base nessas informacoes, assinale a opcao que apresenta, respectivamente, o provavel diagnostico e o manejo adequado para esse caso.', 'A) larva migrans; prescricao de tiabendazol topico.', 'B) eczema disidrotico; hidratacao dos pes e corticoide topico de media potencia.', 'C) tungiase; remocao cirurgica do parasita na ubs com material devidamente esterilizado.', 'D) verruga viral; aplicacao de acido tricloroacetico (ata) 80% ou de nitrogenio liquido na ubs.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q016',
@@ -17076,7 +17076,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'uma mulher com 21 anos apresenta historia de cefaleia hemicraniana, pulsatil, precedida por escotomas visuais, de duracao de 6 a 10 horas, com fono e fotofobia, com pelo menos um episodio ao mes nos ultimos 10 anos. relata que a privacao de sono desencadeia o quadro e que obtem melhora parcial da cefaleia apos ingerir analgesico comum. nega febre ou alteracao das caracteristicas de cefaleia recentemente. nega outros sintomas associados. ao exame fisico, apresenta bom estado geral, facies de dor, esta hidratada, corada, com frequencia cardiaca de 90 bpm e pressao arterial de 130 x 80 mmhg. nao apresenta alteracoes no aparelho cardiovascular nem no respiratorio. o exame neurologico da paciente encontra-se normal. diante desse quadro clinico, quais sao, respectivamente, a hipotese diagnostica e a conduta adequada para a paciente?',
     options: ['A) migranea; indicar uso de triptano.', 'B) cefaleia tensional; indicar uso de relaxante muscular.', 'C) cefaleia em salvas; prescrever uso de oxigenio a 100%.', 'D) cefaleia por malformacao vascular; encaminhar a neurologia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q017',
@@ -17088,7 +17088,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'uma paciente com 32 anos refere mal-estar geral, febricula e coriza ha 10 dias. refere tambem habito frequente de lavar e assoar o nariz com soro fisiologico. ha dois dias, apos uma sessao prolongada de natacao, relata sentir o ouvido direito obstruido, dor localizada e piora da sensacao de febre.',
     options: ['A) paciente trata de lupus eritematoso sistemico ha dois anos. ao exame fisico geral, apresenta dor em joelhos bilateralmente. realizam-se os exames de: rinoscopia, em que se verifica hiperemia leve de epitelio nasal; e otoscopia, em que se observa leve hiperemia de membrana timpanica bilateral, demostrando membrana timpanica imovel bilateralmente a otoscopia pneumatica. nesse caso, o diagnostico e o tratamento indicados sao, respectivamente:', 'A) otite media cronica lupica; antibioticoterapia topica por 7 dias, corticoterapia sistemica.', 'B) otite media aguda fungica; claritromicina e fluconazol por 21 dias, timpanotomia direita.', 'C) otite externa subaguda viral; antibioticoterapia topica por 15 dias, anti-inflamatorios sistemicos.', 'D) otite media aguda bacteriana; amoxacilina e clavulanato por 10 dias; descongestionantes e anti-histaminicos.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q018',
@@ -17100,7 +17100,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'um neonato, com idade gestacional (ig) de 36 semanas, adequado para ig, com pre-natal regular, nascido de parto normal, apgar 8/9, apresentou desconforto respiratorio com 30 minutos de vida. ao exame fisico, nota-se atividade regular, frequencia respiratoria de 82 irpm, retracoes intercostais e subcostais de moderada intensidade e ausculta pulmonar sem ruidos. sua saturacao de o e de 95% em ar ambiente, sua frequencia 2 cardiaca e de 148 bpm e apresenta ritmo cardiaco regular em dois tempos, com bulhas normofoneticas, sem sopros. alem disso, o tempo de enchimento capilar e < 2 segundos; os pulsos estao palpaveis, cheios e simetricos; sua pressao arterial e de 60 x 40 mmhg; e seu figado esta a 2 cm do rebordo costal direito. com base nessas informacoes, a conduta medica imediata e adequada para o caso e',
     options: ['A) utilizar capuz de oxigenio a 40%, realizar fisioterapia respiratoria e colher hemograma e proteina c reativa.', 'B) utilizar cateter de o (2 l/min), realizar hidratacao 2 venosa, fisioterapia respiratoria e solicitar radiografia de torax.', 'C) realizar intubacao endotraqueal, administrar surfactante via endotraqueal e extubar logo apos, colocando o neonato sob cateter nasal de o (2 l/min). 2', 'D) realizar ventilacao nao invasiva com concentracao de oxigenio necessaria para manter saturacao de o igual ou 2 acima de 95% e solicitar radiografia de torax.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q019',
@@ -17136,7 +17136,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'um homem com 38 anos relata, em consulta, exantema, prurido, febre e artralgia que se resolveu em 72 horas com o uso de sintomaticos. o paciente conta que, apos 10 dias, passou a apresentar parestesia em membros inferiores, que evoluiu para membros superiores em 24 horas. ele conta que nao buscou ajuda medica por julgar tratar-se de caimbras devido a falta de atividade fisica regular. narra, ainda, que, apos 3 dias, o quadro evoluiu com fraqueza nos membros inferiores, impedindo a deambulacao, queixando-se tambem de cefaleia holocraniana e obstipacao intestinal. ao exame neurologico, apresenta-se vigil, orientado em tempo e espaco, com pupilas isocoricas e fotorreagentes, mobilidade ocular extrinseca preservada e demais pares cranianos sem alteracao. verificam-se, ainda: forca muscular grau v/v em membros superiores e grau iii/v em membros inferiores; reflexos bicipital, tricipital e estilorradial grau ii/iv; reflexos patelar e aquileu abolidos; hipoestesia tatil e dolorosa nos quatro membros, com padrao de bota e luva; hipopalestesia em membros inferiores, ate o tornozelo. o resultado do exame de liquido cefalorraquidiano (lcr) mostrou: unidades exame resultado unidades si convencionais contagem 0 a 5  106 0 a 2 mm3 0 a 5 linfocitos/mcl de celulas linfocitos/l 40 a 80 mg/dl (< 2,2 a 4,4 mmol/l 40% do nivel (< 40% do nivel plasmatico medido plasmatico glicose 74 mg/dl simultaneamente medido se esse nivel simultaneamente plasmatico esta estao alterados) anormal) proteina 103 mg/dl 15 a 60 mg/dl 150 a 600 mg/l total diante desse quadro clinico, qual e a principal suspeita diagnostica?',
     options: ['A) miastenia gravis.', 'B) sindrome de guillain-barre.', 'C) acidente vascular cerebral.', 'D) esclerose lateral amiotrofica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q022',
@@ -17148,7 +17148,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'um paciente com 30 anos, portador de diabetes mellitus tipo1 ha 15 anos, retorna para uma consulta com queixa de ulceracao em regiao plantar esquerda, em extremidade distal, posterior, do 4o metatarso esquerdo, com inicio ha cerca de 20 dias. ao exame fisico, verificam-se: pulso de 80 bpm, pressao arterial de 120 x 70 mmhg, temperatura de 36,5 c; todos os pulsos presentes, cheios e simetricos. observa-se, ainda, a presenca de lesao ulcerada de 3 cm com discreta secrecao serosa, sem hiperemia ou calor, com hiperqueratose local e com tecido de granulacao central em regiao plantar esquerda. nesse caso, alem do controle glicemico, qual e o tratamento adequado?',
     options: ['A) simpatectomia lombar.', 'B) enxerto de pele autologo.', 'C) terapia compressiva inelastica.', 'D) curativo e adaptacao de calcado.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q023',
@@ -17160,7 +17160,7 @@ export const generatedQuestions = [
     questionNumber: 23,
     questionText: 'um lactente com 1 mes e 15 dias e trazido pela mae ao pronto atendimento, a qual relata que seu filho vem apresentando vomitos intensos, em jato e de conteudo leitoso. ela nega haver febre associada ao quadro e alega que a crianca sempre teve muito refluxo e que os sintomas se intensificaram ha 2 semanas. a mae tem ministrado sintomaticos nos ultimos 10 dias, sem melhora, notando que o bebe tem perdido peso. ao exame, o paciente encontra-se desidratado e sonolento, com abdome escavado, com reducao de tecido subcutaneo e com presenca de pequena massa movel palpavel em epigastrio. seus exames laboratoriais revelam gasometria venosa com ph de 7,58 (valor de referencia - vr: 7,35 a 7,45); pco de 2 41 mmhg (vr: 35 a 45 mmhg); po de 48,4 mmhg (vr: 80 a 2 100 mmhg); hco de 36 meq/l (vr: 22 a 28 meq/l); be de 3 +13,5 (vr: -3 a +3); sodio de 138 meq/l (vr: 135 a 145 meq/l); potassio de 3,0 meq/l (vr: 3,5 a 5 meq/l); e cloro de 80 meq/l (vr: 95 a 105 meq/l). acerca do caso apresentado e das condutas a serem adotadas, assinale a opcao correta.',
     options: ['A) o lactente deve ser estabilizado clinicamente e encaminhado para o procedimento de piloromiotomia.', 'B) o lactente deve ser estabilizado clinicamente e encaminhado para realizacao de cirurgia de fundoplicatura.', 'C) o lactente deve ser estabilizado clinicamente e avaliado quanto a possibilidade de erros inatos do metabolismo.', 'D) o lactente deve ter a alimentacao complementada com formula de aminoacidos propria para idade e a mae deve suspender leite e derivados da dieta do filho. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q024',
@@ -17172,7 +17172,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'uma paciente secundigesta com 28 anos, idade gestacional de 35 semanas, obesa, nao apresenta outras comorbidades previas. no acompanhamento de pre-natal que realizou na unidade basica de saude, nao houve intercorrencias ate o momento. os resultados dos exames de rotina de pre-natal apresentam-se normais, assim como as medidas de pressao arterial anteriores, e a altura uterina e compativel com a idade gestacional. ela comparece a uma consulta no servico de pronto atendimento encaminhada pela unidade basica de saude por aumento da pressao arterial. nega queixas. refere estar se alimentando bem e relata que engordou 3 quilos nas ultimas duas semanas. a pressao arterial e de 140 x 95 mmhg, confirmada apos quinze minutos de repouso. a paciente apresenta edema importante em membros inferiores. a movimentacao fetal esta presente, os batimentos cardiacos fetais sao de 144 bpm, e altura uterina e compativel com idade gestacional. considerando-se o quadro clinico descrito, quais sao, respectivamente, o provavel diagnostico e a conduta adequada?',
     options: ['A) pre-eclampsia; internar a paciente para controle pressorico e interromper a gestacao se comprovada a maturidade fetal.', 'B) pre-eclampsia; solicitar exames e verificar se ha a presenca de proteinuria significativa e/ou se e acusada a disfuncao de orgao-alvo, para confirmar o diagnostico.', 'C) hipertensao arterial cronica; aguardar a evolucao no puerperio e, se ocorrer a normalizacao dos niveis pressoricos em ate 12 semanas pos-parto, o diagnostico estara confirmado.', 'D) emergencia hipertensiva; internar a paciente para prescricao de sulfato de magnesio e anti-hipertensivos de acao rapida e interromper a gestacao assim que o quadro clinico for estabilizado'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q025',
@@ -17184,7 +17184,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'um menino com 6 anos e levado a unidade basica de saude devido a um quadro de diarreia intensa. sabe-se que ele mora em uma casa sem esgotamento sanitario, e que teve contato com um tio que chegou de mocambique ha 15 dias. a crianca apresenta um quadro de nauseas, diarreia liquida, leve e aquosa, sem febre. ao exame, apresenta-se ativa, eutrofica, levemente desidratada, com temperatura de 36,5 c. com base nessas informacoes, assinale a opcao que apresenta as medidas adequadas a serem tomadas na atencao primaria.',
     options: ['A) reidratacao endovenosa, coleta de exames tanto da crianca quanto dos comunicantes e investigacao de internacao do tio, a fim de poder notificar a suspeita.', 'B) realizacao de quimioprofilaxia dos comunicantes, encaminhamento da crianca ao pronto-socorro e isolamento sanitario em torno da residencia dos familiares.', 'C) reidratacao oral, manutencao da dieta, acompanhamento da crianca, notificacao e desencadeamento de acoes de vigilancia epidemiologica, ambiental e sanitaria e investigacao de comunicantes.', 'D) administracao de antibioticos via oral, prescricao de medicamentos para reduzir transito intestinal, indicacao de dieta adequada, agendamento de retorno para o dia seguinte e notificacao, caso a crianca nao melhore clinicamente.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q026',
@@ -17196,7 +17196,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'um profissional de saude observou a sua frente, durante uma caminhada, que uma senhora subitamente parou de andar, agachou-se, bastante palida e sudoretica, e desfaleceu. em posse de sua mascara para ventilacao boca-mascara, ele iniciou o primeiro atendimento a paciente. ela estava inconsciente, nao apresentava movimentos toracicos nem pulso carotideo palpavel. solicita, entao, que alguem de passagem chame o servico de atendimento medico de urgencia (samu) e que outra pessoa providencie um desfibrilador externo automatico (dea). considerando a situacao apresentada, a conduta desse profissional deve ser iniciar imediatamente',
     options: ['A) compressoes toracicas de forma continua, realizando concomitantemente uma ventilacao a cada 2 ou 3 segundos, caso haja dois socorristas.', 'B) compressoes toracicas, apos a abertura das vias aereas e ventilacao, mantendo a relacao de duas ventilacoes seguidas por 30 compressoes.', 'C) compressoes toracicas de forma continua, interrompendo o procedimento a cada 5 minutos para checar o pulso, revezando com outro socorrista, se possivel.', 'D) compressoes toracicas de pelo menos 5 centimetros de profundidade, com frequencia de 100 a 120 por minuto, seguidas de abertura das vias aereas e ventilacao.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q027',
@@ -17208,7 +17208,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'um paciente com 45 anos e levado ao pronto-socorro por amigos apos briga coletiva ao final de um jogo de futebol por ter sido vitima de ferimento com arma branca na regiao axilar direita. ao exame fisico, apresenta palidez cutanea, sudorese fria, cianose, agitacao; pressao arterial de 60 x 10 mmhg, frequencia cardiaca de 140 bpm, pulso filiforme, macicez a percussao e ausencia de murmurio vesicular em hemitorax direito. e, entao, realizada reposicao volemica sem debito urinario. com base nesses dados, qual e a proxima conduta a ser realizada?',
     options: ['A) toracotomia de emergencia devido a instabilidade hemodinamica.', 'B) drenagem de torax em selo d\'agua, apos estabilizacao hemodinamica.', 'C) puncao toracica para confirmacao de diagnostico e posterior toracotomia.', 'D) radiografia de torax para decisao de conduta e estabilizacao hemodinamica. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q029',
@@ -17220,7 +17220,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'em sua segunda consulta de pre-natal, uma paciente com 36 anos, na 8a semana da gestacao, refere fadiga, ganho de peso, queda de cabelos e pele ressecada. relata que ja teve 2 abortamentos e que, atualmente, esta na terceira gestacao. traz resultado de exames laboratoriais cujo unico achado relevante foi o de tsh de 8,20 mui/l (valor de referencia - vr = 0,4 a 4,5 mui/l). em relacao a condicao clinica descrita, assinale a opcao correta.',
     options: ['A) a prescricao de metimazol devera ser iniciada imediatamente, considerando-se a principal hipotese diagnostica e etiologia dessa situacao clinica.', 'B) os niveis elevados de estrogenos da gestacao estimulam, em nivel hepatico, aumento na producao de tbg, o que pode determinar a elevacao do tsh.', 'C) a presenca de tsh elevado se correlaciona a perdas fetais, independentemente de a gestante apresentar bocio, sendo mais grave se o resultado do exame de anti-tpo estiver elevado.', 'D) a prescricao de levotiroxina somente devera se iniciar apos as 12 semanas de gestacao, pois, se administrada antes, a molecula atravessa a barreira placentaria e pode inibir o desenvolvimento embriologico da tireoide fetal.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q030',
@@ -17232,7 +17232,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'um gestor municipal de saude, ao perceber um significativo aumento de tabagismo entre os adolescentes em seu municipio no ultimo ano, resolveu adotar estrategias para o combate ao uso do tabaco em sua regiao.',
     options: ['A) partir dessas informacoes, assinale a opcao que apresenta as estrategias prioritarias a serem adotadas para essa populacao.', 'A) orientacao e prescricao de medicamentos aos pacientes tabagistas, para auxiliar aqueles que ainda nao manifestaram o desejo de cessacao.', 'B) capacitacao dos profissionais de saude acerca do tratamento para cessacao do tabagismo visando o atendimento de pacientes com desejo de parar de fumar.', 'C) organizacao de comites nos bairros para regulacao da venda e do uso de tabaco e promocao de acoes em eventos para chamar atencao aos fatores de risco do uso de fumo.', 'D) encaminhamento dos fumantes para o nivel de maior densidade tecnologica, considerando o dificil controle do tabagismo e a necessidade de melhores estrategias para essa acao.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q031',
@@ -17244,7 +17244,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'um homem com 50 anos, casado, trabalhador de industria de reciclagem de baterias, e encaminhado, acompanhado de familiares, a um ambulatorio de hematologia para investigacao de anemia hipocromica e microcitica e astenia. ele fez uso de 180 mg/dia de ferro elementar por 6 meses, sem melhora das alteracoes do hemograma. relata que, recentemente, comecou a apresentar confusao mental. os familiares negam historia de sangramentos evidentes ou restricoes alimentares e afirmam que, na unidade basica de saude, apos realizacao de uma investigacao inicial e dos exames de triagem recomendados para sua faixa etaria, nao havia sido constatada evidencia de quaisquer outras doencas. diante da situacao apresentada, qual exame deve ser solicitado para esse paciente?',
     options: ['A) mielograma.', 'B) haptoglobina.', 'C) chumbo serico.', 'D) teste de coombs.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q032',
@@ -17256,7 +17256,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'um homem com 32 anos da entrada na unidade de pronto- socorro, vitima de queimadura por fogo. a esposa refere que o acidente aconteceu quando ele tentou acender a churrasqueira com alcool, momento em que o fogo atingiu as maos e os bracos. ao exame fisico, o paciente apresenta queimaduras de segundo grau em cerca de 25% da superficie corporal, incluindo as maos e os membros superiores.',
     options: ['A) caderneta vacinal registra a aplicacao de 3 doses da vacina antitetanica, com intervalos mensais, realizada ha 3 anos. diante desse quadro, apos a realizacao de analgesia, reposicao volemica e limpeza das feridas, qual e a conduta correta em relacao a profilaxia do tetano?', 'A) administrar a dose de reforco de vacina antitetanica.', 'B) administrar o soro antitetanico, com dose de reforco de vacina antitetanica.', 'C) nao administrar dose de reforco de vacina antitetanica e indicar o uso de soro antitetanico.', 'D) nao administrar dose de reforco de vacina antitetanica e nao indicar o uso de soro antitetanico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q033',
@@ -17268,7 +17268,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'um recem-nascido a termo, com idade gestacional de 39 semanas, apgar 8/9, com peso de nascimento de 3.300 g, e levado por sua mae, com 7 dias de vida, para primeira consulta a uma unidade basica de saude. observam-se lesoes papulares, com halo eritematoso de tamanhos variaveis com ate 2 cm de diametro em face e tronco. a mae relata que essas lesoes surgiram por volta do 3o dia de vida. o bebe segue ativo, sugando bem o seio materno e com peso atual superior ao peso de nascimento. com base nas informacoes desse quadro clinico, o diagnostico para as lesoes apresentadas e',
     options: ['A) miliaria rubra.', 'B) eritema toxico.', 'C) melanose pustulosa.', 'D) candidiase neonatal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q034',
@@ -17280,7 +17280,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'uma gestante com 12 semanas de gestacao comparece ao centro de saude para mostrar os exames realizados e apresenta sorologia para toxoplasmose com igm positiva e igg negativa. nesse momento, a conduta adequada e',
     options: ['A) iniciar espiramicina e solicitar teste de avidez para toxoplasmose e, se a avidez for alta, considerar infeccao recente.', 'B) iniciar espiramicina e solicitar teste de avidez para toxoplasmose e, se a avidez for baixa, considerar infeccao recente.', 'C) iniciar espiramicina e solicitar nova sorologia (igg e igm) em tres semanas e, se igg positivar, considerar infeccao recente.', 'D) nao iniciar tratamento e solicitar nova sorologia (igg e igm) em seis a oito semanas e, se igg positivar, iniciar espiramicina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q035',
@@ -17292,7 +17292,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'um homem com 47 anos vai a unidade basica de saude relatando caso de hematemese e de melena. ele nega constipacao, mas relata episodios de dor abdominal esporadica, com empachamento. o paciente e natural e procedente do interior da bahia e exerce a profissao de marceneiro. durante a consulta, relata que toma banho em rios onde habitam caramujos. ao exame fisico, nota-se que o paciente esta em regular estado geral, hipocorado (2+/4+) e icterico (1+/4+). considerando a suspeita diagnostica e a provavel fase da doenca em que o paciente se encontra, devem ser solicitados, inicialmente, quais exames complementares?',
     options: ['A) endoscopia digestiva alta; reacao intradermica; e pesquisa de ovos do parasita nas fezes.', 'B) ultrassonografia abdominal; endoscopia digestiva alta; e pesquisa de ovos do parasita nas fezes.', 'C) ressonancia magnetica abdominal; biopsia retal; e sorologia por reacao de imunofluorescencia indireta (ifi).', 'D) radiografia de torax; sorologia por ensaio imunoenzimatico (elisa); e pcr no sangue para a deteccao do dna do parasita. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q036',
@@ -17304,7 +17304,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'um homem com 18 anos, residente em area urbana da regiao sudeste, sujeita a inundacao, chega ao pronto-socorro, durante periodo de chuvas, queixando-se de febre, mal-estar, mialgia e desconforto abdominal ha 1 semana. refere tambem que, ha 4 dias, sentiu piora da mialgia e surgimento de coluria. ao exame fisico, apresenta-se: em estado geral regular, hidratado, hipocorado (++/4+), icterico (+++/4+) e com sufusao hemorragica conjuntival moderada, com temperatura axilar de 38 c, frequencia cardiaca de 110 bpm, pressao arterial de 110 x 70 mmhg. verificam-se, ainda, dor a palpacao dos musculos dos membros inferiores; abdome flacido, doloroso a palpacao no hipocondrio direito e presenca de hepatomegalia. os resultados dos exames laboratoriais registram: exame valor valor de referencia (vr) hemograma hematocrito 28% 39,2% a 49,0% hemoglobina 10 g/dl 13,3 a 16,5 d/dl plaquetas 20.000/mm3 151.000 a 304.000/mm3 bilirrubina total 13 mg/dl 0,2 a 1,2 mg/dl bilirrubina 10 mg/dl  0,5 mg/dl indireta creatinina 2,9 mg/dl 0,7 a 1,3 mg/dl ureia 70 mg/dl 10 a 45 mg/dl sodio 137 meq/l 135 a 145 meq/l potassio 2,0 meq/l 3,5 a 5,1 meq/l tgo 90 ui/l 5 a 40 ui/l tgp 80 ui/l 7 a 56 ui/l cpk 1.800 ui/l 30 a 200 ui/l urina mais de 30 por leucocitos < 5 campo mais de 100 por hemacias < 5 campo urobilinogenio presente ausente cilindros presentes ausente granulosos diante do quadro clinico e laboratorial descrito, qual e a hipotese diagnostica mais provavel?',
     options: ['A) dengue.', 'B) malaria.', 'C) hepatite a.', 'D) leptospirose.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q037',
@@ -17316,7 +17316,7 @@ export const generatedQuestions = [
     questionNumber: 37,
     questionText: 'uma crianca com 7 anos, pesando 25 kg, foi atropelada por motociclista ao atravessar a rua. ao ser atendida por equipe de suporte avancado do servico de emergencia pre-hospitalar, relatou dor abdominal, sendo evidenciadas escoriacoes no abdome, dorso e membros inferiores, e ela apresentava sinais clinicos de choque. foi iniciada reanimacao volemica por via periferica ainda durante o transporte para o hospital mais proximo. com base na historia clinica e nos dados do exame fisico, a conduta correta para essa crianca, a nivel hospitalar, deve ser',
     options: ['A) disseccao venosa na fossa antecubital para infusao de solucao glicofisiologica.', 'B) puncao percutanea de veia subclavia e infusao endovenosa de solucao glicofisiologica.', 'C) puncao percutanea de acessos venosos perifericos e infusao de solucao isotonica aquecida.', 'D) puncao percutanea de veia jugular para infusao endovenosa de solucao isotonica aquecida. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q038',
@@ -17328,7 +17328,7 @@ export const generatedQuestions = [
     questionNumber: 38,
     questionText: 'um bebe de 2 meses e levado por sua mae ao pronto atendimento do hospital de referencia da regiao. ela apresenta queixa de que seu filho nao esta movendo as pernas e de que chora muito durante as trocas de fralda. a mae nega que ele tenha sofrido traumas, violencia ou que tenha tido febre. o lactente nasceu com 36 semanas, em parto domiciliar sem intercorrencias. a gestacao transcorreu sem acompanhamento pre-natal. tambem nao foi realizado teste do pezinho (triagem neonatal). ao exame fisico, nota-se: lactente choroso, hipocorado, icterico, sem lesoes cutaneas. ao exame ocular, constata-se reflexo vermelho translucido e simetrico. os exames dos aparelhos respiratorio e cardiovascular apresentam-se sem alteracoes. seu abdome esta globoso, com figado palpavel a 3,5 cm do rebordo costal direito. com relacao ao desenvolvimento neuropsicomotor, nota-se que o paciente observa o rosto do medico durante o exame, eleva a cabeca em prono, nao abre as maos, nao sorri quando estimulado e reage ao som, mas nao os emite.',
     options: ['A) seguir, pode-se observar o resultado da radiografia dos membros inferiores, realizada apos esse atendimento inicial. considerando-se o caso clinico e a propedeutica disponivel, quais sao, respectivamente, o provavel diagnostico e a conduta medica mais adequada nessa situacao?', 'A) hepatite neonatal; solicitar ultrassonografia de abdome total.', 'B) sifilis congenita; solicitar sorologia e iniciar penicilina cristalina.', 'C) sindrome do bebe sacudido; proceder a notificacao de violencia.', 'D) hipotireoidismo com atraso de desenvolvimento; pedir exames de tsh e t4.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q039',
@@ -17340,7 +17340,7 @@ export const generatedQuestions = [
     questionNumber: 39,
     questionText: 'uma mulher com 60 anos, cuja menopausa ocorreu ha 8 anos, g2p2, procura a unidade de saude queixando-se de ter apresentado tres episodios de sangramento transvaginal de pequena quantidade nos ultimos 2 meses. o exame citopatologico do colo uterino realizado ha 6 meses apresentou celulas escamosas e glandulares e foi negativo para neoplasias.',
     options: ['A) historia patologica pregressa da paciente incluia apenas dislipidemia. o resultado do exame de ecografia transvaginal evidenciou endometrio irregular com 8 mm de espessura. o imc era de 32 e o exame do abdome e pelve normal. para conducao desse caso, o medico deve', 'A) solicitar histeroscopia diagnostica.', 'B) iniciar terapia hormonal combinada.', 'C) iniciar acido tranexamico oral e controle citologico.', 'D) indicar histerectomia total com anexectomia bilateral.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q040',
@@ -17352,7 +17352,7 @@ export const generatedQuestions = [
     questionNumber: 40,
     questionText: 'uma gestante com 27 anos, g2pc1a0, com idade gestacional de 12 semanas, vai a consulta de pre-natal na unidade basica de saude para mostrar os resultados dos exames de 1o trimestre, os quais podem ser vistos a seguir. anti-hiv: nao reagente; hbsag: nao reagente; anti-hcv: nao reagente; teste treponemico para sifilis: reagente com vdrl 1/32; toxoplasmose: igg positivo e igm negativo; glicemia de jejum: 76 mg/dl; tipagem sanguinea: a-; hb = 10,5 mg/dl; urocultura negativa.',
     options: ['A) paciente relatou para o medico que ainda nao havia realizado a ultrassonografia de primeiro trimestre e que nao possui sorologias previas. seu exame fisico apresentou-se sem alteracoes. diante dessas informacoes, assinale a opcao que apresenta a conduta medica adequada para o caso dessa gestante.', 'A) prescrever penicilina benzatina 2,4 milhoes ui a cada 7 dias, por 3 semanas, e solicitar vdrl de controle mensalmente; iniciar sulfato ferroso com 4 comprimidos por dia e repetir hemograma em 60 dias; solicitar coombs indireto mensalmente e, se negativo, realizar imunoglobulina anti-d no pos-parto, se recem-nascido rh+.', 'B) prescrever penicilina benzatina 2,4 milhoes ui, dose unica, e solicitar vdrl de controle trimestralmente; iniciar sulfato ferroso com 4 comprimidos por dia e repetir hemograma no 3o trimestre; solicitar coombs indireto no 2o e 3o trimestres e, se negativo, realizar imunoglobulina anti-d ate 72 horas apos o parto, se recem-nascido rh-.', 'C) prescrever penicilina benzatina 2,4 milhoes ui a cada 7 dias, por 3 semanas, e solicitar vdrl de controle trimestralmente; iniciar sulfato ferroso com 1 comprimido por dia profilatico; solicitar teste de avidez para toxoplasmose igg; solicitar coombs indireto no 3o trimestre para realizar imunoglobulina anti-d com 28 semanas de gestacao.', 'D) prescrever penicilina benzatina 2,4 milhoes ui a cada 7 dias, por 2 semanas, e solicitar vdrl de controle mensalmente; iniciar sulfato ferroso com 1 comprimido por dia profilatico com 20 semanas de gestacao; solicitar teste de tolerancia a glicose; solicitar coombs indireto mensalmente e, se positivo, realizar imunoglobulina anti-d com 28 semanas de gestacao.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q041',
@@ -17364,7 +17364,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'uma mulher com 28 anos e atendida na unidade basica de saude pela quarta vez nos ultimos 6 meses. ha 4 anos, apresenta dores abdominais do tipo colica, especialmente em flancos, mesogastrio e hipogastrio, com periodos de constipacao e episodios de fezes amolecidas, sem muco ou sangue. ela relata que as dores melhoram com a evacuacao e com a eliminacao de flatos. nega perda ou ganho de peso nesse periodo. refere tambem estar ansiosa e que a ansiedade piorou devido a duvida se tinha ou nao alguma doenca grave, como cancer. conta que e faxineira e mae de 4 filhos e que tem medo de adoecer e nao poder sustenta-los. acrescenta que ja fez diversas investigacoes, inclusive pesquisa de sangue oculto nas fezes, protoparasitologico das fezes, hemograma, anticorpo antitransglutaminase, tsh, ultrassonografia de abdome e teste de tolerancia a lactose, todos com resultados negativos, e que ja fez varios tratamentos com albendazol (400 mg/dia ate por 5 dias) e/ou secnidazol (2 g/dose unica). ao exame fisico, apresenta-se normal. nesse caso, a hipotese diagnostica para a paciente e de',
     options: ['A) doenca celiaca.', 'B) cancer colorretal.', 'C) retocolite ulcerativa.', 'D) sindrome do intestino irritavel. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q042',
@@ -17376,7 +17376,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'um paciente com 63 anos, trabalhador rural, tabagista ha 43 anos-maco, apresenta lesao peniana ha 3 meses. refere presenca cronica de secrecao esbranquicada no sulco balanoprepucial, e ter notado, ha 3 meses, aparecimento de "ferida" que nao cicatrizou, apesar do uso de pomada de neomicina. ao exame fisico, verificam-se: secrecao esbranquicada de odor fetido no sulco balanoprepucial, em pequena quantidade; lesao ulcerada de 0,8 cm de diametro, na glande, de bordos regulares e levemente elevados com fundo esbranquicado. nesse caso, diante da hipotese diagnostica mais provavel, qual e a conduta adequada?',
     options: ['A) solicitar biopsia incisional da lesao.', 'B) prescrever ciprofloxacina 500 mg, via oral, 12/12h, por 3 dias.', 'C) indicar higiene local e banhos com permanganato de potassio.', 'D) prescrever penicilina benzatina 1.200.000 ui im em cada gluteo.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q043',
@@ -17388,7 +17388,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'um lactente com 2 anos, previamente higido, e levado a unidade de pronto atendimento com quadro de diarreia, com fezes liquidas sem muco ou sangue. alem disso, apresenta vomitos e febre ha 48 horas. ao exame fisico, o paciente esta sonolento, hipotonico, com olhos fundos, mucosas secas e ausencia de lagrimas. o pulso esta debil e o enchimento capilar e > 5 segundos. nesse caso, qual tratamento inicial deve ser ministrado, segundo o fluxograma do ministerio da saude do brasil de 2023?',
     options: ['A) solucao de reidratacao oral de 50 a 100 ml/kg por via oral, por um periodo de 4 a 6 horas.', 'B) solucao de reidratacao oral de 50 a 100 ml/kg por gastroclise, por um periodo de 4 a 6 horas.', 'C) soro fisiologico a 0,9% 30 ml/kg por via endovenosa; em 30 minutos, administrar + ringer lactato 30 ml/kg em 2 horas.', 'D) soro fisiologico a 0,9% 20 ml/kg por via endovenosa; em 30 minutos, repetir essa quantidade ate que a crianca esteja hidratada.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q044',
@@ -17400,7 +17400,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'mulher com 21 anos chega a uma unidade de pronto atendimento relatando dor pelvica ha 2 dias, que se intensificou nas ultimas 8 horas, apos relacao sexual. queixa-se de sangramento vaginal apos a relacao, evidenciado na consulta. refere que a ultima menstruacao havia ocorrido ha 5 dias, com ciclos anteriores regulares. ao exame fisico, encontrava-se febril (temperatura axilar: 38,7 c), com sinais de defesa abdominal, e demonstrou que o exame ginecologico foi extremamente doloroso, quando houve mobilizacao dos anexos e do colo uterino, que apresentava ectocervice friavel e sangrante. a paciente refere dados normais de exames ginecologico e ecografico realizados ha 90 dias. considerando-se essa historia clinica, qual e o diagnostico mais provavel?',
     options: ['A) gravidez ectopica rota.', 'B) doenca inflamatoria pelvica.', 'C) torcao anexial de cisto ovariano.', 'D) rotura de cisto luteo hemorragico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q045',
@@ -17412,7 +17412,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'um homem com 70 anos e trazido pela filha a uma consulta com um medico de familia e comunidade, queixando-se de tosse produtiva ha 6 dias, associada a febre de 38 c ha 3 dias, com melhora apos uso de dipirona. relata dispneia aos esforcos e dor em hemitorax direito quando tosse. nega calafrios, inapetencia ou outros sintomas associados. tem historico de hipertensao arterial e esta em uso de losartana 50 mg de 12 em 12 horas. alem disso, tem diabetes mellitus e esta em uso de metformina 850 mg de 12 em 12 horas. nega outras comorbidades bem como tabagismo e etilismo, uso recente de antibioticos, alergia a medicamentos e internacoes previas. ao exame fisico, encontra-se em bom estado geral, hidratado e corado, consciente e orientado, com frequencia cardiaca de 83 bpm, pressao arterial de 110 x 80 mmhg, frequencia respiratoria de 20 irpm e saturacao de oxigenio de 96% em ar ambiente. a ausculta cardiaca, nota-se ritmo regular em 2 tempos, sem sopros e, a ausculta respiratoria, murmurio vesicular presente bilateralmente, com presenca de estertores crepitantes em base direita. com base nessas informacoes, qual e a conduta medica a ser adotada nesse caso?',
     options: ['A) iniciar uso de azitromicina 500 mg/dia, via oral, por 7 dias, em regime ambulatorial.', 'B) internar o paciente para tratamento com ceftriaxona 1 g de 12 em 12 horas, via intravenosa, por 7 a 10 dias.', 'C) internar o paciente para tratamento com ampicilina + sulbactan 1,5/3,0 g, via intravenosa, de 8 em 8 horas, por 7 a 10 dias.', 'D) iniciar uso de azitromicina 500 mg/dia e de amoxicilina + acido clavulanico 875/125 mg de 12 em 12 horas, via oral, por 7 dias, em regime ambulatorial. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q046',
@@ -17424,7 +17424,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'um homem com 37 anos, em situacao de rua de longa data, com condicoes precarias de higiene pessoal, historia de uso abusivo de alcool e de crack, procura atendimento em unidade de pronto atendimento devido a quadro de febre baixa intermitente nao aferida, tosse produtiva com escarro esverdeado com rajas de sangue e odor fetido, fraqueza geral e emagrecimento. ele refere que o quadro tem cerca de 3 semanas de evolucao. realizados os exames, o teste rapido molecular apresenta-se com resultado nao detectavel para micobacteria e o resultado da radiografia simples do torax esta reproduzida na imagem a seguir. o paciente e, entao, encaminhado para internacao hospitalar, sendo iniciado esquema antimicrobiano com ceftriaxona e metronidazol por via endovenosa. apos 20 dias de tratamento, o paciente mantem episodios de febre baixa intermitente, mas com menor intensidade, e refere persistirem os sintomas inicialmente descritos, exceto pela reducao da hemoptise. realizada nova radiografia simples de torax, constata-se que a imagem mostra manutencao das alteracoes iniciais.',
     options: ['A) conduta recomendada nesse caso e', 'A) trocar o esquema de tratamento para antibiotico com cobertura para bacteria multirresistente.', 'B) iniciar tratamento empirico para tuberculose pulmonar, considerando-se a alta probabilidade clinica e epidemiologica.', 'C) manter o uso de antibiotico e indicar abordagem cirurgica com remocao da lesao e do segmento pulmonar acometido.', 'D) manter o esquema de antibiotico e acompanhar a evolucao clinica, considerando-se uma resposta lenta e favoravel.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q047',
@@ -17436,7 +17436,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'uma mulher com 22 anos procurou servico hospitalar ha 6 horas, com dor periumbilical, em colica, de forte intensidade. nesse periodo de tempo, apresentou um episodio de vomito e manteve anorexia e nausea. ao exame fisico, encontra-se em regular estado geral, com temperatura axilar de 38 c e dor intensa a descompressao manual brusca em fossa iliaca direita. no resultado do hemograma, sao evidenciados: 14.000 leucocitos/mm3 (valor de referencia - vr: 4.000 a 10.000 leucocitos/mm3), bastoes 3% (vr: 0 a 5%), segmentados 61% (vr: 40 a 60%). tomografia computadorizada de abdome mostra apendice aumentado de volume e densificacao da gordura periapendicular. com base nos dados relatados, assinale a opcao que apresenta conduta cirurgica e uso de antibioticos adequados',
     options: ['A) videolaparoscopia exploratoria; antibioticoprofilaxia com metronidazol.', 'B) apendicectomia aberta; antibioticoterapia com cefazolina e gentamicina.', 'C) laparotomia exploratoria; antibioticoterapia por sete dias com ciprofloxacina e metronidazol.', 'D) apendicectomia laparoscopica; antibioticoterapia pre-operatoria com cefazolina e metronidazol.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q048',
@@ -17448,7 +17448,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'um menino com 12 meses e levado por sua mae a unidade de pronto atendimento com quadro de febre alta ha 6 dias, a qual esta associada a irritabilidade e exantema difuso maculopapular eritematoso. sua mae nega que haja outros sinais ou sintomas. o exame fisico evidenciou edemas endurecidos em maos e pes, conjuntivite bilateral nao exsudativa, adenomegalia cervical, hiperemia de orofaringe e hipertrofia de papilas linguais (ou seja, lingua em framboesa).',
     options: ['A) partir dessas informacoes, e correto afirmar que o achado associado a principal hipotese diagnostica desse caso e', 'A) orquiepididimite.', 'B) trombocitopenia.', 'C) faringite exsudativa.', 'D) aneurisma das arterias coronarias. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q049',
@@ -17460,7 +17460,7 @@ export const generatedQuestions = [
     questionNumber: 49,
     questionText: 'uma gestante com 29 anos, primigesta, havia realizado um exame de urocultura durante o pre-natal, cujo resultado apresentou 1.000 ufc/ml de streptococcus agalactiae. ainda durante o pre-natal, nao se realizou o rastreio para colonizacao pelo estreptococo beta hemolitico do grupo b (egb) por meio de cultura do conteudo vaginal e retal. a paciente chega ao pronto-socorro obstetrico em trabalho de parto, com 38 semanas de gestacao, bolsa integra. nesse caso, em relacao a profilaxia intraparto de sepse neonatal por egb, deve-se',
     options: ['A) realizar teste rapido para egb na gestante e, se positivo, prescrever a profilaxia antibiotica.', 'B) adotar conduta expectante, pois nao ha indicacao de profilaxia de sepse neonatal por egb.', 'C) prescrever penicilina g por via endovenosa para a gestante, pois ha evidencia de colonizacao pelo egb.', 'D) prescrever ampicilina por via endovenosa para a gestante, se houver ruptura das membranas ovulares durante o trabalho de parto.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q050',
@@ -17472,7 +17472,7 @@ export const generatedQuestions = [
     questionNumber: 50,
     questionText: 'um medico de familia e comunidade e chamado para verificar, juntamente com sua equipe de saude da familia, um obito domiciliar de um homem com 78 anos. o paciente fazia acompanhamento por hipertensao arterial sistemica, diabetes mellitus e sindrome metabolica de dificil controle. um familiar refere que o paciente acordou cedo, sentiu forte dor precordial, irradiando para o braco esquerdo, ficou palido e sudoreico e caiu no chao. no domicilio, o medico e sua equipe realizam procedimentos para confirmacao do obito buscando a existencia de rigidez cadaverica, realizando avaliacao da temperatura corporal e identificando a presenca ou nao de possivel achado de causa externa  possibilidade que e excluida. apos examinar o corpo, inicia-se a fase preenchimento da declaracao de obito (do). na secao de condicoes e causas do obito constante na do, ha alguns itens a serem preenchidos, quais sejam, causa basica do obito, causa imediata do obito e causa contributiva. com base nessa situacao, assinale a alternativa que apresenta o preenchimento correto a ser feito na declaracao com relacao a causa de obito desse paciente.',
     options: ['A) causa basica: sindrome metabolica.', 'B) causa contributiva: diabetes mellitus.', 'C) causa basica: infarto agudo do miocardio.', 'D) causa imediata: doenca arterial aterosclerotica.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q051',
@@ -17484,7 +17484,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'um homem com 65 anos refere, em consulta, apresentar multiplas lesoes dolorosas por todo o corpo e febre intermitente ha 2 semanas. ao exame fisico, verificam-se: temperatura axilar de 38 c e frequencia cardiaca de 89 bpm, nodulos cutaneos multiplos, dolorosos, firmes, eritematosos, medindo cerca de 2 x 2 cm cada um, que estao distribuidos bilateralmente em bracos, antebracos, coxas e dorso; rarefacao dos pelos nos supercilios, edema e dor nas articulacoes do pulso e do tornozelo. realizado exame anatomopatologico de uma lesao nodular, o resultado evidenciou granulomas dermicos e vasculite leucocitoclastica. considerando-se esse quadro, qual e a hipotese diagnostica mais provavel?',
     options: ['A) reacao hansenica tipo 2.', 'B) granulomatose de wegner.', 'C) leishmaniose tegumentar americana.', 'D) manifestacao cutanea de retocolite ulcerativa.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q052',
@@ -17496,7 +17496,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'um paciente com 68 anos, aposentado da fabrica de tintas, comparece a consulta de rotina com historico de disuria, acompanhada de hematuria ha 3 meses, alem de antecedente pessoal de tabagismo desde os 20 anos de idade e 2 episodios de cistite tratados no ultimo semestre. ao exame fisico, verificam-se: bom estado geral, abdome flacido, indolor; ausencia de linfadenomegalias inguinais; e, ao toque retal: prostata sem nodulos, grau ii, indolor. diante desse caso, a hipotese diagnostica mais provavel e o(s) exame(s) diagnostico(s) a ser(em) solicitado(s) sao, respectivamente,',
     options: ['A) nefrolitiase; ressonancia magnetica com contraste.', 'B) tumor de bexiga; cistoscopia ambulatorial com biopsia.', 'C) adenocarcinoma prostatico; ultrassonografia transretal.', 'D) cistite hemorragica; ultrassonografia e urografia excretora. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q053',
@@ -17508,7 +17508,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'um paciente com trissomia do 21 (t21) e atendido na unidade basica de saude para realizar puericultura no 7.o mes de vida. sua genitora apresenta alguns exames que sao registrados no prontuario: ecocardiograma realizado ao nascimento sem qualquer alteracao; e hemograma e dosagem dos hormonios tireoidianos solicitados na consulta do 6.o mes, que apresentam valores dentro das referencias para a idade. ao exame fisico, observa-se, alem das caracteristicas fenotipicas do paciente, apenas hipotonia global e instabilidade do quadril. nesse caso, de acordo com o que as diretrizes de acompanhamento ao paciente com t21 recomendam, qual e a conduta medica adequada?',
     options: ['A) repetir o ecocardiograma e realizar consulta com um cardiologista pediatrico.', 'B) fazer ultrassonografia do quadril e orientar acompanhamento com ortopedista pediatrico.', 'C) realizar ultrassonografia da tireoide e fazer acompanhamento com endocrinologista pediatrico.', 'D) coletar hemograma mensalmente e realizar acompanhamento com um hematologista pediatrico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q054',
@@ -17520,7 +17520,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'uma paciente com 70 anos, menopausa ocorrida aos 52 anos, queixa-se de sangramento vaginal de pequena quantidade e intermitente, com 3 meses de evolucao. nao tem historia previa de doenca neoplasica pre-invasiva e teve dois citopatologicos negativos consecutivos dos 59 ate os 64 anos. o exame especular realizado na ultima consulta nao demonstrou lesoes aparentes. esta acompanhada pela filha, que afirma estar muito ansiosa, porque leu casos parecidos relatados na internet e acha que a mae pode estar com "cancer de utero". a paciente e tabagista (1 maco/dia), ha 40 anos, e apresenta historia morbida pregressa de hipertensao arterial sistemica, em tratamento, e de intolerancia glicemica, em tratamento, via oral. conta que pratica pilates 3 vezes por semana e que tem independencia financeira e social, apresentando-se calma durante a consulta. ao exame fisico, encontra-se lucida, orientada, contactuante e atenta. seu imc e de 30 kg/m2. os exames laboratoriais nao apresentam particularidades. informa que gostaria de decidir sobre sua saude por conta propria. considerando esse caso, o medico generalista da atencao primaria deve',
     options: ['A) comunicar o quadro clinico a filha da paciente, que devera se encarregar de explica-lo a mae, porque e idosa, e orientar que nao serao necessarios exames adicionais.', 'B) respeitar o direito a autonomia, privacidade e sigilo medico da paciente idosa, ja que ela demonstra ser capaz de autogerir-se, e solicitar ultrassonografia transvaginal.', 'C) explicar que e obrigatoria a presenca de um responsavel pela paciente, por ser idosa, para a continuidade do tratamento, e solicitar ca 125 e ultrassonografia transvaginal.', 'D) explicar que a familia deve ser comunicada do ocorrido com a paciente e que, devido a idade, o tratamento e expectante, orientando que nao serao necessarios exames adicionais.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q055',
@@ -17532,7 +17532,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'um medico de familia e comunidade, que atua em uma equipe de saude da familia fluvial focada em populacoes ribeirinhas, e convidado para atender uma populacao indigena de um distrito sanitario especial indigena (dsei). com relacao a essas populacoes e ao territorio em que habitam, assinale a opcao correta.',
     options: ['A) a delimitacao dos dseis considera a distribuicao demografica tradicional, que pode nao coincidir com os limites de estados; ja o territorio das equipes de saude da familia ribeirinhas respeita esses limites.', 'B) as demarcacoes de areas indigenas garantem a protecao contra conflitos e situacoes de vulnerabilidade, apesar de a distribuicao de terras representar um problema a ser enfrentado pelas populacoes ribeirinhas.', 'C) a desnutricao infantil tem uma alta incidencia nas populacoes indigenas, o que nao ocorre frequentemente na populacao ribeirinha, dada a diversidade de alimentos disponiveis as margens dos percursos fluviais.', 'D) o principal recurso de atencao a saude da populacao indigena ainda e o sistema tradicional de saude; ja na populacao ribeirinha, as praticas tradicionais e os cuidadores locais foram abandonados e substituidos por medicina alopatica.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q056',
@@ -17544,7 +17544,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'durante uma visita domiciliar, o medico de familia nota que a filha de 16 anos do casal visitado aparentava ser muito menor do que o vestido que usava. o casal concorda com a observacao e afirma que a filha come pouco. a adolescente relata que nao apresenta qualquer problema de saude e que apenas procura se cuidar fazendo musculacao e corrida diariamente, alem de seguir as dietas que estuda nas redes sociais. a mae refere que, seguindo a dieta atual, a filha havia perdido 7 kg em 1 mes. a adolescente nega vomitar apos as refeicoes ou quaisquer problemas, exceto o fato de nao menstruar ha 4 meses, negando tambem ser sexualmente ativa. ao exame fisico, verificam-se altura de 1,7 metros e peso de 45 kg. observa-se ainda que o exame fisico da adolescente nao apresenta alteracoes, exceto aspecto emagrecido e palidez cutaneomucosa. para esse caso clinico, o diagnostico e o tratamento a serem considerados inicialmente sao, respectivamente,',
     options: ['A) bulimia nervosa; bupropiona.', 'B) hipertireoidismo; propiltiuracil.', 'C) anorexia nervosa; psicoterapia.', 'D) transtorno de purgacao; metoclopramida.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q057',
@@ -17556,7 +17556,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'um paciente com 61 anos, com queixa de dor em regiao proximal de coxa esquerda ha 3 dias, relata limitacao a deambulacao devido a dor. apresenta antecedente pessoal de hipertensao arterial sistemica e diabetes mellitus, ambos controlados; tendo realizado cirurgia para correcao de fratura exposta de porcao proximal do femur esquerdo ha 8 anos, sem saber especificar o diagnostico e nem o que foi feito. ao exame, apresenta-se em regular estado geral, hidratado, eupneico, acianotico, com temperatura de 38,2 c, frequencia cardiaca de 92 bpm, pressao arterial de 144 x 86 mmhg, com edema, hiperemia e dor a percussao de porcao proximal de coxa esquerda. considerando-se o caso descrito, quais sao, respectivamente, o exame de imagem e a hipotese diagnostica nesse momento?',
     options: ['A) ressonancia magnetica de pelve e membro inferior; osteomielite.', 'B) radiografia simples de articulacao coxofemoral; artrite septica.', 'C) ultrassonografia com puncao articular; tuberculose de quadril.', 'D) cintilografia ossea da articulacao coxofemoral; osteoartrose.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q058',
@@ -17568,7 +17568,7 @@ export const generatedQuestions = [
     questionNumber: 58,
     questionText: 'uma menina de 4 anos e levada ao pronto-socorro de um hospital publico pelo samu, com relato de quadro de nausea, vomitos e dor abdominal de evolucao rapida nas ultimas 6 horas. sua mae conta que a filha teve perda de peso significativa na ultima semana. ao exame fisico, a paciente apresenta-se sonolenta, desidratada, com halito cetonico, taquicardica e taquipneica, com glicemia capilar de 300 mg/dl (valor de referencia - vr: 60 a 99 mg/dl), gasometria com ph 7,19 (vr: 7,35 a 7,45) e hco 15 meq/l (vr: 22 a 28 meq/l). 3 com base nos dados apresentados, e correto afirmar que a crianca possui niveis reduzidos de',
     options: ['A) insulina e potassio total.', 'B) cortisol e potassio total.', 'C) insulina e sodio.', 'D) glucagon e sodio. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q059',
@@ -17604,7 +17604,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'um homem com 40 anos, apresentando queixa de perda constante de interesse e de prazer nas atividades das quais costumava gostar, relata: nao tenho vontade sequer de sair de casa. afirma que isso vem se mantendo nos ultimos 2 meses, de forma constante e diaria, mas que piorou no ultimo mes. conta que seus amigos e familiares tambem perceberam e vem cobrando dele uma mudanca de atitude. alem disso, diz que tem se sentido mais ansioso e inquieto e que apresentou 2 crises subitas, ha um mes, de duracao de alguns minutos, em que sentiu medo intenso, taquicardia, sufocacao, tontura, sudorese e sensacao de que algo ruim iria acontecer e de que iria morrer. nao relaciona as crises a fatores desencadeantes ou a situacoes pelas quais esteja passando. relata que, quando teve as crises, foi a um pronto-socorro, onde foram descartadas causas organicas para o quadro. refere tambem que apresentou perda de peso consideravel no ultimo mes, mas nao sabe de quanto, tendo percebido apenas por suas roupas. diz ainda que esta sem fome e que tem tido muito sono todos os dias e se sente sempre cansado, esta sem concentracao e tem dificuldade de pensar. nega etilismo, tabagismo ou uso de drogas ilicitas, negando tambem doencas conhecidas. ao exame fisico, o paciente apresenta-se sem alteracoes, assim como nao mostram alteracoes os exames recentes de hemograma, tsh, t4 livre que ele traz. ao exame psiquico, apresenta-se colaborativo, atencao preservada, com memoria e orientacao sem alteracoes; humor deprimido e ansioso; pensamento de forma, curso e conteudo sem alteracoes, assim como juizo e critica. nao se verificam alteracoes senso perceptivas, observando-se discreta agitacao psicomotora. considerando-se a situacao descrita, qual e diagnostico para o caso desse paciente?',
     options: ['A) transtorno de panico com agorafobia.', 'B) transtorno bipolar em fase depressiva.', 'C) transtorno de ansiedade generalizada.', 'D) transtorno depressivo com ataques de panico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q062',
@@ -17616,7 +17616,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'um paciente com 63 anos, tabagista, com consumo de um maco de cigarros ao dia ha 30 anos, com historico de bronquite cronica, comparece a consulta com uma tomografia computadorizada de torax (tc) solicitada devido a trauma toracico previo. ao exame fisico, esta em bom estado geral, assintomatico. a tc revela um nodulo pulmonar solitario, regular de 1,5 cm e calcificado. qual e a conduta adequada para esse paciente?',
     options: ['A) resseccao nodular cirurgica em cunha.', 'B) broncoscopia endoscopica com biopsia.', 'C) acompanhamento em nivel ambulatorial.', 'D) biopsia cirurgica ou aspiracao por agulha fina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q063',
@@ -17628,7 +17628,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'um bebe com 24 dias de vida e levado ao pronto atendimento devido a dificuldades respiratorias. nao houve intercorrencias durante a gestacao e o parto, o nascimento foi a termo, e o bebe pesou 3 quilogramas. a mae relata uma historia de obstrucao nasal, coriza clara e recusa as mamadas ha 2 dias. acrescenta que, nas ultimas horas, a respiracao do bebe ficou mais rapida e surgiu um chiado no peito. ao exame fisico, o paciente encontra-se em bom estado geral, corado, com frequencia respiratoria de 50 irpm, com leve tiragem intercostal e sibilos discretos difusos bilateralmente e com saturacao de o de 91% em ar ambiente. na radiografia 2 de torax, evidenciam-se uma hiperinsuflacao pulmonar e retificacao das cupulas diafragmaticas e de arcos costais. considerando-se a principal hipotese diagnostica e as condicoes clinicas do bebe atendido, qual e o tratamento indicado para esse caso?',
     options: ['A) hidratacao, antibioticoterapia e corticoide.', 'B) hidratacao, oxigenioterapia e higiene nasal.', 'C) broncodilatador, corticoide e anti-histaminico.', 'D) oxigenioterapia, antibioticoterapia e broncodilatador.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q064',
@@ -17640,7 +17640,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'uma mulher com 30 anos procura o medico na unidade basica de saude e, em consulta, relata que, ha 9 meses, parou de usar o anticoncepcional oral combinado e que nao voltou a menstruar ate o momento. refere tambem uso desse metodo contraceptivo por 10 anos e aumento de pelos no corpo. o exame ginecologico, apresenta-se normal. no exame fisico, verificam-se: indice de massa corporal de 27 kg/m2; pressao arterial de 110 x 72 mmhg; cintura abdominal de 80 cm; acne e hirsutismo moderado. os exames complementares apresentam os seguintes resultados: beta-hcg negativo; tsh = 2,5 mui/l (valor de referencia - vr: 0,3 a 4,0 ui/l); prolactina = 18 ng/ml (vr: < 31 ng/ml); fsh = 6 mui/ml (vr: 2 a 30 mui/ml). diante do quadro clinico da paciente, o diagnostico e de amenorreia secundaria por',
     options: ['A) falencia ovariana prematura.', 'B) hipogonadismo hipogonadotrofico.', 'C) uso prolongado do anticoncepcional.', 'D) anovulacao cronica hiperandrogenica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q065',
@@ -17652,7 +17652,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'em um distrito sanitario especial indigena, um medico atende a uma crianca com 4 anos, com 23 kg, que apresenta taquipneia, tosse, letargia, choro sem lagrimas e febre de 39,2 c. como tratamento, o paciente tem utilizado emplastros de ervas no peito. diante desse quadro, apos a avaliacao do paciente, o medico precisa, por meio de interprete, solicitar a mae que',
     options: ['A) conceda autorizacao para internar a crianca mantendo os emplastros utilizados.', 'B) retire os emplastros e inicie medicamento parenteral em regime de internacao para a melhora do desconforto da crianca.', 'C) realize o tratamento em domicilio com ervas tradicionais de seu povo e que retorne em 7 dias.', 'D) inicie uso de antibiotico em domicilio, com visitas da equipe medica, e que mantenha o uso do emplastro.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q066',
@@ -17664,7 +17664,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'um homem com 26 anos e levado por amigos para o pronto-socorro devido a palpitacoes, tonturas e mal-estar. relata que a sintomatologia iniciou abruptamente ha 2 horas. os amigos contam que estavam com ele em uma festa e confirmam consumo de bebida alcoolica, mas negam consumo de drogas ilicitas. o paciente nega episodios previos ou comorbidades. ao exame fisico, apresenta-se com pulso irregular, com frequencia cardiaca em torno de 123 bpm. a pressao arterial e de 118 x 68 mmhg e, a ausculta cardiaca, nao apresenta sopros, mas verifica-se ritmo irregular, nao se constatando outras alteracoes nesse exame. o eletrocardiograma mostra linha de base serrilhada, presenca de onda f, intervalo rr irregular e frequencia de 125 bpm. nesse contexto, a abordagem desse paciente deve incluir',
     options: ['A) uso de betabloqueador.', 'B) desfibrilacao ventricular.', 'C) massagem de seio carotideo.', 'D) administracao de lidocaina endovenosa.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q067',
@@ -17676,7 +17676,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'uma mulher com 57 anos, obesa, multipara, e encaminhada ao pronto atendimento com queixa de dor continua em quadrante abdominal superior direito iniciada ha 2 dias. refere historia de intolerancia a alimentos gordurosos nos ultimos 5 anos. ao exame fisico, apresenta-se eupneica, com desidratacao leve, frequencia cardiaca de 102 bpm, pressao arterial de 130 x 70 mmhg, e afebril. observou-se ictericia na esclera. ao exame apresentou dor a palpacao profunda no quadrante superior direito, com sinal de murphy ausente. exames laboratoriais: hemograma normal, niveis sericos de bilirrubina total de 2,5 mg/dl (vr: 0,3 a 1 mg/dl), com bilirrubina direta de 2 mg/dl (vr: 0,1 a 0,3 mg/dl) e aumento da fosfatase alcalina. qual exame do abdome tem maior acuracia para auxiliar nesse diagnostico?',
     options: ['A) ultrassonografia.', 'B) radiografia simples.', 'C) ressonancia magnetica.', 'D) tomografia computadorizada.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q068',
@@ -17688,7 +17688,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'os pais de um recem-nascido comparecem extremamente nervosos a primeira consulta de puericultura. o menino e o primeiro filho do casal, tem 27 dias de vida e esta sendo alimentado exclusivamente com leite materno. os pais trazem o teste de triagem neonatal de seu bebe com resultado de presenca de traco falciforme. informam que o parto foi cesareo por opcao, pois a mae iniciou o pre-natal tardiamente. alem disso, relatam que houve internacao de 2 dias para realizacao de fototerapia no nenem devido a ictericia. ao exame fisico, a crianca apresenta-se eutrofica. considerando-se essas informacoes, qual e a conduta inicial adequada para esse caso?',
     options: ['A) solicitar eletroforese de hemoglobina.', 'B) solicitar o teste de falcizacao e de solubilidade.', 'C) refazer o teste de triagem neonatal imediatamente.', 'D) tranquilizar os pais, uma vez que se trata de heterozigose.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q069',
@@ -17700,7 +17700,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'uma secundigesta com parto vaginal anterior e sem comorbidade meia-noite, avaliado o processo de trabalho de parto, constata-se uma apresentacao em plano positivo (+2), colo 100% esvaecid batimentos cardiacos fetais, o medico assistente nota uma queda n cujo resultado e mostrado a seguir. diante do tracado cardiotocografico, assinale a opcao correta.',
     options: ['A) a linha de base esta entre 100 e 150 bpm, a variabilidade e aumen ser reanimacao intrauterina.', 'B) a linha de base esta entre 110 e 160 bpm, a variabilidade e mo deve ser mudanca de decubito materno e hidratacao endoven', 'C) a linha de base esta entre 110 e 160 bpm, a variabilidade e conduta deve ser seguimento do acompanhamento do trabalh', 'D) a linha de base esta entre 100 e 150 bpm, a variabilidade e au desfavoraveis, portanto, a conduta deve ser administracao de oxige'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q071',
@@ -17712,7 +17712,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'uma mulher com 37 anos e levada pelos familiares a uma unidade de pronto atendimento devido a rebaixamento do nivel de consciencia. os familiares informam que ela ja vinha se queixando de cefaleia frequente ha alguns dias, alem de dificuldades visuais e, mais recentemente, apresentou episodios de vomitos. relatam que, de manha, antes da consulta, ela havia se mostrado gradativamente sonolenta e pouco responsiva. contam que a paciente faz tratamento irregular para hiv/aids, nao sabendo informar a data da ultima consulta de acompanhamento da doenca. ao exame fisico, ela nao apresenta deficits focais; verificando- se pressao arterial de 160 x 100 mmhg, frequencia cardiaca de 48 bpm, frequencia respiratoria de 10 irpm, de padrao irregular. constata-se, ainda, que a paciente apresenta edema de papila bilateralmente; escala de coma de glasgow de 12. considerando-se o caso descrito, a conduta inicial adequada e solicitar',
     options: ['A) puncao lombar.', 'B) eletroencefalograma.', 'C) tomografia computadorizada de cranio.', 'D) contagem de cd4 e carga viral para hiv.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q072',
@@ -17724,7 +17724,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'um paciente com 67 anos, 72 kg, ha 1 ano foi nefrectomizado a direita por via laparoscopica. ha 4 meses, observou abaulamento suprapubico, a direita, com cerca de 8 cm x 5 cm, que piora a manobra de valsalva. sera submetido a cirurgia eletiva. apresenta antecedente pessoal de hipertensao arterial sistemica e diabetes mellitus, controlados com uso de medicacao. creatinina serica de 0,7 mg/dl (vr: 0,7 a 1,3 mg/dl). considerando-se o quadro descrito, qual deve ser a antibioticoprofilaxia adequada para esse paciente?',
     options: ['A) 2g de cefazolina (ev) 60 minutos antes da cirurgia; 1g de cefazolina (ev), de 4/4h intraoperatoria, apos a dose de inducao; descontinuar apos fechar a pele.', 'B) 1g de cefazolina (ev) e 1g de metronidazol (ev) 60 minutos antes da cirurgia; nao indicar doses adicionais durante o procedimento nem no pos-operatorio.', 'C) 1g de cefazolina (ev) 60 minutos antes da cirurgia; 1g de cefazolina (ev), de 4/4h intraoperatoria, apos a dose de inducao; manter por 72h apos fechar a pele.', 'D) 2g de cefazolina (ev) e 1g de metronidazol (ev) imediatamente antes da incisao; repetir as doses (ev), de 4/4h, ate fechar a pele; descontinuar no pos-operatorio.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q073',
@@ -17736,7 +17736,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'uma lactente de 18 meses e levada a uma consulta em unidade basica de saude por sua mae, que faz queixa de lesoes muito pruriginosas na pele da crianca, as quais tem comprometido ate o sono da crianca. a mae nega quadro similar na familia. em historia pregressa, verifica-se registro de 2 episodios de bronquiolite aguda sem internacao hospitalar. com relacao a historia familiar, sabe-se que a mae tem rinite alergica e que o pai e asmatico. ao exame clinico da paciente, e observada lesao eczematosa em regiao malar da face, exceto no macico central. no pescoco, ha papulas eritematosas e crostas. em fossa cubital, e observada lesao liquenificada. com base nas informacoes apresentadas nesse quadro clinico, assinale a opcao que apresenta o diagnostico adequado para o caso.',
     options: ['A) dermatite atopica.', 'B) tinea corporis.', 'C) escabiose.', 'D) psoriase.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q074',
@@ -17748,7 +17748,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'uma mulher com 25 anos, primigesta, na 39a semana de gestacao, encontra-se na segunda fase do trabalho de parto (colo totalmente dilatado, cabeca fletida, encaixada no plano +2 de de lee, posicao occipto-pubica, proporcao cefalopelvica adequada), em bloco obstetrico de uma maternidade do sistema unico de saude, atendida por equipe experiente. a gestante, segundo relatou, havia planejado parto normal em seu pre-natal, mas apos uma hora de trabalho de parto, entra em exaustao, e as contracoes uterinas vao diminuindo em frequencia, mesmo depois de medidas encorajadoras de esforco. realiza-se anestesia neuroaxial, e administrada ocitocina, sendo realizada amniotomia, que revelou liquido meconial. a cardiotocografia apresenta resultado normal, razao pela qual a equipe medica decide aguardar a progressao do parto, porem, com 2 horas e meia de trabalho de parto, nova cardiotocografia aponta bradicardia, e as contracoes nao se revelam eficientes para a conclusao do periodo expulsivo.',
     options: ['A) partir do caso clinico descrito, qual deve ser a melhor conduta?', 'A) indicar a realizacao imediata de parto cesareo de urgencia.', 'B) realizar parto vaginal assistido, com utilizacao de forceps de simpson.', 'C) administrar nova dose de ocitocina, para estimulacao da contracao uterina.', 'D) aguardar ate se completarem tres horas de evolucao, por se tratar de primipara.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q075',
@@ -17760,7 +17760,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'os inqueritos populacionais de saude tem sido cada vez mais utilizados nao apenas para avaliar a eficacia dos servicos de saude na perspectiva dos usuarios, mas tambem como uma fonte de informacoes sobre morbidade referida e sobre estilo de vida saudavel. a pesquisa nacional de saude foi um inquerito de saude de base domiciliar, de ambito nacional, realizada pelo ministerio da saude em parceria com o instituto brasileiro de geografia e estatistica (ibge) em 2013 e em 2019. essa pesquisa realizada pelo ibge se caracteriza como um estudo do tipo',
     options: ['A) coorte.', 'B) transversal.', 'C) experimental.', 'D) caso-controle.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q076',
@@ -17772,7 +17772,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'um medico do programa de saude da familia realiza avaliacao de um homem com 47 anos que apresenta queixa de alergia medicamentosa. o paciente refere prurido, iniciado 2 dias depois que passou a tomar naproxeno para dor no ombro direito, receitado por esse mesmo medico que o avalia. o profissional, ao exame fisico, constata que o paciente se apresenta bem, corado, orientado, com sinais vitais normais. a ausculta pulmonar e normal. o medico tambem observa multiplas lesoes papuloeritematosas disseminadas pelo corpo do paciente. quais sao, respectivamente, o diagnostico e a conduta mais adequados para esse caso?',
     options: ['A) doenca do soro; manter uso de naproxeno e administrar hidrocortisona iv.', 'B) anafilaxia; colocar o paciente em posicao supina e administrar adrenalina im.', 'C) farmacodermia; suspender uso de naproxeno e administrar anti-histaminico vo.', 'D) dermatite atopica; suspender uso de naproxeno e administrar anti-histaminico iv.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q077',
@@ -17784,7 +17784,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'um paciente com 57 anos, queixa-se, em consulta, de dor abdominal difusa intermitente, ha 3 meses, que piora com ingestao de alimentos, associada a emagrecimento de 9 quilogramas nesse periodo, alem de diarreia com goticulas de gordura nas fezes. e tabagista e etilista ha 30 anos. ao exame fisico, apresenta dor abdominal difusa que piora a palpacao profunda em regiao mesogastrica, sem outras particularidades. exames laboratoriais exame valor valor de referencia (vr) hemoglobina 10,5 g/dl 13 a 17 g/dl hematocrito 35% 40% a 50% leucocitos 8.000 mm3 4.000 a 10.000 mm3 glicemia jejum 155 mg/dl <100 mg/dl ast 39 u/l <38 u/l alt 33 u/l <41 u/l bilirrubina total 1,1 mg/dl 0,2 mg/dl a 1,20 mg/dl amilase 130 u/l 25 a 125 u/l lipase 83 u/l <60 u/l ureia 42 mg/dl <45 mg/dl creatinina 1,3 mg/dl 0,6 a 1,2 mg/dl calcio serico 10,4 mg/dl 8,6 a 10 mg/dl com base no quadro acima, quais sao, respectivamente, o diagnostico e a conduta para o paciente?',
     options: ['A) pancreatite aguda; hidratacao, analgesia e jejum.', 'B) pancreatite cronica; analgesia e orientacao dietetica.', 'C) hepatite alcoolica; corticosteroides e orientacao dietetica.', 'D) cirrose hepatica; biopsia hepatica e tratamento do etilismo.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q078',
@@ -17796,7 +17796,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'um menino com 7 anos e admitido na unidade de terapia intensiva de um hospital de alta complexidade devido a uma dor abdominal intensa, com vomitos e enterorragia. no relatorio de transferencia, consta que o paciente apresentou amigdalite bacteriana, com exsudato, ha cerca de 10 dias, a qual foi tratada com amoxicilina. a crianca desenvolveu artralgia em joelhos e, 2 dias apos o surgimento das dores, notou-se purpura palpavel que nao desaparece a digitopressao e que se estende dos membros inferiores ate a regiao glutea. no hemograma, observa-se anemia, leucocitose moderada, plaquetas com dosagem dentro da normalidade e ausencia de eosinofilia. observam-se, tambem, vhs e pcr discretamente elevados e funcoes hepaticas e renais dentro das referencias para a idade. considerando-se essas informacoes, e correto afirmar que o quadro clinico desse paciente e compativel com o diagnostico de',
     options: ['A) poliarterite nodosa.', 'B) arterite de takayasu.', 'C) doenca de kawasaki.', 'D) vasculite por imunoglobulina a.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q079',
@@ -17808,7 +17808,7 @@ export const generatedQuestions = [
     questionNumber: 79,
     questionText: 'uma puerpera, 14 dias pos-parto vaginal, que vem amamentando exclusivamente seu bebe, procura uma unidade basica de saude referindo dor em mama direita. ao exame, evidenciam-se pressao arterial de 120 x 70 mmhg, frequencia cardiaca de 90 bpm, temperatura axilar de 37,8 c, mamas turgidas e com fissuras nos mamilos, hiperemia, calor e dor na juncao dos quadrantes inferiores da mama direita, sem sinais de flutuacao. para o caso dessa paciente, a hipotese diagnostica e o tratamento adequado sao, respectivamente,',
     options: ['A) galactocele; massagem mamaria e manutencao da amamentacao.', 'B) mastite; analgesia, manutencao da amamentacao e antibioticoterapia via oral.', 'C) abscesso mamario; antibioticoterapia intravenosa e drenagem da mama direita com sedacao.', 'D) ingurgitamento mamario; aplicacao de compressas frias, interrupcao da amamentacao e manutencao das mamas bem suspensas. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q080',
@@ -17820,7 +17820,7 @@ export const generatedQuestions = [
     questionNumber: 80,
     questionText: 'ao realizar uma visita domiciliar, a medica da unidade basica de saude avalia uma familia de 6 pessoas, sendo a configuracao familiar formada por pai, mae, avo paterna, duas criancas  uma de 9 meses e outra de 4 anos  e uma adolescente de 15 anos. durante a consulta, a medica solicita as cadernetas de vacina das criancas e da adolescente, a fim de conferir se estao em dia de acordo com o calendario nacional de vacinacao. nesse caso, em relacao as vacinas contra a meningite meningococica, a medica deve observar se as criancas de 9 meses e de 4 anos e se a adolescente de 15 anos possuem, respectivamente,',
     options: ['A) uma dose da vacina meningococica c conjugada; uma dose e um reforco da vacina meningococica c conjugada; e uma dose da vacina meningococica acwy conjugada.', 'B) duas doses da vacina meningococica c conjugada; duas doses e um reforco da vacina meningococica c conjugada; e uma dose da vacina meningococica acwy conjugada.', 'C) duas doses e um reforco da vacina meningococica c conjugada; tres doses e um reforco da vacina meningococica c conjugada; e duas doses da vacina meningococica acwy conjugada.', 'D) uma dose e um reforco da vacina meningococica c conjugada; duas doses e um reforco da vacina meningococica c conjugada; e uma dose e um reforco da vacina meningococica acwy conjugada.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q081',
@@ -17832,7 +17832,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'uma paciente com 26 anos comparece a unidade de saude da familia para consulta com relato de dispneia aos esforcos, que vem se intensificando nos ultimos 3 ou 4 meses. o medico a examina e observa um desdobramento fixo da segunda bulha audivel em foco pulmonar. o exame fisico revela frequencia cardiaca em ritmo regular de 80 bpm, sem outros achados. nesse caso, quais sao, respectivamente, o diagnostico mais provavel e o risco potencial relacionado com esse diagnostico?',
     options: ['A) estenose pulmonar; embolia pulmonar.', 'B) estenose de valva mitral; embolia sistemica.', 'C) defeito de septo interatrial; embolia sistemica.', 'D) prolapso de valva mitral; embolia pulmonar.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q082',
@@ -17844,7 +17844,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'um pintor com 40 anos foi exposto acidentalmente a cal de pintura em ambos os olhos. apos lavagem dos olhos com agua corrente, o trabalhador relata dor, sensacao de areia nos olhos e visao embacada. qual e a conduta imediata adequada para esse paciente?',
     options: ['A) aplicacao de colirio lubrificante e repouso domiciliar.', 'B) avaliacao por medico oftalmologista em pronto-socorro.', 'C) oclusao prolongada de ambos os olhos com gaze umida.', 'D) avaliacao e acompanhamento pelo medico na unidade basica de saude.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q083',
@@ -17856,7 +17856,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'um recem-nascido, com peso de nascimento de 2.900 g, nascido a termo e de parto vaginal, e levado a primeira consulta pos-natal na unidade basica de saude com 10 dias de vida. durante a consulta, observa-se abundante quantidade de secrecao purulenta em ambos os olhos da crianca e, segundo a mae, essa secrecao teve inicio ha 2 dias, formando-se rapidamente, mesmo apos a limpeza. o paciente apresenta, tambem, hiperemia ocular e edema bipalpebral. sabe-se que a mae iniciou tardiamente o pre-natal e fez acompanhamento irregular, e ela refere que, atualmente, esta apresentando leucorreia purulenta. o medico, entao, solicita swab da secrecao, cujo resultado chegara em ate 5 dias. com base nessas informacoes, quais sao, respectivamente, o diagnostico da doenca da crianca e a conduta medica adequada para o caso?',
     options: ['A) conjuntivite gonococica; tratar a crianca com colirio antibiotico apos receber o resultado do swab, ja que nao ha risco de perda da visao.', 'B) conjuntivite bacteriana; orientar a mae do paciente, realizar limpeza dos olhos e iniciar o uso do colirio antibiotico, mesmo sem o resultado do swab.', 'C) conjuntivite bacteriana; orientar a mae do paciente, realizar limpeza dos olhos e aguardar o resultado do swab para prescrever colirio antibiotico especifico.', 'D) conjuntivite gonococica; iniciar, mesmo sem o resultado do swab, o tratamento com colirio antibiotico e com ceftriaxona im, ja que ha risco de perda da visao.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q084',
@@ -17868,7 +17868,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'uma mulher com 70 anos foi encaminhada para o ambulatorio de patologia cervical/vulvar por causa de uma lesao avermelhada, pruriginosa, proxima ao clitoris. fez uso de corticosteroides topicos e sistemicos, com melhora parcial do prurido, mas sem alteracao da lesao. tambem fez uso oral de fluconazol, sem resposta ao tratamento. o resultado da pesquisa de dna de hpv foi negativo. ao exame da paciente, evidenciou-se uma lesao no clitoris medindo 2 cm, eritematosa, com area de descamacao, alem de liquen escleroso acometendo parte do clitoris e pequenos labios.',
     options: ['A) partir da situacao apresentada, o medico deve solicitar', 'A) vulvoscopia e realizar a biopsia da lesao.', 'B) testes alergicos e iniciar clobetasol topico.', 'C) cultura de fungos e tratar com cetoconazol topico.', 'D) teste de azul de toluidina e indicar vulvectomia simples.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q085',
@@ -17880,7 +17880,7 @@ export const generatedQuestions = [
     questionNumber: 85,
     questionText: 'um homem com 36 anos, em situacao de rua, procura a unidade basica de saude com queixas de tosse persistente, perda de peso, sudorese noturna e febre intermitente ha cerca de 2 semanas. diante desse caso, qual deve ser a conduta medica adotada?',
     options: ['A) solicitar exame bacteriologico de escarro, juntamente com cultura e com teste de sensibilidade antimicrobiana, testagem para hiv, para hepatites virais e para sifilis.', 'B) solicitar radiografia de torax e, em caso de alteracao, prescrever medicamento (rifampicina / isoniazida / pirazinamida / etambutol) via tratamento diretamente observado.', 'C) solicitar exame bacteriologico de escarro e, em caso positivo, encaminhar o paciente para servico de referencia em pneumologia para tratamento de tuberculose multirresistente.', 'D) solicitar exame bacteriologico de escarro, testagem para hiv, para hepatites virais e para sifilis e, caso seja confirmada a presenca de tuberculose, instituir tratamento diretamente observado.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q086',
@@ -17892,7 +17892,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'um homem com 50 anos comparece a um servico de emergencia apresentando niveis pressoricos elevados e desorientacao. ao ser atendido pelo medico de plantao, encontra-se sentado, ansioso, dizendo que "nao sente nada" e que quer ir embora. nao consegue relatar a propria idade nem o mes vigente. ao exame fisico, registram-se frequencia cardiaca de 106 bpm, pressao arterial de 190 x 130 mmhg, sendo normais os demais aspectos do exame. o medico, entao, realiza o exame de fundo de olho. considerando o caso descrito, assinale a opcao que apresenta, respectivamente, o diagnostico mais provavel e o achado no fundo de olho compativel com esse diagnostico.',
     options: ['A) hipertensao maligna; coriorretinite.', 'B) encefalopatia hipertensiva; papiledema.', 'C) ataque isquemico transitorio; fibras nervosas meduladas.', 'D) acidente vascular encefalico hemorragico; pulso venoso espontaneo.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q087',
@@ -17904,7 +17904,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'uma mulher de 25 anos procura o pronto atendimento, devido a um episodio de sangramento retal vivo, que cedeu espontaneamente. refere cansaco aos esforcos, indisposicao, episodios frequentes de dor abdominal, diarreia e perda de peso, no ultimo ano. a diarreia vem acompanhada de eliminacao de muco, com urgencia e tenesmo. nega episodios anteriores de sangramento retal. perguntada sobre a historia familiar, referiu que seu pai faleceu aos 55 anos devido a cancer no intestino, mas nao sabia de mais detalhes, pois era crianca na epoca. de acordo com a historia clinica da paciente, qual o diagnostico mais provavel?',
     options: ['A) tumor colorretal.', 'B) doenca de crohn.', 'C) retocolite ulcerativa.', 'D) doenca hemorroidaria.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q088',
@@ -17916,7 +17916,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'um lactente com 5 meses e levado a emergencia por seus pais com quadro de rinorreia hialina, tosse leve e febre baixa (37,9 c) de inicio ha 24 horas. eles relatam que, ha algumas horas, o bebe passou a apresentar rouquidao, tosse persistente e ruidos inspiratorios mesmo em repouso. ao exame fisico, constata-se que a crianca esta agitada, com desconforto respiratorio, com tiragem intercostal discreta e com estridor inspiratorio. sua frequencia cardiaca e de 110 bpm, sua frequencia respiratoria e de 42 irpm e sua saturacao de o e de 96% em ar ambiente. durante a ausculta, 2 nota-se boa entrada de ar bilateralmente. a expansibilidade toracica esta preservada. observa-se, entretanto, cianose quando a crianca fica muito agitada. diante dessas informacoes, a conduta medica adequada e prescrever',
     options: ['A) corticoide oral e nebulizacao com agonistas beta-2 e realizar internacao hospitalar do paciente.', 'B) corticoide parenteral e nebulizacao com adrenalina e realizar internacao hospitalar do paciente.', 'C) corticoide parenteral, realizar intubacao orotraqueal no paciente e proceder a internacao hospitalar.', 'D) corticoide inalatorio, dar alta ao paciente e orientar seu retorno caso nao melhore em 48 horas ou piore. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q089',
@@ -17928,7 +17928,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'uma mulher com 26 anos obteve o diagnostico citologico de lesao intraepitelial de baixo grau (lsil) no exame de papanicolaou. constata-se que a paciente tomou apenas uma dose da vacina contra o hpv na adolescencia e iniciou a atividade sexual ha 6 meses com parceiro unico e sem uso de preservativo. para melhor conducao do caso, de acordo com o estabelecido pelo ministerio da saude/inca, o profissional deve',
     options: ['A) fazer pesquisa de dna-hpv.', 'B) repetir a citologia em 6 meses.', 'C) indicar biopsia do colo uterino.', 'D) solicitar colposcopia e "ver e tratar".'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q090',
@@ -17940,7 +17940,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'uma mulher com 42 anos comparece a unidade basica de saude para consulta com um medico de familia e comunidade. ela possui historico de irregularidade menstrual, de irritabilidade, de ansiedade, de perda de memoria e de fogachos ha 6 meses, apresentando sangramento uterino anormal (sua) ha 3 dias, sem sinais de repercussao na estabilidade hemodinamica.',
     options: ['A) partir dessas informacoes e com base nos conhecimentos acerca do sangramento apresentado por essa paciente, assinale a opcao correta.', 'A) o sua e uma condicao rara que afeta poucas mulheres no mundo, principalmente aquelas na pre-menopausa, seguidas por aquelas na perimenopausa e na pos-menopausa.', 'B) o sua e uma afeccao frequente que pode comprometer a qualidade da vida da mulher em varios aspectos, sendo recomendado, como terapeutica de primeira linha, a histerectomia.', 'C) a presenca de lesoes vaginais e de colo deve ser descartada por meio do exame fisico e a hipotese de gestacao deve ser excluida, considerando os principais diagnosticos relacionados ao sua.', 'D) o exame complementar que fornece mais dados para a conducao dos casos de sua e a ultrassonografia da regiao pelvica, com baixa sensibilidade, porem alta especificidade para lesoes endometriais em geral.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q091',
@@ -17952,7 +17952,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'um paciente com 34 anos, em tratamento quimioterapico para linfoma, e avaliado no plantao de um hospital com queixa de dispneia, desconforto toracico, ortopneia, com progressao nas ultimas 6 horas. ao exame fisico, apresenta-se em regular estado geral, com frequencia cardiaca de 125 bpm, frequencia respiratoria de 28 irpm, saturacao de o de 93% em 2 ar ambiente, pressao arterial de 86 x 48 mmhg. durante a inspiracao, observa-se que a pressao sistolica reduziu para 75 x 44 mmhg. a temperatura axilar do paciente e de 36,6 c e ele apresenta grande distensao jugular, bulhas cardiacas hipofoneticas. o exame de ecg no leito indicou baixa voltagem dos complexos qrs, sem presenca de alteracoes isquemicas detectaveis. os resultados de outros exames realizados nesse dia sao: exames laboratoriais exame valor valor de referencia (vr) hematocrito 28% 40% a 50% hemoglobina 7,3 g/dl 13 a 17 g/dl leucocitos 5.500 mm3 4.000 a 10.000 mm3 neutrofilos 70% 40% a 80% plaquetas 62.000 151.000 a 304.000/mm3 protrombina 2,2 0,8 a 1,2 acido urico 6,9 mg/dl 2,4 a 5,7 mg/dl glicemia jejum 155 mg/dl <100 mg/dl creatinina 0,6 mg/dl 0,6 a 1,2 mg/dl bilirrubina total 0,9 mg/dl 0,2 a 1,20 mg/dl lactato 1,5 0,5 a 1,6 mmol/l considerando a hipotese diagnostica mais provavel, assinale a opcao com as medidas mais adequadas a serem adotadas para esse paciente.',
     options: ['A) solicitar ecocardiografia e pericardiocentese.', 'B) verificar enzimas cardiacas e indicar uso de trombolitico.', 'C) indicar uso de vasopressores e de antibioticos endovenosos.', 'D) realizar angiotomografia de torax e exame de anticoagulacao. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q092',
@@ -17964,7 +17964,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'uma paciente com 60 anos, atendida no servico de emergencia de hospital terciario, apresenta quadro de dor abdominal de moderada intensidade ha cerca de 3 dias, com piora ha 2 dias, mais proeminente em fossa iliaca esquerda com melhora apos uso de analgesico comum. tem antecedente de doenca diverticular do colon ha 4 anos, com 2 episodios de diverticulite nao complicada nos ultimos 3 anos; constipacao cronica com frequencia evacuatoria de 3 vezes por semana. nao esta em uso de medicacoes nem apresenta outras comorbidades. ao exame fisico, encontra-se levemente desidratada; com temperatura de 37,9 c; frequencia cardiaca de 88 bpm; pressao arterial de 130 x 80 mmhg; abdome flacido, ruidos hidroaereos presentes, doloroso a palpacao profunda de quadrante inferior esquerdo, com plastrao palpavel em regiao suprapubica, sem dor a descompressao brusca do abdome. com base nesse caso clinico, quais sao, respectivamente, a hipotese diagnostica e o exame para confirmacao?',
     options: ['A) diverticulite aguda com abscesso pelvico; colonoscopia.', 'B) peritonite fecal por diverticulite aguda; radiografia abdominal.', 'C) peritonite fecal por diverticulite aguda; tomografia com contraste.', 'D) diverticulite aguda com abscesso pelvico; tomografia com contraste.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q093',
@@ -17976,7 +17976,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'um menino com 6 anos e encaminhado a unidade de estrategia de saude da familia pela escola em que estuda, por estar apresentando dificuldades de aprendizagem.',
     options: ['A) professora havia relatado para a mae que o menino nao conseguia progredir na memorizacao de letras e que nao associava cores e imagens as palavras como fazem as demais criancas. orientou, portanto, a realizacao de uma avaliacao medica, pois desconfiava de que o menino tinha um transtorno de aprendizagem. diante disso, o medico avalia o paciente e relata as seguintes observacoes sobre ele: face atipica sem estigmas de doencas geneticas; e ausencia de doencas previas, de disturbio visual ou auditivo, de historias de condicoes de morbidade perinatal, de alerta do desenvolvimento neuropsicomortor, de uso de medicamentos, de convulsoes e de historia de meningite. acrescenta que o ambiente familiar e com pais trabalhadores e empregados e com um irmao de 9 anos do qual nao ha queixas escolares. registra, ainda, que nao foram identificados riscos ambientais, como alcoolismo, uso de drogas, depressao e outros transtornos. com base nessas informacoes, a conduta medica inicial adequada e encaminhar o paciente para uma', 'A) avaliacao psicopedagogica, a fim de identificar o transtorno de aprendizagem especifico.', 'B) reavaliacao junto a escola, ja que nao ha parametros para avaliar transtorno de aprendizagem aos 6 anos de idade.', 'C) consulta com um neuropediatra, com o objetivo de identificar doencas que possam gerar transtornos de aprendizagem.', 'D) equipe de reforco pedagogico, a fim de realizar acompanhamento, uma vez que a crianca nao apresenta problemas aparentes.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-1-q094',
@@ -17988,7 +17988,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'uma mulher com 35 anos, nuligesta, em uso de anticoncepcional oral ha 10 anos, queixa-se de mastalgia ha 10 dias. relata que a ultima menstruacao foi ha 25 dias. na historia familiar, refere uma tia com 65 anos que esta tratando de cancer de mama ha 3 anos. o indice de massa corporal (imc) dessa paciente e de 32 kg/m2 e o exame fisico das mamas nao apresenta anormalidades. de acordo com o previsto pelo ministerio da saude, o acompanhamento dessa paciente deve ser feito com',
     options: ['A) ressonancia magnetica das mamas anualmente.', 'B) ultrassonografia mamaria bienal apos os 40 anos', 'C) exame clinico das mamas e mamografia anualmente.', 'D) exame clinico anual e mamografia bienal apos os 50 anos.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q095',
@@ -18000,7 +18000,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'uma crianca com 6 anos e levada a unidade basica de saude por sua mae, apresentando quadro de febre, mal-estar, hiporexia, dores no corpo, otalgia, cefaleia, exantema e desidratacao ha 5 dias. a paciente e procedente de area com casos de dengue. para tratar sua filha, a mae administrou, por indicacao de uma vizinha, antibiotico via otologica, por 3 dias, sem melhora. ao exame fisico, a paciente encontra-se febril (38,6 c), hipocorada (+/4) e levemente desidratada, sem outras alteracoes. nesse caso, alem de prescrever antitermico, qual e a conduta medica adequada para realizar a investigacao diagnostica e o tratamento apropriado para a crianca?',
     options: ['A) realizar prova do laco; e prescrever amoxicilina ou clavulanato de potassio a paciente, orientando o retorno apos 3 dias.', 'B) realizar otoscopia; solicitar hemograma; e prescrever amoxicilina ou clavulanato de potassio a paciente, orientando o retorno apos 3 dias.', 'C) realizar prova do laco e otoscopia; e prescrever hidratacao oral a paciente, orientando o retorno no dia de melhora da febre ou no 5.o dia apos a consulta, se nao melhorar.', 'D) realizar prova do laco; solicitar hemograma; e prescrever hidratacao parenteral com sf 0,9% a paciente, mantendo-a em observacao por, pelo menos, 24 horas. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q096',
@@ -18012,7 +18012,7 @@ export const generatedQuestions = [
     questionNumber: 96,
     questionText: 'um homem com 18 anos e encaminhado a um hospital secundario para investigacao de diarreia de evolucao arrastada nos ultimos 3 meses, caracterizada por varios episodios diarios de evacuacao sanguinolenta, acompanhados de tenesmo e colicas abdominais. em atendimento, ele relata ainda anorexia e dores articulares de carater migratorio, mas nega episodios febris. refere viagem anterior ao inicio do quadro para local com baixas condicoes sanitarias, mas afirma ter tomado cuidado com tudo o que comeu e bebeu. relata tambem ter feito uso de antibioticos e anti-inflamatorios para tratamento de suposta infeccao cutanea, nos ultimos 3 meses, sem melhora clinica. ao exame fisico, apresenta-se: hipocorado, hidratado, eupneico e afebril, com discretos sinais de artrite em grandes articulacoes dos membros superiores, de forma assimetrica. verifica-se que, na superficie anterior dos membros inferiores, o paciente apresenta lesoes nodulares subcutaneas quentes e dolorosas, com superficie plana e eritematosa, com extensao de cerca de 1 a 5 cm de diametro. diante desse caso, para confirmar a principal hipotese diagnostica, a conduta mais adequada e realizar',
     options: ['A) colonoscopia associada a histopatologia de biopsia da mucosa intestinal.', 'B) sorologia anti-hiv e pesquisa de isospora belli e cryptosporidium parvum nas fezes.', 'C) pesquisa de toxinas a e b e deteccao de acidos nucleicos de clostridium difficile nas fezes.', 'D) pesquisa de antigenos ou exame direto para trofozoitas de entamoeba hystolitica nas fezes.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q097',
@@ -18024,7 +18024,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'um paciente com 44 anos, vitima de queda de um andaime de 4 metros de altura, e trazido ao servico de emergencia hospitalar por familiares. durante a avaliacao inicial na sala de emergencia, o paciente se mantem em glasgow 15 e com perda da sensibilidade tatil e dolorosa na regiao desde a cicatriz umbilical ate os pes. apresenta movimentos e sensibilidade normais em membros superiores, paralisia em ambos os membros inferiores, e os seguintes sinais vitais: frequencia respiratoria de 16 irpm; frequencia cardiaca de 90 bpm; pressao arterial de 120 x 82 mmhg; saturacao periferica de oxigenio de 100% em uso de oxigenio suplementar. sabe-se que o paciente nao ingeriu alcool ou drogas, era previamente saudavel e nao utiliza medicacoes. qual e o nivel de lesao medular relativo a interpretacao compativel com o quadro clinico descrito?',
     options: ['A) l2.', 'B) t4.', 'C) t10.', 'D) t12.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-1-q098',
@@ -18036,7 +18036,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'um lactente de 9 meses, nascido a termo, e trazido pela mae ao hospital, que relata estar preocupada com o comportamento do filho, que e diferente do comportamento dos outros dois irmaos. a mae tambem relata que o menino nao estende os bracos para pedir colo e que tem apresentado pouco contato visual quando estimulado. a historia familiar mostra um tio paterno com transtorno de espectro autista. na avaliacao, o medico nota o bebe irritado, com choro persistente ao ser examinado, e registra que seu desenvolvimento motor e seu estado nutricional estao adequados para a idade. considerando-se esse quadro clinico, a conduta medica imediata a ser adotada diante do relato da mae e',
     options: ['A) encaminhar o paciente para a neuropediatria e para um geneticista.', 'B) iniciar estimulos precoces e agendar breve retorno.', 'C) tranquilizar a mae e manter o bebe em consultas de rotina de puericultura.', 'D) iniciar uso de risperidona e encaminhar o paciente para uma equipe multiprofissional.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-1-q099',
@@ -18048,7 +18048,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'uma paciente com 45 anos, nuligesta, com ciclos menstruais irregulares, e encaminhada da atencao basica para ambulatorio especializado de ginecologia. ela apresenta ultrassonografia transvaginal que evidencia cisto de 6 cm, com projecao papilar no seu interior, no ovario esquerdo, e que se mostram normais o ovario direito e demais estruturas pelvicas. considerando-se esse caso, o criterio que determinara a investigacao cirurgica sera',
     options: ['A) o tamanho do cisto.', 'B) a idade da paciente.', 'C) a projecao papilar do cisto.', 'D) a irregularidade menstrual.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-1-q100',
@@ -18072,7 +18072,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'um homem de 46 anos vai ao pronto-socorro com queixa de dor em colica de forte intensidade na regiao lombar direita, com irradiacao para flanco e fossa iliaca direita ha 12 horas, levando-o a incapacidade laboral. ele refere que ja apresentou alguns episodios semelhantes, com varias ocorrencias de vomitos, e que fez uso de chas caseiros para tratamento. ele nega disuria e polaciuria. ao exame fisico, apresenta-se em regular estado geral com facies de dor, sudorese profusa, mucosas desidratadas (1+/4+), temperatura de 36,5c, frequencia cardiaca de 100 batimentos por minuto, pressao arterial de 130  80 mmhg, pulmoes limpos e bulhas ritmicas e normofoneticas. ao exame fisico do abdome, apresenta dor a palpacao de flanco direito e sinal de giordano positivo a direita. nos exames complementares, tem-se hemograma sem alteracoes. em rotina de urina, constata-se urina turva, ausencia de nitritos, presenca de leucocitos, 10.000/ml, e presenca de hemacias, de 50.000/ml. com base nessas informacoes, assinale a alternativa que apresenta, respectivamente, o diagnostico da doenca e o tratamento adequado para esse paciente.',
     options: ['A) litiase renal; cirurgia de urgencia.', 'B) infeccao urinaria; antibioticoterapia.', 'C) litiase renal; analgesia e hidratacao.', 'D) infeccao urinaria; analgesia e urocultura.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q002',
@@ -18084,7 +18084,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'uma paciente de 45 anos, multipara, e atendida na unidade basica de saude relatando dores e aparecimento de edema em membros inferiores, no periodo vespertino, ha 3 anos. ao exame fisico, o medico observa dermatite ocre no terco inferior dos membros inferiores associada a uma lesao circular de 2 cm, superficial, com bordas elevadas e com tecido de granulacao, localizada na regiao maleolar interna da perna direita. com base nessas informacoes, a conduta medica adequada para o caso e indicar',
     options: ['A) a deambulacao e o uso de meias de baixa compressao.', 'B) o uso de meias de media compressao e a elevacao das pernas.', 'C) a utilizacao de bota de unna e a realizacao de atividade fisica intensa.', 'D) a realizacao de desbridamento e o repouso em trendelemburg.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q003',
@@ -18096,7 +18096,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'um adolescente nao identificado, encontrado desacordado numa festa rave, e atendido pelo samu. ha relatos de que consumiu drogas de abuso e alcool minutos antes de ser encontrado. a avaliacao esta sem respiracao e sem pulso, segundo relatos ha pelo menos 10 minutos. dois socorristas iniciam a realizacao das compressoes e das ventilacoes. sao colocados eletrodos no paciente, identificando-se atividade eletrica sem pulso (aesp). a partir desse diagnostico, e realizado acesso venoso de urgencia. assinale a alternativa que apresenta as proximas condutas imediatas.',
     options: ['A) pausar massagem cardiaca e obter via aerea segura.', 'B) obter via aerea segura e iniciar administracao de drogas.', 'C) prosseguir com compressoes e insuflacoes coordenadas.', 'D) realizar desfibrilacao e, depois, retornar com as compressoes.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q004',
@@ -18108,7 +18108,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'um medico de uma unidade basica de saude realiza consulta pre-natal em gestante com idade gestacional de 30 semanas. ao realizar o terceiro tempo da manobra de leopold, na regiao suprapubica, identifica estrutura fetal ossea arredondada, regular e compativel com calota craniana. nesse caso, e correto afirmar que a situacao e a apresentacao fetais sao, respectivamente,',
     options: ['A) transversal e cefalica.', 'B) longitudinal e pelvica.', 'C) transversal e cormica.', 'D) longitudinal e cefalica.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q005',
@@ -18120,7 +18120,7 @@ export const generatedQuestions = [
     questionNumber: 5,
     questionText: 'apos a promulgacao da constituicao federal de 1988, foram aprovadas duas leis, pelo congresso nacional, que sao chamadas de leis organicas do sus. uma delas, a lei n. 8.142/1990, dispoe sobre as transferencias intergovernamentais de recursos financeiros na area da saude. considerando a legislacao mencionada, para que o governo federal repasse recursos do sus para estados e municipios, e necessaria a existencia de',
     options: ['A) comissao de elaboracao do plano de carreira, cargos e salarios e de prontuario eletronico.', 'B) plano diretor de regionalizacao e de conselho de saude paritario.', 'C) plano de saude e de central de marcacao de consultas e exames.', 'D) fundo de saude e de conselho de saude paritario.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q006',
@@ -18132,7 +18132,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'uma mulher de 55 anos, professora ha 30 anos, procura atendimento devido a dor em regiao glutea direita, com irradiacao para coxa e perna direita  tipo queimacao e pontada  que se iniciou ha 1 mes. nos ultimos dias, houve progressao do quadro com diminuicao de forca em perna direita e dificuldade de deambulacao. ela nega doencas preexistentes. ao exame fisico, apresenta-se em bom estado geral, com facies de dor, marcha claudicante, mucosas coradas e hidratadas. os exames dos aparelhos respiratorio, cardiovascular e abdominal apresentam-se sem alteracoes. no exame neurologico, e detectada diminuicao de forca em perna direita, lasegue positivo, alteracao de sensibilidade tatil e dolorosa em pe direito. diante desse quadro clinico, o diagnostico provavel e',
     options: ['A) neuropatia periferica sensitivo motora distal.', 'B) neuropatia periferica motora proximal.', 'C) neuropatia periferica sensitiva distal.', 'D) neuropatia autonomica distal.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q007',
@@ -18144,7 +18144,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'um homem de 72 anos procura atendimento devido a dor lombar inespecifica ha 1 mes. nega hematuria e sintomas urinarios. relata ter diabetes mellitus tipo 2 e hipertensao arterial sistemica, faz uso de metformina, hidroclorotiazida, nifedipino, propranolol e sinvastatina. em tomografia de abdome e pelve, identifica-se lesao solida, nodular, hipervascular no terco medio do rim esquerdo, posterior e parcialmente exofitica, medindo 3,8 cm no maior diametro, sem linfonodomegalias. em complementacao de estadiamento, por meio de tomografia de torax, nao foram identificadas evidencias de doenca a distancia. diante desse quadro, a hipotese diagnostica mais provavel e',
     options: ['A) sarcoma renal.', 'B) linfoma renal.', 'C) tumor metastatico.', 'D) carcinoma de celulas renais.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q008',
@@ -18156,7 +18156,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'um recem-nascido a termo, com 6 horas de vida, com peso de nascimento de 4.200 gramas, e internado em alojamento conjunto. sabe-se que sua mae possui diagnostico de diabetes gestacional. considerando-se o risco do recem-nascido desenvolver um quadro de hipoglicemia neonatal, a conduta inicial correta deve ser',
     options: ['A) monitorar a glicemia capilar para avaliar se o paciente apresentara esse quadro.', 'B) administrar formula infantil de forma complementar ao aleitamento materno para evitar esse quadro.', 'C) realizar reposicao de glicose venosa, caso a glicemia capilar seja menor ou igual 60 mg/dl.', 'D) iniciar reposicao de glicose venosa, caso o paciente apresente letargia ou crise convulsiva.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q009',
@@ -18168,7 +18168,7 @@ export const generatedQuestions = [
     questionNumber: 9,
     questionText: 'uma paciente de 55 anos, histerectomizada, vai a consulta referindo sintomas climatericos intensos ha 2 anos. ela relata fazer tratamento com anti-inflamatorio para osteoartrite coxofemoral, nega ter hipertensao, diabetes e dislipidemia. nega antecedentes familiares de cancer de mama ou de ovarios, mas relata ter antecedentes de doenca de alzheimer por parte de sua mae e de sua tia materna. a paciente informa estar interessada em iniciar terapia hormonal (th) para menopausa. considerando o caso apresentado, assinale a alternativa que traz a melhor orientacao relativa a indicacao de th.',
     options: ['A) orientar a th isolada com raloxifeno por via oral, devido aos seus beneficios para a cognicao.', 'B) indicar o uso de estradiol por via transdermica, para a reducao do risco de osteoporose.', 'C) receitar a th combinada, estradiol e progesterona, via oral, para protecao endometrial.', 'D) prescrever tratamentos nao hormonais, pois ela e histerectomizada e usuaria cronica de anti-inflamatorios. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q010',
@@ -18180,7 +18180,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'o grafico a seguir demonstra a evolucao das coberturas de indicadores de saude materno-infantil em diferentes quintis de riqueza da populacao ao longo dos anos. disponivel em: <https://jigsaw.minhabiblioteca.com.br/books/ 9786558820437/epub/oebps/image/f01-19.jpg>. com base na legislacao do sus, e correto afirmar que os dois principios do sus que tem relacao mais direta com a evolucao desses indicadores ao longo dos anos sao a',
     options: ['A) equidade e a integralidade.', 'B) universalidade e a equidade.', 'C) universalidade e a regionalizacao.', 'D) participacao social e a hierarquizacao. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q011',
@@ -18192,7 +18192,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'um paciente de 27 anos, com historia de cirurgia cardiaca bem-sucedida para correcao de comunicacao interventricular ha 10 anos, procura uma unidade de pronto-atendimento referindo palpitacoes de inicio subito ha 3 horas. conta que foi a uma festa no dia anterior e que ingeriu bebida alcoolica em grande quantidade, vomitando durante a madrugada. acordou com cefaleia e sede. o paciente esta palido, desidratado (1+/4+), taquipneico e apresenta cicatriz de esternotomia mediana. apresenta pressao sistolica de 70 mmhg, a frequencia cardiaca, conforme visto no monitor, esta oscilando e a frequencia cardiaca media esta em 170 batimentos por minuto. a ausculta cardiaca revela um ritmo irregularmente irregular, com variacao de intensidade da primeira bulha entre os batimentos. nesse caso, a conduta adequada e a',
     options: ['A) realizacao de cardioversao eletrica.', 'B) realizacao de ressuscitacao volemica.', 'C) administracao de metoprolol endovenoso.', 'D) administracao de amiodarona endovenosa.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q012',
@@ -18204,7 +18204,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'uma mulher de 45 anos, hipertensa controlada, com indice de massa corporal de 20 kg/m2 e submetida a procedimento de , correcao de hernia umbilical em regime ambulatorial sob anestesia local. o anel herniario aparenta ter cerca de 1,5 cm de diametro. diante disso, o medico opta pela correcao sem o uso de telas de reforco. em relacao ao uso profilatico de antibioticos nesse caso, e correto afirmar que a',
     options: ['A) antibioticoprofilaxia e justificada por conta da hipertensao arterial.', 'B) cirurgia realizada e considerada limpa, sem indicacao de antibioticoprofilaxia.', 'C) cirurgia foi realizada sob anestesia local, dispensando a antibioticoprofilaxia.', 'D) antibioticoprofilaxia esta indicada, pois a cirurgia ocorreu em regime ambulatorial.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q013',
@@ -18216,7 +18216,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'um paciente de 5 anos chega ao pronto-atendimento com queixa de odinofagia ha 2 dias e febre de 38 c. no exame fisico, observa-se exsudato amigdaliano e hiperemia acentuada. para se evitar a evolucao para febre reumatica, o antibiotico de primeira linha para a erradicacao do estreptococo beta hemolitico (grupo a) da orofaringe a ser prescrito e',
     options: ['A) cefalexina.', 'B) amoxicilina.', 'C) eritromicina.', 'D) penicilina benzatina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q014',
@@ -18228,7 +18228,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'uma paciente de 23 anos, g3 p3, sem antecedentes morbidos, procura atendimento em ambulatorio de planejamento familiar manifestando desejo de laqueadura tubaria. durante a consulta, refere nao desejar orientacoes sobre outros metodos por ja estar decidida. de acordo com a lei de planejamento familiar, o profissional de saude devera',
     options: ['A) prescrever contraceptivo hormonal, pois a paciente nao se enquadra nos casos permitidos pela legislacao brasileira para laqueadura tubaria.', 'B) informar a paciente de que e necessaria a autorizacao expressa do conjuge para a realizacao da laqueadura tubaria.', 'C) oferecer informacoes sobre outros metodos anticoncepcionais para que a paciente possa fazer livre escolha entre metodos reversiveis e irreversiveis.', 'D) ofertar orientacoes sobre metodos anticoncepcionais reversiveis, pois a paciente nao se enquadra nos casos permitidos pela legislacao brasileira para laqueadura tubaria.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q015',
@@ -18240,7 +18240,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'um homem de 45 anos, que trabalha na criacao de porcos, vai a consulta na unidade basica de saude com queixa de lesoes nos pes ha 6 meses. ao exame fisico, nota-se lesoes de pele papulosas, multiplas, amareladas, nao purulentas e com pontos enegrecidos centrais. essas lesoes estao localizadas nos pes e sao pruriginosas e dolorosas. diante desse caso, a conduta adequada e',
     options: ['A) recomendar o uso de sapatos fechados e restricao da circulacao nos reservatorios onde ficam os porcos e aguardar a resolucao espontanea das lesoes.', 'B) administrar amoxicilina via oral por 1 semana e pomada antialergica para os pes, recomendar calcados adequados e agendar retorno para o paciente em 15 dias.', 'C) acionar a zoonose, tratar as pulgas dos porcos para interromper o ciclo, impedindo, assim, a transmissao de doenca pela picada desses insetos, e prescrever vacina antitetanica.', 'D) realizar a retirada de larva dos pes, administrar tiabendazol via oral ou ivermectina, conceder orientacoes sobre saude, tratar animais e solo e prescrever vacinacao antitetanica.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q016',
@@ -18252,7 +18252,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'um homem de 28 anos e trazido ao hospital pelo samu 40 minutos apos ter sofrido atropelamento. ele foi encontrado desacordado no local do acidente, apresentando glasgow 6. ao chegar a unidade de saude, apresentava glasgow 3, pressao arterial de 150  100 mmhg, irregularidade respiratoria e frequencia cardiaca de 50 batimentos por minuto, sendo realizada a intubacao orotraqueal. ao exame fisico, apresenta- se em mau estado geral, paciente em uso de ventilacao mecanica com ausencia de ruidos adventicios a ausculta respiratoria. o paciente esta comatoso, com glasgow 3 e com pupilas isocoricas e midriaticas, constata-se, ainda, reflexos fotomotores direto e consensual ausentes; reflexo corneo- palpebral ausente e reflexo oculo-cefalico ausente. paciente sem sedacao. foi levantada a hipotese diagnostica de hipertensao intracraniana pela equipe medica. diante dessas informacoes, o achado clinico que confirma essa hipotese e a presenca de',
     options: ['A) glasgow 3.', 'B) midriase pupilar.', 'C) presenca da triade de cushing.', 'D) ausencia de reflexo corneo-palpebral.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q017',
@@ -18264,7 +18264,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'um homem de 30 anos, com 90 kg, sofre queimadura ao acender uma churrasqueira. ele apresenta lesoes em face anterior do tronco, em face anterior e posterior dos membros superiores e em face anterior de membro inferior esquerdo. esse paciente e trazido consciente ao pronto-socorro, com queixa de muita dor. ao exame fisico, nota-se eritema em todas as areas atingidas, com muitas bolhas, principalmente em torax, antebracos, maos, perna e pe. nessa situacao, considerando o volume de reposicao pela regra dos 9, preconizado pelo atls, assinale a alternativa que apresenta, respectivamente, a classificacao da queimadura e a reposicao volemica indicada para esse paciente.',
     options: ['A) queimadura moderada, de terceiro grau; reanimacao hidrica com cerca de 500 ml/h de solucao coloide nas primeiras 8 horas e, apos isso, utilizacao de, aproximadamente, 500 ml/h de ringer, por 16 horas.', 'B) queimadura grave, de terceiro grau; reanimacao hidrica com cerca de 1.000 ml/h de ringer lactato nas primeiras 16 horas e, apos isso, utilizacao de, aproximadamente, 500 ml/h, por 8 horas.', 'C) queimadura grave, de segundo grau; reanimacao hidrica com cerca de 500 ml/h de ringer lactato nas primeiras 8 horas e, apos isso, utilizacao de, aproximadamente, 250 ml/h, por 16 horas.', 'D) queimadura moderada, de segundo grau; reanimacao hidrica oral com 0,5 ml/kg/h, por 48 horas, com monitoracao da diurese.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q018',
@@ -18276,7 +18276,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'uma crianca de 6 anos e atendida em pronto-atendimento com febre continua em torno de 40 c. o sintoma iniciou ha aproximadamente 4 dias, a crianca faz uso de paracetamol, sem melhora. apresentou, a partir do 3o dia de doenca, fezes amolecidas, com aspecto de borra de cafe e odor fetido, 3 a 4 episodios/dia. no 4o dia de evolucao, surgiram artralgia em joelhos, rash cutaneo avermelhado de aspecto morbiliforme e sangramento nasal importante. nao ha descricao de sintomas semelhantes na vida pregressa da crianca. diante da suspeita de dengue, o medico decide realizar a prova do laco. para isso ele devera aferir a pressao arterial e',
     options: ['A) calcular o valor medio; insuflar o manguito ate esse valor por 3 minutos; contar o numero de petequias que surgem na area delimitada no antebraco do paciente. se contar mais de 10 petequias, o teste e considerado positivo.', 'B) obter a pressao sistolica; insuflar o manguito ate esse valor por 3 minutos; contar o numero de petequias que surgem na area delimitada no antebraco do paciente. se contar mais de 20 petequias, o teste e considerado positivo.', 'C) calcular o valor maximo; insuflar o manguito ate esse valor por 10 minutos; contar o numero de petequias que surgem na area delimitada no antebraco do paciente. se contar mais de 10 petequias, o teste e considerado positivo.', 'D) obter a pressao a diastolica; insuflar o manguito ate esse valor por 10 minutos; contar o numero de petequias que surgem na area delimitada no antebraco do paciente. se contar mais de 20 petequias, o teste e considerado positivo.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q019',
@@ -18288,7 +18288,7 @@ export const generatedQuestions = [
     questionNumber: 19,
     questionText: 'uma paciente multigesta de 40 anos, cardiopata, com idade gestacional de 39 semanas, esta na maternidade, em trabalho de parto ativo, sendo assistida pela obstetra. durante a evolucao do parto, a paciente comeca a demonstrar exaustao e ausencia de forcas para a finalizacao do expulsivo. a obstetra, entao, decide aplicar um forceps de alivio apos a analgesia. para a realizacao desse procedimento, e necessario constatar a',
     options: ['A) presenca de concepto vivo.', 'B) dilatacao cervical de, pelo menos, 8 cm.', 'C) integridade das membranas amnioticas.', 'D) apresentacao fetal no plano -1 de delee.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q020',
@@ -18312,7 +18312,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'um homem de 65 anos, natural da bahia, procedente da zona rural, e encaminhado ao ambulatorio de gastroenterologia de um hospital escola devido a quadro de disfagia progressiva desenvolvido ha 1 ano. o quadro piorou ha 2 meses. o paciente passou a apresentar vomitos frequentes com restos alimentares, sem sangue. nesse periodo, ele perdeu cerca de 12% de seu peso corporal.',
     options: ['A) partir dessas informacoes, e correto afirmar que a investigacao complementar inicial, considerando a etiologia mais provavel desse quadro, deve incluir', 'A) radiografia de torax.', 'B) dosagem de ca 19-9.', 'C) ressonancia magnetica de torax.', 'D) sorologia para doenca de chagas.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q022',
@@ -18324,7 +18324,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'uma paciente de 62 anos foi submetida a colectomia direita com anastomose primaria devido a adenocarcinoma colonico. ela relata antecedente de radioterapia pelvica para tratamento de neoplasia de endometrio. no 4o dia de pos-operatorio, ela apresenta 39 c de temperatura axilar, distensao abdominal sem defesa, presenca de ferida operatoria sem sinais flogisticos e fistula colo-cutanea com debito de 150 ml/dia em area de cicatriz cirurgica. acerca do tratamento adequado para essa paciente, e correto indicar',
     options: ['A) fistulectomia precoce, correcao do desequilibrio acidobasico, terapia nutricional e controle da sepse.', 'B) tratamento clinico com controle de sepse, correcao hidroeletrolitica volemica, e terapia nutricional.', 'C) fistulografia, jejum, instalacao de nutricao parenteral e abordagem cirurgica do trajeto fistuloso.', 'D) jejum, instalacao de nutricao parenteral e reabordagem cirurgica com colostomia.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q023',
@@ -18336,7 +18336,7 @@ export const generatedQuestions = [
     questionNumber: 23,
     questionText: 'um recem-nascido (rn) a termo, afrodescendente, do sexo masculino, com 26 dias, apresenta quadro de ictericia neonatal zona iii de kramer desde o 3.o dia de vida. seus pais negam outras queixas e afirmam que ambos sao consanguineos (primos). encontra-se em uso de formula lactea com ganho ponderal adequado. nao houve intercorrencias na gestacao e parto. diante dessas informacoes, o medico solicita outros exames. a crianca, entao, retorna a consulta ambulatorial com propedeutica complementar solicitada ha 7 dias. os resultados dos exames realizados podem ser verificados a seguir.',
     options: ['A) tipagem sanguinea da mae e o+ e do recem-nascido e a-. o coombs direto (ou teste de antiglobulina direto) apresenta resultado negativo. exame laboratorial resultado valor de referencia hemoglobina 12 g/dl 12,5 a 20,5 g/dl hematocrito 36% 39 a 63% vcm 80 fl 86 a 124 fl hcm 26 pg 28 a 40 pg chcm 25 g/dl 28 a 38 g/dl plaquetas 450.000/mm3 250.000 a 500.000/mm3 reticulocitos 6,4 % 2,0 a 6,0% bilirrubinas totais 12,8 mg/dl rn 3 - 5 dias: 10,30 mg/dl bilirrubinas diretas 0,8 mg/dl rn 3 - 5 dias: ate 0,4 mg/dl bilirrubinas indiretas 12,0 g/dl tsh 5 u/ml < 10 u/ml considerando-se o caso clinico e os exames complementares realizados, qual e a hipotese diagnostica mais provavel?', 'A) esferocitose hereditaria.', 'B) deficiencia de g6pd.', 'C) anemia falciforme.', 'D) galactosemia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q024',
@@ -18348,7 +18348,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'uma primigesta de 35 anos, com idade gestacional de 12 semanas, comparece a segunda consulta pre-natal no ambulatorio de gestacao de alto risco. apresenta diabetes mellitus tipo 1 desde a infancia e esta adequadamente tratada. em consulta anterior, queixou-se de fadiga, pele seca, queda de cabelo e obstipacao. o medico realizou exame fisico no qual notou a tireoide palpavel, solicitou a realizacao de exames laboratoriais, cujos resultados mostraram tsh de 5,0 mcu/l (valor de referencia [vr]: 0,3 a 4,0 mcu/l) e t4 livre de 0,6 ng/l (vr: 0,9 a 1,5 ng/l). diante desse quadro clinico e do resultado dos exames, alem de iniciar o tratamento com levotiroxina, ate que se atinja a meta de tratamento o seguimento deve ser feito com dosagem mensal de',
     options: ['A) tsh e t4 livre, para reduzir o risco de feto grande para a idade gestacional.', 'B) t3 livre, com a finalidade de reduzir o risco de abortamento.', 'C) t4 livre, a fim de se reduzir o risco de pre-eclampsia.', 'D) tsh, para se evitar o parto prematuro.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q025',
@@ -18360,7 +18360,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'um homem de 78 anos e acompanhado por medico de familia em visitas domiciliares, por ser acamado desde que ficou hemiplegico, em decorrencia de acidente vascular cerebral (avc) aos 75 anos. e portador de hipertensao arterial sistemica (has) controlada e de doenca pulmonar obstrutiva cronica (dpoc) com exacerbacoes progressivamente mais frequentes. na ultima, ha 4 meses, foi necessario realizar internacao hospitalar, ventilacao nao invasiva e antibioticoterapia sistemica. ha 2 dias, segundo seu prontuario e familiares, apresentou tosse persistente, febre baixa e desconforto respiratorio. o medico identificou, ao exame fisico, panturrilhas livres e d-dimero normal e, a ausculta pulmonar, crepitacoes em ambos campos pulmonares. foi prescrito, ao paciente, tratamento por meio de antibioticoterapia via oral e de dose elevada de corticosteroide inalatorio. hoje foi encontrado morto em seu quarto por um familiar que relatou piora da febre e do cansaco na madrugada anterior. seu medico de familia foi chamado para emissao de atestado de obito. o medico fez a avaliacao clinica do corpo, verificando ausencia de sinais de traumas e constatando o obito. considerando o caso descrito, assinale a alternativa que apresenta quem deve preencher o atestado de obito e as causas basicas, antecedentes e contribuintes dele.',
     options: ['A) o legista; causa basica: exacerbacao de dpoc; causa antecedente: avc; causas contribuintes: pneumonia, has e hemiplegia.', 'B) o legista; causa basica: sepse; causa antecedente: insuficiencia respiratoria; causas contribuintes: dpoc, has e sequela de avc.', 'C) o medico de familia; causa basica: broncopneumonia; causa antecedente: dpoc; causas contribuintes: has, hemiplegia e avc.', 'D) o medico de familia; causa basica: parada cardiorrespiratoria; causa antecedente: pneumonia; causas contribuintes: dpoc, hemiplegia e avc.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q026',
@@ -18372,7 +18372,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'uma paciente de 74 anos, com diagnostico de hipertensao arterial sistemica e de diabetes mellitus tipo 2 ha 25 anos, e trazida de instituicao de longa permanencia. ela se queixa de fraqueza acentuada em membros inferiores observada ha, pelo menos, 1 ano e que vem se agravando ha 2 semanas. relata nao ter forca para caminhar e nega febre. ao exame fisico, apresenta-se em estado geral regular, lucida, orientada e hidratada. identifica-se, em exame neurologico, forca grau 3 em membros inferiores; tonus reduzido em panturrilhas bilateralmente; reflexos patelar e aquileu abolidos bilateralmente. observa-se ausencia de alteracoes da rima labial; teste do monofilamento alterado em ambos os pes; pulsos pediosos e tibiais posteriores reduzidos (2+/4+) bilateralmente.',
     options: ['A) partir dessas informacoes, qual e o exame complementar mais adequado para o caso?', 'A) radiografia de coluna lombo-sacra.', 'B) ressonancia magnetica de encefalo.', 'C) ressonancia magnetica de coluna toraco-lombar.', 'D) pesquisa de sensibilidade com o uso de biotesiometro.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q027',
@@ -18384,7 +18384,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'um paciente de 65 anos vai ao samu referindo dor lombar aguda irradiada para membro inferior direito, apos queda da propria altura ocorrida ha 6 horas. ele esta utilizando anti- inflamatorio e analgesico via oral e apresenta retencao urinaria e dor em hipogastrio. possui historico de dor lombar cronica e osteoartrite em coluna lombar e coxofemoral direita. ao exame fisico, apresenta dor a palpacao de regiao pubica com massa palpavel na regiao suprapubica; forca muscular preservada em membros inferiores e reflexos patelar e aquileu preservados bilateralmente; hipoestesia tatil em face posterior de coxa e perna direita e anestesia em regiao perineal bilateral. ressonancia magnetica de coluna lombar mostrou alteracoes degenerativas de discos intervertebrais l3-l4 / l4-l5 / l5-s1, com reducao de forames intervertebrais correspondentes, osteofitos posteriores em corpos vertebrais de l4, l5 e s1, alem de protrusao discal volumosa centro-foraminal a direita em l4-l5, causando estenose foraminal nesse nivel. diante dessas informacoes, a conduta terapeutica adequada, no caso desse paciente, e realizar',
     options: ['A) descompressao cirurgica de urgencia e utilizar analgesico comum.', 'B) tratamento conservador e associar o uso de analgesicos opioides.', 'C) sondagem vesical de demora e usar anti-inflamatorio esteroidal.', 'D) tratamento conservador e manter uso de anti- inflamatorio.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q028',
@@ -18396,7 +18396,7 @@ export const generatedQuestions = [
     questionNumber: 28,
     questionText: 'um escolar de 9 anos, portador de anemia falciforme, politransfundido, encontra-se internado ha 3 dias devido a uma crise algica. evoluiu com melhora da dor e estava afebril e estavel clinicamente. em hemograma, obteve-se hemoglobina de 5,8 g/dl e hematocrito de 16,5%. iniciou-se transfusao de concentrado de hemacias desleucocitadas e fenotipadas. quase ao termino da transfusao, o menino passa a apresentar febre de 38,4 c, calafrios, dor no local do acesso e nos flancos e epistaxe, mantendo-se com estabilidade hemodinamica, acianotico, anicterico e sem outras alteracoes ao exame fisico.',
     options: ['A) radiografia de torax esta sem alteracoes. nesse caso, o que provavelmente esta acontecendo e uma', 'A) sobrecarga circulatoria associada a transfusao.', 'B) lesao pulmonar aguda relacionada a transfusao (trali).', 'C) reacao febril nao hemolitica.', 'D) hemolise aguda.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q029',
@@ -18408,7 +18408,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'uma primigesta de 17 anos, com idade gestacional de 35semanas, comparece a pre-natal com queixa de nauseas e relato de vomitos, em media, 4 vezes por dia. ao exame fisico, e identificado que a altura do fundo uterino esta 3 cm menor que o esperado para a idade gestacional. o medico orienta exame de ecografia obstetrica devido a suspeita de restricao de crescimento fetal. considerando-se os parametros ecograficos que podem ser utilizados para avaliar essa condicao, assinale a alternativa correta.',
     options: ['A) o diametro biparietal fetal e a medida isolada de maior sensibilidade para esse diagnostico; o estudo com doppler so sera necessario se comprovada a restricao de crescimento abaixo do percentil 3.', 'B) a circunferencia abdominal fetal e a medida isolada de maior sensibilidade para esse diagnostico; o estudo com doppler permitira avaliar a circulacao materna, a circulacao feto-placentaria e a circulacao fetal.', 'C) a circunferencia abdominal fetal dividida pelo comprimento do femur fetal e o parametro de maior sensibilidade para esse diagnostico; o estudo com doppler reduz a prematuridade iatrogenica e a mortalidade perinatal.', 'D) todos os parametros para mensuracao do peso fetal sao igualmente sensiveis para esse diagnostico; o estudo com doppler permitira avaliar apenas a arteria cerebral media, a aorta abdominal, o ducto venoso e o seio venoso transverso.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q030',
@@ -18420,7 +18420,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'em certo municipio brasileiro, a gestao da saude e feita de forma centralizada: todas as decisoes e acoes sao tomadas por um pequeno grupo de gestores sem a participacao efetiva da populacao. isso tem gerado descontentamento e desconfianca por parte dos cidadaos, que sentem que suas necessidades e demandas nao estao sendo consideradas. um grupo de moradores, entao, decide organizar-se para reivindicar maior participacao no processo de gestao da saude. a primeira medida que esses moradores tomam e buscar informacoes sobre o controle social no sus. esse grupo de moradores descobriu, com base na lei n. 8.142 de 1990 e no decreto n. 7.508 de 2011, que eles tem o direito de',
     options: ['A) votar na conferencia municipal de saude a cada 3 anos e na conferencia estadual de saude a cada 6 anos.', 'B) participar de conselhos de saude em proporcao nao paritaria em relacao ao conjunto dos demais segmentos.', 'C) eleger representantes para o conselho estadual de saude, que deve ser composto por, no minimo, 50% de usuarios.', 'D) atuar na gerencia de unidades basicas municipais de saude apos realizacao de curso fornecido pelo ministerio da saude.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q031',
@@ -18432,7 +18432,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'um homem de 66 anos, com hipertensao arterial sistemica e sem outros antecedentes pessoais ou familiares, comparece a um ambulatorio de pneumologia de um hospital terciario referindo ser tabagista (39 anos/maco) e estar com medo de ter cancer de pulmao. ele apresentou o resultado de uma tomografia de torax, sem contraste, realizada ha 2 semanas, que revelou um nodulo solido, unico, medindo 18 mm, em parenquima de lobo inferior de pulmao esquerdo. diante desse quadro, o paciente foi encaminhado pelo medico para investigacao. nesse caso, a conduta medica mais adequada e solicitar que o paciente realize',
     options: ['A) controle anual por tomografia de torax.', 'B) broncoscopia com lavado bronquico.', 'C) tomografia de torax com contraste.', 'D) biopsia guiada por ultrassonografia.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q032',
@@ -18444,7 +18444,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'um paciente foi submetido a laparotomia para realizacao de transplante hepatico, com duracao de 8 horas de procedimento cirurgico. no primeiro dia de pos-operatorio, ainda em ventilacao mecanica, ele apresenta um pico febril de 38 c. considerando esse quadro clinico, o exame complementar que devera ser solicitado para investigacao da etiologia mais prevalente de febre nessas condicoes e a',
     options: ['A) ultrassonografia de abdome.', 'B) radiografia de torax.', 'C) hemocultura.', 'D) urocultura.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q033',
@@ -18456,7 +18456,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'um menino de 10 anos, escolar, e levado a unidade de pronto- atendimento com queixa de dor em bolsa escrotal esquerda iniciada ha 3 horas. a crianca e eutrofica, sem antecedendes morbidos e sem historia de trauma ou de quedas. ao exame testicular, o local da dor apresenta-se com edema e o testiculo esquerdo encontra-se localizado em porcao superior ao contralateral, proximo ao anel inguinal externo, com reflexo cremasterico abolido, cuja manobra de elevacao e dolorosa. nesse caso, a conduta medica correta e realizar',
     options: ['A) encaminhamento imediato para o centro de referencia de cirurgia infantil mais proximo.', 'B) prescricao de antibiotico e de analgesico oral, com retorno ambulatorial para reavaliacao.', 'C) prescricao de anti-inflamatorio e de analgesico oral, com orientacao de repouso absoluto.', 'D) solicitacao de ultrassonografia de bolsa escrotal e de retorno ambulatorial para reavaliacao.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q034',
@@ -18468,7 +18468,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'uma paciente nulipara de 30 anos vai a consulta na unidade basica de saude para mostrar seu exame citologico de colo uterino. o resultado constata a presenca de celulas escamosas, glandulares e metaplasicas e atipias nucleares limitrofes (ascus). nesse caso, a conduta medica adequada e',
     options: ['A) indicar que a paciente repita o exame citologico em 6 meses.', 'B) indicar que a paciente realize biopsia dirigida pelo teste de schiller.', 'C) encaminhar a paciente para acompanhamento em servico terciario.', 'D) encaminhar a paciente para realizacao de conizacao do colo uterino.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q035',
@@ -18480,7 +18480,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'um paciente de 70 anos, vitima de acidente vascular cerebral, sem sequelas, vai a uma consulta de retorno apos receber alta hospitalar. o medico da unidade basica de saude, ao analisar o caso do paciente, prescreve aspirina 100 mg para uso diario. nesse caso, o medico prescreveu esse medicamento a fim de evitar um novo evento cardiovascular, realizando, entao, uma prevencao',
     options: ['A) primaria.', 'B) terciaria.', 'C) secundaria.', 'D) quaternaria.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q036',
@@ -18492,7 +18492,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'durante um exame admissional para motorista, um paciente e que se sente culpado pelo uso diario de 3 cervejas. relata haver tentado reduzir esse consumo, sem sucesso. nega uso de alcool pela manha. nao relatou sentir-se aborrecido pelo que familiares, ou outras pessoas proximas a ele, possam pensar sobre seu consumo frequente de bebida alcoolica. no questionario audit, esse paciente teve escore 22 de 40 pontos. assinale a alternativa que apresenta a informacao correta quanto ao diagnostico e a abordagem adequados para esse paciente.',
     options: ['A) rastreamento negativo; orientar o paciente a reduzir o consumo para 14 cervejas por semana, sendo dispensado o tratamento farmacologico nesse caso.', 'B) rastreamento positivo; orientar o paciente sobre riscos de dirigir embriagado e oferecer naltrexona ou acamprosato para fins de tratamento farmacologico.', 'C) rastreamento positivo; orientar o paciente sobre riscos de dirigir embriagado e oferecer dissulfiram e benzodiazepinicos para fins de tratamento farmacologico.', 'D) rastreamento negativo, mas consumo excessivo; orientar o paciente sobre riscos de dirigir embriagado e oferecer naltrexona para fins de tratamento farmacologico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q037',
@@ -18504,7 +18504,7 @@ export const generatedQuestions = [
     questionNumber: 37,
     questionText: 'uma paciente de 64 anos e socorrida, em via publica, pelo samu por queda da propria altura com rebaixamento do nivel de consciencia. ao exame fisico, constata-se ferida corto- contusa na regiao occipital direita de 3 cm; glasgow 9; pressao arterial de 110  70 mmhg; e frequencia cardiaca de 88 batimentos por minuto. ao exame pulmonar, percebe-se expansibilidade preservada bilateralmente e, a ausculta cardiaca, constata-se bulhas ritmicas e normofoneticas. o abdome apresenta-se flacido e indolor. nesse caso, a conduta imediata deve ser a',
     options: ['A) intubacao com inclinacao da cabeca para tras, em extensao cervical, e realizar elevacao do mento.', 'B) ventilacao com mascara por meio da tracao anterior da mandibula com discreta flexao cervical.', 'C) intubacao com tracao anterior pelo angulo da mandibula com discreta rotacao cervical para o lado do socorrista.', 'D) ventilacao com pincamento da arcada dentaria inferior, com apoio no mento, fazendo tracao para abertura bucal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q038',
@@ -18552,7 +18552,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'uma mulher de 33 anos vai a uma consulta com um clinico geral por se sentir muito deprimida, referindo tristeza e desanimo, que comecaram ha 6 meses. ela conta que e natural e procedente de sao paulo, programadora de computadores, catolica nao praticante, casada ha 6 anos, com dois filhos, e que e sedentaria. refere sentir muita fadiga, cansaco, indisposicao e sono e que ganhou 7 kg nesse periodo. nega ter pensamentos de morte, de culpa ou de menos-valia. conta, tambem, que recebeu diagnostico de depressao e, por isso, usou fluoxetina durante 2 meses, ate 60 mg por dia, sem apresentar melhora significativa. por fim, referiu ter irregularidade menstrual e constipacao. ao exame, apresenta- se hidratada, corada, afebril, sem edemas, anicterica. seus sinais vitais estao sem alteracoes, exceto a frequencia cardiaca que esta 48 batimentos por minuto em repouso. a ausculta cardiaca, notam-se bulhas normofoneticas, sem sopros. diante desse quadro, o principal diagnostico diferencial a ser investigado e',
     options: ['A) transtorno depressivo persistente.', 'B) transtorno depressivo secundario.', 'C) transtorno de somatizacao.', 'D) sindrome de burnout.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q042',
@@ -18564,7 +18564,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'um paciente, que esta no 5o dia pos-operatorio de gastroduodenopancreatectomia para o tratamento de neoplasia da papila duodenal, e encaminhado a consulta. ao examina-lo, o medico nota o paciente normocardico, afebril, com drenagem de 500 ml/24h de secrecao clara e limpida por meio de dreno abdominal. a ferida cirurgica esta sem sinais de flogose. nesse caso, para o diagnostico de eventual complicacao, deve- se realizar',
     options: ['A) ultrassonografia endoscopica.', 'B) cultura e antibiograma da secrecao.', 'C) dosagem de amilase e lipase da secrecao.', 'D) colangiopancreatografia retrograda endoscopica.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q043',
@@ -18576,7 +18576,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'encontra-se na maternidade um recem-nascido a termo, peso 3 kg, estatura 50 cm, apgar 9/10, cujo pre-natal e parto transcorreram sem intercorrencias. os exames fisico e neurologico nao apresentaram alteracoes. com relacao aos antecedentes familiares, o pai e heterozigoto para anemia falciforme e a eletroforese de hemoglobina materna mostra homozigose com padrao hbaa. para esse caso, assinale a alternativa que apresenta a orientacao correta relacionada a anemia falciforme.',
     options: ['A) o paciente apresenta 25% de chance de apresentar o traco falciforme.', 'B) o paciente apresenta 25% de chance de desenvolver anemia falciforme.', 'C) o pai nao transmitiu o gene alterado pois a anemia falciforme e heranca ligada ao sexo.', 'D) o pai teve 50% de chance de ter transmitido a hemoglobina s para o recem-nascido. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q044',
@@ -18588,7 +18588,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'uma primigesta, com idade gestacional de 39 semanas, assistida em pre-natal de baixo risco, e admitida no pronto- socorro obstetrico com queixa de colica forte que vai e volta, nega outras queixas. com intuito de avaliar se a paciente esta em trabalho de parto, o medico pede consentimento a gestante para executar o exame fisico, informando que precisa realizar, entre outras etapas, a avaliacao da dinamica uterina. sobre a avaliacao da dinamica uterina, o medico explica para a gestante que o procedimento consiste em colocar a mao espalmada',
     options: ['A) no fundo uterino e, a partir da percepcao de uma contracao, contar o numero e duracao das contracoes em 10 minutos.', 'B) na regiao suprapubica e, a partir da percepcao de uma contracao, contar o numero e duracao das contracoes em 10 minutos.', 'C) no fundo uterino e, a partir da percepcao de uma contracao, contar o numero e duracao das contracoes em 5 minutos.', 'D) na regiao suprapubica e, a partir da percepcao de uma contracao, contar o numero e duracao das contracoes em 5 minutos.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q045',
@@ -18600,7 +18600,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'um homem de 39 anos, morador de rua, procura espontaneamente a unidade basica de saude para atendimento. ele relata sentir dores de cabeca ha 3 dias. afirma que e etilista, tabagista e nega uso de drogas ilicitas. seus exames fisico, neurologico e psiquico apresentam-se sem alteracoes e sem criterios para enxaqueca. o paciente esta com tosse pouco produtiva ha 8 dias, nao sabe relatar perda de peso e apresenta papulas com escoriacoes em membros superiores e abdome. nesse caso, qual exame devera ser solicitado com prioridade para investigacao diagnostica?',
     options: ['A) tomografia computadorizada de torax.', 'B) dosagem de tiamina serica.', 'C) teste do escarro (baar).', 'D) teste rapido de sifilis.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q046',
@@ -18612,7 +18612,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'um homem de 68 anos busca uma unidade de pronto-atendim cervical anterior, de intensidade moderada. o primeiro episod espontaneamente, apos 15 minutos de duracao. relata que, ha aperto, irradiada para regiao cervical, um pouco mais intensa d o paciente e hipertenso ha 16 anos e diabetico ha 7 anos. faz uso 5 mg ao dia, e de metformina, 850 mg 2 vezes ao dia. nega tabag que seu irmao mais velho faleceu por infarto agudo do mioca o paciente realizou dosagem de troponina ao ser admitido e apos o primeiro na admissao e, o segundo, depois de 30 minutos: ecg ad 2024 segunda edicao mento devido a dor precordial tipo aperto, irradiada para regiao dio de dor se iniciou ha aproximadamente 4 horas e cessou, 20 minutos, iniciou-se um novo episodio de dor precordial, tipo do que a anterior e que, no momento, parece estar diminuindo. o diario de enalapril, 20 mg de 12 em 12 horas, de glibenclamida, gismo e refere fazer caminhadas diarias de ate 40 minutos. relata ardio ha 30 dias. o exame fisico apresentou-se sem alteracoes. 3 horas, ambas com resultados normais. tambem realizou 2 ecgs: dmissao ecg apos 3 nesse caso, a conduta terapeutica correta e proceder com',
     options: ['A) realizacao de oxigenioterapia, de analgesia, de terapias anti-is paciente a unidade de terapia intensiva.', 'B) prescricao de fibrinolise pre-hospitalar e, posteriormente, enc', 'C) encaminhamento do paciente ao laboratorio de hemodinamic', 'D) acolhimento do paciente, dando a ele orientacoes e encaminh'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q047',
@@ -18624,7 +18624,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'um paciente jovem, vitima de acidente automobilistico, da entrada no pronto-socorro eupneico, consciente e com escoriacoes por todo o corpo. ao exame neurologico da motricidade, conforme padronizado pela american spinal cord injury association (asia), nota-se movimentos dos membros superiores simetricos e sem deficits (grau 3). quanto aos membros inferiores, os grupos musculares do membro inferior esquerdo respondem de forma adequada (grau 3), contudo, ao examinar o membro inferior direito no sentido craniocaudal, na extensao do joelho direito, o medico percebe uma contracao apenas a palpacao, em grau 1. assinale a alternativa que apresenta o musculo envolvido nesse deficit e o provavel nivel de lesao medular desse paciente.',
     options: ['A) iliopsoas do compartimento anterior da coxa; nivel l1 da coluna vertebral.', 'B) biceps femoral do compartimento posterior da coxa; nivel l4-s3 da coluna vertebral.', 'C) quadriceps do compartimento anterior da coxa; nivel de l3 da coluna vertebral.', 'D) obturador externo do compartimento medial da coxa; nivel l5 da coluna vertebral.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q048',
@@ -18636,7 +18636,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'uma mae leva seus dois filhos, em idade pre-escolar, a consulta ambulatorial em uma unidade basica de saude (ubs). ela relata que, ha cerca de 10 dias, levou as criancas a um passeio na regiao onde mora. aproximadamente 1 semana apos esse passeio, os dois apresentaram lesoes eritematosas com aspecto serpiginoso e linear na pele. um deles apresentou as lesoes nos pes, enquanto o outro nas maos. a mae relata que o prurido intenso das lesoes deixa as criancas bastante incomodadas. nega lesoes nos adultos. ainda afirma que, como tinha uma pomada a base de dexametasona em casa, passou essa pomada nas lesoes das criancas 3 vezes ao dia ate conseguir leva-los a ubs. no entanto, nao houve qualquer melhora do quadro. considerando-se esse caso clinico, assinale a alternativa que apresenta, respectivamente, o diagnostico desse quadro e o tratamento adequado.',
     options: ['A) escabiose; uso de locao de permetrina a 5%.', 'B) pediculose corporis; uso de ivermectina.', 'C) dermatite atopica; uso de hidrocortisona topica.', 'D) larva migrans; uso de tiabendazol creme topico.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q049',
@@ -18648,7 +18648,7 @@ export const generatedQuestions = [
     questionNumber: 49,
     questionText: 'uma mulher de 35 anos, nuligesta, vai a consulta em ambulatorio de dor pelvica cronica de hospital universitario com queixa de dismenorreia progressiva e de hematoquezia quando esta menstruada. relata que as colicas menstruais pioraram ha 5 anos e que precisou procurar o pronto-socorro em duas ocasioes por dor pelvica forte e necessidade de medicacao intravenosa. afirma nao fazer uso de contracepcao hormonal, por nao ter atividade sexual ha 10 anos. nega doencas cronicas ou uso de medicacoes. refere constipacao com piora nos ultimos 6 meses, com distensao abdominal. ao exame fisico, observa-se abdome indolor a palpacao, exame especular sem lesoes visiveis, toque vaginal com dor a mobilizacao do colo uterino, utero pouco movel e palpacao de nodulos endurecidos e doloridos em fornice vaginal posterior. considerando a provavel hipotese diagnostica, a investigacao inicial adequada devera ser com',
     options: ['A) tomografia do abdome para a identificacao das lesoes profundas de endometriose.', 'B) laparoscopia para visualizacao da distorcao da anatomia pelvica causada pela endometriose.', 'C) histerossonossalpingografia para avaliacao da distorcao da anatomia pelvica pela endometriose.', 'D) ressonancia magnetica da pelve para mapeamento das lesoes profundas de endometriose.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q050',
@@ -18660,7 +18660,7 @@ export const generatedQuestions = [
     questionNumber: 50,
     questionText: 'uma associacao de pacientes ostomizados de um municipio pressiona os gestores de saude para a disponibilizacao  ou para o financiamento  de bolsas e de capacitacao em cuidados com ostomias na atencao primaria em saude. diante disso, uma medica de uma unidade basica de saude decide levar a proposta para a reuniao do conselho municipal de saude (cms). nesse caso, no que diz respeito ao funcionamento desse conselho, e correto afirmar que',
     options: ['A) a discussao a respeito dessa proposta deve ser feita na secretaria de saude municipal, uma vez que a prerrogativa de proposicao de novos servicos e do poder executivo.', 'B) a participacao da associacao e vedada nas reunioes, considerando-se que os participantes dos conselhos sao trabalhadores e gestores da area da saude.', 'C) a aprovacao da capacitacao em cuidados com ostomias e possivel, diferentemente da aprovacao de novos gastos, tais como compra de bolsas de ostomias.', 'D) a viabilizacao da execucao do plano cabe a secretaria de saude, no caso de aprovacao da proposta pelo cms.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q051',
@@ -18672,7 +18672,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'um homem de 68 anos, portador de enfisema pulmonar e de fibrilacao atrial (fa) permanente, encontra-se internado na sala vermelha de uma unidade de pronto-atendimento em razao de exacerbacao aguda de doenca pulmonar obstrutiva cronica. subitamente, ele apresenta dessaturacao e apneia. a equipe observa que o paciente encontra-se em parada cardiorrespiratoria, a despeito de manter o ritmo de fa  agora em alta resposta ventricular. iniciados os procedimentos de reanimacao cardiopulmonar, e constatada turgencia jugular e ausencia de expansibilidade em hemitorax direito, mesmo com a ventilacao com bolsa-mascara; alem disso, a percussao local revela timpanismo. ja foi administrada uma dose de 1 mg de epinefrina intravenosa. diante do quadro desse paciente, a conduta indicada e',
     options: ['A) proceder a imediata cardioversao eletrica da fibrilacao atrial.', 'B) realizar toracocentese imediata no 5o espaco intercostal direito.', 'C) substituir as proximas doses de adrenalina por amiodarona.', 'D) providenciar esternotomia imediata para massagem cardiaca interna.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q052',
@@ -18684,7 +18684,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'um paciente de 25 anos esta internado ha 10 dias com politraumatismo devido a acidente de moto. ele esta acamado, com multiplas escoriacoes na perna, e na face lateral da coxa direita  em regiao de projecao da articulacao coxo-femoral. apresenta febre e inapetencia ha 5 dias. refere aparecimento subito de dor intensa, ha 3 dias, que nao cede aos analgesicos comuns, acompanhada de area eritematosa e dolorosa a palpacao, em regiao inguinal, estendendo-se ao terco proximal da face anterior da coxa. constata-se que ha limitacao na amplitude do movimento da articulacao coxo-femoral em virtude da dor. o exame de imagem mais indicado para o diagnostico desse paciente e a',
     options: ['A) radiografia simples.', 'B) ressonancia magnetica.', 'C) tomografia computadorizada.', 'D) cintilografia com radioisotopos.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q053',
@@ -18696,7 +18696,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'um recem-nascido (rn) com 25 dias de vida, masculino, e levado por sua mae para consulta na unidade de saude com historia de febre de 39 c, recusa alimentar e vomitos. a mae relata que seu filho esta em aleitamento materno exclusivo e que e a primeira vez que ele fica doente. ao exame fisico, nota- se rn irritado, com temperatura axilar de 38,3 c, sem nenhuma outra alteracao. ao hemograma, observa-se leucocitose com neutrofilia e plaquetas normais. a rotina de urina, nota-se piuria, estearase positiva, nitrito positivo e flora aumentada. em gram de gota de urina nao centrifugada, e constatada presenca de bastonete gram negativo (> 1 bacteria/campo de imersao). considerando o provavel diagnostico, a conduta imediata do medico deve ser',
     options: ['A) repetir todos os exames e, caso seja confirmado o diagnostico, internar a crianca e iniciar tratamento parenteral.', 'B) introduzir antibiotico parenteral imediatamente, confirmar o diagnostico pela urocultura e pedir cintigrafia com dmsa e ultrassonografia em 30 dias.', 'C) internar o rn, iniciar antibiotico imediatamente, sem necessidade de confirmacao pela urocultura e realizar ultrassonografia apos o termino do tratamento.', 'D) iniciar antibiotico oral ambulatorialmente e ja pedir ultrassonografia renal e de vias urinarias, alem de programar cintigrafia com dmsa assim que a crianca tiver alta.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q054',
@@ -18708,7 +18708,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'uma primigesta de 41 anos, com idade gestacional de 20 semanas, vai a consulta pre-natal para levar seus exames de rotina, sem apresentar outras queixas. seu exame fisico esta normal, os batimentos cardiacos fetais estao em 140 batimentos por minuto e o fundo uterino e de 21 cm. ao checar os exames, a medica observou que a glicemia de jejum da paciente era de 110 mg/dl. os demais exames de rotina pre-natal estavam normais. diante desse quadro, a conduta adequada para essa paciente e',
     options: ['A) realizar teste oral de tolerancia a glicose com 75 g entre 30 e 34 semanas de gestacao, pois ela apresenta pre-diabetes.', 'B) realizar teste de glicemia de jejum entre 28 e 30 semanas de gestacao, a fim de confirmar o diagnostico de diabetes gestacional.', 'C) iniciar uso de insulina nph para evitar complicacoes mais graves para a mae e para o feto, pois ela apresenta uma alteracao na producao de insulina.', 'D) iniciar tratamento com dieta pobre em carboidrato e comecar a praticar atividade fisica regular, pois ela apresenta diagnostico de diabetes gestacional.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q055',
@@ -18720,7 +18720,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'uma medica, ao assumir seu cargo em uma unidade basica de saude, observa alta incidencia de pacientes fumantes na comunidade. visando obter reducao importante do tabagismo nesta comunidade ela estabelece um plano de acao. considerando as orientacoes do ministerio da saude para o tabagismo, assinale a alternativa que, apresenta a estrategia mais efetiva e viavel.',
     options: ['A) implementar consultas individuais semanais para os fumantes, fornecendo orientacoes personalizadas.', 'B) promover campanha semanal contra o tabagismo, ofertando palestras sobre seus maleficios.', 'C) organizar grupo de apoio para cessacao do tabagismo, com encontro semanal no primeiro mes.', 'D) realizar visitas domiciliares semanais para incentivar o uso de adesivo e de medicamentos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q056',
@@ -18732,7 +18732,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'uma mulher de 42 anos e levada por familiares a emergencia apresentando estado confusional e elevacao importante da pressao arterial. os familiares relatam que ela comecou, recentemente, tratamento para hipertensao e que, nos ultimos dias, tem se queixado de palpitacoes, cefaleia e sensacao de cabeca leve. atualmente, esta utilizando metoprolol em substituicao a clonidina, alem de hidroclorotiazida e enalapril. ao exame fisico, apresenta-se agitada, confusa, com pupilas dilatadas e edema papilar, ela esta sudoreica, com as extremidades apresentando discreto tremor e pulsos perifericos amplos, pressao arterial de 230  150 mmhg, frequencia cardiaca de 115 batimentos por minuto e saturacao de oxigenio de 89%. realizada tomografia de cranio e coleta de liquor, cujos resultados nao apresentaram evidencias de hemorragia intracraniana ou de infeccao. o resultado da pesquisa de drogas na urina foi negativo. diante desse quadro, a conduta imediata mais adequada para essa paciente e',
     options: ['A) transferi-la para a unidade de terapia intensiva, intuba-la e realizar exame para mensurar as enzimas cardiacas.', 'B) monitoriza-la, puncionar acesso venoso calibroso, iniciar oxigenoterapia com mascara e administrar nitroprussiato de sodio por via intravenosa.', 'C) interna-la em enfermaria, prescrever diureticos, ansioliticos, ieca ou bra e betabloqueadores e solicitar ressonancia magnetica.', 'D) acompanha-la em enfermaria nas proximas 24 horas, aguardar melhora do quadro e encaminha-la para atendimento ambulatorial.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q057',
@@ -18744,7 +18744,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'uma mulher de 29 anos procura atendimento na emergencia com quadro agudo de dor abdominal em fossa iliaca esquerda, com irradiacao para mesogastrio. apresenta diarreia e nausea, nega ter tido febre. a paciente refere episodios de urgencia fecal, com presenca de muco e de sangue, e refere ter perdido 10% do peso corporal nos ultimos 12 meses. ela e tabagista ativa, nega etilismo e apresenta indice de massa corporal de 22 kg/m2. ao exame fisico, apresenta dor abdominal a palpacao em todo abdome inferior, sem defesa muscular ou descompressao brusca positiva. com base nessas informacoes, e correto afirmar que o diagnostico mais provavel para o caso clinico apresentado e',
     options: ['A) tumor de retossigmoide.', 'B) retocolite ulcerativa.', 'C) diverticulite aguda.', 'D) colite isquemica.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q058',
@@ -18756,7 +18756,7 @@ export const generatedQuestions = [
     questionNumber: 58,
     questionText: 'uma pre-escolar de 3 anos e levada a consulta medica de rotina por seu pai e, ao exame ocular do paciente, notam-se manchas esbranquicadas com aspecto de espuma na conjuntiva, alem de xeroftalmia. o pai refere que, por motivo de crenca pessoal, nao vacina sua filha e que ela teve sarampo ha 3 meses. relata que ela consome muitas guloseimas, nao gostando de frutas, de verduras, de legumes e nem de carne. nega que a crianca tenha feito uso de suplementacao de micronutrientes previamente. o quadro dessa crianca esta mais associado, provavelmente, a deficiencia nutricional de',
     options: ['A) ferro.', 'B) zinco.', 'C) vitamina a.', 'D) vitamina d.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q059',
@@ -18792,7 +18792,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'uma paciente de 46 anos, vendedora de roupas, e atendida em consulta ambulatorial por medico de familia relatando dor constante em regiao do pescoco, em regiao superior do dorso e em ambos os bracos ha 6 meses. apresenta, tambem, dor nas pernas, as quais atribui ao trabalho, pois fica em pe por horas. ela relata duas avaliacoes previas nas quais realizou exames laboratoriais, com hemograma e vhs normais. foram prescritos analgesicos, nas outras ocasioes, os quais proporcionaram pequena melhora temporaria no quadro. a paciente relata que ficou viuva ha 1 ano e que cuida sozinha dos dois filhos pequenos, sendo responsavel pelo sustento financeiro da casa. informa que as dificuldades financeiras tem tirado seu sono e que ela tem estado muito cansada e com a memoria ruim. ao exame fisico, apresenta dor a palpacao da regiao occipital, do pescoco e do torax superior. suas articulacoes estao preservadas, sem dor nem edema. o exame fisico apresenta-se sem outras anormalidades. em relacao ao provavel diagnostico, qual deve ser o tratamento medicamentoso de manutencao a ser associado as medidas nao farmacologicas?',
     options: ['A) amitriptilina 25 mg, por via oral, a noite.', 'B) fluoxetina 20 mg, por via oral, pela manha.', 'C) prednisona 20 mg, por via oral, pela manha.', 'D) naproxeno 550 mg, por via oral, de 12 em 12 horas.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q062',
@@ -18804,7 +18804,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'uma menina de 5 anos chega ao pronto-socorro pediatrico acompanhada pelo pai. ele relata ter aplicado um protetor solar em aerossol no rosto da filha ha cerca de 30 minutos. desde entao, ela apresenta uma ardencia intensa nos olhos, vermelhidao e sensibilidade a luz. nesse caso, de acordo com as diretrizes atuais do atls, qual deve ser o tratamento inicial adotado para essa paciente?',
     options: ['A) irrigacao com soro fisiologico ou ringer lactato.', 'B) irrigacao com corticoide e antibiotico topicos.', 'C) aplicacao local de pomada antibiotica.', 'D) aplicacao local de colirio analgesico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q063',
@@ -18816,7 +18816,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'um escolar de 8 anos e levado a consulta de rotina por sua mae, que relata estar preocupada com o desenvolvimento de seu filho. relata ter sido alertada pela escola que o menino tem comportamento bastante impulsivo e indisciplinado, que nao demonstra interesse pelas atividades desenvolvidas em sala, que nao termina as tarefas propostas e que atrapalha os demais alunos com conversas frequentes ou com brincadeiras. ela conta que ele e, de forma geral, desatento, agitado e desmotivado. relata que desde os 4 anos ele tem esse tipo de comportamento e que, em algumas ocasioes, ele reagiu agressivamente  mas nunca em ambiente escolar. a anamnese, percebe-se erro alimentar, com preferencia por alimentos acucarados e por carboidratos e, ao exame clinico, apresenta-se na faixa de sobrepeso, segundo a curva de indice de massa corporea, sem outras anormalidades. considerando o quadro descrito, trata-se de um caso suspeito de',
     options: ['A) transtorno opositor-desafiador, deve-se realizar uma avaliacao clinica e psicossocial completa, e o diagnostico deve se basear em sintomas de desatencao, de irritacao e de impulsividade, a partir de escalas variadas.', 'B) transtorno do deficit de atencao e hiperatividade, deve-se realizar uma avaliacao clinica e psicossocial completa, e o diagnostico deve se basear em sintomas indicativos de desatencao, de hiperatividade e de impulsividade, a partir de escalas validadas.', 'C) transtorno opositor-desafiador, deve-se realizar uma avaliacao psiquiatrica completa, e o diagnostico deve se basear em sintomas indicativos de desobediencia, de atitudes de desafio e de hostilidade contra figuras de autoridade, a partir de escalas validadas.', 'D) transtorno do deficit de atencao e hiperatividade, deve-se realizar uma avaliacao psiquiatrica completa, e o diagnostico deve se basear em sintomas indicativos de desatencao, de dificuldade em aceitar regras e de irritacao, a partir de escalas validadas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q064',
@@ -18828,7 +18828,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'uma adolescente de 17 anos vai a consulta na unidade basica de saude referindo sangramento genital intermitente ha 1 mes. diz que, desde a menarca, que ocorreu aos 12 anos, apresenta ciclos oligomenorreicos, menstruando, no maximo, 4 vezes ao ano. refere, ainda, possuir pele oleosa e acne. afirma ter iniciado atividade sexual ha 6 meses, com uso irregular de preservativo masculino nas relacoes. ao exame fisico, apresenta-se hidratada e em bom estado geral. ao exame ginecologico, observa-se sangramento coletado por especulo em fundo vaginal, sem lesoes visiveis, toque vaginal com o utero movel, de tamanho habitual e indolor a mobilizacao do colo uterino. considerando esse caso, e correto afirmar que',
     options: ['A) a paciente esta com sintomas sugestivos de abortamento incompleto, devendo-se realizar uma curetagem uterina.', 'B) o quadro clinico e compativel com hiperandrogenismo clinico, devendo-se iniciar o uso de acetato de ciproterona.', 'C) o quadro clinico e compativel com a sindrome dos ovarios policisticos, o sangramento uterino se deve a anovulacao cronica.', 'D) a paciente esta com sangramento uterino anormal, sendo necessario descartar a possibilidade de gravidez nao diagnosticada.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q065',
@@ -18840,7 +18840,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'uma primigesta de 23 anos, com 18 semanas e 4 dias de idade gestacional, procura a unidade basica de saude apresentando queixa de febre de 38 c ha 1 dia. a febre esta associada a exantema maculopapular, prurido, artralgia leve e cefaleia. no municipio onde a paciente reside, ha casos confirmados de dengue, chikungunya e zika. acerca desse caso, assinale a alternativa que apresenta a melhor conduta.',
     options: ['A) solicitar sorologias igm para zika e para dengue, que, se positivas, confirmam caso de infeccao recente por zika, frente aos sintomas apresentados pela paciente; registrar no cartao da gestante a ocorrencia do exantema.', 'B) solicitar rt-pcr para zika, pois a paciente pertence a grupo prioritario para confirmacao laboratorial especifica e, se positiva, confirma o caso de infeccao por zika; registrar no cartao da gestante a ocorrencia do exantema.', 'C) solicitar rt-pcrs para dengue e chikungunya, que, se negativas, indicam a solicitacao de sorologia igm para dengue; nesse caso, e inadequado realizar o registro do exantema no cartao da gestante, pois o diagnostico de zika tera sido descartado.', 'D) solicitar sorologias igm para zika e dengue, que, se positivas, confirmam caso de infeccao recente por dengue pela possibilidade de reacao cruzada; nesse caso, e inadequado realizar o registro do exantema no cartao da gestante, pois o diagnostico de zika tera sido descartado.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q066',
@@ -18852,7 +18852,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'um homem de 67 anos comparece a consulta de rotina. diagnosticado com diabetes mellitus tipo 2 ha cerca de 12 meses, em uso regular de metformina 500 mg de 12 em 12 horas. possui historia previa de infarto agudo do miocardio ha 5 anos. comparece a consulta de acompanhamento com exames laboratoriais de controle recentes, que apresentam resultados semelhantes aos exames anteriores, realizados ha 3 e ha 6 meses. exame resultado valor de referencia ureia 28 mg/dl 13 a 43 mg/dl creatinina 1,04 mg/dl 0,60 a 1,30 mg/dl taxa de filtracao glomerular (tfg  ckp 74,99 ml/min/1,73 m2 > 90 ml/min/1,73 m2 - epi) glicemia de jejum 144 mg/dl < 100 mg/dl hemoglobina glicada 7,2% 4,5 a 5,6% albuminuria em amostra isolada de 234 mg/l < 30 mg/l urina observacao: tfg  ckd - epi corresponde a estimativa da taxa de filtracao glomerular pela formula proposta pela chronickidneydiseaseepidemiologycollaboration.',
     options: ['A) conduta recomendada para esse paciente e', 'A) manter a medicacao em uso e solicitar exame de dosagem de proteinuria em amostra de urina de 24 horas.', 'B) manter a medicacao em uso e agendar consulta de retorno solicitando a realizacao dos exames habituais.', 'C) trocar o tratamento para um esquema a base de insulina e solicitar exame de dosagem de proteinuria em amostra de urina de 24 horas.', 'D) associar um medicamento inibidor do receptor sglt2 (cotransportador sodio-glicose 2) e manter acompanha- mento habitual.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q067',
@@ -18864,7 +18864,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'uma paciente de 30 anos, vitima de ferimento em hipogastrio por projetil de arma de fogo, e submetida a procedimento de vesicorrafia e de histerectomia total de urgencia. durante a internacao hospitalar, ela evolui com perda de urina pela vagina e hidronefrose a esquerda, demonstrada em tomografia de abdome. diante desse quadro, deve-se proceder com a',
     options: ['A) reabordagem da laparotomia, vesicorrafia e reimplante ureteral.', 'B) reabordagem da laparotomia e reimplante ureterovesical.', 'C) nefrostomia percutanea a esquerda.', 'D) fistulorrafia por via transvaginal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q068',
@@ -18876,7 +18876,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'uma crianca de 3 anos, pre-escolar, e atendida na atencao p rimaria a saude. ao verificar o cartao vacinal dela, o medico constata atraso. ele verifica que nao foram administradas as vacinas recomendadas aos 15 meses. nesse caso, buscando regularizar o cartao vacinal o quanto antes, as vacinas a serem aplicadas nessa crianca, devem ser',
     options: ['A) difteria, tetano e pertussis; hepatite a; sarampo, caxumba e rubeola.', 'B) sarampo, caxumba e rubeola; varicela; poliomielite oral; febre amarela.', 'C) sarampo, caxumba e rubeola; hepatite a; difteria, tetano e pertussis; varicela; febre amarela.', 'D) difteria, tetano e pertussis; hepatite a; sarampo, caxumba e rubeola; varicela; poliomielite oral.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q069',
@@ -18888,7 +18888,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'uma jovem de 19 anos procura a emergencia da maternidade com dor importante no baixo ventre e com discreto sangramento. a triagem, apresenta-se muito abalada, relata ter sofrido violencia sexual durante um assalto, ha 4 horas, e que o agressor nao usou preservativo quando a penetrou. relata que, ao chegar em casa e contar o ocorrido, sua mae preferiu leva-la para atendimento medico antes de procurar a delegacia da mulher. informa nunca ter engravidado, ter ciclos menstruais regulares, ter iniciado vida sexual aos 17 anos, com o ex-namorado, e que, atualmente, esta sem relacoes sexuais ha 5 meses. de acordo com a norma tecnica do ministerio da saude, prevencao e tratamento dos agravos resultantes da violencia sexual contra mulheres e adolescentes, a conduta medica correta e prescrever a contracepcao de emergencia com',
     options: ['A) levonorgestrel dose unica e profilaxia para ists nao virais e virais, independentemente do status sorologico do agressor.', 'B) injetavel mensal e profilaxia para ists nao virais e virais, caso os testes rapidos para sifilis, hepatites e hiv forem negativos.', 'C) levonorgestrel dose unica, se teste o qualitativo para gravidez for negativo, e profilaxia para ists virais com antirretrovirais.', 'D) injetavel mensal e profilaxia para ists nao virais e virais, apos o retorno da paciente da delegacia com comprovante de exame pericial.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q070',
@@ -18900,7 +18900,7 @@ export const generatedQuestions = [
     questionNumber: 70,
     questionText: 'uma mulher de 50 anos, residente na regiao sul, e procedente de estado da regiao amazonica ha cerca de 30 dias, comparece a unidade basica de saude (ubs) com quadro de febre alta, calafrios e dor de cabeca ha 1 mes. relata que, incialmente, atribuiu os episodios diarios de febre e calafrios a adaptacao mudanca brusca de temperatura. passados 15 dias, a febre passou a ocorrer a cada 48 horas, ter inicio subito e ser seguida de muito calor e sudorese abundante, ela atribuiu esse sintoma a menopausa. percebeu aumento do volume abdominal e relatou episodios de nauseas e de vomitos que nao a impediram de ingerir liquidos, porem, recentemente, a levaram a procurar a ubs. nega sangramentos, dispneia, alteracoes neurologicas ou outros sintomas. ao exame fisico, observa-se paciente em regular estado geral, mucosas descoradas; temperatura de 40,2 c; abdome doloroso difusamente; figado palpavel, a 2 cm do rebordo costal direito; e baco palpavel, a 3 cm do rebordo costal esquerdo. restante do exame fisico normal e sinais vitais sem alteracoes. considerando o caso, assinale a alternativa que apresenta a hipotese diagnostica mais provavel, o exame laboratorial a ser solicitado e a conduta apropriada.',
     options: ['A) malaria; hematoscopia (esfregaco de sangue periferico); uso de antimalaricos e medidas de suporte.', 'B) chikungunya; sorologia no 5o dia; uso de sintomaticos, repouso e hidratacao em regime ambulatorial.', 'C) febre amarela; sorologia no 5o dia e marcadores de lesao hepatica; internacao e suplementacao com vitamina a.', 'D) doenca de chagas; pesquisa a fresco de tripanossomideos apos 30 dias do sintoma; administracao de benzonidazol.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q071',
@@ -18912,7 +18912,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'uma jovem de 15 anos, previamente higida, e trazida para consulta em unidade basica de saude devido a quadro, iniciado ha 1 semana, de astenia progressiva, dor de garganta e febre diaria. ao exame fisico, apresenta linfonodomegalia cervical, principalmente em cadeia posterior, leve erupcao cutanea nao pruriginosa em tronco e em membros superiores, alem de petequias em palato e tonsilite exsudativa. nega ter vida sexual ativa e usar drogas injetaveis. considerando essas informacoes, a hipotese diagnostica mais provavel e',
     options: ['A) criptococose.', 'B) infeccao pelo hiv.', 'C) linfoma nao hodgkin.', 'D) monoucleose infecciosa.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q072',
@@ -18924,7 +18924,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'um paciente de 20 anos procura atendimento imediato em posto de saude devido a um ferimento cortante em face volar do 1o quirodactilo direito em falange proximal. ao exame fisico, observa-se ferida cortante de 2 cm de extensao com deficit na flexao do segmento e com sangramento em pequeno volume.',
     options: ['A) conduta adequada deve ser a realizacao de uma', 'A) sutura simples da pele.', 'B) sutura da pele e imobilizacao com gesso.', 'C) curativo simples e transferencia para ortopedia.', 'D) curativo simples e transferencia para cirurgia vascular.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q073',
@@ -18936,7 +18936,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'na maternidade, um recem-nascido (rn) de 30 horas de vida, evolui com ictericia zona 3 de kramer. nasceu com 36 semanas de idade gestacional (ig), de parto vaginal, tendo algumas equimoses durante o parto. a tipagem sanguinea da mae e o- e do rn e b+. os exames laboratoriais, realizados quando a crianca estava com 32 horas de vida, revelam: exame valor bilirrubinas totais 13 mg/dl bilirrubinas diretas 1,5 mg/dl bilirrubinas indiretas 11,5 mg/dl coombs direto positivo antigeno-d positivo hemoglobina 13,0 g/dl reticulocitos 2,0% o pediatra, ao ver esses resultados, iniciou fototerapia de alta intensidade e transferiu o paciente para unidade de cuidados neonatais. apos 4 horas de fototerapia (com 36 horas de vida) obteve-se: exame valor bilirrubinas totais 15 mg/dl bilirrubinas diretas 1,5 mg/dl bilirrubinas indiretas 13,5 mg/dl tabela  nivel de bilirrubina total (mg/dl) para indicacao de fototerapia e exsanguineotransfusao (est) em rn ig  35 semanas. bilirrubina total (mg/dl) fototerapia exsanguineotransfusao idade 350/7 - 376/7 380/7 350/7 - 376/7 380/7 semanas semanas semanas semanas 24 horas 8 10 15 18 36 horas 9,5 11,5 16 20 48 horas 11 13 17 21 72 horas 13 15 18 22 96 horas 14 16 20 23 5 a 7 dias 15 17 21 24 considerando-se o caso e a tabela de referencia apresentados, a conduta medica adequada e',
     options: ['A) indicar imunoglobulina standard dose unica ao paciente e contraindicar a est.', 'B) intensificar a fototerapia e reavaliar nova dosagem de bilirrubinas em 4 horas.', 'C) indicar a est ao paciente e solicitar sangue tipo b- para realizacao do procedimento.', 'D) contraindicar a est ao paciente, considerando-se o aumento da bilirrubina total 0,5 mg/dl/hora.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q074',
@@ -18948,7 +18948,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'uma adolescente de 16 anos vai a uma consulta no ambulatorio de ginecologia referindo ainda nao ter menstruado, a despeito de ter apresentado telarca aos 10 anos e pubarca logo em seguida. ela nao tem outras queixas. sua estatura e de 1,68 m e pesa 65 kg. apresenta pilificacao axilar habitual, acne grau ii em face, em torax e em regiao dorsal. ao exame ginecologico, apresenta mamas com configuracao normal, distribuicao de pelos pubianos adequada para o sexo feminino, orgaos genitais externos sem alteracoes evidentes e himen integro, com orificio orbicular permeavel. nao se procedeu ao toque vaginal. em relacao a avaliacao dessa paciente, e correto afirmar que',
     options: ['A) a sindrome de turner deve ser pesquisada, pois seu fenotipo e caracteristico e apresenta amenorreia primaria.', 'B) a sindrome de morris (insensibilidade androgenica) e uma hipotese plausivel, pois o fenotipo e bastante sugestivo.', 'C) a dosagem de estradiol e de hormonio do crescimento deve ser averiguada para proceder ao diagnostico.', 'D) a anomalia mulleriana deve ser investigada, apesar de a genitalia externa apresentar aspecto normal.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q075',
@@ -18960,7 +18960,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'um homem de 54 anos vai a unidade basica de saude queixando-se ter sangramento nas fezes ha 2 meses. ele apresenta fotografias de fezes com sangue. nega outras queixas, comorbidades e uso recente, ou regular, de medicamentos, nega historia familiar de neoplasias ou de doenca aterosclerotica coronariana precoce. o exame fisico com toque retal apresenta-se sem anormalidades, salvo palidez cutaneo mucosa de 2+/4+. alem da realizacao de hemograma completo, qual o melhor exame para a investigacao diagnostica do caso?',
     options: ['A) pesquisa de sangue oculto nas fezes, para a realizacao de rastreamento oportunistico.', 'B) ultrassonografia abdominal total, para a realizacao de rastreamento organizado.', 'C) tomografia de abdome, para a realizacao de rastreamento alternativo.', 'D) colonoscopia, para a realizacao de diagnostico precoce.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q076',
@@ -18972,7 +18972,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'uma mulher de 24 anos procura atendimento hospitalar referindo quadro de cefaleia episodica, sudorese e taquicardia ha 3 meses, com piora progressiva. realizada a monitorizacao ambulatorial da pressao arterial (mapa), identificou-se oscilacao importante, caracterizando hipertensao paroxistica. definindo-se, como principal hipotese diagnostica, a hipertensao arterial secundaria, foram realizados os seguintes exames. valor de exame amostra resultado referencia acido 5-hidroxiindolacetico urina 5 mg/24h 2 a 7 mg/24h (5-hiaa) normetanefrina urina > 2,2 nmol/l < 0,9 nmol/l metanefrina urina > 1,1 nmol/l < 0,5 nmol/l tsh sangue 5 mui/l 0,25 a 5 mui/l t3 sangue 132 ng/dl 60 a 182 ng/dl t4 livre sangue 1,0 ng/dl 0,9 a 1,8 ng/dl diante desses resultados, qual e a principal hipotese diagnostica?',
     options: ['A) hipertiroidismo.', 'B) feocromocitoma.', 'C) sindrome carcinoide.', 'D) hiperaldosteronismo'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q077',
@@ -18984,7 +18984,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'um jovem de 20 anos vitima de acidente de transito por colisao frontal, sem o uso de cinto de seguranca ou de airbag, da entrada no pronto-socorro apresentando-se taquipneico e com escoriacoes extensas no torax anterior. a avaliacao fisica, identifica-se saturacao de oxigenio em 70%, ausencia de murmurio vesicular no hemitorax esquerdo, hipertimpanismo do lado afetado, desvio da traqueia para o lado oposto e glasgow 13. diante do quadro clinico apresentado, a conduta mais apropriada e proceder com',
     options: ['A) tomografia computadorizada de torax.', 'B) canula orofaringea e intubacao orotraqueal.', 'C) puncao no 5o espaco intercostal medioaxilar.', 'D) radiografia de torax pa (postero anterior) e perfil.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q078',
@@ -18996,7 +18996,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'durante avaliacao em alojamento conjunto de uma maternidade de recem-nascido com 24 horas de vida, observa- se genitalia de aparencia masculina, mas com criptorquidia bilateral, sem palpacao de testiculos em canal inguinal. diante da hipotese de um disturbio de diferenciacao sexual, e considerando-se questoes eticas, legais e de risco-beneficio, assinale a alternativa correta quanto a conduta adequada para esse caso.',
     options: ['A) esta indicada a realizacao de cariotipo, para a confirmacao do sexo biologico, e de exames hormonais, alem de acompanhamento por uma equipe multidisciplinar para definicao da melhor abordagem clinica e cirurgica.', 'B) esta indicada a realizacao de exames de imagem, para avaliacao dos orgaos genitais internos e definicao do sexo biologico, a fim de que, caso necessario, possa ser feita abordagem cirurgica da genitalia externa antes da alta.', 'C) a hiperplasia adrenal congenita, que em sua forma classica leva a virilizacao da genitalia externa feminina, seria uma hipotese diagnostica adequada; no entanto, a ausencia de sintomas de desidratacao e de perda de peso, descarta-a.', 'D) diante de uma genitalia de aparencia masculina, ainda que com testiculos nao localizados, a familia deve ser aconselhada a adotar o sexo masculino para esse paciente, para fins de registro civil, ate que o sexo biologico e a conduta terapeutica sejam definidos.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q079',
@@ -19008,7 +19008,7 @@ export const generatedQuestions = [
     questionNumber: 79,
     questionText: 'uma mulher de 19 anos procura um ginecologista com queixa de corrimento vaginal e de dor durante a relacao sexual ha 2 semanas, por vezes com sangramento pos-coito. relata que, ha 10 dias, comecou a sentir queimacao, ou dor, ao urinar. sem historico de infeccao sexualmente transmissivel, de gestacoes ou de abortamentos, faz uso apenas de contraceptivo hormonal, nao utiliza metodos de barreira. e tabagista. ao exame fisico, apresenta-se em bom estado geral, com temperatura de 37 c, frequencia cardiaca de 88 batimentos por minuto, sem sinais de dor abdominal. ao exame ginecologico, observa-se colo hiperemiado com secrecao mucopurulenta e sangrante ao toque, manipulacao dolorosa do colo. o ph vaginal e normal (< 4,5) e o teste de whiff (koh a 10%) e negativo.',
     options: ['A) partir dos achados apresentados, o diagnostico etiologico mais provavel e', 'A) candida albicans.', 'B) gardnerella vaginalis.', 'C) neisseria gonorrhoeae.', 'D) trichomonas vaginallis.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q080',
@@ -19020,7 +19020,7 @@ export const generatedQuestions = [
     questionNumber: 80,
     questionText: 'uma primigesta de 28 anos, com idade gestacional de 25 semanas e 4 dias, foi atendida por uma equipe de saude da familia fluvial. na avaliacao, ela se queixou de tosse ha 5 dias, associada a anosmia, febre de 38,2 c e dispneia. segundo familiares, ela recebeu apenas a primeira dose da vacina contra covid-19. o quadro clinico dessa paciente evolui com insuficiencia respiratoria aguda e obito. diante disso, e realizado parto cesareo de urgencia e a crianca nasce com 450 g e 20 cm, apresentando batimentos cardiacos e movimentos respiratorios por 10 segundos, sendo constatado obito do bebe apos esse periodo. a paciente havia realizado apenas uma consulta de pre-natal, assim que descobriu a gestacao, nao tendo sido identificadas alteracoes nos exames realizados a epoca. como esses eventos devem ser considerados para o calculo dos indicadores de mortalidade e natalidade?',
     options: ['A) a morte da gestante nao sera contabilizada no calculo da mortalidade materna; a crianca sera contabilizada no calculo da natalidade e da mortalidade neonatal precoce.', 'B) a morte da gestante sera contabilizada no calculo da mortalidade materna; a crianca sera contabilizada apenas no calculo da mortalidade perinatal, nao contribuindo para a natalidade.', 'C) a morte da gestante nao sera contabilizada no calculo da mortalidade materna; a crianca sera contabilizada apenas no calculo da mortalidade infantil, nao contribuindo para a natalidade.', 'D) a morte da gestante sera contabilizada no calculo da mortalidade materna; a crianca sera contabilizada no calculo da natalidade e da mortalidade infantil neonatal precoce. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q081',
@@ -19032,7 +19032,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'uma mulher de 31 anos e encaminhada a consulta ambulatorial por apresentar dores articulares intermitentes ha 3 meses. relata que as dores acometem as articulacoes das maos, punhos, joelhos e tornozelos, de forma migratoria e nao aditiva. as dores pioram ao acordar e melhoram com a movimentacao. durante as crises, sente calor e apresenta rubor e edemas locais, sem deformidades articulares. afirma estar mais cansada do que o habitual. refere ter buscado atendimento medico na unidade de pronto-atendimento. na ocasiao, fez uso de analgesicos e anti-inflamatorios nao esteroides, houve melhora momentanea, mas logo os sintomas reapareceram. relata que, nas ultimas consultas, sua pressao esteve elevada, sendo-lhe prescrito hidroclorotiazida 25 mg ao dia. ate o inicio desse quadro, nao apresentava antecedentes pessoais, ou utilizava medicacoes de uso continuo, apenas anticoncepcional hormonal oral. refere que sua mae tem diabete tipo 2. nega etilismo e tabagismo, afirma ir a academia 3 a 4 vezes na semana. na revisao de sistemas, refere ter dor e cianose nos dedos das maos ao contato com agua fria. ao exame fisico, apresenta dados vitais e antropometricos normais, mucosas descoradas (2+/4+) e ictericas (1+/4+), ulceras orais indolores, com dor a palpacao e movimentacao das articulacoes das maos, do punho e do joelho direito. nao apresenta edemas, calor, nodulos, crepitacoes ou deformidades. demais segmentos estao sem anormalidades. em hemograma, apresenta hemoglobina de 10,8%, leucocitos de 3.850 mm3, linfocitos em 1.300 mm3 e plaquetas em 88.000 mm3. qual e o exame mais indicado para a conclusao diagnostica?',
     options: ['A) antigeno hla-b27.', 'B) fator reumatoide (fr).', 'C) antiestreptolisina o (aslo).', 'D) anticorpo antinuclear (fan).'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q082',
@@ -19044,7 +19044,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'um paciente de 70 anos e levado a um hospital por apresentar hematemese em grande quantidade. internado em unidade de terapia intensiva, foi submetido a endoscopia digestiva alta de urgencia, sendo diagnosticado com ulcera peptica tipo 2, forrest ia, recebeu tratamento com injecao submucosa de adrenalina, eletrocoagulacao termica e controle efetivo do sangramento. evoluiu com nova hematemese, em moderada quantidade, sendo realizada hemotransfusao de urgencia. o paciente encontra-se estavel hemodinamicamente. diante desse quadro, o tratamento subsequente adequado e',
     options: ['A) cirurgico, com gastrectomia total.', 'B) laparoscopico, com antrectomia e vagotomia.', 'C) clinico, com inibidor de bomba de protons venoso.', 'D) endoscopico, com controle local do sangramento.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q083',
@@ -19056,7 +19056,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'uma mae leva ao pronto-socorro sua filha de 3 anos, com quadro de gastroenterite. durante seu relato informa que a crianca vinha apresentando febre persistente e que, por isso, administrou dose elevada de antitermico. diante desse quadro, a medica prescreve n-acetilcisteina como antidoto para a intoxicacao. considerando a prescricao medica, assinale a alternativa que apresenta o medicamento que causou a intoxicacao.',
     options: ['A) acido acetilsalicilico.', 'B) paracetamol.', 'C) ibuprofeno.', 'D) dipirona.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q084',
@@ -19068,7 +19068,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'uma mulher de 33 anos procura atendimento medico, referindo ter notado ha 3 meses, durante autoexame das mamas, nodulacao no quadrante superolateral da mama direita. nao notou aumento de volume ou de tamanho do nodulo durante esse tempo. relata ter mais facilidade de identificar o nodulo no periodo que antecede a menstruacao e nega outras queixas associadas. e tabagista (10 cigarros/dia), corre  4 vezes por semana , engravidou uma unica vez (parto normal, ha dois anos), amamentou por 6 meses, faz uso de diu de cobre, com boa adaptacao. sua menarca foi aos 11 anos, sexarca aos 18 anos, possui ciclos regulares (5-28), sua ultima menstruacao foi ha 15 dias. relata historia familiar de cancer de ovario (tia materna aos 47 anos) e de cancer de mama (sua mae aos 42 anos). ao exame fisico, observa-se nodulo palpavel em quadrante superolateral da mama direita, com cerca de 3 cm; movel, com consistencia macia e limites definidos; sem outros achados. o ultrassom de mamas e axilas, realizado 20 dias apos a consulta, revelou birads 2  observada lesao anecoica circunscrita, com reforco acustico posterior, sem septacoes, sem fluxo ao doppler, em quadrante superolateral da mama direita, medindo 2 cm em seu maior diametro. nesse caso, conforme as recomendacoes do ministerio da saude, quais sao, respectivamente, a hipotese diagnostica e a conduta adequada?',
     options: ['A) fibroadenoma; tranquilizar a paciente e complementar a investigacao com ressonancia nuclear magnetica da mama devido a maior densidade mamaria.', 'B) cisto de mama; orientar a cessacao de tabagismo, prescrever analgesicos, se necessario, e orientar a paciente que se trata de um quadro benigno da mama.', 'C) mamas normais; salientar a importancia do autoexame das mamas como ferramenta importante no rastreamento de cancer se realizado todo mes antes da menstruacao.', 'D) adensamento mamario; recomendar cessacao de tabagismo, uso de sutia com suporte adequado e inicio de rastreamento para cancer de mama, alem de solicitar mamografia.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q085',
@@ -19080,7 +19080,7 @@ export const generatedQuestions = [
     questionNumber: 85,
     questionText: 'em uma reuniao de equipe de saude da familia, os profissionais discutem as dificuldades de organizacao do atendimento no modelo de agendamento adotado pela secretaria municipal da saude. nesse modelo, no inicio do periodo, todas as vagas estao preenchidas com consultas pre-agendadas e os casos eventuais e urgentes sao inseridos em agendamento duplo. isso tem causado atrasos no fechamento da unidade no fim da tarde, pois o medico precisa encaixar os pacientes nao agendados previamente em algum horario durante o dia.',
     options: ['A) equipe se queixa do estresse no acolhimento dos pacientes, e que sao expostos a muitas reclamacoes na sala de espera. tambem e apontado o numero excessivo de faltas entre os agendados. a equipe, entao, decide mudar o sistema de agendamento, reservando 40% das vagas para consultas de urgencia, devido a alta demanda desse tipo de atendimento na comunidade, e 60% para consultas pre-agendadas. dessa forma, pretende-se oferecer cuidado estruturado tanto para os pacientes com condicoes cronicas como para aqueles com condicoes agudas. considerando os sistemas de agendamento, qual foi a mudanca proposta pela equipe e qual o desafio frente a proposta escolhida?', 'A) transicao do modelo tradicional para o modelo carve-out, o que pode gerar desperdicio das vagas nao preenchidas por erro no dimensionamento da demanda.', 'B) transicao do modelo carve-out para o acesso aberto, o que pode criar longo tempo de espera para se conseguir o agendamento e aumentar a taxa de faltosos.', 'C) transicao do modelo tradicional para o acesso avancado, o que demanda educacao permanente, compartilhamento de responsabilidades e comprometimento da equipe.', 'D) transicao do modelo carve-out para o acesso avancado, o que pode ocasionar longos atrasos, perda da longitudinalidade do cuidado e reducao do tempo de consulta.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q086',
@@ -19092,7 +19092,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'uma paciente de 39 anos procura a unidade basica de saude referindo quadro de lombalgia iniciado ha 20 dias. relata sentir, desde o inicio do quadro, fraqueza em membros inferiores e apresentar polievacuacoes. tambem relata uma sensacao de anestesia na regiao perineal. nega disuria, mas afirma ter dificuldade para urinar espontaneamente. nega leucorreia, febre ou historia de traumatismos. afirma que seu peso tem se mantido estavel e que sua ultima menstruacao foi ha 25 dias.',
     options: ['A) partir dessas informacoes, assinale a alternativa apresenta o exame mais indicado para a investigacao do quadro.', 'A) radiografia de coluna lombossacra e de bacia.', 'B) puncao lombar com analise do liquor.', 'C) ressonancia magnetica da coluna lombar.', 'D) exame de rotina de urina (eas) e urocultura.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q087',
@@ -19104,7 +19104,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'um paciente de 63 anos, internado ha 2 dias na unidade de terapia intensiva devido a quadro de insuficiencia coronariana aguda, inicia, apos o desjejum, quadro subito de dor abdominal intensa e difusa. ao exame fisico, nota-se discreta taquicardia, abdome doloroso difusamente a palpacao, com discretas distensao e contracao muscular a palpacao e ruidos hidroaereos diminuidos. a radiografia de abdome, constata-se distensao gasosa em alcas intestinais, com edema de parede de alcas de intestino delgado, sem sinais de pneumoperitoneo. a ultrassonografia de abdome, observa-se gas venoso portal e imagem sugestiva de pneumatose intestinal. considerando o quadro clinico, o paciente esta com abdome agudo',
     options: ['A) obstrutivo, deve-se realizar uma tomografia de abdome e encaminha-lo para uma cirurgia de urgencia.', 'B) inflamatorio, deve-se realizar uma tomografia de abdome e encaminha-lo para uma abordagem cirurgica.', 'C) vascular, deve-se realizar uma angiotomografia e encaminha-lo para uma laparotomia exploradora.', 'D) hemorragico, deve-se realizar uma angiotomografia mesenterica e encaminha-lo para uma cirurgia eletiva.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q088',
@@ -19116,7 +19116,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'uma pre-escolar de 4 anos e atendida com quadro, iniciado no dia anterior, de diarreia associada a febre de ate 38,5 c, que cede com o uso de antitermico. segundo a mae, foram 9 episodios de fezes liquidas, sem muco, pus ou sangue associados. a crianca tambem apresenta coriza hialina e tosse pouco produtiva, iniciadas 2 dias antes. a mae nega recusa alimentar e, durante a consulta, foi oferecida agua para a crianca que bebeu sem dificuldades. ao exame fisico, apresenta-se em bom estado geral, responde a brincadeiras de maneira tranquila, esta hidratada e que o sinal da prega retorna em menos de 2 segundos. nesse caso, considerando-se a classificacao dos tipos de desidratacao, a conduta medica adequada e',
     options: ['A) prescrever zinco oral por 10 dias.', 'B) solicitar que a paciente retorne em 2 dias.', 'C) administrar soro de reidratacao oral na unidade de saude.', 'D) prescrever antibiotico oral, de acordo com a epidemiologia local.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q089',
@@ -19128,7 +19128,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'uma mulher de 65 anos, doadora de sangue frequente, vai a consulta ginecologica de rotina referindo ter apresentado lesao endurecida em vulva, sem secrecao, nao dolorosa, com nodulo inguinal, que regrediu apos 15 dias sem nenhum tratamento. no momento da consulta, o teste rapido para sifilis mostrou-se positivo. nesse caso, a conduta mais adequada para essa paciente e',
     options: ['A) solicitar imediatamente o teste de vdrl, para confirmar a doenca.', 'B) solicitar imediatamente o teste de fta-abs, para confirmar a doenca.', 'C) realizar tratamento com 2,4 milhoes de unidades de penicilina benzatina em dose unica e fazer controle de cura com vdrl.', 'D) realizar tratamento com 2,4 milhoes de unidades de penicilina benzatina 1 vez, por semana por 3 semanas, e fazer controle de cura com vdrl.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q090',
@@ -19140,7 +19140,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'um homem de 23 anos, residente em zona urbana de capital de estado da regiao sudeste, procura atendimento em unidade basica de saude. relata ter apresentado quadro de febre alta (39 c) de inicio abrupto, com duracao de 3 dias, acompanhada por dor de cabeca, mialgia e poliartralgia leve sem rigidez articular, astenia, dor atras dos olhos sem conjuntivite, associada a manchas eritematosas na pele. afirma que a febre cessou ha 4 dias. nega ter feito viagens nos ultimos meses.',
     options: ['A) partir dos dados desse paciente, e correto afirmar que a principal hipotese epidemiologica e', 'A) zika.', 'B) dengue.', 'C) chikungunya.', 'D) febre amarela.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q091',
@@ -19152,7 +19152,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'uma mulher de 45 anos, portadora de hipertensao arterial sistemica ha menos de 1 ano, vai a consulta de acompanhamento no centro de saude. durante a consulta, sao observados edema e piora da hipertensao. em investigacao laboratorial, constata a presenca de hematuria microscopica persistente com presenca de dismorfismo eritrocitario, proteinuria de 1,5 g/24 horas e albumina serica de 3,6 mg/dl.',
     options: ['A) paciente e referenciada ao nefrologista que indicou a realizacao de biopsia renal. assinale a alternativa que apresenta a sindrome clinica reportada e um possivel diagnostico compativel com o quadro.', 'A) sindrome nefrotica; amiloidose renal.', 'B) sindrome nefritica; nefropatia por iga.', 'C) sindrome nefrotica; nefropatia membranosa.', 'D) sindrome nefritica; doenca de lesoes minimas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q092',
@@ -19164,7 +19164,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'uma paciente de 24 anos, estudante, e atendida no pronto- socorro apos sentir uma tumoracao, de moderado volume, com hiperemia, em regiao retroauricular a direita e reducao da acuidade auditiva. relata apresentar, ha 5 semanas, episodios repetidos de dor na orelha direita, que melhoravam com analgesico e calor local. ao exame fisico, nota-se presenca de celulite retroauricular a direita, sem saida de secrecao ou ponto de flutuacao e sem secrecao no conduto auditivo. nesse caso, qual deve ser a conduta imediata para essa paciente?',
     options: ['A) internacao hospitalar, uso de antibioticoterapia topica e cirurgia de urgencia.', 'B) encaminhamento para especialista para avaliacao e tratamento eletivos.', 'C) internacao hospitalar, antibioticoterapia sistemica e avaliacao especializada.', 'D) tratamento domiciliar com antibiotico oral e acompanhamento em unidade basica de saude. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q093',
@@ -19176,7 +19176,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'ao atender um recem-nascido de sexo masculino, admitido em alojamento conjunto, um pediatra observa, ao exame fisico, diversas caracteristicas fenotipicas de sindrome de down. ele discute essas caracteristicas com a familia da crianca e opta por solicitar um cariotipo desse paciente.',
     options: ['A) respeito da indicacao da realizacao de cariotipo nesse caso, assinale a alternativa correta.', 'A) o cariotipo pode ser dispensado caso haja presenca de caracteristicas fenotipicas muito sugestivas da sindrome, especialmente se a mae tiver 35 anos ou mais, visto ser um exame dispendioso e que nao acrescentara novas informacoes.', 'B) o cariotipo esta indicado para confirmacao diagnostica, para avaliacao de possivel mosaicismo e para diagnostico de translocacoes do cromossomo 21, que podem representar translocacao balanceada em um dos pais.', 'C) o cariotipo pode ser solicitado para confirmacao diagnostica, no entanto seu resultado nao tera impacto nas orientacoes sobre prognostico do paciente nem no aconselhamento genetico para o casal.', 'D) o cariotipo deve ser solicitado quando os pais sao jovens e ha suspeita de translocacao balanceada em um dos pais, devendo-se esperar, nesse caso, pelo resultado do exame para programar a alta da crianca.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q094',
@@ -19188,7 +19188,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'uma primigesta de 40 anos, com idade gestacional de 8 semanas, e atendida no pronto-socorro obstetrico com queixa de sangramento transvaginal e de colicas. ao exame especular, observa-se saida de moderada quantidade de sangue vivo pelo orificio externo do colo uterino. ao toque bimanual, o utero apresenta consistencia amolecida, volume aumentado e os orificios externo e interno do colo uterino estao dilatados de 1 para 2 cm. foi realizada ecografia obstetrica transvaginal que mostrou um saco gestacional topico e regular, contendo, em seu interior, uma vesicula vitelina de aspecto ecografico normal e um embriao medindo 15 mm de comprimento, com batimentos cardiacos presentes. nesse caso, o diagnostico correto e',
     options: ['A) aborto retido.', 'B) aborto inevitavel.', 'C) ameaca de aborto.', 'D) aborto incompleto.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2024-2-q095',
@@ -19200,7 +19200,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'uma mulher de 50 anos vai a uma consulta na unidade basica de saude referindo sangramento vaginal continuo de baixo volume ha 2 meses, exacerbado ha 20 dias. em menopausa ha 4 anos, sem uso de terapia de reposicao hormonal, e hipertensa compensada, sem outras comorbidades. ao exame fisico, eutrofica, sem alteracoes. considerando que nesse caso a principal hipotese diagnostica e uma causa estrutural, qual exame complementar deve ser solicitado para essa paciente?',
     options: ['A) provas de coagulacao.', 'B) dosagem de prolactina.', 'C) ultrassonografia da regiao pelvica.', 'D) dosagem de hormonios da tireoide.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q096',
@@ -19212,7 +19212,7 @@ export const generatedQuestions = [
     questionNumber: 96,
     questionText: 'um homem de 75 anos, tabagista inveterado, com diagnostico recente de cancer de pulmao de pequenas celulas, e levado a uma unidade de emergencia com quadro de rebaixamento do nivel de consciencia. segundo familiares, nos ultimos dias, ele vinha se queixando de cefaleia holocraniana e de turvacao visual bilateral. na vespera do atendimento, os familiares relatam que o paciente ficou sonolento e que, no dia do atendimento, evoluiu com crises convulsivas tonico-clonicas generalizadas. ao exame fisico, mostra-se torporoso, mas sem deficits neurologicos focais, mantendo hemodinamica (pressao arterial elevada, em 170  100 mmhg); padrao respiratorio regular (frequencia respiratoria de 18 incursoes respiratorias por minuto) e frequencia cardiaca de 58 batimentos por minuto. os exames complementares revelam anemia normocromica, normocitica, (hemoglobina de 9,2 g/dl); sodio serico baixo (108 meq/l); acido urico serico baixo (2,1 mg/dl); hiperglicemia leve (138 mg/dl) e taxa de excrecao renal de sodio superior a 25 meq/dia. a tomografia computadorizada de cranio, identifica-se aspecto compativel com edema cerebral difuso. nesse caso, a conduta adequada e proceder com a',
     options: ['A) infusao intravenosa de 0,05 ml/kg/min de solucao salina a 3%.', 'B) prescricao de dexametasona 10 mg de ataque, seguida por 4 mg, 4 vezes ao dia.', 'C) administracao de desmopressina 0,05 mg, 2 vezes por dia, por meio de puff nasal.', 'D) restricao hidrica, limitando a oferta de solucoes hipotonicas em 1,2 litros por dia.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q097',
@@ -19224,7 +19224,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'um paciente de 21 anos, atleta, com 1,92 m de estatura, vai a consulta ambulatorial relatando dor recorrente em membro inferior esquerdo, com piora progressiva ha 2 meses e com alguns episodios de febre nas crises de dor, alem de perda de peso de 6 kg no ultimo mes. o paciente observou aumento do volume no terco medial da perna esquerda e, ha 1 semana, esta claudicando devido a dor. ao exame fisico, percebe-se aumento do volume do terco medial da tibia com tumoracao palpavel de 3 cm de diametro, sem alteracoes de mobilidade do membro ou lesoes de pele. assinale a alternativa que apresenta, respectivamente, a principal hipotese diagnostica, a investigacao complementar e a conduta para esse caso.',
     options: ['A) calo osseo por pratica de esporte; radiografia; analgesia e repouso.', 'B) osteopenia; cintilografia ossea e hemograma; orientacao nutricional.', 'C) osteossarcoma; ressonancia magnetica e biopsia; quimioterapia.', 'D) lesao por esforco repetitivo; tomografia computadorizada e cintilografia; fisioterapia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2024-2-q098',
@@ -19236,7 +19236,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'um adolescente de 16 anos procura atendimento hospitalar com quadro de epigastralgia, nauseas e vomitos importantes ha 4 dias, sendo internado para investigacao. ele foi submetido, ha 2 meses, a cirurgia bariatrica tipo gastrectomia vertical, por obesidade morbida, e apresentou, no pos- operatorio, rapida perda de peso. o exame abdominal nao apresenta alteracoes a inspecao, sinais de peritonite e de ascite ausentes. considerando-se esses dados clinicos e os riscos de complicacoes e de doencas disabsortivas apos esse tipo de cirurgia, assinale a alternativa que apresenta a hipotese diagnostica mais provavel e o exame complementar a ser solicitado.',
     options: ['A) colelitiase; ultrassonografia abdominal.', 'B) hernia incisional; radiografia de abdome.', 'C) sindrome de dumping; dosagem de gordura e ph fecal.', 'D) dilatacao esofagica e esofagite; endoscopia digestiva alta.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2024-2-q099',
@@ -19248,7 +19248,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'uma secundigesta, com historia previa de prematuridade, chega a consulta de pre-natal assintomatica, trazendo resultado de ultrassonografia de 22 semanas, o qual revela feto vivo, com exame morfologico normal e com colo uterino medindo 20 mm. nesse caso, a conduta medica mais adequada e indicar',
     options: ['A) realizacao de cerclagem do colo uterino imediatamente.', 'B) nifedipina com inicio imediato e manter o uso ate as 30 semanas de gestacao.', 'C) betametasona com inicio imediato e repetir o exame com 30 semanas de gestacao.', 'D) progesterona natural com inicio imediato e manter o uso ate as 36 semanas gestacionais.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2024-2-q100',
@@ -19260,7 +19260,7 @@ export const generatedQuestions = [
     questionNumber: 100,
     questionText: 'o tabaco, em seus multiplos usos, configura-se como a principal causa evitavel de morte no brasil e no mundo. estima-se que o tabagismo seja a causa para cerca de 40% das mortes por cancer; de 70 a 95% das mortes devido a cancer de pulmao e 75% dos obitos decorrentes de doenca pulmonar obstrutiva cronica. para apoiar o seu enfrentamento pode-se adotar, isoladamente ou de forma combinada, diversos tipos de abordagens. sobre o tratamento a pessoa tabagista, e correto afirmar que',
     options: ['A) esquemas de aconselhamentos de maior intensidade e de intervencoes breves apresentam probabilidade semelhante de ajudar o paciente a cessar o habito de fumar.', 'B) o aconselhamento e a medicacao sao efetivos quando usados conjuntamente, mas ineficazes na promocao da abstinencia ao tabagismo quando utilizados de forma isolada.', 'C) pacientes com elevada, ou muito elevada, dependencia fisica devem iniciar tratamento medicamentoso com a associacao de terapia de reposicao de nicotina a bupropiona.', 'D) intervencoes em grupo promovem a abstinencia ao tabagismo pela interacao e apoio mutuo entre os participantes e pela participacao ativa do fumante e do profissional de saude. as perguntas abaixo visam obter sua opiniao de realizar. para cada uma delas, assinale a espacos proprios do cartao-resposta. agradecemos a sua colaboracao. pergunta 1 qual o grau de dificuldade da prova?', 'A) muito facil.', 'B) facil.', 'C) medio.', 'D) dificil.', 'E) muito dificil. pergunta 2 considerando a extensao da prova, em relacao ao tempo total, voce considera que a prova foi', 'A) muito longa.', 'B) longa.', 'C) adequada.', 'D) curta.', 'E) muito curta. pergunta 3 os enunciados das questoes da prova estavam claros?', 'A) sim, todos.', 'B) sim, a maioria.', 'C) cerca da metade.', 'D) poucos.', 'E) nao, nenhum.', 'A) sim, ate excessivas.', 'B) sim, em todas elas.', 'C) sim, na maioria delas.', 'D) sim, somente em algumas.', 'E) nao, em nenhuma delas. pergunta 5 qual a maior dificuldade encontrada por voce ao responder a prova?', 'A) desconhecimento do conteudo.', 'B) forma diferente de abordagem do conteudo.', 'C) extensao das questoes.', 'D) falta de motivacao para fazer a prova.', 'E) nao tive qualquer tipo de dificuldade em responder a prova. pergunta 6 voce ja participou, no brasil, de outro(s) processo(s) de', 'A) sim.', 'B) nao.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q001',
@@ -19272,7 +19272,7 @@ export const generatedQuestions = [
     questionNumber: 1,
     questionText: 'homem de 62 anos vai a uma unidade de pronto atendimento (upa) referindo cansaco e tontura ao se levantar ha 2 semanas. nega outras queixas, comorbidades ou cirurgias previas, assim como o uso de medicamentos. ao exame fisico, apresenta-se corado, hidratado, lucido e orientado em tempo e espaco; pressao arterial de 120 x 70 mmhg; frequencia cardiaca de 45 bpm; saturacao de o de 96% em ar ambiente; ritmo 2 cardiaco regular, sem turgencia jugular; murmurio vesicular fisiologico, sem ruidos acessorios; e enchimento capilar de 2 segundos. diante disso, o medico solicita um eletrocardiograma de 12 derivacoes:',
     options: ['A) partir desse quadro clinico e da interpretacao do eletrocardiograma, a conduta adequada consiste em', 'A) conceder alta medica e encaminhar o paciente ao ambulatorio especializado de cardiologia.', 'B) monitorizar o paciente, solicitar marca-passo transcutaneo e aguardar avaliacao do cardiologista.', 'C) monitorizar o paciente, administrar atropina 1 mg (iv) e implantar marca-passo transcutaneo.', 'D) monitorizar o paciente, administrar atropina 1 mg (iv) e iniciar uso de dopamina 5 mcg/kg/min.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q002',
@@ -19284,7 +19284,7 @@ export const generatedQuestions = [
     questionNumber: 2,
     questionText: 'homem de 42 anos, em uso cronico de anti-inflamatorio nao esteroide por doenca reumatica, da entrada no pronto-socorro com 6 horas de evolucao de dor epigastrica de forte intensidade. sinais vitais: exame resultado frequencia cardiaca 110 bpm pressao arterial 90 x 50 mmhg frequencia respiratoria 22 irpm temperatura axilar 36,5 oc ao exame fisico, abdome tenso, com descompressao brusca dolorosa nos quatro quadrantes. o hemograma apresenta valores dentro da normalidade e a tomografia de abdome evidencia liquido livre intraperitoneal com ar no recesso hepatofrenico. nesse caso, assinale a alternativa que apresenta a principal hipotese diagnostica.',
     options: ['A) ulcera gastrica perfurada.', 'B) pancreatite aguda.', 'C) colecistite aguda.', 'D) diverticulite aguda. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q003',
@@ -19296,7 +19296,7 @@ export const generatedQuestions = [
     questionNumber: 3,
     questionText: 'menina de 7 anos e 6 meses e encaminhada ao ambulatorio de pediatria porque sua familia percebeu surgimento de broto mamario ha cerca de 3 meses. o exame fisico revela que seu estadiamento puberal e m2p1 e sua estatura esta proxima ao escore z +2 para a idade, com peso em escore z 0. um exame de radiografia simples de punho, solicitado pelo medico da atencao primaria, mostra idade ossea compativel com 9 anos e 6 meses. considerando essa situacao, assinale a alternativa que apresenta a principal hipotese diagnostica, seguida de sua justificativa.',
     options: ['A) puberdade precoce central, pois o crescimento das mamas esta associado a avanco da idade ossea.', 'B) telarca isolada precoce, pois a diferenca entre a idade ossea e a idade cronologica nao e significativa.', 'C) telarca isolada precoce, pois o crescimento das mamas foi um achado isolado na investigacao da paciente.', 'D) puberdade precoce central, pois, alem da telarca, ha tambem sinais de pubarca, o que sugere ativacao do eixo hormonal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q004',
@@ -19308,7 +19308,7 @@ export const generatedQuestions = [
     questionNumber: 4,
     questionText: 'primigesta de 25 anos procura o pronto atendimento de ginecologia e obstetricia com historia de atraso menstrual e resultado de beta-hcg quantitativo de 10.000 mlu/ml realizado ha 2 dias. nao se recorda da data da ultima menstruacao. queixa-se de sangramento vaginal, em pequena quantidade, que ja dura 3 dias. ao exame especular, nota-se presenca de sangramento vivo em pequena quantidade e, ao toque, percebe-se colo uterino fechado. solicitado beta-hcg no dia da consulta, com resultado de 23.400 mlu/ml.',
     options: ['A) partir desses dados, assinale a alternativa que apresenta, respectivamente, o diagnostico desse caso e a conduta adequada.', 'A) gestacao ectopica; laparotomia.', 'B) ameaca de aborto; repouso relativo.', 'C) aborto incompleto; curetagem uterina.', 'D) aborto em evolucao; acompanhamento clinico. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q006',
@@ -19320,7 +19320,7 @@ export const generatedQuestions = [
     questionNumber: 6,
     questionText: 'mulher de 38 anos, com deficiencia congenita de iga, e atendida em ambulatorio de clinica medica devido a insucesso terapeutico no tratamento de infeccao por helicobacter pylori. apresentava diagnostico de ulcera duodenal, tendo sido prescrito omeprazol, amoxicilina e claritromicina. apesar da melhora clinica, observou-se persistencia da infeccao em teste respiratorio com c13. atribuiu-se o insucesso terapeutico ao uso recorrente de macrolideos e fluoroquinolonas. nesse caso, deve-se prescrever',
     options: ['A) pantoprazol, amoxicilina e levofloxacino por 7 dias.', 'B) omeprazol, claritromicina e levofloxacino por 14 dias.', 'C) omeprazol, subcitrato de bismuto coloidal, doxiciclina e metronidazol por 14 dias.', 'D) pantoprazol, subcitrato de bismuto coloidal, furazolidona e levofloxacino por 10 dias. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q007',
@@ -19332,7 +19332,7 @@ export const generatedQuestions = [
     questionNumber: 7,
     questionText: 'homem de 28 anos foi admitido em hospital apos 30 minutos de acidente motociclistico. apresentava multiplas e graves lesoes em face, mandibula e cavidade oral, sem lesoes cervicais. exame fisico do torax e do abdome e ultrassonografia focada no abdome no trauma (fast) sem alteracoes. sinais vitais: frequencia cardiaca 92 bpm; pressao arterial 130 x 80 mmhg; saturacao periferica de oxigenio 100% em ar ambiente. o paciente evoluiu rapidamente com dispneia, taquipneia, estridor inspiratorio e expiratorio, cornagem e rebaixamento do nivel de consciencia. saturacao periferica de oxigenio passou para 88%, mesmo com a oferta de oxigenio suplementar. apos alguns minutos, evoluiu com saturacao periferica de oxigenio de 59% e frequencia cardiaca de 48 bpm. nesse momento, qual e a conduta imediata adequada para esse paciente?',
     options: ['A) traqueostomia.', 'B) cricotireoidotomia.', 'C) intubacao orotraqueal.', 'D) intubacao nasotraqueal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q008',
@@ -19344,7 +19344,7 @@ export const generatedQuestions = [
     questionNumber: 8,
     questionText: 'adolescente de 12 anos e levado a unidade de pronto atendimento (upa) devido a um quadro de dor abdominal iniciada ha 1 dia. a dor era mais difusa inicialmente, mas, apos algumas horas de evolucao, passou a concentrar-se na fossa iliaca direita, tornando-se mais intensa. alem disso, o jovem apresentou vomitos de conteudo bilioso e inapetencia. ao exame fisico abdominal, apresenta defesa a palpacao e descompressao brusca dolorosa.',
     options: ['A) partir desse caso, assinale a alternativa que apresenta indicacao para que este adolescente seja avaliado por uma equipe cirurgica.', 'A) dor abdominal difusa.', 'B) descompressao brusca dolorosa.', 'C) dor abdominal associada a vomitos.', 'D) massa palpavel em fossa iliaca direita. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q009',
@@ -19356,7 +19356,7 @@ export const generatedQuestions = [
     questionNumber: 9,
     questionText: 'gestante de 39 anos, g4p3, 12 semanas de gestacao, comparece a primeira consulta de pre-natal na atencao primaria. a paciente e hipertensa cronica ha 2 anos, faz uso de losartana e apresenta indice de massa corporal (imc) de 35 kg/m2, encontra-se assintomatica. considerando esse contexto, assinale a conduta inicial e a avaliacao a ser realizada.',
     options: ['A) suspender losartana e iniciar metildopa e aas; realizar pesquisa de lesao de orgaos-alvo.', 'B) manter losartana e iniciar aas; solicitar exames para avaliar a funcao hepatica.', 'C) suspender losartana; indicar avaliacao cardiologica detalhada.', 'D) manter losartana; realizar pesquisa de hipertensao secundaria.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q010',
@@ -19368,7 +19368,7 @@ export const generatedQuestions = [
     questionNumber: 10,
     questionText: 'mulher de 34 anos, com 4 filhos, desempregada, comparece a uma unidade basica de saude (ubs) com queixa de atraso menstrual de um mes. durante a consulta, a paciente relata que esta muito aflita, por ter realizado um teste de gravidez cujo resultado foi positivo. afirma que compareceu a consulta porque nao deseja essa gravidez. quando questionada, a paciente nega qualquer situacao de violencia sexual. nesse caso, alem de acolher e acalmar a paciente, a melhor abordagem a ser realizada pelo medico deve ser',
     options: ['A) iniciar o pre-natal regular, mencionando a possibilidade de entrega voluntaria da crianca para adocao apos seu nascimento.', 'B) desencorajar a realizacao de um aborto, apesar da paciente ter direito, enfatizando os riscos a saude advindos do procedimento de abortamento, como hemorragia, infeccao, perfuracao uterina, infertilidade e morte.', 'C) assegurar o direito as informacoes clinicas e legais adequadas, garantir o sigilo e informar sobre sintomas que justifiquem a busca de atendimento medico em caso de realizacao de um aborto inseguro.', 'D) questionar abertamente sobre a intencao de abortar, sem julgamento, e informa-la que tem obrigacao etica de fazer um boletim de ocorrencia caso o aborto venha a ser realizado.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q011',
@@ -19380,7 +19380,7 @@ export const generatedQuestions = [
     questionNumber: 11,
     questionText: 'mulher de 45 anos vai a unidade basica de saude (ubs) reportando dificuldade para reduzir o consumo de cigarros. refere fumar 20 cigarros por dia desde os 20 anos e que ja tentou interromper o uso varias vezes. relata, ainda, irritacao e ansiedade quando reduz o consumo de tabaco. diante desse caso, o plano terapeutico adequado para essa paciente consiste em',
     options: ['A) reposicao de nicotina com reducao gradual da dose.', 'B) terapia comportamental associada a reposicao de nicotina.', 'C) terapia comportamental e cessacao imediata do tabagismo.', 'D) prescricao de benzodiazepinico e reducao gradual do numero de cigarros diarios. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q012',
@@ -19392,7 +19392,7 @@ export const generatedQuestions = [
     questionNumber: 12,
     questionText: 'recem-nascido a termo, do sexo masculino, nascido de parto via vaginal, apgar 9/10, apresenta salivacao excessiva e muco no canto da boca apos o nascimento. durante a amamentacao, apresenta regurgitacao, cianose, tosse e insuficiencia respiratoria. na sala de parto, nao foi realizada passagem de sonda pelas narinas, nem pela boca. a ultrassonografia pre-natal evidenciava polidramnio. considerando o caso descrito, assinale a alternativa que apresenta o diagnostico provavel.',
     options: ['A) atresia esofagica.', 'B) atresia gastrica.', 'C) atresia intestinal.', 'D) atresia pancreatica.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q013',
@@ -19404,7 +19404,7 @@ export const generatedQuestions = [
     questionNumber: 13,
     questionText: 'mulher de 18 anos deu a luz uma crianca do sexo feminino, apgar 9/10, nascida a termo, com peso de nascimento de 3.500 g, comprimento de 50 cm e perimetro cefalico de 35 cm.',
     options: ['A) crianca permaneceu em aleitamento materno exclusivo desde o nascimento. com 24 horas de vida, o medico constata a perda de 175 g, eliminacoes presentes, a paciente corada e hidratada. nesse caso, a perda de peso em relacao ao peso do nascimento e de', 'A) 5%, o que nao e motivo de preocupacao.', 'B) 15%, devendo receber complemento com formula.', 'C) 15%, sendo necessaria observacao clinica rigorosa.', 'D) 5%, mas nao deveria estar acontecendo nesse momento.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q014',
@@ -19416,7 +19416,7 @@ export const generatedQuestions = [
     questionNumber: 14,
     questionText: 'paciente de 49 anos procura atendimento medico relatando que, ha 1 mes, nao consegue dormir adequadamente por causa de intensas ondas de calor, o que a deixa cansada, irritada e deprimida. relata dispareunia de penetracao e vagina seca. fez histerectomia e salpingooforectomia bilateral ha 3 meses e exame anatomopatologico revelou: adenomiose, hidrossalpinge em ambas as tubas uterinas, cistos de endometriose em ovario direito e focos de endometriose no peritonio. nega comorbidades. nesse caso, a conduta mais indicada e',
     options: ['A) fitoterapicos, pelo historico de adenomiose e endometriose.', 'B) antidepressivos triciclicos, ja que a hormonioterapia e contraindicada.', 'C) estrogenioterapia exclusiva, uma vez que a paciente passou por histerectomia.', 'D) tratamento hormonal estro-progestativo, considerando que a paciente apresentou quadro de endometriose.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q015',
@@ -19428,7 +19428,7 @@ export const generatedQuestions = [
     questionNumber: 15,
     questionText: 'menina de 6 anos e paciente do mesmo medico na unidade basica de saude (ubs) desde que nasceu. sempre foi uma crianca alegre, saudavel e sociavel. na ultima consulta, ha cerca de 15 dias, o pai a trouxe porque ela estava com dor de barriga, mas a paciente permaneceu encolhida e calada todo o tempo, quase nao deixando o medico examina-la. ha 2 dias, a professora da crianca procurou a equipe preocupada com a mudanca de comportamento da crianca. relatou que foi informada sobre a existencia de fotos intimas da crianca numa rede social. a mae, quando chamada, relatou que esta trabalhando e a crianca tem ficado com o pai na maior parte do tempo. nessa situacao, alem da avaliacao clinica, o medico deve',
     options: ['A) registrar, em prontuario, dados clinicos de forma isenta de interpretacoes pessoais; notificar violencia no sinan e contatar os equipamentos sociais e conselho tutelar para o seguimento do caso juntamente com a equipe.', 'B) encaminhar a crianca a pericia medica mais proxima da unidade, onde sera realizado exame fisico mais detalhado e coleta de vestigios da violencia; confirmar a violencia antes da notificacao no sinan e contatar o conselho tutelar.', 'C) confrontar os dados relatados pela professora com os pais, preocupacao; orientar as medidas de apoio a crianca e a familia.', 'D) anotar, em prontuario, os dados da historia com suspeita de abuso e denunciar o caso na delegacia mais proxima; encaminhar a crianca para um servico de protecao social local.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q016',
@@ -19440,7 +19440,7 @@ export const generatedQuestions = [
     questionNumber: 16,
     questionText: 'homem de 44 anos e levado a sala de emergencia do pronto-socorro apresentando agitacao intensa, confusao mental, tremores generalizados e sudorese profusa. ao exame fisico verifica-se frequencia cardiaca de 110 bpm e pressao arterial (pa) de 150 x 110 mmhg. o paciente e etilista cronico, sem antecedentes patologicos e seus familiares relatam que ele interrompeu o consumo de alcool ha 48 horas. com base nessas informacoes, assinale a alternativa que apresenta, respectivamente, o diagnostico correto e a conduta inicial para esse paciente.',
     options: ['A) delirium tremens; administracao de antipsicoticos, como haloperidol.', 'B) delirium tremens; administracao intravenosa de benzodiazepinicos, como diazepam.', 'C) encefalopatia hipertensiva; restricao de liquidos e monitoramento estrito da funcao renal.', 'D) encefalopatia hipertensiva; administracao de nitroprussiato de sodio para reducao da pa media entre 20 e 25% nas primeiras 2 horas. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q017',
@@ -19452,7 +19452,7 @@ export const generatedQuestions = [
     questionNumber: 17,
     questionText: 'homem de 39 anos, sem comorbidades e em bom estado de saude, encontra-se em preparacao pre-operatoria eletiva de colecistectomia que sera realizada por via laparoscopica. durante consulta com o medico que o acompanha, o paciente manifesta preocupacao sobre o que pode ingerir e por quanto tempo deve permanecer em jejum antes do procedimento. nesse caso, o medico deve orientar o paciente a fazer, antes da anestesia, jejum de alimentos solidos por',
     options: ['A) 12 horas e de liquidos por 8 horas.', 'B) 6 a 8 horas e de liquidos claros por 2 horas.', 'C) 4 a 6 horas e de bebida proteica por 1 hora.', 'D) 10 horas e de pequenos volumes de agua por 4 horas.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q018',
@@ -19464,7 +19464,7 @@ export const generatedQuestions = [
     questionNumber: 18,
     questionText: 'lactente saudavel de 40 dias, que atualmente vive em uma unidade de acolhimento, e atendido em uma unidade basica de saude (ubs) em sua primeira consulta desde o nascimento. sua cuidadora informa que nao foi realizado teste do pezinho.',
     options: ['A) respeito da indicacao de coleta do teste do pezinho, assinale a alternativa correta.', 'A) o teste do pezinho pode ser coletado somente ate o 28o dia de vida; dessa forma, a coleta nao podera ser realizada nesse lactente.', 'B) o teste do pezinho pode ser coletado apenas entre o 3o e o 5o dia de vida do bebe; dessa forma, a coleta nao podera ser realizada nesse lactente.', 'C) a coleta do teste do pezinho deveria ter sido realizada na maternidade, logo nas primeiras 48 horas de vida do bebe, o que evitaria a situacao atual.', 'D) a coleta do teste do pezinho apos o 28o dia de vida e uma condicao de excecao, podendo ser realizada em caso de dificil acesso ao servico ou de negligencia.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q019',
@@ -19476,7 +19476,7 @@ export const generatedQuestions = [
     questionNumber: 19,
     questionText: 'gestante de 25 anos e atendida em uma maternidade no primeiro estagio da fase ativa de trabalho de parto. seu pre-natal foi de risco habitual e ela esta com 40 semanas de gestacao. durante a ausculta intermitente, e detectada uma frequencia cardiaca fetal mantida de 100 bpm. diante disso, e realizada cardiotocografia, que mostra parametros normais, exceto a linha de base em torno de 102 bpm por um periodo de 10 minutos. a paciente nao apresenta outros sinais ou sintomas de complicacoes, e o restante do exame fisico esta dentro dos parametros esperados para a fase ativa do trabalho de parto. diante desse quadro clinico, a conduta adequada e',
     options: ['A) encaminhar a paciente para cesariana por se tratar de sofrimento fetal agudo.', 'B) administrar ocitocina e acelerar a ultimacao do parto por se tratar de sofrimento fetal agudo.', 'C) iniciar tocoliticos para reduzir a atividade uterina e aguardar melhora espontanea da frequencia cardiaca fetal.', 'D) administrar oxigenio e mudar a posicao da gestante, reavaliando a frequencia cardiaca fetal apos alguns minutos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q020',
@@ -19500,7 +19500,7 @@ export const generatedQuestions = [
     questionNumber: 21,
     questionText: 'homem de 55 anos procura atendimento em unidade basica de saude (ubs) para renovar prescricao de losartana. durante a consulta, relata dispneia aos esforcos fisicos moderados. alem disso, refere tosse pouco produtiva ha alguns anos, o que atribui ao uso de 20 cigarros por dia ha 20 anos. radiografia do torax revela alargamento dos espacos intercostais, sem outras alteracoes. espirometria apresenta os seguintes resultados: valor valor valor previsto (de encontrado encontrado acordo com sexo, parametro (pre- (pos- idade, cor da pele e broncodi- broncodi- estatura do paciente) latador) latador) volume expiratorio forcado no 1o 1,72 1,73 3,65 segundo (vef1) capacidade vital 3,13 3,14 4,66 forcada (cvf) relacao vef1/cvf 0,55 0,55 0,79 diante dos achados, define-se doenca pulmonar obstrutiva cronica. nesse caso, de acordo com os criterios gold, a doenca do paciente pode ser funcionalmente classificada em',
     options: ['A) estagio 1.', 'B) estagio 2.', 'C) estagio 3.', 'D) estagio 4. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q022',
@@ -19512,7 +19512,7 @@ export const generatedQuestions = [
     questionNumber: 22,
     questionText: 'homem de 40 anos e levado a uma unidade de pronto atendimento apos sofrer um acidente de trabalho enquanto utilizava uma maquina de esmerilhamento. ele relata que um fragmento metalico de alta velocidade ultrapassou a protecao de seus oculos e atingiu seu olho direito. o paciente apresenta dor intensa no olho afetado, com perda parcial da visao e sensacao de corpo estranho. o exame fisico revela laceracao na conjuntiva bulbar com extravasamento espontaneo de pequena quantidade de conteudo gelatinoso pelo olho direito. nesse momento, antes de encaminhar o paciente para o especialista, qual e a conduta adequada para o caso?',
     options: ['A) irrigar o olho afetado com solucao salina esteril, fazer penicilina cristalina via endovenosa e reavaliar o paciente apos 6 horas.', 'B) colocar escudo rigido sobre o olho afetado, iniciar fluoroquinolona endovenosa e verificar imunizacao antitetanica.', 'C) aplicar colirio corticoide no olho afetado, colocar escudo rigido sobre ele e solicitar radiografia de orbita.', 'D) aplicar colirio antibiotico no olho afetado, realizar curativo oclusivo e prescrever analgesia endovenosa.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q023',
@@ -19524,7 +19524,7 @@ export const generatedQuestions = [
     questionNumber: 23,
     questionText: 'agrupadas no acronimo torchsz, as infeccoes congenitas e/ou perinatais sao causas de significativa morbimortalidade neonatal. os sinais e sintomas dessas enfermidades sao similares, porem algumas caracteristicas sao mais sugestivas de determinada doenca.',
     options: ['A) partir do exposto, assinale a alternativa que relaciona corretamente sinais e sintomas e/ou achados de exames complementares com a doenca.', 'A) hidrocefalia, plaquetose, hepatoesplenomegalia e ictericia sao achados mais comuns da toxoplasmose.', 'B) rash macular com ulceras, plaquetopenia e alteracao liquorica sao achados tipicos da rubeola congenita.', 'C) rinite serossanguinolenta, pseudoparalisia de parrot, catarata e coriorretinite sao encontradas na herpes simples.', 'D) catarata, persistencia do canal arterial ou estenose pulmonar e retardo de crescimento intrauterino sao achados mais comuns de citomegalovirus. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q024',
@@ -19536,7 +19536,7 @@ export const generatedQuestions = [
     questionNumber: 24,
     questionText: 'mulher, g2p1 (parto vaginal), e conduzida ao servico de urgencia obstetrica por estar desacordada, apos ter apresentado dor abdominal subita e desmaio em casa. esta com 35 semanas de gestacao e e hipertensa cronica em uso de metildopa e nifedipina. esta inconsciente, apresenta tonus uterino aumentado, com batimento cardiaco fetal de 50 bpm, colo uterino fechado e com moderado sangramento escuro por via vaginal. ela apresenta os seguintes dados vitais: exame resultado frequencia cardiaca materna 60 bpm pressao arterial 80 x 60 mmhg saturacao de oxigenio 94% diante desse quadro clinico, assinale a alternativa que apresenta, respectivamente, o diagnostico e a conduta adequados.',
     options: ['A) descolamento prematuro de placenta; priorizar a estabilizacao hemodinamica com reposicao volemica, posicionar a paciente em decubito lateral e realizar a cesarea imediatamente.', 'B) descolamento prematuro de placenta; iniciar a administracao de reposicao volemica com cristaloides e com oxigenio e iniciar a monitorizacao continua materno- fetal, enquanto a paciente e preparada para o parto vaginal induzido.', 'C) placenta previa; iniciar a reanimacao materna com cristaloides, oxigenio suplementar e administracao de uteroliticos para diminuir o tonus e conter o sangramento, enquanto a paciente e transferida para o centro cirurgico a fim de realizar avaliacao de cesariana de urgencia.', 'D) placenta previa; realizar manobras de suporte a vida materna, como reposicao volemica com cristaloides e administracao de oxigenio, e iniciar monitorizacao continua materno-fetal enquanto a paciente e preparada para o parto vaginal induzido. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q025',
@@ -19548,7 +19548,7 @@ export const generatedQuestions = [
     questionNumber: 25,
     questionText: 'os povos ciganos/romani que vivem no brasil possuem um estilo de vida nao homogeneo, com uma cultura muitas vezes divergente. portanto, e essencial que gestores e profissionais da saude se aproximem dessa populacao e conhecam suas nesse contexto, ao se fazer o planejamento de acoes de saude para essa populacao, e importante considerar que',
     options: ['A) as questoes de saude sao conduzidas por homens na maioria das comunidades ciganas/romani, motivo pelo qual as mulheres nao devem ir ao hospital sozinhas.', 'B) a depressao e o suicidio sao problemas de saude nas comunidades ciganas/romani, com maior incidencia em mulheres, sendo motivados pelo racismo e por outras formas de violencia.', 'C) as mulheres sao as liderancas mais respeitadas por toda a comunidade cigana/romani; por isso, para criar um vinculo de confianca com a comunidade, os agentes publicos de saude devem iniciar a interlocucao com elas.', 'D) os povos ciganos/romani optam, em sua grande maioria, por se manterem nomades, buscando formas alternativas de garantir saude e educacao, apesar de atualmente algumas familias ciganas/romani preferirem residencias fixas.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q026',
@@ -19560,7 +19560,7 @@ export const generatedQuestions = [
     questionNumber: 26,
     questionText: 'homem de 67 anos, com historico de doenca pulmonar obstrutiva cronica ha 10 anos e tabagismo ha 50 anos, e levado a unidade de pronto atendimento com desconforto respiratorio, tosse e confusao mental ha 2 horas. familiar relata que, nos ultimos 5 dias, houve piora progressiva da dispneia e aumento do volume de expectoracao, alem de mudanca no aspecto dessa secrecao, que passou de amarelo claro para verde escuro. ao exame fisico, encontra-se torporoso, com extremidades cianoticas e com sibilos e estertores difusos em todos os campos pulmonares. considerando a situacao apresentada, a conducao clinica desse paciente deve incluir, obrigatoriamente corticoterapia',
     options: ['A) sistemica e acompanhamento ambulatorial.', 'B) inalatoria e acompanhamento ambulatorial.', 'C) inalatoria e internacao hospitalar.', 'D) sistemica e internacao hospitalar.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q027',
@@ -19572,7 +19572,7 @@ export const generatedQuestions = [
     questionNumber: 27,
     questionText: 'paciente do sexo masculino, 18 anos, chega ao pronto atendimento com dor abdominal em mesogastrio e epigastrio, de inicio insidioso e carater progressivo, associada a nauseas e hiporexia. a evolucao do quadro tem cerca de 24 horas. ao exame fisico, a dor abdominal e exacerbada pela tosse, ha discreta diferenca de temperatura entre a regiao axilar e a retal (+1,2 c), alem de dor a palpacao profunda em regiao inferior direita do abdome. exames laboratoriais mostram leucocitos 14.000/mm3 com 80% de neutrofilos, alem de sumario de urina com 6 piocitos/campo. com base no quadro clinico e laboratorial, qual achado clinico complementa o diagnostico mais provavel?',
     options: ['A) dor a punho-percussao na regiao lombar a direita.', 'B) crepitacao na parede abdominal associada a presenca de gas.', 'C) dor a palpacao no hipocondrio direito durante inspiracao profunda.', 'D) dor a descompressao entre a espinha iliaca antero- superior e o umbigo.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q028',
@@ -19584,7 +19584,7 @@ export const generatedQuestions = [
     questionNumber: 28,
     questionText: 'menino de cinco meses e levado para consulta de rotina. nasceu com idade gestacional de 28 semanas, com boa evolucao na internacao e recebeu alta para acompanhamento ambulatorial. o bebe esta bem, mas teve um episodio de infeccao respiratoria leve. a familia esta preocupada com eventuais complicacoes que o bebe possa ter, uma vez que o inverno esta chegando e os pais querem proteger a crianca. nessa situacao, a conduta medica mais adequada e indicar a',
     options: ['A) administracao da vacina anti-influenza de imediato e a restricao de visitas.', 'B) administracao de palivizumabe e orientar os cuidados essenciais de prevencao.', 'C) manutencao do calendario vacinal atualizado e o encaminhamento do bebe para a infectologia infantil.', 'D) manutencao do calendario vacinal atualizado e a administracao de omalizumabe em caso de infeccoes. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q029',
@@ -19596,7 +19596,7 @@ export const generatedQuestions = [
     questionNumber: 29,
     questionText: 'primigesta de 24 anos chega a maternidade com queixa de cefaleia, febre e dores articulares leves ha 5 dias. relata que ontem houve piora da febre e surgimento de manchas pelo corpo, o que a fez procurar a emergencia. o obstetra verifica o cartao do pre-natal e constata que ela esta com 22 semanas de gestacao e ja realizou 3 consultas na unidade basica de saude (ubs), sempre com sinais vitais normais e exames laboratoriais sem alteracoes. ao exame fisico, a paciente apresenta-se em bom estado geral, lucida e orientada. durante a analise clinica, foram obtidos os seguintes resultados: exame resultado pressao arterial 90 x 70 mmhg frequencia cardiaca 82 bpm saturacao de o 98% em ar ambiente 2 temperatura axilar 38,6 c altura uterina 20 cm batimentos cardiofetais 142 bpm (regular) apos ouvir a historia da paciente e examina-la, o medico solicita um hemograma, cujo resultado e: exame resultado valor de referencia hematocrito 38% 35 - 45% hemoglobina 11,2 g/dl 12,0 - 16,0 g/dl leucocitos totais 9.500/mm3 4.500  11.000 /mm3 plaquetas 28.000/mm3 150.000  450.000/mm3 nesse caso, qual a principal hipotese diagnostica e a conduta a ser adotada pelo obstetra?',
     options: ['A) dengue; internar imediatamente a paciente, iniciar hidratacao venosa, dipirona endovenosa e realizar controle diario de plaquetas.', 'B) chikungunya; colocar a paciente em leito de observacao clinica, iniciar hidratacao venosa, dipirona e, apos terminar, liberar retorno ao pre-natal.', 'C) zika; colocar a paciente em leito de observacao clinica, iniciar hidratacao venosa, dipirona endovenosa e realizar controle diario de plaquetas.', 'D) febre de oropouche; internar imediatamente a paciente, iniciar transfusao de plaquetas, paracetamol por via oral e, apos a transfusao, liberar retorno ao pre-natal.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q030',
@@ -19608,7 +19608,7 @@ export const generatedQuestions = [
     questionNumber: 30,
     questionText: 'enchentes, secas, ondas de calor, tempestades tropicais, incendios florestais e aumento do nivel do mar estao diretamente relacionados a escalada dos determinantes sociais da saude. esses fatores podem levar ao aumento de doencas cardiovasculares, entre outras. considerando a interferencia desses fatores, assinale a alternativa correta com relacao as acoes de promocao da saude.',
     options: ['A) a exposicao a poluicao do ar pode acarretar no aumento do risco para hipertensao, diabetes e dermatite atopica, portanto, indica-se fechar as janelas da residencia nos horarios de maior fluxo de carros a fim de reduzir a exposicao aos poluentes.', 'B) as plantacoes de milho para a producao de biocombustivel configuram uma importante tendencia no pais uma vez que aumentam a oferta de empregos na economia verde e melhoram as condicoes de vida de pequenos e medios produtores rurais.', 'C) a elevacao da pressao arterial e um efeito comum das ondas de calor, por isso, e indicado aumentar as doses dos anti-hipertensivos, reforcar a hidratacao e procurar fontes de sombra e refrigeracao.', 'D) as atividades de educacao em saude acerca do estresse climatico sao desaconselhaveis nas escolas, devido ao risco de sofrimento emocional nas criancas e nos adolescentes.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q031',
@@ -19620,7 +19620,7 @@ export const generatedQuestions = [
     questionNumber: 31,
     questionText: 'homem de 40 anos procura a unidade basica de saude (ubs) relatando que esta com tosse produtiva ha 3 meses, associada a febre vespertina e perda de peso. nega historico de tuberculose. na ubs, e realizado o teste rapido molecular (trm) para tuberculose no escarro, com resultado positivo e resistencia a rifampicina. diante disso, esse paciente e encaminhado para o ambulatorio de referencia em tuberculose do municipio. nessa situacao, a conduta medica, baseada no resultado do trm, e',
     options: ['A) inadequada, devendo ser solicitada a baciloscopia no escarro; o encaminhamento do paciente deve ser cancelado enquanto aguarda o resultado da baciloscopia.', 'B) adequada, sendo desnecessario aguardar a baciloscopia no escarro; o encaminhamento do paciente deve ser cancelado e deve ser iniciado o esquema basico imediatamente.', 'C) adequada, sendo desnecessario aguardar a baciloscopia no escarro; o encaminhamento do paciente deve ser mantido e deve ser feito novo trm, alem de cultura e teste de sensibilidade.', 'D) inadequada, devendo ser solicitada a baciloscopia no escarro; o encaminhamento do paciente deve ser mantido, devido a necessidade de confirmacao diagnostica por centro especializado. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q032',
@@ -19632,7 +19632,7 @@ export const generatedQuestions = [
     questionNumber: 32,
     questionText: 'paciente do sexo feminino, 33 anos, previamente saudavel, apos ter sido submetida a abdominoplastia em clinica privada, evoluiu com instabilidade hemodinamica no pos-operatorio imediato antes da alta. o cirurgiao plastico que a operou pediu a familia da paciente que a levasse para a unidade de pronto atendimento, onde chegou sem vida. a luz do codigo de etica medica, deve-se considerar que o cirurgiao plastico da situacao descrita foi',
     options: ['A) imprudente ao operar a paciente em clinica privada.', 'B) imperito ao realizar o procedimento de abdominoplastia.', 'C) negligente quanto a estabilizacao pre-transporte da paciente.', 'D) diligente ao solicitar aos familiares a rapida transferencia da paciente.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q033',
@@ -19644,7 +19644,7 @@ export const generatedQuestions = [
     questionNumber: 33,
     questionText: 'lactante previamente higida comparece a consulta de puericultura com seu filho de 4 meses. ela refere que voltara a trabalhar em 15 dias, por isso tem duvidas quanto a oferta do leite materno. considerando essa situacao, assinale a alternativa que apresenta a orientacao correta quanto aos cuidados adequados com a ordenha e o leite materno ordenhado.',
     options: ['A) para o descongelamento do leite materno, pode-se realizar a fervura ou o aquecimento em micro-ondas.', 'B) para a coleta de leite materno, pode-se realizar ordenha manual apos higienizacao das mamas com alcool 70%.', 'C) para a conservacao do leite materno, pode-se mante-lo em congelador por ate 15 dias a partir da primeira retirada.', 'D) para o favorecimento da continuidade do aleitamento materno, pode-se oferecer em mamadeira o leite ordenhado.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q034',
@@ -19656,7 +19656,7 @@ export const generatedQuestions = [
     questionNumber: 34,
     questionText: 'menina de 14 anos vai a consulta na unidade basica de saude (ubs), acompanhada de sua mae, relatando preocupacao, pois todas as suas amigas da mesma faixa etaria ja menstruaram, exceto ela. a paciente apresenta as mamas desenvolvidas e alguns pelos pubianos e, durante a consulta, apresenta muitas duvidas em relacao a menstruacao. nesse caso, apos orientar a menina sobre ciclo menstrual e sobre metodos contraceptivos, a conduta adequada e',
     options: ['A) solicitar exames complementares para investigacao de amenorreia.', 'B) orientar a mae e a filha a aguardarem a menstruacao ate os 16 anos.', 'C) indicar teste de progesterona oral para confirmar amenorreia primaria.', 'D) solicitar ultrassonografia e dosagens hormonais para investigacao de amenorreia.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q035',
@@ -19668,7 +19668,7 @@ export const generatedQuestions = [
     questionNumber: 35,
     questionText: 'um medico de familia e comunidade, atuante numa equipe fluvial, atende a uma populacao ribeirinha e a uma populacao indigena, ambas na regiao amazonica. ele reconhece que essas duas populacoes vivem em regioes remotas. no entanto, e notavel que elas apresentam diferencas culturais e de modos de vida.',
     options: ['A) partir dessas informacoes, assinale a alternativa que apresenta a estrategia adequada a ser adotada pelo medico e por sua equipe no cuidado a saude das populacoes mencionadas.', 'A) utilizacao de profissionais de saude nativos ou locais sem a necessidade de capacitacao especifica focada no paradigma biomedico, uma vez que eles ja conhecem profundamente a cultura, as tradicoes e os habitos dessas populacoes.', 'B) atendimento a populacao ribeirinha centrado em solucoes biomedicas e tecnologicas, utilizando conhecimentos da medicina ocidental, enquanto o atendimento a populacao indigena deve ser pautado por suas proprias praticas de cuidado e cura.', 'C) incentivo e valorizacao das praticas de cuidado tradicionais, promocao do uso racional de medicamentos basicos pela populacao indigena e estimulo a participacao local e a integracao do saber academico e do senso comum da comunidade ribeirinha.', 'D) organizacao dos atendimentos das populacoes de forma padronizada, a partir da identificacao das prioridades em saude, considerando que as comunidades compartilham realidades geograficas e desafios semelhantes em relacao ao acesso a cuidados medicos.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q036',
@@ -19680,7 +19680,7 @@ export const generatedQuestions = [
     questionNumber: 36,
     questionText: 'mulher de 45 anos foi levada para consulta na casa de saude indigena da capital do estado, com febre (ate 39c), tosse, dor de garganta, cefaleia, mialgia e artralgia iniciados ha cerca de 36 horas. outros 5 pacientes da mesma comunidade indigena apresentaram quadro semelhante no mesmo periodo. no dia da consulta, a paciente comecou a se queixar de leve falta de ar. ao exame fisico apresentava parametros dentro da normalidade, exceto pela febre (39 c) e por estertores crepitantes na base pulmonar direita. frequencia respiratoria de 22 irpm e pressao arterial e de 120 x 80 mmhg. considerando o caso apresentado, assinale a alternativa que indica, respectivamente, a hipotese diagnostica e a conduta mais adequada.',
     options: ['A) pneumonia viral; prescrever o uso de oseltamivir.', 'B) tuberculose; solicitar pesquisa de baar no escarro.', 'C) pneumonia bacteriana; indicar o uso de ceftriaxona e amoxicilina.', 'D) resfriado comum; recomendar o uso de medicacoes sintomaticas. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q037',
@@ -19692,7 +19692,7 @@ export const generatedQuestions = [
     questionNumber: 37,
     questionText: 'mulher de 24 anos, previamente saudavel, portadora de rim unico, sofreu um acidente motociclistico ha 7 dias. foi levada a um hospital, onde foi submetida a craniectomia descompressiva e drenagem de hematoma subdural agudo. no entanto, ha 1 dia, evoluiu com coma aperceptivo e ausencia de reflexos de tronco encefalico. diante disso, foi realizado o protocolo de morte encefalica, com confirmacao diagnostica. testes laboratoriais mostraram funcao renal preservada, anti-hbs positivo e hbsag negativo. embora a paciente seja doadora de orgaos e tecidos, seu esposo se posiciona contra a doacao, afirmando que isso interferira em suas crencas. com base na legislacao pertinente, assinale a alternativa correta quanto a doacao de orgaos nessa situacao.',
     options: ['A) a condicao renal da paciente, embora seja saudavel, contraindica a doacao de orgaos.', 'B) a doacao de orgaos da paciente requer o consentimento e a autorizacao de seu esposo.', 'C) o poder publico podera intervir a favor do cumprimento do desejo de doacao da paciente.', 'D) os resultados dos exames laboratoriais citados impossibilitam a doacao de orgaos da paciente.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q038',
@@ -19704,7 +19704,7 @@ export const generatedQuestions = [
     questionNumber: 38,
     questionText: 'menino de 6 meses, saudavel, e levado para consulta de rotina. ele esta em aleitamento materno exclusivo e a mae busca orientacoes sobre a introducao alimentar, pois se trata de seu primeiro filho. nesse caso, a conduta adequada e manter aleitamento materno e',
     options: ['A) introduzir 1 refeicao com composto lacteo.', 'B) iniciar 1 refeicao minimamente processada.', 'C) oferecer suco de frutas e dar 2 papas de legumes.', 'D) introduzir 1 refeicao principal e 1 porcao de fruta. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q039',
@@ -19740,7 +19740,7 @@ export const generatedQuestions = [
     questionNumber: 41,
     questionText: 'homem de 22 anos comparece a unidade basica de saude (ubs) com queixa de ulcera na regiao genital associada a "ingua na virilha". ele afirma que, ha cerca de 10 dias, observou lesao papular, unica, indolor, localizada na glande. em pouco tempo, essa lesao evoluiu para ulceracao local. ao exame fisico, o paciente apresenta, na glande, ulcera unica de fundo limpo e bordas elevadas, endurecidas e linfonodos inguinais palpaveis bilateralmente, nao supurativos, moveis e indolores. ao ser cerca de 3 semanas antes do inicio dos primeiros sinais. nesse caso, qual e o exame complementar indicado para o diagnostico do paciente?',
     options: ['A) vdrl serico (venereal disease research laboratory).', 'B) cultura de secrecao uretral l em meio de thayer-martin.', 'C) aspirado linfonodal com pesquisa de haemophilus ducreyi.', 'D) pesquisa de corpusculos de donovan em esfregaco da lesao.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q042',
@@ -19752,7 +19752,7 @@ export const generatedQuestions = [
     questionNumber: 42,
     questionText: 'mulher de 45 anos, sem comorbidades, e submetida a uma colecistectomia videolaparoscopica eletiva devido a colecistopatia cronica calculosa. o procedimento transcorre sem complicacoes, durando cerca de 40 minutos. no pos-operatorio imediato, a paciente apresenta-se hemodinamicamente estavel, com pressao arterial de 110 x 70 mmhg, frequencia cardiaca de 82 bpm e saturacao de oxigenio de 98% em ar ambiente. nega nausea e relata dor leve em regiao abdominal. de acordo com os protocolos multimodais de recuperacao pos-operatoria (eras e acerto), qual e a conduta adequada em relacao a alimentacao dessa paciente?',
     options: ['A) inicio de dieta liquida via oral apos 6 horas do procedimento.', 'B) inicio imediato de dieta via oral, de acordo com sua vontade.', 'C) inicio de dieta via oral apos 24 horas do procedimento.', 'D) inicio imediato de dieta via oral, de forma escalonada. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q043',
@@ -19764,7 +19764,7 @@ export const generatedQuestions = [
     questionNumber: 43,
     questionText: 'adolescente de 15 anos com fibrose cistica comparece ao pronto-socorro com aumento da tosse produtiva, expectoracao purulenta e febre iniciada ha tres dias. ele relata piora da dispneia, e sua mae, que o acompanha, observa que ele tem tido mais dificuldade para realizar suas atividades diarias. ao exame fisico, o paciente apresenta moderado desconforto respiratorio, com taquipneia (frequencia respiratoria de 32 irpm), sibilos bilaterais e diminuicao do murmurio vesicular nas bases pulmonares. a saturacao de oxigenio em ar ambiente e de 87%. considerando o quadro clinico apresentado, a abordagem inicial e',
     options: ['A) internar o paciente; iniciar oxigenoterapia e antibioticoterapia de amplo espectro intravenosa; e solicitar cultura de escarro.', 'B) internar o paciente; iniciar corticoterapia sistemica; e realizar drenagem postural imediata com fisioterapia respiratoria intensiva.', 'C) realizar nebulizacao com broncodilatadores; prescrever antibioticoterapia oral domiciliar; e agendar acompanhamento em ambulatorio especializado.', 'D) realizar tomografia de torax, gasometria arterial e exames sericos para avaliar melhor o grau de comprometimento pulmonar antes de iniciar tratamento.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q044',
@@ -19776,7 +19776,7 @@ export const generatedQuestions = [
     questionNumber: 44,
     questionText: 'paciente, g3p1a, gestacao de 13 semanas, datada pela ecografia de 8 semanas, procura atendimento com queixa de sangramento vaginal ha 3 dias, em pequena quantidade. a tipagem sanguinea anotada em seu cartao de pre-natal e',
     options: ['A) negativo. ela desconhece a tipagem sanguinea de seu companheiro. ao exame ginecologico, nota-se sangramento vaginal em moderada quantidade e colo uterino fechado. solicitado teste de coombs indireto, com resultado positivo. diante desse contexto, a conduta medica adequada e', 'A) alertar a paciente sobre a inviabilidade da gestacao.', 'B) realizar imunoglobulina anti-rh, por via endovenosa, imediatamente.', 'C) repetir o exame de coombs indireto e solicitar tipagem sanguinea do parceiro.', 'D) encaminhar ao pre-natal de alto risco e indicar monitoramento por aloimunizacao. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q045',
@@ -19788,7 +19788,7 @@ export const generatedQuestions = [
     questionNumber: 45,
     questionText: 'um medico recem-contratado para atuar como gerente de uma unidade basica de saude (ubs) em uma cidade com 35.000 habitantes agendou uma reuniao com a equipe para tratar de visitas domiciliares. seu objetivo e propor uma investigacao com enfoque em doencas cronicas nao transmissiveis, na populacao residente com 18 anos ou mais de idade. o medico visa melhorar, em um curto periodo de tempo, o planejamento de cuidados de saude dessa populacao. o desenho de pesquisa mais adequado para esse levantamento denomina-se',
     options: ['A) estudo transversal.', 'B) estudo experimental.', 'C) analise de caso-controle.', 'D) analise de coorte prospectivo.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q046',
@@ -19800,7 +19800,7 @@ export const generatedQuestions = [
     questionNumber: 46,
     questionText: 'mulher de 25 anos vai a consulta na unidade basica de saude (ubs) com dor articular ha 4 meses, edema e vermelhidao nas articulacoes metacarpo falangeanas e interfalangeanas proximais de ambas as maos e tambem em punhos e joelhos. refere rigidez matinal de 2 horas, mal-estar generalizado e sensacao de febre. nega lesoes cutaneas ou alopecia. fez uso de ibuprofeno, com alivio parcial das dores. exame fisico: a palpacao das articulacoes acometidas presenca de dor, espessamento sinovial, sem deformidades. os exames indicam velocidade de hemossedimentacao de 35 mm/hora (valor de referencia [vr]: < 20 mm/hora); proteina c reativa de 12 mg/dl (vr: < 6 mg/dl); e fator reumatoide negativo (referencia: negativo). considerando o caso apresentado, assinale a alternativa que indica, respectivamente, o diagnostico e o tratamento medicamentoso adequados.',
     options: ['A) osteoartrite; uso de paracetamol.', 'B) artrite reumatoide; uso de metotrexato.', 'C) esclerose sistemica; uso de prednisona.', 'D) lupus eritematoso sistemico; uso de cloroquina. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q047',
@@ -19812,7 +19812,7 @@ export const generatedQuestions = [
     questionNumber: 47,
     questionText: 'homem de 35 anos, vitima de acidente de transito, com amputacao traumatica de membro inferior direito na regiao da perna, recebe atendimento no local do acidente. o exame clinico revela sangramento ativo e abundante na regiao da amputacao. no momento, sua pele esta palida e fria, apresenta 13 pontos em escala de coma de glasgow e seus sinais vitais sao apresentados a seguir. exame resultado pressao arterial 80 x 50 mmhg frequencia cardiaca 130 bpm frequencia respiratoria 30 irpm com base no protocolo do x atls, qual e a intervencao prioritaria inicial para esse paciente?',
     options: ['A) posicionar canula orofaringea.', 'B) administrar fluidos intravenosos.', 'C) manter a coluna cervical estabilizada.', 'D) colocar torniquete acima do local da amputacao.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q048',
@@ -19824,7 +19824,7 @@ export const generatedQuestions = [
     questionNumber: 48,
     questionText: 'menino de 6 anos e levado para consulta por seus pais, por estarem preocupados com seu ganho de peso. notaram escurecimento da pele da crianca em regiao de pescoco e axilas, pensando que isso pode ser algum problema grave. o menino apresenta indice de massa corporal (imc) entre +2 e +3 no escore z e uma relacao circunferencia abdominal / estatura de 0,9. ao exame fisico, apresenta manchas escurecidas e aveludadas em regiao de pescoco e axilas. nesse caso, as alteracoes clinicas e a conduta adequada, respectivamente, sao',
     options: ['A) risco de sobrepeso e acantosis nigricans; iniciar hipoglicemiante oral.', 'B) eutrofia e acrodermatite; encaminhar o paciente para dermatologia.', 'C) obesidade e acantosis nigricans; orientar alimentacao e pratica de esportes.', 'D) sobrepeso e acrodermatite; encaminhar o paciente para endocrinologia infantil. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q049',
@@ -19836,7 +19836,7 @@ export const generatedQuestions = [
     questionNumber: 49,
     questionText: 'mulher de 65 anos procura atendimento medico na unidade de atencao primaria. relata que teve a menopausa aos 50 anos, com diagnostico de osteoporose, confirmado por exame de densitometria ossea (t-score de -2,5). a paciente nao apresenta historico de fraturas, e obesa, sedentaria e faz uso cronico de corticoides orais. diante do caso, a conduta adequada e',
     options: ['A) reposicao hormonal com estrogenos orais, restricao de atividade fisica de alto impacto, com nova avaliacao apos 1 ano.', 'B) calcitonina nasal, recomendando exercicios leves, alem de sugerir aumento de ingestao de alimentos ricos em calcio e em vitamina d.', 'C) vitamina d isolada associada ao aumento da ingestao de proteinas, recomendando atividades fisicas de baixo impacto, com reavaliacao apos 1 ano.', 'D) bisfosfonato oral, recomendando a pratica regular de exercicios fisicos (por 30 a 40 minutos, 3 vezes por semana) e a suplementacao de calcio e de vitamina d.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q050',
@@ -19848,7 +19848,7 @@ export const generatedQuestions = [
     questionNumber: 50,
     questionText: 'homem de 42 anos, pescador que mora proximo a um lago, e atendido em uma unidade basica de saude (ubs) no norte de minas gerais. ele relata dor abdominal intermitente, cansaco, febre baixa, hiporexia, episodios de diarreia ha cerca de um mes e areas de prurido em membros inferiores. no exame fisico, apresenta hepatoesplenomegalia e distensao abdominal. nos membros inferiores ha lesoes sugestivas de estrofulos. o hemograma mostra eosinofilia. aguarda resultado de exame parasitologico de fezes pelo metodo kato-katz. nesse caso, qual devera ser a conduta de acordo com o resultado do exame?',
     options: ['A) se o resultado for positivo, tratar o paciente com metronidazol e notificar ao sinan.', 'B) se o resultado for positivo, solicitar ensaio imunoenzimatico (elisa) para deteccao de anticorpos igg e confirmacao da atividade da doenca.', 'C) se o resultado for positivo, tratar o paciente com praziquantel e notificar no sistema de informacao do programa especifico da doenca.', 'D) se o resultado for negativo, solicitar metodo de sedimentacao espontanea de fezes (hoffman) para descartar a principal hipotese diagnostica.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q051',
@@ -19860,7 +19860,7 @@ export const generatedQuestions = [
     questionNumber: 51,
     questionText: 'homem de 25 anos vai a unidade de pronto atendimento (upa) apresentando quadro de febre alta ha 3 dias, associado a nauseas, mialgia, artralgia e leve dor em quadrantes superiores do abdome. ao exame fisico, o paciente encontra-se alerta, consciente e orientado; pressao arterial de 100 x 70 mmhg; frequencia cardiaca de 110 bpm; e frequencia respiratoria de 18 irpm; pulsos cheios e extremidades quentes; figado palpavel a 3 centimetros do rebordo costal direito, levemente doloroso a palpacao. os exames laboratoriais iniciais do paciente revelam os seguintes resultados: exame resultado valor de referencia (vr) leucocitos 3.500 4.000 a 10.000/mm3 totais celulas/mm3 hematocrito 46% 39,9 a 52,1% plaquetas 130.000/mm3 150.000 a 450.000/mm3 teste rapido de antigeno positivo - ns1 nesse caso, a conduta inicial mais adequada envolve',
     options: ['A) alta para acompanhamento ambulatorial diario e hidratacao oral abundante e analgesia.', 'B) hidratacao oral abundante e sintomaticos, alta e orientacao de retorno no primeiro dia apos a cessacao da febre.', 'C) hidratacao venosa e internacao hospitalar em enfermaria para monitorizacao clinica e laboratorial.', 'D) internacao em unidade de terapia intensiva (uti) imediatamente para hidratacao vigorosa e monitoramento continuo.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q052',
@@ -19872,7 +19872,7 @@ export const generatedQuestions = [
     questionNumber: 52,
     questionText: 'mulher de 47 anos apresenta dor abdominal no quadrante superior direito iniciada ha 3 dias, associada a nauseas e vomitos. ela relata que a dor, inicialmente intermitente, tornou-se constante e irradia para o dorso. o exame fisico mostra ictericia leve, dor a palpacao do quadrante superior direito e sinal de murphy ausente. os exames laboratoriais revelam elevacao de bilirrubinas (sendo a direta predominante), aumento de fosfatase alcalina e gama-gt, amilase e lipase normais. a ultrassonografia abdominal evidencia multiplos calculos na vesicula biliar e dilatacao das vias biliares. a colangiorressonancia evidencia calculo no ducto biliar comum (diametro de 9 mm), associado a dilatacao do coledoco e das vias biliares intra-hepaticas. nesse caso, a conduta medica adequada e',
     options: ['A) prescrever antibioticos e acompanhar a paciente clinicamente ate a resolucao dos sintomas.', 'B) solicitar tomografia computadorizada, antes de qualquer intervencao, para avaliar o estado da via biliar.', 'C) realizar colecistectomia laparoscopica imediatamente, sem necessidade de outros exames ou intervencoes.', 'D) indicar colangiopancreatografia retrograda endoscopica (cpre) para remocao dos calculos na via biliar principal. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q053',
@@ -19884,7 +19884,7 @@ export const generatedQuestions = [
     questionNumber: 53,
     questionText: 'menina de 11 meses, nascida a termo e levada para avaliacao medica pois a mae esta preocupada com o desenvolvimento da crianca: esta mais irritada, nao senta sem apoio, nao engatinha, e dorme pouco. a alimentacao consiste de aleitamento materno complementado com a dieta da familia, que e vegana. faz suplementacao de vitamina d (400 ui ao dia). o hemograma da crianca revela leucocitos totais normais e diferencial de celulas sem alteracoes, alem dos seguintes achados: exame resultado valor de referencia hemoglobina (hb) 9,5 g/dl 10,5 a 13,5 g/dl hematocrito (ht) 34% 33 a 39% volume corpuscular 101 fl 70 a 86 fl medio (vcm) hemoglobina corpuscular media 23 pg 23 a 31 pg (hcm) plaquetas 120.000/mm3 200.000 a 500.000/mm3 considerando o quadro descrito, a conduta adequada para essa crianca e',
     options: ['A) solicitar avaliacao de nutricionista e iniciar suplementacao de vitamina a e vitamina c.', 'B) iniciar suplementacao de ferro e vitamina b12 e solicitar acompanhamento com fisioterapia.', 'C) encaminhar para neurologista infantil e iniciar suplementacao de acido folico e de vitamina b12.', 'D) aumentar a dose de suplementacao de vitamina d, iniciar ferro e manter acompanhamento de rotina. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q054',
@@ -19896,7 +19896,7 @@ export const generatedQuestions = [
     questionNumber: 54,
     questionText: 'mulher de 54 anos procura a unidade de pronto atendimento (upa) com queixa de dor pelvica e de sangramento vaginal ativo, ha 2 dias. relata preocupacao, pois nao menstruava ha 4 anos. relata que a menopausa ocorreu aos 50 anos e que tem diabetes mellitus tipo 2, tratada com metformina desde os 41 anos. e sedentaria, nao fuma e nunca ingeriu bebidas alcoolicas. apresentou os exames de mamografia e citologia de colo uterino, realizados ha 4 meses, que mostraram birads 2 bilateral na mamografia e citologia dentro dos limites da normalidade. ao exame fisico, a paciente encontra-se em bom estado geral, orientada, corada, com pressao arterial de 120 x 70 mmhg, frequencia cardiaca de 69 bpm e indice de massa corporal (imc) de 32,3 kg/m2. o exame especular revela pequeno sangramento vermelho vivo, saindo pelo orificio cervical externo, com colo do utero atrofico e sem lesoes visiveis. o hemograma realizado na upa revela os seguintes resultados: exame resultado valor de referencia hemoglobina 12,7 g/dl 11,5 a 14,8 g/dl hematocrito 38% 35,4 a 45,9 % leucocitos 7.800/mm3 3.143 a 10.074/mm3 plaquetas 324.000/mm3 135.606 a 343.044/mm3 considerando o caso descrito, a conduta adequada e',
     options: ['A) solicitar ultrassonografia transvaginal e orientar o retorno a unidade basica de saude.', 'B) solicitar ressonancia magnetica de pelve e orientar que a paciente procure um ginecologista.', 'C) solicitar histeroscopia cirurgica e orientar a paciente que procure uma unidade basica para ser referenciada.', 'D) encaminhar a paciente para hospital, com urgencia, para realizar curetagem uterina para controle e avaliacao do sangramento.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q055',
@@ -19908,7 +19908,7 @@ export const generatedQuestions = [
     questionNumber: 55,
     questionText: 'homem de 61 anos procura uma unidade basica de saude (ubs) de uma cidade grande desejando receber um pedido para colonoscopia, pois ouviu que e um exame preventivo necessario apos os 50 anos de idade para deteccao de cancer do intestino. questionado pela medica da ubs, o paciente relata que nao apresenta sintomas gastrointestinais, anemia, perda de peso ou historico familiar de cancer de intestino. considerando-se que neste municipio existe ampla disponibilidade de recursos diagnosticos, e levando em conta as politicas publicas do ministerio da saude para rastreamento, que conduta inicial a medica devera adotar nesse caso?',
     options: ['A) fornecer o pedido de colonoscopia para diagnostico precoce ao paciente, para que ele busque realizar o exame no sus por meio de acao judicial.', 'B) solicitar colonoscopia para diagnostico precoce e informar o paciente da possivel demora para sua realizacao, visto que nao ha suspeita de cancer.', 'C) solicitar exame de sangue oculto nas fezes, informando o paciente de que se trata de um exame indicado pelo sus para rastreio de cancer do intestino.', 'D) esclarecer que o sus nao preve a realizacao de colonoscopia para rastreio de cancer de intestino e orientar o paciente a realizar o exame no setor privado. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q056',
@@ -19920,7 +19920,7 @@ export const generatedQuestions = [
     questionNumber: 56,
     questionText: 'homem de 50 anos, agricultor, procura atendimento medico na unidade basica de saude (ubs) apos mordedura de boi em antebraco esquerdo. a ferida e superficial, esta limpa e apresenta sangramento local leve. o paciente relata que o animal nao possui manifestacoes aparentes de raiva. ele tambem afirma que o boi e de propriedade conhecida e pode ser mantido sob observacao. quando questionado, o paciente revela nao ter historico de vacinacao previa contra raiva. considerando a profilaxia da raiva humana, deve-se limpar a ferida e',
     options: ['A) observar o animal por 10 dias antes de decidir por qualquer intervencao adicional.', 'B) dispensar observacao do animal e liberar o paciente sem vacina antirrabica.', 'C) iniciar imediatamente o esquema completo de vacinacao antirrabica.', 'D) administrar imediatamente soro antirrabico.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q057',
@@ -19932,7 +19932,7 @@ export const generatedQuestions = [
     questionNumber: 57,
     questionText: 'homem de 24 anos e atendido no servico de emergencia 20 minutos apos ferimento por arma de fogo. o orificio de entrada do projetil localiza-se 2 cm lateralmente a linha hemiclavicular direita, ao nivel do quarto espaco intercostal. o paciente apresenta pressao arterial de 120 x 82 mmhg, frequencia cardiaca de 110 bpm e frequencia respiratoria de 19 irpm. o medico que o atende observa o seguinte: paciente normocorado e cooperativo; murmurios vesiculares diminuidos em hemitorax direito; macicez difusa a percussao; e ausencia do fremito toraco-vocal nesse mesmo lado do torax. durante a avaliacao inicial, e realizada reposicao volemica, oferta-se oxigenio suplementar, sao colhidos exames laboratoriais e e administrado acido tranexamico. nessa situacao, assinale a alternativa que apresenta o procedimento adequado a ser realizado.',
     options: ['A) toracotomia exploradora para retirada do projetil alojado no torax.', 'B) toracocentese com agulha grossa, no segundo espaco intercostal direito.', 'C) drenagem pleural no quinto espaco intercostal, entre linha axilar anterior e media.', 'D) drenagem pleural por meio do orificio de entrada do projetil, em aspiracao continua. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q058',
@@ -19944,7 +19944,7 @@ export const generatedQuestions = [
     questionNumber: 58,
     questionText: 'menino de 10 anos, em atendimento ambulatorial, apresenta tosse persistente que o desperta a noite frequentemente, alem de chiado no peito, de forma intermitente, ha cerca de 10 meses. os sintomas pioram durante a realizacao de atividades fisicas, como correr e jogar futebol. teve 2 crises recentes de chiadeira e cansaco, necessitando ir ao servico de urgencia. foi diagnosticado com asma aos 5 anos e e medicado com salbutamol inalatorio nos episodios de crise. a funcao pulmonar revela vef1 de 70% do previsto, vef1/cvf igual a 0,8 e aumento de 15% apos uso de broncodilatador. entre as opcoes a seguir, a indicacao terapeutica adequada para o caso e',
     options: ['A) antileucotrieno via oral diariamente, associado a corticoide por via inalatoria durante as exacerbacoes.', 'B) beta-agonista de longa duracao (laba), corticoide inalatorio para alivio dos sintomas e beta agonista de resgate durantes as crises.', 'C) corticoide oral associado a beta-agonista de curta duracao (saba) para alivio dos sintomas durante as exacerbacoes.', 'D) beta-agonista de longa duracao (laba) e corticoide oral nas crises, alem de brometo de ipratropio durante as exacerbacoes.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q059',
@@ -19956,7 +19956,7 @@ export const generatedQuestions = [
     questionNumber: 59,
     questionText: 'mulher procura orientacao na atencao primaria preocupada com risco de cancer de mama. pede orientacao sobre quando deve iniciar rastreamento por mamografia. relata que sua mae teve cancer de mama aos 45 anos. esta assintomatica e suas mamas nao apresentam anormalidades ao exame. nesse caso, considerando-se o uso racional de exames complementares e a seguranca da paciente, qual e a conduta mais adequada?',
     options: ['A) manter realizacao de exame clinico das mamas anualmente, sem a necessidade de exames complementares, e iniciar avaliacao por mamografia apos os 40 anos.', 'B) iniciar rastreamento com mamografia a partir dos 40 anos, realizado a cada 2 anos, conforme recomendacao para a populacao geral, devido a ausencia de sintomas.', 'C) manter acompanhamento clinico regular anual e iniciar mamografia apos os 50 anos, uma vez que a paciente esta assintomatica e sem sinais clinicos de cancer.', 'D) iniciar rastreamento com mamografia a partir dos 35 anos, uma vez que o historico de cancer de mama em parente de primeiro grau antes dos 50 anos justifica o inicio precoce do rastreamento. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q060',
@@ -19968,7 +19968,7 @@ export const generatedQuestions = [
     questionNumber: 60,
     questionText: 'crianca de 6 meses e 15 dias e levada pela mae para uma consulta de puericultura com a medica de familia e comunidade devido a dificuldade de introducao alimentar, pois apresenta baixa aceitacao das papas de frutas e de legumes. a mae relata preocupacao, pois o desenvolvimento da crianca tem sido diferente da experiencia que teve com o primeiro filho, que aceitou rapidamente as primeiras papas introduzidas aos 6 meses. a medica, entao, revisa o prontuario e identifica que, em avaliacoes anteriores, a crianca nao apresentava sorriso social e nao vocalizava nenhum tipo de som. esses achados foram confirmados nesta consulta. diante desse quadro, a conduta medica apropriada e',
     options: ['A) realizar o m-chat (modified childrens autism test) e, se o resultado for positivo, encaminhar a crianca para avaliacao multidisciplinar.', 'B) levar em consideracao a preocupacao da mae sobre o desenvolvimento da crianca e investigar fatores de risco sociofamiliares e sinais de alerta.', 'C) aplicar o protocolo de observacao para diagnostico de transtorno do espectro autista (tea) a fim de diferenciar a suspeita de autismo e de outras deficiencias.', 'D) encaminhar a crianca ao neurologista para avaliacao clinica e para a solicitacao de exames de imagem, a fim de investigar o atraso de desenvolvimento.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q061',
@@ -19980,7 +19980,7 @@ export const generatedQuestions = [
     questionNumber: 61,
     questionText: 'homem de 48 anos e encaminhado a um hospital para investigacao de febre persistente. na historia patologica pregressa, o paciente apresenta diagnostico de retocolite ulcerativa. a fundoscopia direita, e identificada lesao arredondada com borda eritematosa e centro palido, medindo cerca de 8 mm de diametro. durante o exame fisico, alem de palidez cutaneomucosa leve e sopro cardiaco sistolico de baixa intensidade, sao constatadas hemorragias subungueais em alguns quirodactilos. com base nesses achados clinicos, a hipotese diagnostica mais provavel e de',
     options: ['A) endocardite infecciosa.', 'B) leucemia mieloide aguda.', 'C) vasculite leucocitoclastica.', 'D) lupus eritematoso sistemico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q062',
@@ -19992,7 +19992,7 @@ export const generatedQuestions = [
     questionNumber: 62,
     questionText: 'homem de 41 anos, apos queda de altura de 5 metros, foi levado a um hospital terciario com traumatismo cranioencefalico grave. o paciente foi submetido a neurocirurgia para drenagem de hematoma extradural e evoluiu com internacao em unidade de terapia intensiva (uti), onde permaneceu por 60 dias. apos esse periodo, ele faleceu por complicacoes associadas a sepse. nessa situacao, qual deve ser a conduta da equipe da uti em relacao a emissao do atestado de obito?',
     options: ['A) fornecer o atestado de obito, o que e responsabilidade da equipe medica que coordena e chefia a uti.', 'B) encaminhar o corpo ao instituto medico legal (iml), que tem a responsabilidade de emitir o atestado de obito.', 'C) encaminhar o corpo para o servico de verificacao de obito (svo), que devera realizar a necropsia e a emissao do atestado.', 'D) fornecer o atestado de obito, o que e responsabilidade da equipe medica que estava de plantao na uti no momento do obito.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q063',
@@ -20004,7 +20004,7 @@ export const generatedQuestions = [
     questionNumber: 63,
     questionText: 'menino de 4 anos e levado a uma unidade de pronto atendimento (upa) devido a dor abdominal e constipacao. a mae relata que a crianca vem apresentando constipacao importante desde o desfralde, que foi realizado antes dos dois anos de idade, com evacuacoes a cada 4 dias, fezes em cibalos, esforco evacuatorio e dor. o exame fisico revela massa palpavel em fossa iliaca esquerda e dor abdominal difusa. nesse caso, a conduta inicial adequada e',
     options: ['A) solicitar radiografia de abdome e coprologico funcional.', 'B) indicar desimpactacao retal com lactulose e oleo mineral.', 'C) orientar sobre alimentacao, ingesta hidrica e treinamento de toalete.', 'D) indicar desimpactacao fecal com enema retal ou polietilenoglicol por via oral. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q064',
@@ -20016,7 +20016,7 @@ export const generatedQuestions = [
     questionNumber: 64,
     questionText: 'primigesta com idade gestacional de 38 semanas procura a maternidade. realizou pre-natal regular e todos os seus exames estao dentro da normalidade. relata sentir ansiedade porque a data provavel do parto se aproxima e ela ainda nao tem sinais do inicio do trabalho de parto. diante disso, expressa desejo de realizar uma cesariana para evitar possiveis complicacoes. ao exame clinico, nao foram identificadas alteracoes. nesse caso, a conduta mais adequada e',
     options: ['A) conversar sobre os riscos da cesariana e, caso a paciente mantenha o desejo de realiza-la, agendar o procedimento a partir de 39 semanas de gestacao.', 'B) expor que, devido aos maiores riscos da cesariana, o parto vaginal e a via de parto indicada em gestacoes de baixo risco e que, por isso, e inviavel optar pela cesariana.', 'C) explicar que, em gestacoes de baixo risco, a cesariana por desejo materno so pode ser realizada antes do inicio do trabalho de parto, a partir de 41 semanas de gestacao.', 'D) orientar sobre os riscos da cesariana e, caso a paciente mantenha o desejo de realiza-la, fazer o procedimento imediatamente, posto que a autonomia da gestante deve ser garantida.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q065',
@@ -20028,7 +20028,7 @@ export const generatedQuestions = [
     questionNumber: 65,
     questionText: 'paciente de 40 anos vai a unidade basica de saude (ubs) relatando parto ha 15 dias e desejo de insercao de diu. nesse caso, assinale a alternativa que indica o momento da insercao e o principal mecanismo de acao do diu de cobre.',
     options: ['A) a partir de 12 semanas apos o parto; inibicao da nidacao ovular devido a alta concentracao de cobre e afinamento do endometrio.', 'B) de forma imediata no ambulatorio de ginecologia; espessamento do muco cervical, dificultando a mobilidade dos espermatozoides.', 'C) no periodo de 4 a 6 semanas apos o parto; acao inflamatoria e citotoxica no endometrio pela liberacao de ions de cobre na cavidade uterina.', 'D) de forma imediata na ubs; concentracao de cobre no muco cervical, o que o torna mais fluido, inibindo a mobilidade dos espermatozoides.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q066',
@@ -20040,7 +20040,7 @@ export const generatedQuestions = [
     questionNumber: 66,
     questionText: 'mulher de 57 anos com diagnostico de diabetes mellitus ha 10 anos e uso regular de metformina 2 g/dia e gliclazida 60 mg/dia comparece a unidade basica de saude (ubs). durante a consulta, a pressao arterial media, aferida em 3 medicoes consecutivas com intervalos de 1 minuto, e de 154 x 94 mmhg. ao revisar o prontuario, o medico observa que, nas ultimas 3 consultas, os niveis pressoricos registrados tambem estavam acima de 140 x 90 mmhg. alem disso, o medico verifica exame previo de albuminuria de 50 mg/g de creatinina (valor de referencia: < 30 mg/g de creatinina). de acordo com a diretriz brasileira de hipertensao e com base nesse quadro clinico e laboratorial, a conduta terapeutica inicial mais adequada para o tratamento da hipertensao consiste na prescricao de',
     options: ['A) betabloqueador.', 'B) diuretico.', 'C) inibidor da enzima de conversao.', 'D) bloqueador de canal de calcio.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q067',
@@ -20052,7 +20052,7 @@ export const generatedQuestions = [
     questionNumber: 67,
     questionText: 'menino de 4 anos e levado por sua mae a uma unidade basica de saude (ubs) para consulta. ela refere que a crianca apresenta, desde seu nascimento, uma tumoracao no pescoco, cujo volume esta aumentando. o exame fisico releva tumoracao arredondada de 1,5 cm de diametro, indolor, com pele integra, em linha media da regiao cervical anterior e movel com o movimento de protrusao da lingua. a mae nega processos inflamatorios ou saida de secrecao locais. considerando essa situacao, assinale a alternativa que apresenta a principal hipotese diagnostica.',
     options: ['A) cisto dermoide.', 'B) tireoide ectopica.', 'C) higroma cistico.', 'D) cisto tireoglosso.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q068',
@@ -20064,7 +20064,7 @@ export const generatedQuestions = [
     questionNumber: 68,
     questionText: 'menino de 4 anos e levado a unidade basica de saude (ubs) por sua mae, que relata que ele esta com tosse persistente ha mais de 3 semanas, febre baixa no final da tarde, cansaco e perda de apetite. alem dos pais, o menino reside tambem com o avo diagnosticado com tuberculose ha 2 meses. com base nos protocolos do ministerio da saude, a conduta para este caso e',
     options: ['A) prescrever antibioticos de amplo espectro para tratar a tosse e solicitar retorno em 15 dias para avaliar se ha melhora dos sintomas.', 'B) iniciar tratamento empirico para tuberculose mesmo sem confirmacao diagnostica, haja vista o historico de contato e os sintomas apresentados.', 'C) solicitar radiografia de torax e prova tuberculinica e explicar a familia que esses exames sao fundamentais para o diagnostico de tuberculose pulmonar.', 'D) solicitar hemograma e radiografia de torax para investigar tuberculose pulmonar e manter o menino afastado do avo ate que este complete 6 meses de tratamento. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q069',
@@ -20076,7 +20076,7 @@ export const generatedQuestions = [
     questionNumber: 69,
     questionText: 'secundigesta com idade gestacional de 18 semanas comparece a consulta na unidade basica de saude (ubs) para iniciar seu pre-natal. esta assintomatica e, ao exame clinico, nao sao identificadas alteracoes. a paciente, no entanto, relata que entrou em trabalho de parto espontaneo com 32 semanas em sua primeira gestacao. considerado o caso descrito, e indicado prescrever',
     options: ['A) indometacina por via oral diariamente.', 'B) pessario vaginal, apos 22 semanas de gestacao.', 'C) progesterona por via intramuscular semanalmente.', 'D) progesterona natural micronizada por via vaginal diariamente.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q070',
@@ -20088,7 +20088,7 @@ export const generatedQuestions = [
     questionNumber: 70,
     questionText: 'mulher de 67 anos chega a uma unidade basica de saude (ubs) acompanhada pelo filho. ele relata que a mae, ha cerca de 30 minutos, passou a apresentar intensa dor de cabeca e dificuldade para falar. a paciente e hipertensa, faz uso de anti-hipertensivos, estatina e antiagregante plaquetario em dose profilatica. ha 6 anos, sofreu um acidente vascular cerebral (avc) sem sequelas. durante o exame fisico, pontuou 14 na escala de coma de glasgow e apresentou seguintes sinais vitais: exame resultado pressao arterial (pa) 150 x 95 mmhg frequencia cardiaca (fc) 90 bpm frequencia respiratoria (fr) 20 irpm saturacao de oxigenio 95% nessa situacao, qual e a conduta adequada a ser adotada pelo medico da ubs?',
     options: ['A) estabilizar a paciente na sala de observacao da ubs, ofertar anti-hipertensivo via oral para reducao da pa e solicitar exames de imagem.', 'B) acionar o servico movel de urgencia de imediato para encaminhamento ao servico de urgencia e estabilizar a paciente na ubs ate a chegada da ambulancia.', 'C) administrar anti-hipertensivo sublingual e reavaliar a paciente apos 30 minutos; caso nao haja queda da pa, encaminha-la para servico de urgencia.', 'D) medicar a paciente, com o objetivo de reduzir a pa dentro de 24 a 48 horas, e realizar seguimento ambulatorial para avaliar se houve reversao dos sintomas.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q071',
@@ -20100,7 +20100,7 @@ export const generatedQuestions = [
     questionNumber: 71,
     questionText: 'homem de 45 anos com queixa de dor lombar, ha 1 ano, e encaminhado da atencao primaria para o ambulatorio de reumatologia. o paciente e obeso, sedentario. relata dor ao acordar e dificuldade de movimentacao, que melhora apos cerca de 2 horas. utilizou diversos anti-inflamatorios nao hormonais e analgesicos comuns, com melhora parcial e transitoria. a radiografia de coluna lombar, realizada na unidade basica de saude (ubs), revela reducao de espaco l4-l5 com esclerose subcondral. o exame fisico mostra uma reducao na amplitude dos movimentos da coluna lombar, com um teste de schober de 1 cm, e nao ha sinais de artrite ou de entesite. considerando o diagnostico mais provavel, quais sao as condutas medicas especificas para o caso?',
     options: ['A) solicitar o hla-b37 e prescrever anti-inflamatorios hormonais.', 'B) solicitar provas de atividades inflamatorias e ressonancia magnetica de sacroiliacas.', 'C) orientar sobre ergonomia e prescrever anti-inflamatorios nao hormonais sob demanda.', 'D) orientar reducao de peso, realizacao de sessoes de fisioterapia e prescrever analgesicos opioides.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q072',
@@ -20112,7 +20112,7 @@ export const generatedQuestions = [
     questionNumber: 72,
     questionText: 'lactente de 40 dias de vida, do sexo feminino, e levada para consulta por sua mae. a crianca tem historia de ictericia e coluria progressivas desde a segunda semana de vida. esta em aleitamento materno, com boa aceitacao e ganho ponderal, porem regurgita muito. a mae relata que as fezes da bebe estao muito claras (acolia). o exame fisico revela: paciente em bom estado geral; eutrofica; figado de consistencia firme, nao nodular ou doloroso, a 3 cm do rebordo costal; baco a 1 cm do rebordo costal esquerdo. tendo em vista essa situacao, assinale a alternativa que contem, respectivamente, a principal hipotese diagnostica e a conduta adequada para o caso.',
     options: ['A) ictericia nao obstrutiva prolongada, com bom ganho ponderal; solicitar gama-gt e aminotransferases.', 'B) ictericia obstrutiva prolongada por doenca metabolica; substituir leite materno por formula e solicitar funcao hepatica.', 'C) ictericia nao obstrutiva prolongada, relacionada ao aleitamento materno, com evolucao benigna; adotar conduta expectante.', 'D) ictericia obstrutiva prolongada por atresia biliar; encaminhar a crianca urgentemente para avaliacao diagnostica e tratamento. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q073',
@@ -20124,7 +20124,7 @@ export const generatedQuestions = [
     questionNumber: 73,
     questionText: 'menino de 10 meses e atendido em unidade basica de saude (ubs) com historia de febre alta iniciada ha 4 dias (ate 39 c), com 3 picos por dia, inicialmente sem outros sintomas associados, evoluindo com exantema maculopapular em regiao cervical e tronco. nao apresentou febre nas ultimas 18 horas.',
     options: ['A) respeito de possiveis diagnosticos diferenciais para o quadro apresentado, assinale a alternativa correta.', 'A) o diagnostico de sindrome mao-pe-boca e mais provavel, ainda que nao tenham sido observadas vesiculas na pele.', 'B) a anamnese e o exame fisico exigem descartar laboratorialmente o diagnostico diferencial de sarampo, pois se trata de menor de 1 ano.', 'C) a anamnese e o exame fisico sao suficientes para o diagnostico de exantema subito, nao havendo indicacao de exames complementares.', 'D) a presenca de febre alta torna um quadro bacteriano mais provavel, o que, associado a presenca do exantema, sugere o diagnostico de escarlatina.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q074',
@@ -20136,7 +20136,7 @@ export const generatedQuestions = [
     questionNumber: 74,
     questionText: 'paciente de 35 anos procura atendimento na unidade basica de saude com ultrassonografia transvaginal que revela uma imagem cistica anecoica, em seu ovario direito, medindo aproximadamente 6 cm no maior diametro, com contornos regulares e paredes finas, sem septacoes, conteudo solido ou vascularizacao interna. a paciente esta assintomatica, possui ciclos menstruais regulares e fluxo normal. nega doencas cronicas ou cirurgias previas. diante dessa situacao, a conduta adequada e',
     options: ['A) realizar dosagem sanguinea do ca 125.', 'B) indicar acompanhamento ginecologico de rotina.', 'C) indicar realizacao de ressonancia magnetica da pelve.', 'D) repetir a ultrassonografia transvaginal em ate 12 semanas.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q075',
@@ -20148,7 +20148,7 @@ export const generatedQuestions = [
     questionNumber: 75,
     questionText: 'paciente de 35 anos, contente por sua primeira gravidez, comeca o pre-natal na unidade basica de saude (ubs) de seu bairro. durante a consulta de enfermagem, e identificado, no exame das mamas, um nodulo na mama direita. quando informada sobre esse achado, a paciente relata que sua mae teve cancer de mama aos 38 anos. diante desse quadro, a conduta medica indicada e',
     options: ['A) requisitar biopsia do nodulo mamario guiada por ultrassonografia.', 'B) encaminhar a paciente para o ambulatorio de gestacao de alto risco.', 'C) solicitar ultrassonografia de mamas e considerar realizacao de mamografia com protecao abdominal.', 'D) aguardar o final da gestacao para realizar investigacao do nodulo a partir de ultrassonografia e de mamografia.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q076',
@@ -20160,7 +20160,7 @@ export const generatedQuestions = [
     questionNumber: 76,
     questionText: 'mulher branca de 47 anos comparece a consulta medica na unidade basica de saude (ubs) queixando-se da presenca de lesao escurecida, assimetrica e de bordas irregulares em antebraco esquerdo. relata que, nas ultimas quatro semanas, a lesao tem aumentado de tamanho e se tornado pruriginosa, com episodio de pequeno sangramento local. considerando a situacao apresentada, a principal hipotese diagnostica da paciente e',
     options: ['A) melanoma.', 'B) queratoacantoma.', 'C) carcinoma basocelular.', 'D) carcinoma espinocelular.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q077',
@@ -20172,7 +20172,7 @@ export const generatedQuestions = [
     questionNumber: 77,
     questionText: 'homem de 36 anos e levado a um hospital terciario pelo servico movel de urgencia apos queda de altura de 4 metros. no atendimento pre-hospitalar, o paciente evoluiu com rebaixamento do nivel de consciencia (7 na escala de coma de glasgow) e intubacao orotraqueal. foi observado hematoma subcutaneo em regiao frontoparietal direita, sem outras lesoes aparentes e sem nenhum tipo de hemorragia externa. o paciente nao havia ingerido alcool ou drogas, nem apresentava comorbidades. segundo o atls, ao entrar na sala de emergencia do hospital, qual devera ser a conduta prioritaria?',
     options: ['A) realizacao de tomografia de cranio, torax e abdome.', 'B) administracao de acido tranexamico e volume.', 'C) avaliacao das vias aereas do paciente.', 'D) estabilizacao da coluna cervical. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q078',
@@ -20184,7 +20184,7 @@ export const generatedQuestions = [
     questionNumber: 78,
     questionText: 'menino de 7 anos e levado a unidade de pronto atendimento com dor abdominal intensa e febre intermitente nos ultimos 3 dias. segundo relato da mae, ele apresentou um quadro gripal ha cerca de uma semana. ao exame fisico, o paciente apresenta purpura palpavel localizada principalmente nos membros inferiores e nas nadegas, alem de edema nos tornozelos e dor nas articulacoes dos joelhos e cotovelos. a dor abdominal e difusa e nao e aliviada com analgesia simples. testes laboratoriais mostram proteinuria leve e hematuria microscopica.',
     options: ['A) hipotese diagnostica, com justificativa correta para o caso, e', 'A) doenca de kawasaki; presenca de febre e envolvimento articular.', 'B) artrite reumatoide juvenil; presenca de febre, edema articular e dor.', 'C) lupus eritematoso sistemico; artralgia, purpura palpavel e achados urinarios.', 'D) vasculite por imunoglobulina a; purpura palpavel, dor abdominal e achados urinarios.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q079',
@@ -20196,7 +20196,7 @@ export const generatedQuestions = [
     questionNumber: 79,
     questionText: 'multipara de 43 anos, lactante no 2o mes de amamentacao, procura atendimento afirmando area de hiperemia e dor no quadrante superior-lateral de mama esquerda, ha 5 dias. relata que, inicialmente, a area afetada era proxima a areola e que depois foi se estendendo para a regiao axilar homolateral. verifica-se ponto de flutuacao e adenopatia dolorosa na axila esquerda. paciente febril no momento do atendimento. diante desse quadro, deve-se realizar',
     options: ['A) drenagem cirurgica sobre o ponto de flutuacao, com prosseguimento de amamentacao em ambas as mamas.', 'B) drenagem com agulha fina guiada por ultrassonografia, com prosseguimento de amamentacao pela mama contralateral.', 'C) antibioticoterapia durante 7 dias, com lactacao mantida, desde que o leite produzido pela mama afetada seja fervido antes de oferece-lo.', 'D) mamografia para descartar carcinoma inflamatorio de mama, seguida de puncao esvaziadora e de suspensao de amamentacao ate o resultado do anatomopatologico.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q080',
@@ -20208,7 +20208,7 @@ export const generatedQuestions = [
     questionNumber: 80,
     questionText: 'mulher comparece na unidade basica de saude (ubs) com seus dois filhos, um menino de 8 anos e uma menina de 13 anos, buscando orientacoes quanto a vacinacao contra o hpv. diante desse quadro, qual a orientacao correta?',
     options: ['A) o menino e a menina podem receber dose unica nessa visita.', 'B) o menino e a menina podem receber a primeira dose nessa visita e agendar a segunda dose em 60 dias.', 'C) a menina nao deve ser vacinada e o menino podera receber a primeira dose ao completar 11 anos.', 'D) a menina pode ser vacinada em dose unica nessa visita e nao ha indicacao para que o filho seja vacinado agora.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q081',
@@ -20220,7 +20220,7 @@ export const generatedQuestions = [
     questionNumber: 81,
     questionText: 'homem de 42 anos e internado para investigacao de episodios recorrentes de dor epigastrica de forte intensidade com irradiacao para o dorso, com diversas avaliacoes em servicos de pronto-atendimento, sem diagnostico conclusivo. ultrassonografia abdominal sem sinais de litiase ou de dilatacao de vias biliares. relata uso diario de bebida alcoolica desde os 16 anos. considerando o caso apresentado, assinale a alternativa que indica, respectivamente, o exame complementar e a conduta terapeutica adequados.',
     options: ['A) tomografia computadorizada de abdome; administracao de amitriptilina.', 'B) colangiopancreatografia endoscopica retrograda; administracao de gabapentina.', 'C) tomografia computadorizada de abdome; administracao de acido ursodesoxicolico.', 'D) colangiopancreatografia endoscopica retrograda; administracao de enzimas pancreaticas.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q082',
@@ -20232,7 +20232,7 @@ export const generatedQuestions = [
     questionNumber: 82,
     questionText: 'homem de 20 anos, pedreiro, e atendido em um pronto-socorro apos cair de um andaime a uma altura de, aproximadamente, 2 metros, com impacto direto na regiao urogenital. refere impossibilidade de miccao espontanea. o exame fisico revela equimose em asa de borboleta no perineo, uretrorragia e globo vesical palpavel abaixo da cicatriz umbilical. frente ao quadro clinico desse paciente, qual e a conduta medica mais adequada?',
     options: ['A) passagem de sonda vesical de demora.', 'B) realizacao de cistostomia por puncao.', 'C) estimulo com diuretico endovenoso.', 'D) incremento da hidratacao venosa. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q083',
@@ -20244,7 +20244,7 @@ export const generatedQuestions = [
     questionNumber: 83,
     questionText: 'menina de 2 anos e 6 meses e atendida em uma unidade basica de saude (ubs). a mae relata que a crianca consome cerca de um litro de leite de vaca por dia e ingere pouca carne. o medico observa palidez cutaneomucosa e solicita exames. os resultados sao apresentados a seguir. valor de exame resultado referencia hemoglobina (hb) 9,0 g/dl 10,5 a 13,5 g/dl hematocrito (ht) 27,5% 33 a 39% volume corpuscular 64 fl 70 a 86 fl medio (vcm) ferritina 12 ng/ml 20 100 ng/ml obs: anisocitose + o medico inicia tratamento com ferro elementar na dose de 2 mg/kg/dia. apos 3 meses, exames foram repetidos, conforme tabela a seguir. valor de exame pos tratamento resultado referencia hemoglobina (hb) 9,2 g/dl 10,5 a 13,5 g/dl hematocrito (ht) 27,9% 33 a 39% volume corpuscular 68 fl 70 a 86 fl medio (vcm) ferritina 15 ng/ml 20 100 ng/ml obs: anisocitose + com relacao ao tratamento e a conduta desse paciente e correto afirmar que a',
     options: ['A) resposta e a esperada para o tratamento; devendo-se manter o tratamento atual por mais 3 meses e reavaliar laboratorialmente.', 'B) resposta a administracao de ferro oral e resistente; deve- se repor com ferro endovenoso e investigar a ma absorcao por doenca celiaca.', 'C) falha terapeutica e sugestiva de outra causa da anemia microcitica; deve-se considerar hipotese de traco talassemico e encaminhar a paciente para hematologista.', 'D) falha terapeutica deve-se a persistencia de fatores de risco relacionados a alimentacao e a subdose de ferro elementar; deve-se aumentar a dose e orientar a alimentacao.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q084',
@@ -20256,7 +20256,7 @@ export const generatedQuestions = [
     questionNumber: 84,
     questionText: 'paciente de 27 anos, g1p0, comparece a unidade de pronto atendimento apresentando dor pelvica leve e sangramento vaginal discreto ha 6 horas. refere data da ultima menstruacao (dum) ha 7 semanas. ao exame fisico, tem-se sinais vitais normais e exame abdominal normal. ao exame especular, nota-se sangramento em pequena quantidade, vivo, oriundo do orificio externo do colo uterino. titulos de beta-hcg realizados ha dois dias eram de 2.500 mui/ml. titulos de beta-hcg realizados no pronto-socorro sao de 3.500 mui/ml. foi solicitada ultrassonografia transvaginal, que demonstrou ausencia de saco gestacional intrauterino e presenca de massa anexial a direita, medindo 3 cm, contendo no seu interior imagem compativel com embriao, sem batimentos cardiacos. com base no quadro clinico e nos achados dos exames complementares, a conduta mais adequada a ser realizada nessa paciente e',
     options: ['A) laparoscopia imediata, considerando os niveis em ascencao de beta-hcg e o tamanho da massa anexial.', 'B) tratamento com metotrexato intramuscular, considerando os niveis de beta-hcg e o tamanho da massa anexial.', 'C) laparotomia imediata, considerando os niveis em ascencao do beta-hcg e a presenca de embriao na massa anexial.', 'D) monitoramento com ultrassonografia transvaginal e beta-hcg em 48 horas, considerando os niveis em ascencao de beta-hcg.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q085',
@@ -20268,7 +20268,7 @@ export const generatedQuestions = [
     questionNumber: 85,
     questionText: 'mulher de 55 anos, ao visitar seu pai, de 82 anos, com doenca de alzheimer, em uma instituicao de longa permanencia para idosos (ilpi), suspeita de maus-tratos, uma vez que o encontrou restrito ao leito, com fraldas sujas e facies de dor. ela ja havia presenciado outros idosos residentes passarem por situacoes semelhantes a essa na mesma instituicao. ao ser questionada, a equipe responsavel responde que a restricao de mobilidade no leito foi efetuada porque o paciente se encontrava agitado pela manha. quanto a higiene do idoso, a equipe alega falta de profissionais para realizar as trocas de fraldas. tendo em vista o que dispoe o estatuto do idoso, de que maneira a situacao descrita pode ser qualificada?',
     options: ['A) a decisao dos familiares de manter o paciente em uma ilpi configura ato de violencia contra o idoso.', 'B) a situacao descrita e justificavel do ponto de vista institucional por se tratar de paciente agitado e com demencia.', 'C) a presenca de negligencia, caracterizada pela omissao na prestacao de cuidados, configura-se como uma forma de violencia institucional.', 'D) a situacao caracteriza violencia patrimonial, pois os recursos financeiros do idoso nao estao sendo empregados para garantir os cuidados de que necessita. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q086',
@@ -20280,7 +20280,7 @@ export const generatedQuestions = [
     questionNumber: 86,
     questionText: 'homem de 68 anos em quimioterapia paliativa para cancer gastrico avancado e internado devido a queda do estado geral e dispneia. ao ser atendido, apresenta saturacao de o de 2 86%, sendo prescrita oxigenioterapia. a tomografia computadorizada de torax evidencia padrao sugestivo de extensa linfangite carcinomatosa bilateral e pequeno derrame pleural a esquerda. apesar do registro em prontuario da diretiva antecipada de vontade de nao ser submetido a procedimentos invasivos, um de seus filhos insiste que o paciente seja submetido a ventilacao mecanica invasiva. nesse caso, a conduta adequada diante da piora respiratoria do paciente e',
     options: ['A) realizar a intubacao orotraqueal.', 'B) prescrever morfina por via parenteral.', 'C) realizar toracocentese terapeutica a esquerda.', 'D) instituir ventilacao nao invasiva seguida de intubacao orotraqueal.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q087',
@@ -20292,7 +20292,7 @@ export const generatedQuestions = [
     questionNumber: 87,
     questionText: 'menino de 6 anos e levado ao pronto-socorro pediatrico por sua mae, que relata que a crianca introduziu um objeto metalico pequeno no nariz enquanto brincava. o paciente apresenta obstrucao nasal a direita, sem outros sintomas significativos. radiografia em mentonaso dos seios da face revela uma imagem radiopaca circular com duplo contorno em fossa nasal direita. nesse caso, qual e a conduta medica adequada?',
     options: ['A) alta medica, com encaminhamento para consulta com otorrinolaringologista.', 'B) transferencia para centro de referencia, para nasofibroscopia imediata.', 'C) internacao no pronto-socorro, para lavagem e aspiracao nasal.', 'D) internacao hospitalar, para realizacao de rinoscopia eletiva.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q088',
@@ -20304,7 +20304,7 @@ export const generatedQuestions = [
     questionNumber: 88,
     questionText: 'menino de 6 anos esta internado e em tratamento da leucemia linfoblastica aguda (lla). tem indicacao de transplante de celulas-tronco hematopoieticas  transplante de medula ossea (tmo). com relacao a essa modalidade de tratamento, assinale a alternativa correta.',
     options: ['A) o encaminhamento desse paciente para o centro de referencia para tmo deve ser realizado o quanto antes.', 'B) a inscricao do paciente em centro de referencia para tmo deve ser realizada tao logo seja detectada falha na terapia de inducao.', 'C) o exame de compatibilidade em todos os familiares de 1o grau deve ser realizado antes da inscricao em centro de referencia para tmo.', 'D) o encaminhamento desse paciente para centro de referencia para tmo deve ser realizado somente apos a alta hospitalar, via ambulatorial.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q089',
@@ -20316,7 +20316,7 @@ export const generatedQuestions = [
     questionNumber: 89,
     questionText: 'mulher de 45 anos, g2p2, retorna ao ambulatorio de ginecologia do hospital escola para o resultado da biopsia de colo uterino realizada ha 20 dias. a biopsia evidenciou nic iii, sendo a paciente informada pela residente que ela tera que realizar uma conizacao do colo uterino para remocao da lesao e prevencao do cancer. apos as explicacoes, a paciente solicita que ja se faca histerectomia para evitar problemas futuros. diante da solicitacao da paciente, a medica devera informar que a',
     options: ['A) histerectomia e um procedimento mais indicado do que a conizacao, por se tratar de um tumor in situ.', 'B) histerectomia e um procedimento mais indicado do que a conizacao, ja que a paciente tem prole constituida.', 'C) conizacao e um procedimento menos invasivo e necessario para afastar a hipotese de microinvasao pelo tumor.', 'D) conizacao e um procedimento menos invasivo e suficiente para o tratamento da paciente, uma vez que se trata de um tumor in situ.'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q090',
@@ -20328,7 +20328,7 @@ export const generatedQuestions = [
     questionNumber: 90,
     questionText: 'paciente de 38 anos, morador de uma zona urbana nao endemica e sem historia de viagens recentes para regioes de risco, vai a unidade basica de saude (ubs) apresentando historico vacinal de febre amarela ha 9 anos. ele relata ao medico que um macaco foi encontrado morto perto de sua casa. diante desse relato, o medico deve',
     options: ['A) salientar a ausencia de risco de febre amarela, uma vez que o brasil nao e pais endemico.', 'B) informar que e desnecessario realizar reforco para a vacina contra febre amarela nesse caso.', 'C) solicitar e aguardar resultado do anatomopatologico do animal, a fim de confirmar febre amarela.', 'D) indicar o reforco da vacina contra febre amarela, independentemente da ministracao da ultima dose.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q091',
@@ -20340,7 +20340,7 @@ export const generatedQuestions = [
     questionNumber: 91,
     questionText: 'mulher de 70 anos, sem comorbidades, e internada devido a quadro de dor, distensao abdominal e vomitos frequentes iniciados ha 2 dias. foi diagnosticada com uma hernia umbilical encarcerada e submetida a correcao cirurgica e a enterectomia segmentar da porcao necrosada. no primeiro dia de pos-operatorio, observou-se drenagem de cerca de 2 litros de liquido pela sonda nasogastrica. no segundo dia, o abdome da paciente permaneceu distendido, com ruidos hidroaereos hipoativos. notou-se que ela esta sem evacuar e com pouca eliminacao de flatos. nessa situacao, o quadro clinico do segundo dia de pos-operatorio e justificado pela',
     options: ['A) hipocalemia.', 'B) hipercalemia.', 'C) hipermagnesemia.', 'D) hipomagnesemia. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q092',
@@ -20352,7 +20352,7 @@ export const generatedQuestions = [
     questionNumber: 92,
     questionText: 'paciente, 67 anos, procurou a unidade de saude relatando dificuldade para urinar, jato urinario fraco e nocturia. ele nega dor ao urinar ou sangramento visivel na urina. ao exame fisico, o toque retal revelou uma prostata aumentada, de consistencia firme, sem nodulos palpaveis. para avaliacao complementar, o medico solicitou exames laboratoriais, incluindo dosagem do antigeno prostatico especifico total de 3,1 ng/ml, creatinina serica 1,1 mg/dl, alem de ultrassonografia do trato urinario que mostrou prostata aumentada de tamanho com volume de 40 gramas, sem nodulos. paciente ja em tratamento com finasterida e doxasozina, porem sem melhoras dos sintomas. com base nesse caso, qual e a conduta mais apropriada?',
     options: ['A) solicitar biopsia prostatica.', 'B) iniciar tratamento empirico com antibioticos.', 'C) repetir o exame de ultrassonografia da prostata.', 'D) encaminhar para resseccao transuretral da prostata.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q093',
@@ -20364,7 +20364,7 @@ export const generatedQuestions = [
     questionNumber: 93,
     questionText: 'menino, 3 anos, internado em uma unidade de terapia intensiva pediatrica com neoplasia de sistema nervoso central, foi operado pela neurocirurgia com retirada parcial da lesao ha 3 meses, e desde entao vem realizando tratamento quimioterapico. ressonancia magnetica recente mostra aumento importante do tumor e a equipe de oncologia considera que nao ha mais possibilidades terapeuticas para tratamento do tumor. o paciente permanece acamado, pouco responsivo e acompanhado de sua mae. a equipe multidisciplinar se reune para definir quais condutas terapeuticas serao realizadas nesse paciente. nesse caso, a conduta a ser adotada deve ser',
     options: ['A) administrar opioides para controle da dor e, junto da familia, orientar a nao realizacao de ressuscitacao cardiopulmonar.', 'B) realizar sedacao e intubacao orotraqueal para maior conforto e orientar a nao realizacao de ressuscitacao cardiopulmonar.', 'C) iniciar um novo ciclo de quimioterapia com medicacoes diferentes das que ja foram utilizadas, para controle da proliferacao celular tumoral.', 'D) solicitar nova abordagem pela equipe de neurocirurgia para retirada de parte da lesao, o que aliviara a pressao intracraniana e prolongara a sobrevida.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q094',
@@ -20376,7 +20376,7 @@ export const generatedQuestions = [
     questionNumber: 94,
     questionText: 'mulher de 60 anos e encaminhada para atendimento especializado por ter apresentado 4 episodios de sangramento vaginal. ela esta lucida, orientada, sem queixas e com autonomia em sua vida pessoal e social. apresentou uma ultrassonografia transvaginal com endometrio de 12 mm de espessura e heterogeneo. foi indicada histeroscopia diagnostica, mas a paciente recusa-se a fazer porque acha que o sangramento e normal. nesse caso, o medico deve',
     options: ['A) dizer a paciente que respeitara sua decisao e evitar discutir com ela o diagnostico provavel.', 'B) informar a paciente que existe a possibilidade de ser cancer e reforcar a necessidade do exame.', 'C) esclarecer para a familia a necessidade do exame, mas omitir o diagnostico provavel para a paciente.', 'D) orientar que, caso ela se recuse a fazer o exame, sera necessario procurar outro servico para acompanhamento.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q095',
@@ -20388,7 +20388,7 @@ export const generatedQuestions = [
     questionNumber: 95,
     questionText: 'durante uma roda de conversa em uma sala de espera com maes que aguardavam a consulta de seus filhos com um medico de familia e comunidade, uma enfermeira da equipe de saude da familia propos a discussao do tema da hesitacao vacinal. durante o dialogo, uma das participantes afirmou que a culpa de tudo isso e da internet. considerando essa situacao, assinale a alternativa correta, acerca dos argumentos a serem utilizados pela enfermeira nessa conversa com a comunidade.',
     options: ['A) a internet veicula duvidas quanto a real eficacia/eficiencia e seguranca das vacinas, o que abala a confianca da populacao nos imunobiologicos; ademais, o algoritmo das redes sociais associa temas antivacinacao a outros temas de natureza moral, fazendo exposicao seletiva.', 'B) a hesitacao vacinal ocorre nos extratos sociais de menor renda, que sao contrarias a medicalizacao da saude e acreditam que habitos de vida saudaveis protegem contra doencas e garantem saude, dispensando a necessidade de vacinacao.', 'C) o paradoxo epidemiologico de que algumas doencas imunopreveniveis hoje sao raras, associado a complexidade do calendario vacinal, criou a politica de reducao temporaria do uso de algumas vacinas em determinado ano para aumentar o engajamento da populacao no ano seguinte.', 'D) a circulacao de informacoes falsas (fake news), impulsionada pela internet, causa pouco impacto nas escolhas da populacao de menor poder aquisitivo, que tende a ter mais confianca na vacinacao e menor acesso as redes sociais. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q096',
@@ -20400,7 +20400,7 @@ export const generatedQuestions = [
     questionNumber: 96,
     questionText: 'durante consulta no servico de hematologia de um hospital terciario, um homem de 72 anos reage com a seguinte argumentacao diante da proposta terapeutica do medico: "nao, doutor, devido a minha crenca, eu nao posso receber sangue ". ele esta sendo atendido por sindrome mielodisplasica recentemente diagnosticada e, por questoes religiosas, se recusa a aderir a proposta terapeutica de hemotransfusoes periodicas. diante desse cenario, o medico deve',
     options: ['A) adiar a decisao de transfusao ate uma situacao de maior gravidade, em que tenha maior poder de convencimento.', 'B) respeitar a autonomia do paciente, buscando outras formas de lidar com a anemia, como a administracao de eritropoietina.', 'C) insistir na argumentacao da necessidade da terapia transfusional, mostrando evidencias cientificas que comprovam o seu beneficio.', 'D) buscar apoio do comite de etica medica da unidade hospitalar para o convencimento do paciente sobre a necessidade das transfusoes.'],
-    correctAnswer: '',
+    correctAnswer: 'B',
   },
   {
     id: '2025-1-q097',
@@ -20412,7 +20412,7 @@ export const generatedQuestions = [
     questionNumber: 97,
     questionText: 'homem de 58 anos procura atendimento devido a queixa de disfagia progressiva para alimentos solidos iniciada ha 6 meses, associada a perda de peso nao intencional. alem disso, apresenta episodios frequentes de pirose e regurgitacao, ha varios anos, sem tratamento adequado. endoscopia digestiva alta recente revela estenose esofagica no terco distal e sinais de esofagite cronica, com biopsias que nao evidenciam malignidade. nesse caso, a conduta inicial mais apropriada e indicar',
     options: ['A) esofagectomia subtotal por via videolaparoscopica.', 'B) aplicacao de toxina botulinica em esofago distal via endoscopica.', 'C) cirurgia de fundoplicatura imediata para correcao do refluxo gastroesofagico.', 'D) dilatacao endoscopica da estenose e prescrever inibidor de bomba de protons. area livre'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
   {
     id: '2025-1-q098',
@@ -20424,7 +20424,7 @@ export const generatedQuestions = [
     questionNumber: 98,
     questionText: 'menino de 10 anos e levado para um servico de urgencia com quadro compativel com politraumatismo e choque hemorragico. ha indicacao de transfusao de concentrado de hemacias, porem a mae do paciente informa que a familia e a crianca sao testemunhas de jeova e recusam terminantemente a transfusao. considerando esse caso clinico e as questoes eticas nele implicadas, assinale a alternativa correta.',
     options: ['A) a recusa terapeutica coloca em risco a vida de paciente menor de idade e nao deve ser aceita pelo medico, que deve realizar a transfusao.', 'B) trata-se de recusa terapeutica apresentada por responsavel legal do paciente e, pelo principio da autonomia, o medico nao devera realizar a transfusao.', 'C) diante da recusa terapeutica, a equipe medica podera se recusar a prestar o atendimento a crianca, ate que a familia do paciente autorize a realizacao da transfusao.', 'D) por se tratar de paciente menor de idade, o fato deve ser comunicado as autoridades competentes, como o ministerio publico e o conselho tutelar, para que decidam quanto a transfusao.'],
-    correctAnswer: '',
+    correctAnswer: 'A',
   },
   {
     id: '2025-1-q099',
@@ -20436,7 +20436,7 @@ export const generatedQuestions = [
     questionNumber: 99,
     questionText: 'mulher de 45 anos esta em acompanhamento no ambulatorio de mastologia de um hospital escola devido ao diagnostico de cancer de mama ha 3 anos. fez tratamento cirurgico e radioterapia e, no momento, faz uso apenas de tamoxifeno. tem apresentado fluxos menstruais a cada 15-20 dias, com volume aumentado ha 2 meses. relata que, antes do tratamento do cancer de mama, so menstruava duas vezes por ano ou quando usava pilula contraceptiva. apresenta um imc de 28 kg/m2, exame especular sem lesoes visiveis e sem sangramento ativo e toque vaginal normal. solicitada ultrassonografia transvaginal, ficou evidenciado endometrio heterogeneo de 15 mm e ovario direito com foliculo de 23 mm. nesse caso, a conduta medica adequada e',
     options: ['A) inserir diu hormonal.', 'B) suspender o tamoxifeno.', 'C) indicar estudo histologico do endometrio.', 'D) prescrever progestogenio em altas doses. primeira edicao'],
-    correctAnswer: '',
+    correctAnswer: 'C',
   },
   {
     id: '2025-1-q100',
@@ -20448,7 +20448,7 @@ export const generatedQuestions = [
     questionNumber: 100,
     questionText: 'diante de um novo teste diagnostico para hanseniase, que esta sendo aplicado em uma unidade basica de saude (ubs), o medico julga pertinente iniciar uma capacitacao com sua equipe sobre a validade de testes diagnosticos, medidas de sensibilidade, especificidade e valores preditivos. entao, ele apresenta os seguintes dados a sua equipe: dentre 100 pessoas acometidas por hanseniase, 98 sao verdadeiros positivos; e, dentre 100 pessoas nao acometidas por hanseniase, 90 sao verdadeiros negativos.',
     options: ['A) partir desses dados, e correto afirmar que o valor de sensibilidade do teste e', 'A) 90%.', 'B) 90,7%.', 'C) 97,8%.', 'D) 98%. area livre as perguntas abaixo visam obter sua opiniao de realizar. para cada uma delas, assinale a espacos proprios do cartao-resposta. agradecemos a sua colaboracao. pergunta 1 qual o grau de dificuldade da prova?', 'A) muito facil.', 'B) facil.', 'C) medio.', 'D) dificil.', 'E) muito dificil. pergunta 2 considerando a extensao da prova, em relacao ao tempo total, voce considera que a prova foi', 'A) muito longa.', 'B) longa.', 'C) adequada.', 'D) curta.', 'E) muito curta. pergunta 3 os enunciados das questoes da prova estavam claros?', 'A) sim, todos.', 'B) sim, a maioria.', 'C) cerca da metade.', 'D) poucos.', 'E) nao, nenhum. primeira edicao cepcao sobre a prova sobre a qualidade da prova que voce acabou a opcao correspondente a sua opiniao, nos pergunta 4 as informacoes/instrucoes fornecidas para a resolucao das', 'A) sim, ate excessivas.', 'B) sim, em todas elas.', 'C) sim, na maioria delas.', 'D) sim, somente em algumas.', 'E) nao, em nenhuma delas. pergunta 5 qual a maior dificuldade encontrada por voce ao responder a prova?', 'A) desconhecimento do conteudo.', 'B) forma diferente de abordagem do conteudo.', 'C) extensao das questoes.', 'D) falta de motivacao para fazer a prova.', 'E) nao tive qualquer tipo de dificuldade em responder a prova. pergunta 6 voce ja participou, no brasil, de outro(s) processo(s) de', 'A) sim.', 'B) nao.'],
-    correctAnswer: '',
+    correctAnswer: 'D',
   },
 ];
 
