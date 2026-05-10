@@ -59,6 +59,18 @@ export default function TopicQuestions() {
     return last5.map((e) => ({ label: e, count: counts[e] || 0 }));
   }, [baseQuestions]);
 
+  // Métricas reais: quando subtópico ativo, calcula em cima das questões filtradas
+  const displayPercentage = subtopicFilter
+    ? (baseQuestions.length / Math.max(topic.absoluteCount, 1)) * 100
+    : topic.percentage;
+
+  const displayAvgPerExam = subtopicFilter
+    ? (baseQuestions.length / Math.max(examsCovered.length, 1)).toFixed(1)
+    : topic.avgPerExam;
+
+  const incidenceLabel = subtopicFilter ? `DO TEMA` : 'INCIDÊNCIA';
+  const incidenceSub = subtopicFilter ? topic.title : topic.areaName;
+
   const toggleAnswer = (id) => {
     setRevealedAnswers((prev) => ({ ...prev, [id]: !prev[id] }));
   };
@@ -132,8 +144,13 @@ export default function TopicQuestions() {
               <span className="text-[10px] text-gray-500 dark:text-gray-400 font-semibold uppercase">Questões</span>
             </div>
             <div className="bg-gray-50 dark:bg-[#2c2c2e] rounded-2xl p-4 min-w-[80px]">
-              <span className="block text-2xl font-bold tracking-tight">{topic.percentage.toFixed(1)}%</span>
-              <span className="text-[10px] text-gray-500 dark:text-gray-400 font-semibold uppercase">Incidência</span>
+              <span className="block text-2xl font-bold tracking-tight">{displayPercentage.toFixed(1)}%</span>
+              <span className="text-[10px] text-gray-500 dark:text-gray-400 font-semibold uppercase">{incidenceLabel}</span>
+              <span className="block text-[9px] text-gray-400 dark:text-gray-500 mt-0.5 leading-tight max-w-[90px]">{incidenceSub}</span>
+            </div>
+            <div className="bg-gray-50 dark:bg-[#2c2c2e] rounded-2xl p-4 min-w-[80px]">
+              <span className="block text-2xl font-bold tracking-tight">{displayAvgPerExam}</span>
+              <span className="text-[10px] text-gray-500 dark:text-gray-400 font-semibold uppercase">Média/Prova</span>
             </div>
           </div>
         </div>
