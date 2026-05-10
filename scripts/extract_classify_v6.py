@@ -17,6 +17,16 @@ PDF_NEW  = BASE / "Provas do revalida PDF" / "revalida provas"
 PDF_OLD  = BASE / "data" / "pdfs"
 OUT_DB   = BASE / "data" / "questoes_db.json"
 OUT_STAT = BASE / "data" / "estatisticas_temas.json"
+GAB_MAN  = BASE / "data" / "gabaritos_manuais.json"
+
+# Load manual/OCR gabaritos override
+_manual_gabaritos = {}
+if GAB_MAN.exists():
+    with open(GAB_MAN, encoding="utf-8") as _f:
+        _raw = json.load(_f)
+    for _ed, _ans in _raw.items():
+        _manual_gabaritos[_ed] = {int(k): v for k, v in _ans.items() if v}
+    print(f"[GAB_MAN] Carregado: {list(_manual_gabaritos.keys())}")
 
 # ─────────────────────────────────────────────────────────────
 # EXAM REGISTRY
@@ -1894,6 +1904,18 @@ def main():
 
         print(f"\n[EXAM] {edition}")
         gabarito = parse_gabarito(exam["gabarito"])
+        # Merge with manual/OCR overrides (fills gaps or replaces if PDF gave 0)
+        if edition in _manual_gabaritos:
+            manual = _manual_gabaritos[edition]
+            if not gabarito:
+                gabarito = manual
+                print(f"  [GAB_MAN] Usando gabarito manual ({len(gabarito)} respostas)")
+            else:
+                before = len(gabarito)
+                for q, a in manual.items():
+                    if q not in gabarito:
+                        gabarito[q] = a
+                print(f"  [GAB_MAN] +{len(gabarito)-before} respostas do gabarito manual")
         print(f"  [GAB]  {len(gabarito)} respostas carregadas")
 
         raw = extract_questions(exam)
