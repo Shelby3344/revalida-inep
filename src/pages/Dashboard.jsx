@@ -11,14 +11,6 @@ const areaColors = {
   pediatria:  { bg: 'bg-green-500',  hex: '#34c759', name: 'Pediatria' },
 };
 
-// Explicações para leigos
-const explanations = {
-  percentage: 'Porcentagem deste tema dentro da sua área (real, calculada a partir dos PDFs do INEP).',
-  trend: 'Tendência observada nas últimas 5 edições legíveis: Alta (aumentando), Estável (mantendo), Queda (diminuindo).',
-  probability: '% das edições analisadas (2011-2025) que tiveram pelo menos 1 questão deste tema.',
-  difficulty: 'Nível médio de dificuldade relatado por alunos: Fácil, Moderada ou Alta.',
-  absolute: 'Total real de questões deste tema, contadas nos PDFs do INEP de 2011 a 2025.',
-};
 
 export default function Dashboard() {
   const [activeFilter, setActiveFilter] = useState('todos');

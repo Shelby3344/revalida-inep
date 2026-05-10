@@ -21,16 +21,11 @@ export const examsCovered = generatedExamsCovered;
 
 export const areas = [
   { id: 'todos',     name: 'Todos os Temas',             color: 'bg-gray-700 dark:bg-gray-500', hex: '#636366' },
-  { id: 'preventiva',name: 'Med. Preventiva',            color: 'bg-indigo-500', hex: '#5856d6',
-    description: 'Medicina Preventiva e Saúde Coletiva — 20 questões por prova' },
-  { id: 'gineco',    name: 'Ginecologia & Obstetrícia',  color: 'bg-pink-500',   hex: '#ac3e92',
-    description: 'Ginecologia e Obstetrícia — 20 questões por prova' },
-  { id: 'cirurgia',  name: 'Cirurgia Geral',             color: 'bg-orange-500', hex: '#e8541e',
-    description: 'Cirurgia Geral — 20 questões por prova' },
-  { id: 'clinica',   name: 'Clínica Médica',             color: 'bg-blue-500',   hex: '#0071e3',
-    description: 'Clínica Médica — 20 questões por prova' },
-  { id: 'pediatria', name: 'Pediatria',                  color: 'bg-green-500',  hex: '#34c759',
-    description: 'Pediatria — 20 questões por prova' },
+  { id: 'preventiva',name: 'Med. Preventiva',            color: 'bg-indigo-500', hex: '#5856d6' },
+  { id: 'gineco',    name: 'Ginecologia & Obstetrícia',  color: 'bg-pink-500',   hex: '#ac3e92' },
+  { id: 'cirurgia',  name: 'Cirurgia Geral',             color: 'bg-orange-500', hex: '#e8541e' },
+  { id: 'clinica',   name: 'Clínica Médica',             color: 'bg-blue-500',   hex: '#0071e3' },
+  { id: 'pediatria', name: 'Pediatria',                  color: 'bg-green-500',  hex: '#34c759' },
 ];
 
 export const statsSummary = [
