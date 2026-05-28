@@ -168,6 +168,48 @@
   opacity: 1;
 }
 
+/* ============================================================ */
+/* LANDING → CADERNOS TRANSITION ANIMATION */
+
+@keyframes revalida-emerge {
+  0%   { opacity: 0; transform: scale(0.5); filter: blur(10px); }
+  100% { opacity: 1; transform: scale(1);   filter: blur(0px);  }
+}
+
+@keyframes revalida-overlay-out {
+  0%, 70% { opacity: 1; }
+  100%     { opacity: 0; }
+}
+
+.revalida-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  animation: revalida-overlay-out 2.4s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.revalida-overlay-text {
+  font-size: clamp(56px, 10vw, 120px);
+  font-weight: 700;
+  letter-spacing: -3px;
+  color: #1a1a1a;
+  animation: revalida-emerge 1.5s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.revalida-overlay-v {
+  background: linear-gradient(180deg, #008080 0%, #004d4d 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+}
+
+/* ============================================================ */
 .exam-cover-card--cinza {
   background-color: #6b7280;
   background-image:
