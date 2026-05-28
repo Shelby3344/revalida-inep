@@ -1,10 +1,6 @@
 import React, { useState, useEffect, lazy, Suspense } from 'react';
 import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import { Sun, Moon, Activity } from 'lucide-react';
-import Dashboard from './pages/Dashboard';
-// TopicQuestions e a tela mais pesada (mostra todas as questoes de um topico).
-// Carrega so quando o usuario navega para /topic/* — economiza ~500KB no bundle inicial.
-const TopicQuestions = lazy(() => import('./pages/TopicQuestions'));
 const ExamList = lazy(() => import('./pages/ExamList'));
 const ExamViewer = lazy(() => import('./pages/ExamViewer'));
 
@@ -51,7 +47,7 @@ export default function App() {
 
   const navigate = useNavigate();
   const location = useLocation();
-  const isHome = location.pathname === '/';
+  const isExamViewer = location.pathname.startsWith('/exam/');
 
   return (
     <div className="min-h-screen bg-[#f5f5f7] dark:bg-black text-gray-900 dark:text-[#f5f5f7] font-sans">
@@ -67,12 +63,12 @@ export default function App() {
           </button>
 
           <div className="flex items-center gap-3">
-            {!isHome && (
+            {isExamViewer && (
               <button
                 onClick={() => navigate('/')}
                 className="text-sm font-medium text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors"
               >
-                ← Dashboard
+                ← Cadernos
               </button>
             )}
             <button
@@ -88,9 +84,7 @@ export default function App() {
 
       <Suspense fallback={<PageFallback />}>
         <Routes>
-          <Route path="/" element={<Dashboard />} />
-          <Route path="/topic/:topicId" element={<TopicQuestions />} />
-          <Route path="/exams" element={<ExamList />} />
+          <Route path="/" element={<ExamList />} />
           <Route path="/exam/:examId" element={<ExamViewer />} />
         </Routes>
       </Suspense>

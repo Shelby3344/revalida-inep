@@ -105,7 +105,7 @@ export default function ExamViewer() {
       
       {/* Floating Header */}
       <div className="max-w-[210mm] mx-auto mb-6 flex items-center justify-between px-4">
-        <button onClick={() => navigate('/exams')} className="text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white flex items-center gap-2 bg-white/50 dark:bg-black/50 backdrop-blur px-3 py-1.5 rounded-full shadow-sm">
+        <button onClick={() => navigate('/')} className="text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white flex items-center gap-2 bg-white/50 dark:bg-black/50 backdrop-blur px-3 py-1.5 rounded-full shadow-sm">
           <ArrowLeft size={16} /> Voltar
         </button>
         
