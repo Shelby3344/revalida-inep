@@ -81,21 +81,30 @@ export default function Dashboard() {
             Clique na seta <ChevronDown size={12} className="inline" /> de cada tema para ver os detalhes e subtópicos
           </p>
         </div>
-        <div className="flex flex-wrap gap-1.5">
-          {areas.map((area) => (
-            <button
-              key={area.id}
-              onClick={() => handleFilterChange(area.id)}
-              className={`whitespace-nowrap flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-semibold transition-all duration-200
-                ${activeFilter === area.id
-                  ? 'bg-gray-900 dark:bg-white text-white dark:text-gray-900 shadow-md scale-105'
-                  : 'bg-white dark:bg-[#1c1c1e] text-gray-700 dark:text-gray-400 border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-[#2c2c2e]'
-                }`}
-            >
-              <span className={`w-2 h-2 rounded-full ${area.color} ${activeFilter === area.id ? 'opacity-100' : 'opacity-60'}`} />
-              {area.name}
-            </button>
-          ))}
+        <div className="flex flex-wrap items-center gap-1.5 justify-between w-full">
+          <div className="flex flex-wrap gap-1.5">
+            {areas.map((area) => (
+              <button
+                key={area.id}
+                onClick={() => handleFilterChange(area.id)}
+                className={`whitespace-nowrap flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-semibold transition-all duration-200
+                  ${activeFilter === area.id
+                    ? 'bg-gray-900 dark:bg-white text-white dark:text-gray-900 shadow-md scale-105'
+                    : 'bg-white dark:bg-[#1c1c1e] text-gray-700 dark:text-gray-400 border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-[#2c2c2e]'
+                  }`}
+              >
+                <span className={`w-2 h-2 rounded-full ${area.color} ${activeFilter === area.id ? 'opacity-100' : 'opacity-60'}`} />
+                {area.name}
+              </button>
+            ))}
+          </div>
+          <button
+            onClick={() => navigate('/exams')}
+            className="flex items-center gap-2 bg-[#0071e3] hover:bg-blue-600 text-white px-4 py-2 rounded-full text-sm font-bold transition-colors shadow-sm"
+          >
+            <FileText size={16} />
+            Fazer Simulado Completo
+          </button>
         </div>
       </div>
 

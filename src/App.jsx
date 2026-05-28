@@ -5,6 +5,8 @@ import Dashboard from './pages/Dashboard';
 // TopicQuestions e a tela mais pesada (mostra todas as questoes de um topico).
 // Carrega so quando o usuario navega para /topic/* — economiza ~500KB no bundle inicial.
 const TopicQuestions = lazy(() => import('./pages/TopicQuestions'));
+const ExamList = lazy(() => import('./pages/ExamList'));
+const ExamViewer = lazy(() => import('./pages/ExamViewer'));
 
 const PageFallback = () => (
   <div className="max-w-5xl mx-auto px-3 md:px-6 py-20 text-center text-gray-400">
@@ -88,6 +90,8 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Dashboard />} />
           <Route path="/topic/:topicId" element={<TopicQuestions />} />
+          <Route path="/exams" element={<ExamList />} />
+          <Route path="/exam/:examId" element={<ExamViewer />} />
         </Routes>
       </Suspense>
 

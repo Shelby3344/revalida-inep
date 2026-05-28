@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "revalida_2011_q1",
+    "year": "2011",
+    "number": 1,
+    "statement": "Mulher com 54 anos de idade, Índice de Massa Corpórea \n(IMC)  =  32,6,  portadora  de  diabetes  tipo  2,  controlado  \ncom   medidas   dietéticas   e   uso   de   glibenclamida,   \ncomparece à Unidade Básica de Saúde com queixa de \ndor, do tipo cólica, em hipocôndrio direito, que se irradia \npara o ombro direito e piora após ingestão de alimentos, \nespecialmente gordurosos. Relata episódios de vômitos \ndurante  algumas  crises.  Disse,  ainda,  que  o  quadro  \niniciou-se  há  mais  ou  menos  seis  meses,  agravando-\nse  no  último  mês.  Após  a  realização  do  exame  físico,  \no  médico  solicitou  ultrassonografi  a  de  abdome  que  \nevidenciou “colecistopatia calculosa crônica”. Ao explicar \no diagnóstico para a paciente, ela informou que gostaria \nde  passar  seis  meses  visitando  a  fi  lha  que  mora  em  \nPortugal. Baseado nessa situação, você diria à paciente \nque seu quadro clínico",
+    "alternatives": {
+      "A": "é crônico e o tratamento cirúrgico pode ser adiado.",
+      "B": "requer tratamento cirúrgico antes da viagem.",
+      "C": "requer tratamento cirúrgico imediato.",
+      "D": "requer      acompanhamento      imediato      quando      \naparecerem indícios de complicações.\nE requer    antibioticoterapia    imediata    e    uso    de    \nantiespasmódicos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q2",
+    "year": "2011",
+    "number": 2,
+    "statement": "Menina   com   cinco   anos   de   idade,   acometida   de   \nleucemia linfóide aguda (LLA), internada em enfermaria \npediátrica,  está  sendo  submetida  à  quimioterapia  para  \ntratamento  da  leucemia.  Em  outra  ala  da  enfermaria,  \numa  criança  apresentou  febre  e  desenvolveu  lesões  \neritematobolhosas    sugestivas    de    varicela.    Nesse    \ncontexto,  a  conduta  ideal  a  ser  tomada  em  relação  a  \ncriança com leucemia é",
+    "alternatives": {
+      "A": "administrar vacina contra varicela.",
+      "B": "aplicar imunoglobulina específi ca anti-varicela.",
+      "C": "administrar aciclovir por 10 dias.",
+      "D": "administrar a vacina contra varicela e o aciclovir por \n10 dias.\nE administrar a vacina contra varicela e imunoglobulina \nespecífi ca."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q3",
+    "year": "2011",
+    "number": 3,
+    "statement": "Ao  atender  uma  mulher,  com  24  anos  de  idade,  você  \nobserva   grande   resistência   dela   para   continuar   o   \naleitamento  materno  de  seu  fi  lho  de  dois  meses.  Além  \ndos  inquestionáveis  benefícios  para  a  criança,  você  \norienta a paciente sobre os benefícios que o aleitamento \nmaterno traz para a mulher que amamenta, entre os quais \nfi guram, a proteção contra o câncer de mama e contra",
+    "alternatives": {
+      "A": "o câncer de colo uterino.",
+      "B": "o câncer de endométrio.",
+      "C": "os tumores da vulva .",
+      "D": "o desenvolvimento de miomas.\nE o câncer de ovário."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q4",
+    "year": "2011",
+    "number": 4,
+    "statement": "Mulher  com  45  anos  de  idade,  cor  branca,  multípara,  \nproveniente de zona rural, procura consulta ginecológica \ncom  queixa  de  peso  na  região  pélvica  há  cerca  de  60  \ndias,  perda  de  peso  corporal  e  distensão  abdominal.  A  \npaciente não faz uso de método contraceptivo oral e não \napresenta dismenorreia. A paciente tem antecedente de \nneoplasia maligna de mama e a mãe, história de câncer \nde  ovário.  Ao  exame,  observou-se  massa  palpável  em  \nanexo esquerdo.\nDe acordo com o exame clínico e com os antecedentes \npessoais  e  familiares  informados  pela  paciente,  qual  a  \nprincipal hipótese diagnóstica?",
+    "alternatives": {
+      "A": "Cisto benigno de ovário.",
+      "B": "Neoplasia maligna de ovário.",
+      "C": "Endometrioma.",
+      "D": "Tuberculose genital (ovário e trompa).\nE Abscesso ovariano."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q5",
+    "year": "2011",
+    "number": 5,
+    "statement": "Criança com um ano de idade foi amamentada com leite \nmaterno  exclusivamente  até  os  seis  meses,  quando  \npassou   a   receber   alimentação   complementar   com   \nfrutas,  papa  salgada  composta  de  vegetais,  cereais  e,  \nàs vezes, carne. Na ocasião da consulta de puericultura, \npor  apresentar  palidez,  o  médico  solicitou  eritrograma  \nque apresentou os seguintes resultados : \nHemoglobina = 10,2 mg/dL (valor normal = 11 - 13 mg/dL); \nHematócrito = 30,8 % (valor normal = 36-44 %); Volume \nCorpuscular  Médio  =  75  fL  (valor  normal  =  77-  101  fL);  \nHemoglobina  Corpuscular  Média  =  21  pg  (valor  normal  \n= 23-31 pg); Concentração de Hemoglobina Corpuscular \nMédia  =  26  g/dL  (valor  normal  =  28-33  g/dL)  e  RDW  =  \n15,5 % (valor normal <14 %).",
+    "alternatives": {
+      "A": "hipótese diagnóstica elaborada pelo médico e o exame \ncomplementar  que  melhor  confi  rma  esse  diagnóstico  \nsão, respectivamente, \nA anemia falciforme e contagem de reticulócitos.",
+      "B": "anemia  por  defi  ciência  de  ácido  fólico  e  dosagem  \nde folatos.",
+      "C": "anemia megaloblástica e eletroforese de hemoglobina.",
+      "D": "anemia carencial ferropriva e dosagem da ferritina \nsérica.\nE talassemia e dosagem de ferro sérico.\n\n2 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q6",
+    "year": "2011",
+    "number": 6,
+    "statement": "Quanto  ao  desenvolvimento  de  diabetes  gestacional  \nem paciente primigesta, com 29 anos de idade, estatura \nde 1,50 m , peso pré-gravídico de 70Kg, peso atual de \n75Kg  na  24ª  semana  de  gestação  e  glicemia  em  jejum  \nde 90mg/dl, pode-se afi rmar",
+    "alternatives": {
+      "A": "a  ausência  de  risco  pela  idade  inferior  a  30  anos  \nda gestante.",
+      "B": "a existência de risco pelo ganho excessivo de peso \nna gestação.",
+      "C": "a ausência de risco pela normalidade da glicemia de \njejum da gestante.",
+      "D": "a existência de risco pelo IMC pré-gravídico superior \na 27Kg/m2.\nE a ausência de risco pela inexistência de antecedentes \nfamiliares da gestante."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q7",
+    "year": "2011",
+    "number": 7,
+    "statement": "Mulher com 34 anos de idade, gestante de 28 semanas, \niniciou  quadro  febril  há  cinco  dias  associado  a  dor  no  \nhemitórax esquerdo à respiração profunda. Há dois dias \npassou a apresentar tosse produtiva com expectoração \namarelada.  Procurou  Unidade  de  Pronto  Atendimento.\nAo  exame:  bom  estado  geral;  sinais  vitais:  Pulso  =  100  \nbpm;   Pressão   arterial   =   120   x   80   mmHg;   Frequência   \nrespiratória   =   23   irpm.   Temperatura   axilar   =   39   °C;   \nAusculta  pulmonar:  crepitações,  broncofonia  e  aumento  \ndo  frêmito  tóraco-vocal  na  base  do  pulmão  esquerdo.  \nO    leucograma    apresenta    15.800    leucócitos/mm\n3\n,  \ncom    predomínio    de    polimorfonucleares    neutrófi los.\nQual a conduta a ser tomada, com relação a exames de \nimagem e tratamento antimicrobiano?",
+    "alternatives": {
+      "A": "Solicitar radiografi a de tórax com proteção abdominal \ne iniciar tratamento com amoxicilina oral.",
+      "B": "Solicitar ultrassonografi a de tórax e iniciar tratamento \ncom quinolona respiratória oral.",
+      "C": "Solicitar  tomografi  a  computadorizada  do  tórax  e  \niniciar tratamento com aminoglicosídeo injetável.",
+      "D": "Solicitar radiografi a de tórax com proteção abdominal \ne iniciar claritromicina oral.\nE Solicitar  tomografi  a  computadorizada  do  tórax  e  \niniciar vancomicina injetável."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q8",
+    "year": "2011",
+    "number": 8,
+    "statement": "Mulher  com  48  anos  de  idade,  parda,  comerciante,  \nprocura o posto de saúde por apresentar astenia, palidez \ne fadiga fácil ao realizar suas tarefas diárias. Na história \nda  doença  atual  relata  que  esteve  bem  de  saúde  até  \nhá  15  dias,  quando  iniciaram  estes  sinais  e  sintomas.  \nNega  doenças  como  diabetes,  hipertensão,  doenças  \nda  tireóide.  Nega  também  o  uso  de  medicamentos.  \nAo   exame   físico   apresenta   palidez,   icterícia   (2+/4+),   \nesplenomegalia  de  4  cm  do  rebordo  costal  esquerdo  e  \nhepatomegalia de 2 cm do rebordo costal direito. Exames \nlaboratoriais  realizados  mostram  hemoglobina  =  4,2  g/\ndL; hematócrito = 13 %; VCM = 110 fL (VR = 80 – 100 fL); \nHCM = 32 pg (VR = 26 – 34 pg); leucograma = 10.500 \n/  mm3  com  diferencial  normal;  plaquetas  =  240.000  /\nmm3; reticulócitos aumentados;  bilirrubina total = 4,0 \nmg/dL  (VR=0,3  -1,2  mg/dL)  com  fração  direta  de  0,8  \nmg/dl (VR = 0 - 0,2 mg/dL). \nQual o diagnóstico mais provável para a anemia da paciente?",
+    "alternatives": {
+      "A": "Anemia  por  défi  cit  de  produção  ocasionada  por  \ndefi ciência de vitamina B12.",
+      "B": "Anemia  do  tipo  regenerativa  provocada  por  doença  \nhemolítica adquirida.",
+      "C": "Anemia  arregenerativa  por  defi ciência  quantitativa \nde células progenitoras associada à hepatite viral.",
+      "D": "Anemia por defi ciência na síntese do heme durante \na diferenciação das células eritroides.\nE Anemia por defi ciência na síntese da globina durante \na diferenciação das células eritroides."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q9",
+    "year": "2011",
+    "number": 9,
+    "statement": "Um  menino  com  cinco  anos  e  oito  meses  foi  levado  pela  \nmãe  à  Unidade  Básica  de  Saúde.  Há  três  semanas  vem  \napresentando  dor  abdominal  inespecífi  ca,  tosse,  febre  e  \nhábito de comer terra. Ao exame físico, o médico encontrou \npalidez   cutânea   moderada   e   hepatomegalia.   Foram   \nsolicitados alguns exames: 1) hemograma: hemoglobina 10 \ng/dL, hematócrito 30 %. leucocitose (16.000 /mm3), eosinofi lia \n(12 %), plaquetas normais; 2) exame parasitológico das fezes \n(em  andamento)  e  3)  exame  ultrassonográfi  co  do  abdome  \nque   revelou   imagens   hipoecogênicas   micronodulares   \nno  fígado.  Com  base  na  história  clínica  e  nos  exames  \ncomplementares, o diagnóstico principal e o tratamento são",
+    "alternatives": {
+      "A": "ancilostomíase;  utilizar  mebendazol,  100  mg,  duas  \nvezes ao dia, durante três dias.",
+      "B": "giardíase; utilizar secnidazol, 30 mg/Kg, dose única.",
+      "C": "toxocaríase; utilizar albendazol, 10 mg/Kg, uma vez \nao dia, durante cinco dias.",
+      "D": "estrongiloidíase;  utilizar  secnidazol,  25  mg/Kg,  uma  \nvez ao dia, de cinco a sete dias.\nE amebíase; utilizar secnidazol, 30 mg/Kg, dose única.\n\n3 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q10",
+    "year": "2011",
+    "number": 10,
+    "statement": "Mulher  multípara,  com  gestação  de  34  semanas  e  um  \ndia, chega à maternidade com queixa de dor em cólica \ne   endurecimento   do   abdome.   Ao   exame:   presença   \nde  contrações  uterinas  frequentes  (uma  a  cada  cinco  \nminutos),  colo  uterino  com  50%  de  esvaecimento  e  \n1cm de dilatação, vitalidade fetal preservada. A conduta \ncorreta a ser adotada para a paciente é",
+    "alternatives": {
+      "A": "administrar terbutalina associada à corticoesteróide.",
+      "B": "iniciar   partograma   e   acompanhar   evolução   do   \ntrabalho de parto.",
+      "C": "administrar  indometacina  e  iniciar  antibioticoterapia  \npor via endovenosa.",
+      "D": "guardar repouso em observação e reavaliar o quadro \napós duas horas.\nE administrar     nifedipina     sem     associação     de     \ncorticoesteróide."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q11",
+    "year": "2011",
+    "number": 11,
+    "statement": "Uma  senhora  comparece  à  Unidade  Básica  de  Saúde  \ncom  seu  fi  lho  de  seis  meses  de  idade,  dizendo-se  \npreocupada   com   o   desenvolvimento   da   criança,   e   \nsem  qualquer  outra  queixa.  O  peso  da  criança  ao  \nnascer  foi  de  3.400g.  Em  sua  alimentação  atual  estão  \nsendo  introduzidos  alimentos  sólidos  e  o  calendário  \nde  vacinação  vem  sendo  cumprido.  O  exame  físico  da  \ncriança é inteiramente normal.\nComo  indicador  do  desenvolvimento  neuropsicomotor  \nnormal  para  criança  nessa  faixa  etária  (6  meses),  o  \nmédico deverá observar se a criança",
+    "alternatives": {
+      "A": "apresenta choro excessivo e faz o acompanhamento \ncom o olhar.",
+      "B": "faz  a  preensão  de  objetos  com  a  mão  e  apresenta  \nsorriso social.",
+      "C": "senta-se sem apoio e fala sílabas.",
+      "D": "rola sem auxílio e reconhece pessoas.\nE fi rma a cabeça e apanha objetos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q12",
+    "year": "2011",
+    "number": 12,
+    "statement": "Você   é   chamado   para   prestar   assistência   neonatal   \ndurante  um  parto  no  qual  foi  constatado  sofrimento  \nfetal com líquido amniótico meconial. O Recém Nascido \nnasceu  com  Apgar  2  (  Frequência  cardíaca  =  1  e  \nFrequência Respiratória = 1). A conduta inicial, conforme \nas normas vigentes de Reanimação Neonatal, é",
+    "alternatives": {
+      "A": "iniciar ventilação com ambu e máscara, aspirando o \nRecém  Nascido  após  a  recuperação  da  frequência \ncardíaca.",
+      "B": "iniciar  ventilação  com  tubo  oro-traqueal  e  aspirar  o  \nRecém  Nascido  após  recuperação  da  frequência  \ncardíaca.",
+      "C": "iniciar ventilação com pressão positiva e administrar \nadrenalina e massagem cardíaca.",
+      "D": "aspirar  laringe  e  traquéia  do  Recém  Nascido  e  \nventilar com pressão positiva e ar ambiente.\nE aspirar  laringe  e  traquéia  do  Recém  Nascido  e  \noferecer oxigênio inalatório a 100%."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q13",
+    "year": "2011",
+    "number": 13,
+    "statement": "Paciente  do  sexo  masculino,  com  45  anos  de  idade,  \né  dependente  químico  de  cocaína,  com  uso  por  via  \ninalatória  e  procurou  o  serviço  especializado  do  CAPS  \n(Centro   de   Apoio   Psicossocial)   para   tratamento.   A   \noferta  desse  atendimento  no  Sistema  Único  de  Saúde  \ncaracteriza ações de que tipo?",
+    "alternatives": {
+      "A": "Prevenção primordial.",
+      "B": "Prevenção quaternária.",
+      "C": "Prevenção terciária.",
+      "D": "Prevenção secundária.\nE Prevenção primária."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q14",
+    "year": "2011",
+    "number": 14,
+    "statement": "Homem, com 58 anos de idade, é atendido em serviço de \nurgência e relata a ocorrência, há cerca de seis meses, \nde  modifi  cação  de  seu  hábito  intestinal  -  períodos  de  \nconstipação   intercalados   por   evacuações   de   fezes   \npastosas,  às  vezes  acompanhadas  da  eliminação  de  \nmuco  e  sangue.  Nesse  período  foi  visto  em  consultas,  \nnas  quais  foi  prescrito  tratamento  antiparasitário,  não  \nhavendo melhora da sintomatologia. O paciente informa \nainda  que  há  cerca  de  um  mês,  vem  apresentando   \nintensifi  cação  do  esforço  evacuatório.  Nesse  período  \nas  fezes  têm  se  tornado  cada  vez  mais  afi  ladas  e  há  \ndois dias vem observando a diminuição quase completa \nda  eliminação  de  fl  atos  e  fezes,  relatando  também  a  \nocorrência  de  náuseas  e  um  episódio  de  vômitos  de  \nconteúdo biliar.\nCom base nessa história, qual a conduta imediata a ser \nseguida ?",
+    "alternatives": {
+      "A": "Instalar  sonda  nasogástrica,  prescrever  hidratação  \nparenteral,   lactulona   e   antieméticos   e   manter   \npaciente em observação.",
+      "B": "Instalar  sonda  nasogástrica,  prescrever  hidratação  \nparenteral, clister com solução glicerinada e manter \npaciente em observação.",
+      "C": "Instalar  sonda  nasogástrica,  prescrever  hidratação  \nparenteral   e   clister   com   solução   glicerinada.   A   \nposteriori instalar sonda retal e manter paciente em \nobservação.",
+      "D": "Prescrever antiespasmódicos, dimeticona e solicitar \ncolonoscopia  com  biópsia  e  dosagem  de  antígeno  \ncarcino-embrionário.\nE Encaminhar     imediatamente     o     paciente     para     \navaliação cirúrgica.\n\n4 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q15",
+    "year": "2011",
+    "number": 15,
+    "statement": "Uma  criança  que  nasceu  prematura, com  32  semanas  \nde idade gestacional e peso de 1850g, foi encaminhada \nà   Unidade   de   Saúde   para   iniciar   as   imunizações.   \nAtualmente, com um mês de vida, pesa 1900g e recebe \naleitamento materno exclusivo. \nPara  essa  situação,  qual  a  alternativa  que  indica  o  \nesquema inicial de vacinação recomendado?",
+    "alternatives": {
+      "A": "Iniciar o esquema vacinal aplicando a vacina BCG e \na primeira dose da vacina contra a Hepatite B.",
+      "B": "Aplicar a primeira dose da vacina contra a Hepatite \nB e aguardar a criança atingir 2000g para programar \na vacina BCG.",
+      "C": "Aguardar  a  criança  atingir  2500g  para  aplicar  a  \nvacina BCG e contra a Hepatite B (primeira dose ).",
+      "D": "Aguardar  a  criança  atingir  2000g  para  aplicar  a  \nvacina contra a Hepatite B (primeira dose) e 2500g \npara aplicar a vacina BCG.\nE Aplicar  as  vacinas  BCG  e  contra  a  Hepatite  B  \n(primeira  dose)  e  programar  a  segunda  dose  desta  \núltima para 15 dias depois."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q16",
+    "year": "2011",
+    "number": 16,
+    "statement": "Homem, com 43 anos de idade, é atendido na Unidade \nBásica  de  Saúde  com  queixa  de  dispneia  aos  grandes  \nesforços,  há  seis  meses.  Não  relata  dor  precordial,  \nsíncope  ou  palpitações.  No  exame,  encontra-se  em  \nbom estado geral, eupnéico, hidratado, corado. Pressão \narterial   =   100x70   mmHg,   Frequência   cardíaca   =   \n112bpm, Frequência  respiratória  =  18irpm;  temperatura  \naxilar = 36,5°C. Murmúrio vesicular presente e simétrico \nbilateralmente. Ritmo cardíaco regular, em dois tempos, \nbulhas hipofonéticas, com sopro sistólico de regurgitação \nmitral  discreto.  Abdome  fl  ácido,  sem  visceromegalias,  \nruídos hidroaéreos presentes e regularmente distribuídos. \nSem edema de membros inferiores. Radiografi a de tórax \natual  mostra  aumento  global  da  área  cardíaca,  sem  \ncongestão    pulmonar.    Ecocardiograma    transtorácico    \nmostra a fração de ejeção do ventrículo esquerdo igual \na 35%.\nCom  base  nas  evidências  científi  cas  indique  a  opção  \nterapêutica para o caso.",
+    "alternatives": {
+      "A": "Hidroclorotiazida e carvedilol.",
+      "B": "Carvedilol e digoxina.",
+      "C": "Enalapril e metoprolol.",
+      "D": "Espironolactona e enalapril.\nE Digoxina e hidroclorotiazida."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q17",
+    "year": "2011",
+    "number": 17,
+    "statement": "O Agente Comunitário de Saúde lhe solicita explicações \nsobre   um   recém-nascido   que   apresenta   coloração   \namarelada   da   pele.   Você   colhe,   junto   ao   Agente   \nComunitário  de  Saúde,  informações  sobre  a  duração  \nda  gestação,  as  condições  do  parto  e  da  criança  ao  \nnascer, o tempo de aparecimento do sintoma específi co \ne  verifi  ca  também  resultados  de  exames  do  recém-\nnascido   ,   realizados   na   maternidade:   hemograma,   \ndosagem de bilirrubinas e teste de Coombs. Diante dos \ndados  clínicos  e  do  resultado  de  exames,  você  conclui  \nque trata-se de Icterícia Fisiológica do Recém-Nascido. \nO   que   seria   correto   você   informar   ao   Agente   \nComunitário  de  Saúde  sobre  a  Icterícia  Fisiológica  do  \nRecém-Nascido?",
+    "alternatives": {
+      "A": "Desaparece   após   três   semanas   do   início   da   \nmanifestação em neonatos nascidos a termo.",
+      "B": "Desaparece  após  a  primeira  semana  de  vida  em  \nneonatos nascidos a termo.",
+      "C": "Atinge  níveis  de  bilirrubinemia  bastante  elevados,  \nsuperiores a 14 mg% .",
+      "D": "Deve-se  a  anemia  hemolítica  por  incompatibilidade  \nRH.\nE Está      presente      desde      o      nascimento      na      \nhipermaturidade fetal."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q18",
+    "year": "2011",
+    "number": 18,
+    "statement": "Homem,  com  26  anos  de  idade,  foi  internado  há  dois  \ndias com o diagnóstico de doença infl amatória intestinal \nna  forma  fulminante  com  megacólon  tóxico.  Há  cerca  \nde uma hora apresentou piora súbita da dor abdominal, \nvômitos e desconforto respiratório. O exame físico revela \npaciente  taquicárdico,  taquidispneico  e  com  abdome  \nmuito doloroso difusamente. A complicação é frequente \ne o principal recurso diagnóstico para demonstrá-la são",
+    "alternatives": {
+      "A": "perfuração  intestinal;  radiografi  a  de  tórax    e  de  \nabdome em ortostatismo e decúbito dorsal.",
+      "B": "pneumatose intestinal; enema opaco com contraste \niodado.",
+      "C": "abscesso perirretal; tomografi a computadorizada de \nabdome.",
+      "D": "vôlvulo de sigmóide; colonoscopia. \nE hematoma intraluminal; colonoscopia.\n\n5 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q19",
+    "year": "2011",
+    "number": 19,
+    "statement": "Criança  do  sexo  feminino,  com  sete  anos  de  idade,  é  \ntrazida  pela  mãe  à  Unidade  Básica  de  Saúde,  porque  \nhá  três  dias  apresenta-se  com  adinamia,  urina  escura  \n(cor  de  “coca-cola”)  e  inchaço  nos  olhos  pela  manhã.",
+    "alternatives": {
+      "A": "mãe  informa  que  há  15  dias  a  criança  apresentou  \nfebre  elevada  e  “dor  de  garganta”  que  regrediram  com  \no uso de antitérmico e de anti-infl amatório não hormonal \n(ibuprofeno). Na consulta o médico observa que a criança \nencontra-se  em  regular  estado  geral,  afebril,  eupneica,  \nhipocorada (+/4), com frequência cardíaca de 116 bpm, \nPressão arterial=118x82 mmHg, edema de face (+/4) e \nde membros inferiores (++/4).\nOs demais aspectos do exame físico são normais.\nNa   síndrome   que   a   criança   apresenta,   a   resposta   \ninfl amatória responsável pela instalação da lesão nefrítica\nA é  consequência  da  ativação  do  complemento,  da  \nliberação de fatores quimiotáticos e do recrutamento \nde neutrófi los.",
+      "B": "decorre da fi xação de estreptococos beta-hemolíticos \nnas alças capilares glomerulares e da consequente \ninfi ltração celular.",
+      "C": "deve-se   a   modifi   cações   de   uma   IgM   que,   no   \ncontexto de uma infecção,  torna-se imunogênica e \ndesenvolve afi nidade pelo glomérulo renal.",
+      "D": "depende  da  deposição  mesangial  de  C3,  fi brina  e \nIgA,  e  da  proliferação  de  células  mesangiais  com  \nexpansão da matriz.\nE manifesta-se    por    hipercelularidade    glomerular,    \nexpansão  da  matriz  mesangial  e  duplicação  da  \nmembrana basal glomerular."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q20",
+    "year": "2011",
+    "number": 20,
+    "statement": "Uma    médica,    durante    plantão    em    serviço    de    \nemergência, atendeu um paciente com múltiplas lesões \nno  antebraço  direito,  vítima  de  mordedura  de  cão  \nque  ocorrera  há  3  horas.  O  acidente  ocorreu  na  rua,  \nmas o dono do animal foi identifi cado. O caso deverá \nser  conduzido  por  ela  de  acordo  com  o  protocolo  do  \nMinistério da Saúde, que recomenda",
+    "alternatives": {
+      "A": "iniciar o esquema de vacinação e observar o animal \npor 10 dias.",
+      "B": "aplicar o soro antirábico e a vacina por 10 dias.",
+      "C": "observar  o  cão  durante  10  dias  após  a  exposição,  \npara iniciar a vacinação antirábica.",
+      "D": "aplicar  soro  antirábico  (dose  única)  no  10º  dia  de  \nobservação do animal.\nE sacrifi   car   o   animal   imediatamente   para   evitar   \ncontaminação."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q21",
+    "year": "2011",
+    "number": 21,
+    "statement": "Adolescente,     após     tentativa     de     suicídio     com     \ningestão    de    antidepressivo    tricíclico,    manifestou    \nparada    cardiorrespiratória.    Durante    a    reanimação    \ncardiopulmonar,   observou-se   o   seguinte   ritmo   no   \nmonitor cardíaco.",
+    "alternatives": {
+      "A": "análise do monitor cardíaco permite afi rmar que o \ntraçado eletrocardiográfi co demonstra ritmo de\nA  taquicardia  ventricular,  que  pode  ser  responsiva  a  \nchoque e a uso de atropina.",
+      "B": "fi  brilação  ventricular,  que  pode  ser  responsiva  a  \ncardioversão (choque no modo sincronizado).",
+      "C": "fi  brilação  ventricular,  que  pode  ser  responsiva  a  \ndesfi brilação (choque no modo sincronizado).",
+      "D": "taquicardia  ventricular,  que  pode  ser  responsiva  a  \ncardioversão (choque no modo sincronizado).\nE taquicardia  ventricular,  que  pode  ser  responsiva  a  \ndesfi brilação (choque no modo não sincronizado)."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q22",
+    "year": "2011",
+    "number": 22,
+    "statement": "Um  paciente,  com  69  anos  de  idade,  é  atendido  em  \nvisita  domiciliar.  Ele  informa  que  nos  últimos  cinco  \nanos  teve  episódios  de  crises  de  dor  abdominal  na  \nfossa  ilíaca  esquerda,  associadas  a  febre  baixa  e  \nhiporexia.  Geralmente,  quando  ele  “percebe  que  vai  \nter  uma  crise”,  já  usa  os  mesmos  antibióticos  que  \nutilizou  na  crise  anterior,  por  uns  três  a  cinco  dias,  e  \na  situação  é  resolvida.  Apesar  de  estar  assintomático,  \nno  passado  já  teve  duas  internações  para  uso  de  \nantibióticos  parenterais,  sendo  que,  em  uma  delas,  há  \ncerca de dois meses, fi cou internado por três semanas, \nem  decorrência  de  uma  diverticulite  complicada,  com  \npequeno abscesso pericólico.\nEm relação às alternativas a seguir, assinale aquela que \ncorresponde à conduta apropriada para o caso.",
+    "alternatives": {
+      "A": "Indicar  dieta  rica  em  fi  bras  e  a  manutenção  dos  \nantibióticos usados no início das crises.",
+      "B": "Orientar  o  paciente  para  que  não  use  medicações  \nsem prescrição médica.",
+      "C": "Sugerir  ao  paciente  que  procure  um  serviço  de  \nemergência sempre que tiver episódios semelhantes \nde dor.",
+      "D": "Aconselhar  o  paciente  a  buscar  uma  unidade  de  \natendimento  ambulatorial  secundário,  em  cirurgia  \ngeral ou coloproctologia.\nE Encaminhar  o  paciente  à  unidade  básica  de  saúde  \npara solicitar colonoscopia diagnóstica.\n\n6 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q23",
+    "year": "2011",
+    "number": 23,
+    "statement": "Um   município   de   pequeno   porte   tem   apresentado   \ndifi  culdades  na  execução  de  suas  atividades  de  saúde  \nde  nível  secundário  de  atenção.  Com  o  objetivo  de  \naumentar  a  resolubilidade  do  mesmo,  qual  ação  pode  \nser tomada?",
+    "alternatives": {
+      "A": "Restringir  o  atendimento  mediante  comprovante  de  \nresidência.",
+      "B": "Formar consórcios intermunicipais de saúde.",
+      "C": "Defi  nir  a  área  de  abrangência  dos  serviços  com  o  \ngestor local.",
+      "D": "Repassar  à  gestão  estadual  o  serviço  de  auditoria  \ndos prestadores locais.\nE Incorporar  recursos  fi  nanceiros  do  fundo  estadual  \nde saúde."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q24",
+    "year": "2011",
+    "number": 24,
+    "statement": "Paciente,   com   45   anos   de   idade,   sexo   masculino,   \ncomerciante,  vem  a  consulta  na  Unidade  Básica  de  \nSaúde   e   informa   que   vem   apresentando   dispneia   \nprogressiva  a  médios  esforços,  “inchaço”  nas  pernas  \ne  diminuição  da  diurese.  Relata  que,  em  consultas  \nanteriores,   foi   orientado   a   realizar   periodicamente   \nmedidas  de  sua  pressão  arterial,  que  se  encontrava,  \nna  época,  no  limite  da  normalidade.  Não  realizou  o  \nprocedimento solicitado, retornando, hoje, para consulta. \nHistória pessoal: tabagista desde os 14 anos, um maço \nde  cigarro  por  dia.  Dieta  rica  em  gorduras  e  pobre  em  \nfrutas  e  vegetais.  Informa  que  não  é  etilista  e  não  usa  \ndrogas.  História  familiar:  mãe  hipertensa  e  pai  falecido  \nde infarto agudo do miocárdio.\nAo exame: Pressão arterial 165 x 110 mmHg, Frequência \ncardíaca: 55 bpm, Frequência respiratória 14 irpm, rítmo \ncardíaco  regular  em  dois  tempos,  bradicárdico,  sem  \nsopros ou extrassístoles, murmúrio vesicular fi siológico, \ncom discretas crepitações bibasais, abdome com ruídos \nhidroaéreos  positivos,  com  hepatomegalia  dolorosa  a  \n2 cm do rebordo costal direito, membros inferiores com \nedema (++/++++).\nOs  exames  complementares  demonstram  que  há  uma  \nsobrecarga  de  ventrículo  esquerdo  ao  ECG;  bloqueio  \natrioventricular de primeiro grau; clearance de creatinina \n45  ml/min  (normal  90  -139  ml/min);  urina  de  24  horas  \ncom microalbuminúria de 250 mg/24h.\nQual o tratamento farmacológico a ser prescrito, no que \nse refere à pressão arterial desse paciente?",
+    "alternatives": {
+      "A": "Captopril + losartana.",
+      "B": "Propranolol + enalapril.",
+      "C": "Lisinopril + espironolactona.",
+      "D": "Losartana + hidroclorotiazida.\nE Alisquireno + furosemida."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q25",
+    "year": "2011",
+    "number": 25,
+    "statement": "Um  homem,  com  68  anos  de  idade,  tabagista  de  40  \ncigarros/dia, com história de dispneia, tosse produtiva e \nexpectoração  catarral  abundante,  chega  à  Unidade  de  \nPronto Atendimento, com piora súbita da dispneia e da \nfrequência da tosse . \nNa  avaliação  clínica  você  deve  investigar  as  causas  \nde piora, entre elas, devemos considerar como a mais \nfrequente",
+    "alternatives": {
+      "A": "a infecção respiratória viral.",
+      "B": "a tromboembolia pulmonar.",
+      "C": "a pneumonia por germes oportunistas.",
+      "D": "o cor pulmonale.\nE o\n pneumotórax espontâneo seguido de infecção."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q26",
+    "year": "2011",
+    "number": 26,
+    "statement": "Homem,  com  23  anos  de  idade,  mototaxista,  sofre  \nacidente  motociclístico  por  colisão  com  carro  em  alta  \nvelocidade.  Seu  corpo  foi  lançado  aproximadamente  a  \n20m  e  o  capacete,  ejetado.  Foi  socorrido  pelo  Corpo  \nde  Bombeiros  com  colocação  de  colar  cervical,  uso  \nde  prancha  longa,  imobilização  e  oxigenioterapia.  Ao  \ndar  entrada  na  unidade  de  emergência  na  qual  você  é  \nplantonista, 11 minutos após o acidente, apresentava-se \nagitado,  agressivo,  com  saturação  de  oxigênio,  aferida  \nem oximetria de pulso, de 88%. O exame físico identifi cou \nmurmúrio   vesicular   presente   e   roncos   discretos   na   \nbase de pulmão direito; pulso radial=105 bpm; abdome \nsem  escoriações  e  indolor  à  palpação;  deformidade  \nem  coxa  direita  e  à  palpação  do  crânio,  apresentava  \nafundamento  de  aproximadamente  0,5cm,  associado  a  \nferimento corto-contuso de 5cm de extensão, em região \ntêmporo-parietal direita. Avaliação pela escala de coma \nde Glasgow=8. Pupilas fotorreagentes, sem anisocoria.\nQual  a  conduta  imediata  a  ser  adotada  para  este  \npaciente?",
+    "alternatives": {
+      "A": "Entubação orotraqueal com objetivo de proteger a via \naérea e aumentar a perfusão tecidual de oxigênio.",
+      "B": "Realização  de  traqueostomia  de  urgência  com  o  \nobjetivo  de  hiperventilar  o  paciente  e  favorecer  a  \nexpansão pulmonar.",
+      "C": "Sedação com meperidina, com o objetivo de reduzir \na  agitação  e  consequentemente,  o  consumo  de  \noxigênio e a congestão pulmonar.",
+      "D": "Ventilação sob máscara e pressão positiva, proteção \ndo ferimento e contenção física, prevenindo o agravo \ndas lesões.\nE Ventilação    sob    máscara    e    pressão    positiva,    \ndrenagem do hemitórax direito, melhorando assim a \nperfusão tecidual.\n\n7 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q27",
+    "year": "2011",
+    "number": 27,
+    "statement": "Garota, com 13 anos de idade, moradora de rua, procura \natendimento  na  rede  básica  de  saúde,  relatando  falta  \nde  apetite,  perversão  do  hábito  alimentar,  com  relato  \nde  ingestão  frequente  de  terra,  epigastralgia,  além  de  \nprurido  anal  e  vaginal.  Ao  exame  físico  apresenta-se  \nemagrecida  e  hipocorada.  O  exame  parasitológico  de  \nfezes  para  pesquisa  de  ovos  e  larvas  de  helmintos  e  \ncistos  de  protozoários  pelos  métodos  de  Faust,  Lutz  \ne   Baerman   Moraes,   revela:   “presença   de   ovos   de   \nAscaris  lumbricoides, Trichuris  trichiura  e  Ancylostoma \nduodenale.  Presença  de  cistos  de  Entamoeba  coli. \nPresença de larvas de Strongyloides stercoralis”.\nAssinale a alternativa que contem a prescrição que visa \no  tratamento  das  enteroparasitoses  apresentadas pela \npaciente.",
+    "alternatives": {
+      "A": "albendazol  em  dose  única  e  praziquantel  em  dose  \núnica.",
+      "B": "levamizol  em  dose  única  e  ivermectina  em  dose  \núnica.",
+      "C": "metronidazol  por  sete  dias  e  tiabendazol  por  dois  \ndias.",
+      "D": "albendazol por quatro dias e tinidazol em dose única.\nE albendazol  em  dose  única  e  tiabendazol  por  dois  \ndias."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q28",
+    "year": "2011",
+    "number": 28,
+    "statement": "Mãe leva sua fi lha, com um mês de vida, para consulta \nna  Unidade  Básica  de  Saúde.  Relata  que  a  fi lha  foi \nsubmetida  aos  exames  de  triagem  neonatal  e  está  em  \naleitamento  materno  exclusivo,  com  calendário  vacinal  \nem dia. A criança nasceu de parto vaginal, a termo, com \n3000g, Apgar 7 e 9. A mãe queixa-se que a fi lha, há três \nsemanas, está chorando muito, quase todos os dias, no \ninício da noite. Informa também que a criança apresenta \nmuitas  evacuações  ao  dia,  com  fezes  semi-pastosas,  \nde coloração amarelada. Na consulta realizada com 10 \ndias  de  vida  o  peso  da  criança  foi  de  2990g.  Hoje,  na  \nconsulta, pesou 3550g. \nDiante  desse  quadro  clínico,  assinale  a  alternativa  que  \ncontém o diagnóstico e a conduta para essa criança.",
+    "alternatives": {
+      "A": "A  criança  apresenta  quadro  de  diarreia  aguda,  o  \nque  ocasionou  a  perda  de  peso.  Necessita  receber  \nimediatamente soro para hidratação oral e que seja \nsuspenso o aleitamento materno.",
+      "B": "A  criança  apresenta  quadro  de  cólica  do  lactente,  \no seu ganho ponderal é adequado. A mãe deve ser \norientada a manter o aleitamento materno.",
+      "C": "A  criança  apresenta  refl  uxo  gastroesofágico,  o  que  \ndetermina  o  baixo  ganho  ponderal.  Necessita  de  \ntratamento   e   cuidados   para   controle   do   refl uxo \ngastroesofágico.",
+      "D": "A  criança  apresenta  quadro  de  intolerância  ao  leite  \nmaterno. O que impõe a suspensão do aleitamento \nmaterno e introdução de leite de fórmula.\nE A   criança   apresenta   baixo   ganho   ponderal   por   \ningestão alimentar reduzida devido à baixa produção \nde  leite  materno.  A  mãe  deverá  ser  orientada  a  \nrealizar complementação com leite de fórmula."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q29",
+    "year": "2011",
+    "number": 29,
+    "statement": "Você atende um menino com um ano de idade, história \nde  febre  alta,  falta  de  apetite  e  irritabilidade  há  dois  \ndias.  A  mãe  informa  que  a  vacinação  está  completa.  \nHoje   pela   manhã   surgiram   petéquias   no   corpo   do   \npaciente. Ao exame físico apresentava rigidez de nuca.",
+    "alternatives": {
+      "A": "bacterioscopia   do   líquor   mostrou   a   presença   de   \nmeningococos.\nConsiderando o período de transmissão da infecção e o \nfato do paciente ter um irmão de quatro anos de idade, \nqual a alternativa que indica a conduta para a proteção \ndos contactantes em casa?\nA Vacinação   de   todos   os   contactantes   (vacina:   \nmeningocócica do grupo C).",
+      "B": "Quimioprofi  laxia  com  rifampicina  por  dois  dias  para  \ntodos os contactantes.",
+      "C": "Vacinação apenas do irmão de quatro anos de idade \n(vacina: meningocócica do grupo C).",
+      "D": "Observação rigorosa de todos os contactantes, sem \nquimioprofi laxia.\nE Quimioprofi   laxia   com   rifampicina   apenas   para   o   \nirmão de 4 anos de idade."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q30",
+    "year": "2011",
+    "number": 30,
+    "statement": "Primigesta,  tabagista,  na  36\na\n  semana  de  gestação,  \nprocura a emergência da maternidade com sangramento \nvaginal   de   moderada   quantidade,   há   20   minutos,   \nassociado  a  dor  abdominal,  de  forte  intensidade.  Ao  \nexame: Pressão arterial = 80 x 50 mmHg, pulso = 120 \nbpm   e   mucosas   descoradas.   Frequência   Cardíaca   \nFetal = 180 bpm. Útero hipertônico, colo com dilatação \ncervical de 4,0 cm. A conduta médica deve incluir",
+    "alternatives": {
+      "A": "reposição de volemia e resolução por cesárea.",
+      "B": "indução do parto com ocitocina.",
+      "C": "reposição  da  volemia  e  aguardar  a  evolução  do  \ntrabalho de parto.",
+      "D": "exame      ultrassonográfi      co      para      confi rmação \ndiagnóstica.\nE realização de amniotomia e aguardar o parto vaginal.\n\n8 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q31",
+    "year": "2011",
+    "number": 31,
+    "statement": "Homem,  com  26  anos  de  idade,  apresentou,  durante  \na  prática  de  basquetebol,  dor  torácica  súbita,  de  leve  \nintensidade,  no  hemitórax  esquerdo,  associada  a  leve  \ndesconforto  respiratório.  Mesmo  tendo  interrompido  a  \nprática de esporte, o desconforto respiratório agravou-\nse  e  ele  foi  levado  pelos  amigos  a  uma  unidade  de  \npronto   atendimento.   No   exame   inicial   apresentava    \nfacies de sofrimento agudo e cianose leve, frequência \nrespiratória  de  38  incursões  respiratórias  por  minuto,  \nfrequência   cardíaca   de   138   bpm,   pressão   arterial   \nde  80x50  mmHg  e  saturação  de  oxigênio  de  83%.",
+    "alternatives": {
+      "A": "ausculta   pulmonar   revelava   murmúrio   vesicular   \npraticamente abolido à esquerda.\nMediante esse quadro, qual deve ser a conduta imediata?\nA Administração de O\n2\n úmido - 6l/min e solicitaçao de \nRaio X de tórax em Pressão arterial e em ortostatismo.",
+      "B": "Administração de O\n2\n úmido - 6l/min e solicitação de \nRaio  X  de  tórax  em  Pressão  arterial  e  em  decúbito  \nlateral esquerdo.",
+      "C": "Administração de O\n2\n úmido sob pressão; solicitação \nde  radiografi  as  sequenciais  de  tórax  em  postero  \nanterior, antes e após O\n2\n sob pressão.",
+      "D": "Solicitação   de   radiografi   a   de   tórax   em   postero   \nanterior,   perfi   l   e   decúbito   lateral   esquerdos   e   \navaliação cirúrgica.\nE Realizar drenagem por punção torácica com agulha \ncalibrosa, no segundo espaço intercostal esquerdo."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q32",
+    "year": "2011",
+    "number": 32,
+    "statement": "Trinta   e   cinco   indivíduos,   adolescentes   e   adultos,   \nalimentam-se   em   um   restaurante   com   buffet de \ncomida  “por  quilo”.  Cerca  de  quatro  horas  depois,  sete  \nintegrantes  do  grupo  apresentam  diarreia  com  várias  \nevacuações  aquosas,  sem  febre,  acompanhadas  de  \ncólicas   abdominais   e   vômitos.   Ao   serem   avaliados   \napresentam-se  apiréticos,  desidratados,  alguns  deles  \nnecessitando  de  hidratação  venosa.  Dois  dias  depois,  \ntrês  outros  membros  do  grupo,  que  também  haviam  \ncomido   no   mesmo   buffet,   apresentam   quadro   de   \ndiarreia, eliminação de fezes com muco, pus e sangue, \nacompanhado de febre e mal estar. Na avaliação clínica \napresentam-se desidratados, febris e toxemiados.\nQuais são os agentes etiológicos que melhor explicam a \nepidemiologia e as características clínicas dos quadros \ndiarreicos descritos?",
+    "alternatives": {
+      "A": "Staphylococcus aureus e Salmonella enteritidis.",
+      "B": "Staphylococcus     aureus     e     Escherichia     coli     \nenterotoxigênica.",
+      "C": "Staphylococcus aureus e Bacillus cereus.",
+      "D": "Salmonella enteritidis e Yersinia enterocolitica.\nE Shigella fl exneri e Escherichia coli enteropatogênica."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q33",
+    "year": "2011",
+    "number": 33,
+    "statement": "Um  médico  decidiu  realizar  uma  pesquisa  científi ca \ncom  seus  pacientes  na  unidade  de  saúde.  Ele  iria  \nfazer  entrevistas  com  adolescentes  sobre  sexualidade,  \ninvestigando o grau de conhecimento deles quanto aos \nmétodos  contraceptivos,  quer  seja  natural,  de  barreira,  \nhormonal ou dispositivo intrauterino.\nQual  o  procedimento  adequado  para  que  a  pesquisa  \nseja realizada de acordo com o Código de Ética Médica?",
+    "alternatives": {
+      "A": "Incluir  nas  referências  bibliográfi  cas  a  citação  dos  \ntrabalhos  publicados  em  revistas  com  comitê  de  \nrevisores.",
+      "B": "O Comitê de Ética em Pesquisa em Seres Humanos \n(CEP) não necessita emitir parecer sobre o protocolo, \npois a pesquisa tem apenas objetivos educacionais.",
+      "C": "Obter  o  Termo  de  Consentimento  Livre  Esclarecido  \n(TCLE) assinado pelos adolescentes.",
+      "D": "Obter  TCLE  assinado  pelos  adolescentes  e  seus  \nrepresentantes  legais  e  comunicar  à  comunidade  \nsobre a natureza da investigação.\nE Caso    tenha    uma    indústria    de    medicamentos    \nfi    nanciando    a    pesquisa,    o    pesquisador    não    \nnecessitará informar sua relação com esta empresa."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q34",
+    "year": "2011",
+    "number": 34,
+    "statement": "Um   estudante,   com   15   anos   de   idade,   chega   à   \nEmergência  informando  ser  portador  de  asma  desde  \na  infância.  Relata  que  manteve  controle  da  asma  nos  \núltimos  meses  e  que  apresenta  piora  há  dois  dias,  \nquando passou a apresentar dispneia associada à tosse, \nexpectoração mucosa e chiado no peito. Ao exame físico \nobserva-se  tórax  tipo  pectus  carinatum,  com  discreta  \ntiragem  intercostal;  frequência  respiratória  =  32  irpm;  \nFrequência  cardíaca=100  bpm;  ausculta  pulmonar  com  \nsibilos difusos. \nNa  sala  de  Emergência,  diante  do  paciente  com  crise  \nasmática, além do quadro clínico, consideram-se como \nprocedimentos  objetivos  importantes  para  avaliação  da  \ngravidade, a realização, quando possível, de",
+    "alternatives": {
+      "A": "radiografi  a  de  tórax  e  medida  do  pico  de  fl uxo \nexpiratório (PFE).",
+      "B": "radiografi  a  de  tórax  e  saturação  de  oxigênio  no  \nsangue  arterial  por  gasometria  ou  oximetria  de  \npulso (SatO\n2\n).",
+      "C": "hemograma  e  saturação  de  oxigênio  no  sangue  \narterial por gasometria ou oximetria de pulso (SatO\n2\n).",
+      "D": "medida do pico de fl uxo expiratório (PFE) e saturação \nde  oxigênio  no  sangue  arterial  por  gasometria  ou  \noximetria de pulso (SatO\n2\n).\nE eletrocardiograma   e   medida   do   pico   de   fl uxo \nexpiratório (PFE).\n\n9 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q35",
+    "year": "2011",
+    "number": 35,
+    "statement": "Uma  mulher,  com  36  anos  de  idade,  casada,  procura  \na  Unidade  de  Pronto  Atendimento  com  dor  tipo  cólica,  \nintensa  e  constante  há  três  dias,  náuseas,  vômitos,  \ntendo feito várias aplicações de analgésicos parenterais. \nHá  cerca  de  seis  meses,  vem  apresentando  crises  de  \ndor   abdominal   semelhantes,   porém   de   intensidade   \nmenor  em  hipocôndrio  direito  com  irradiação  para  o  \ndorso,  do  tipo  cólica,  predominantemente  noturnas  e  \napós a ingestão de alimentos gordurosos. No momento, \nela está com temperatura de 38,1°C, com fácies de dor, \ntaquicárdica, com dor intensa à palpação do hipocôndrio \ndireito e com a presença de sinal de Murphy.\nCom   base   nessas   informações,   a   conduta   mais   \nadequada é",
+    "alternatives": {
+      "A": "administrar   novamente   analgésicos,   com   alta   e   \norientação  para  procurar  ambulatório  de  cirurgia  \npara programar colecistectomia eletiva.",
+      "B": "administrar  analgésicos  e  antibióticos,  com  alta  e  \norientação  para  procurar  ambulatório  de  cirurgia  \npara programar colecistectomia eletiva.",
+      "C": "administrar  analgésicos,  com  internação  hospitalar  \naté    melhora    da    dor    e    alta    para    programar    \ncolecistectomia eletiva.",
+      "D": "administrar     analgésicos     e     antibióticos,     com     \ninternação hospitalar até “esfriar o processo” seguida \nde alta para programar colecistectomia.\nE administrar     analgésicos     e     antibióticos,     com     \ninternação hospitalar e programar colecistectomia."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q36",
+    "year": "2011",
+    "number": 36,
+    "statement": "Paciente, com 32 anos de idade, hígida anteriormente, \ndeu  entrada  em  serviço  de  urgência  municipal  com  \nquadro   clínico   de   febre   alta,   mialgia,   artralgia,   \ncefaléia,  prostração,  dor  retroorbitária  e  exantema.  \nApresentava-se   lúcida   e   orientada.   Ao   exame   \nfisico,   constatou-se   desidratação,   temperatura   =   \n39,5°C, Frequência cardíaca = 102 bpm, Frequência \nrespiratória  =  20  irpm  e  Pressão  arterial  =  90  x  60  \nmmHg. Ausculta cardiopulmonar normal.",
+    "alternatives": {
+      "A": "avaliação  laboratorial  mostrou:  Hematócrito  =  35  %;  \nleucócitos totais = 1.900 /mm³; plaquetas = 102.000 /mm³.\nDiante do quadro, neste momento, qual a prioridade no \nmanuseio da paciente?\nA Solicitar sorologia para dengue.",
+      "B": "Prescrever paracetamol para controle da temperatura \ne analgesia.",
+      "C": "Instalar hidratação venosa.",
+      "D": "Orientar hidratação vigorosa, em domicílio.\nE Encaminhar   para   unidade   hospitalar   do   nível   \nsecundário."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q37",
+    "year": "2011",
+    "number": 37,
+    "statement": "",
+    "alternatives": {
+      "A": "enfermeira  de  uma  equipe  de  Saúde  da  Família  \naborda o médico para saber o que deve ser feito com um \npaciente que atendeu hoje. Trata-se de homem recém-\nchegado  do  interior,  em  tratamento  para  tuberculose  e  \nAIDS.  O  relatório  trazido  por  ele  informa  que  há  cinco  \nanos iniciou terapia antiretroviral. Há seis meses iniciou \ntratamento  para  tuberculose,  não  tendo  apresentado  \nintolerância a nenhum medicamento.\nA medida a ser adotada em relação ao paciente é\nA dar     continuidade     ao     dois     tratamentos     sob     \nresponsabilidade da equipe de Saúde da Família.",
+      "B": "dar continuidade apenas ao tratamento antiretroviral, \npois  a  tuberculose  já  foi  adequadamente  tratada  \n(seis meses).",
+      "C": "prolongar o esquema de tratamento para tuberculose \npara doze meses.",
+      "D": "investigar   situação   dos   comunicantes   quanto   à   \ntuberculose, como forma indireta de avaliar a adesão \ndo paciente ao tratamento.\nE encaminhar  o  paciente  para  tratamento  conjunto  \ncom os serviços de referência local de DST/AIDS e \nde tuberculose.\n\n10 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q38",
+    "year": "2011",
+    "number": 38,
+    "statement": "Paciente,  com  49  anos  de  idade,  sexo  masculino,  \nlavrador, vem à consulta com queixa de lesão em face que \niniciou-se  como  uma  pápula,  posteriormente  evoluindo  \ncom  ulceração  e  indolor.  A  primeira  lesão  apareceu  há  \n3 meses, sendo seguida de mais duas com as mesmas \ncaracterísticas.  Associado  ao  aparecimento  das  lesões  \nevoluiu  com  emagrecimento,  não  sabendo  quantifi car, \nporém  notou  que  suas  roupas  estão  mais  largas  que  \no  habitual.  Não  apresentou  quadro  semelhante  antes.  \nRelata tabagismo e etilismo desde a infância. Não refere \nuso  de  medicamentos.  Durante  o  exame  físico,  foram  \nvisualizadas lesões ulceradas, de bordas elevadas, com \nfundo granuloso em região labial inferior e mentoniana. \nFoi  realizado  raspado  para  exame  direto  e  biópsia  da  \nlesão. Em ambos os exames foram encontradas formas \nleveduriformes  com  múltiplos  brotamentos  pequenos,  \nem roda de leme. Reação de Montenegro negativa. Qual \no diagnóstico e tratamento de escolha?\nFigura I - Lesão cutânea.  \nFigura II - Formas leveduriformes com múltiplos \nbrotamentos.\nFonte: Shikanai-Yassuda MA cols, RevistaRevista da Sociedade Brasileira de Medicina \nTropical 39(3):297-310, mai-jun, 2006.",
+    "alternatives": {
+      "A": "Paracoccidioidomicose e itraconazol.",
+      "B": "Esporotricose   e   solução   saturada   de   Iodeto   de   \npotássio.",
+      "C": "Carcinoma de células escamosas e cirurgia.",
+      "D": "Tuberculose   cutânea   e   R   (Rifampicina)   –   H   \n(Isoniazida) – Z (Pirazinamida) – E (Etambutol).\nE Leishmaniose cutânea e glucantime."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q39",
+    "year": "2011",
+    "number": 39,
+    "statement": "Uma criança nascida de parto cesáreo, a termo, com  Apgar \n8/9, pesando 3500g, apresenta, nas primeiras 24 horas \nde vida, cianose associada com desconforto respiratório.\nDurante  o  exame  fi  sico,  o  recém-nascido  encontra-se  \ncianótico,   taquidispneico   (Frequência   respiratória=65   \nirpm),    taquicárdico    (Frequência    cardíaca=160bpm),    \ncom    retrações    subdiafragmáticas    e    intercostais.",
+    "alternatives": {
+      "A": "ausculta  pulmonar  é  normal  e  não  é  observada  \na     presença     de     sopro     à     ausculta     cardíaca.     \nA  saturação  de  oxigênio  inicial  era  de  70%  antes,  \npassando   a   72%   após   iniciar   a   oxigenoterapia   \ncom     FiO\n2\n     de     100%.     Foi     feita     a     hipótese     \ndiagnóstica     de     cardiopatia     congênita,     sendo     \nsolicitados   radiografi   a   de   tórax   e   ecocardiograma.   \nA    radiografi    a    de    tórax    mostrou    área    cardíaca    \naparentemente  sem  alterações  e  aumento  da  trama  \npulmonar.  O  ecocardiograma  não  pôde  ser  realizado.\nA hipótese diagnóstica principal e a conduta terapêutica \nindicada são, respectivamente,\nA atresia  pulmonar;  administração  de  indometacina  \npara fechamento do canal arterial.",
+      "B": "tetralogia  de  Fallot;  administração  de  indometacina  \npara fechamento do canal arterial.",
+      "C": "atresia pulmonar; administração de prostaglandina E \npara manutenção do canal arterial.",
+      "D": "transposição  de  grandes  vasos;  administração  de  \nindometacina   para   fechamento   do   canal   arterial   \npatente.\nE transposição  de  grandes  vasos;  administração  de  \nprostaglandina E para redução da trama pulmonar."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q40",
+    "year": "2011",
+    "number": 40,
+    "statement": "Criança, com oito meses de idade, dá entrada em pronto \nsocorro acompanhada pela mãe que se encontra muito \nafl ita. Ela diz que o bebê havia caído do berço há poucas \nhoras.  Afi  rma,  ainda,  que  a  criança  não  apresentou  \nperda  de  consciência  ou  vômitos.  Ao  exame  físico  foi  \nevidenciada  fratura  de  fêmur  e  escoriações  leves  no  \ntronco. Após o devido tratamento das lesões, que medida \ndeve complementar o cuidado a essa criança?",
+    "alternatives": {
+      "A": "Formalizar denúncia contra a mãe junto à autoridade \npolicial.",
+      "B": "Formalizar denúncia contra a mãe junto ao Juizado \nde Menores.",
+      "C": "Comunicar  a  suspeita  de  maus-tratos  ao  Conselho  \nTutelar.",
+      "D": "Alertar  a  mãe  que  aumente  seus  cuidados  para  \nevitar acidentes.\nE Solicitar realização de perícia medico-legal.\n\n11 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q41",
+    "year": "2011",
+    "number": 41,
+    "statement": "Paciente, com 57 anos de idade, sexo masculino, chega \nao  pronto  atendimento  queixando-se  de  palpitações  \nque  se  iniciaram  há  três  dias,  associadas  à  tontura  e  \nà  dispneia.  Relata  fazer  uso  de  metimazol  10  mg/dia  \nhá  um  mês  por  diagnóstico  de  hipertireoidismo.  Faz  \nuso ainda de enalapril 20 mg para hipertensão arterial \ndesde os 45 anos de idade. \nAo   exame:   Pressão   arterial   =   110   x   70   mmHg;   \nFrequência    cardíaca    =    160    BPM;    Frequência    \nrespiratória  =  26  irmp;  rítmo  cardíaco  taquicárdico,  \nirregular,   em   dois   tempos,   sem   sopros;   murmúrio   \nvesicular fi siológico com crepitações bibasais; abdome \nlivre,  indolor,  ruídos  hidroaéreos  positivos;  aparelho  \nlocomotor  sem  alterações.  Saturação  periférica  de  \noxigênio de 87%. Solicitado ECG:\nFigura I - Traçado eletrocardiográfi co.\nInstalada a suplementação de oxigênio e monitorização \ncardíaca. Assinale a alternativa que identifi ca a arritmia \ne  a  conduta  a  ser  tomada  ainda  na  sala  de  pronto  \natendimento.",
+    "alternatives": {
+      "A": "Flutter atrial e amiodarona.",
+      "B": "Taquicardia     supra     ventricular     paroxistica     e     \nprocainamida.",
+      "C": "Sindrome     de     Wolff-Parkinson-White     e     beta     \nbloqueador.",
+      "D": "Taquicardia   atrial   multifocal   e   bloqueadores   de   \ncanais de cálcio.\nE Fibrilação atrial e digitálico."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q42",
+    "year": "2011",
+    "number": 42,
+    "statement": "Mulher,  com  35  anos  de  idade,  procura  atendimento  \nmédico  por  apresentar  quadro  de  dor  de  início  súbito,  \ncom localização inicial na região epigástrica, inicialmente \nacompanhada  de  vômitos,  com  rápida  expansão  para  \no fl  anco  e  a  fossa  ilíaca  direita  e,  posteriormente,  para  \ntodo o abdome. A paciente apresenta extremidades frias \ne respiração superfi cial; busca manter-se imóvel e adota \nposição  antálgica,  com  pernas  fl  etidas  sobre  o  tronco.   \nO  abdome  é  difusamente  doloroso,  sendo  evidentes  \na  contratura  abdominal  e  a  rigidez  da  musculatura  \nabdominal  à  palpação  e  à  respiração.  A  radiografi a \nde  tórax  e  a  radiografi  a  simples  de  abdome,  ambas  \nrealizadas em ortostatismo, mostram pneumoperitôneo.\nCom relação à complicação apresentada pela paciente, \né correto afi rmar que",
+    "alternatives": {
+      "A": "fi  gura  entre  as  causas  mais  frequentes  de  abdome  \nagudo não traumático e metade dos casos ocorre em \npacientes com idade entre 20 e 40 anos.",
+      "B": "nas  úlceras  duodenais  as  perfurações  ocorrem,  de  \num  modo  geral,  na  parede  posterior  e  na  curvatura  \ndo duodeno.",
+      "C": "nas   úlceras   gástricas   as   perfurações   ocorrem,   \nusualmente, na parede posterior do antro e da região \npré-pilórica.",
+      "D": "a  área  mais  acometida  por  perfurações  de  úlceras  \npépticas  é  o  estômago,  na  proporção  de  14:1  em  \nrelação ao duodeno.\nE a   mortalidade   é   proporcionalmente   maior   nas   \nperfurações  duodenais,  em  torno  de  20%,  talvez  \nporque acometam pacientes mais idosos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q43",
+    "year": "2011",
+    "number": 43,
+    "statement": "Paciente, com 35 anos de idade, sexo masculino, etilista, \né trazido por familiares ao hospital após ter apresentado \ncrise  convulsiva  generalizada  e  perda  de  consciência.  \nEsposa   relata   que   o   paciente   não   fazia   uso   de   \nmedicamentos, tendo realizado consulta médica recente. \nNega  que  tenham  ocorrido  quedas  ou  traumatismos  \nantecedendo  o  início  do  quadro.  Ao  exame:  Pressão  \narterial  =  190  x  100  mmHg,  Frequência  cardíaca  =  50  \nbpm ritmo cardíaco regular em dois tempos, sem sopros; \nmurmúrio  vesicular  fi  siológico  sem  ruídos  adventícios.  \nEscala  de  coma  de  Glasgow:  7,  pupilas  anisocóricas  \n(maior   à   direita)   e   fotorreagentes;   hemiplégico   à   \nesquerda. Saturação periférica de oxigênio de 98 %.\nQual  a  conduta  a  ser  tomada  para  esse  paciente  no  \nmomento da admissão?",
+    "alternatives": {
+      "A": "Entubação  orotraqueal  +  hiperventilação  mecânica;  \nmanitol.",
+      "B": "Ventilação    não    invasiva;    manitol    e    solução    \nhipertônica.",
+      "C": "Suplementação de oxigênio por máscara; manitol.",
+      "D": "Entubação orotraqueal + ventilação mecânica.\nE Entubação  orotraqueal  +  ventilação  mecânica  +  \nantihipertensivo.\n\n12 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q44",
+    "year": "2011",
+    "number": 44,
+    "statement": "Homem,   assintomático,   com   45   anos   de   idade   e   \nque  apresenta  tumor  renal,  procura  atendimento  em  \nconsultório médico portando documento que o identifi ca \ncomo Testemunha de Jeová, informando que não deverá \nser submetido a transfusão de sangue. O documento foi \nregistrado em cartório e enumera todos os motivos pelos \nquais o mesmo tem o direito de não receber transfusão \nde sangue. É provável que este paciente seja submetido \na  tratamento  cirúrgico,  pois  esta  alternativa  terapêutica  \naponta  melhor  sobrevida.  Ele  se  nega  veementemente  \na  receber  transfusão,  caso  seja  necessário.  Qual  a  \nconduta  baseada  nos  princípios  éticos  positivados  na  \núltima versão do Código de Ética Médica brasileiro?",
+    "alternatives": {
+      "A": "Não dar certeza ao paciente que não transfundirá o \nsangue e realizar o procedimento cirúrgico.",
+      "B": "Garantir  ao  paciente  que  tentará  ao  máximo  não  \ntransfundir, mas transfundir se necessário.",
+      "C": "Tentar  dissuadir  o  paciente  da  sua  crença  religiosa  \npara o bem da sua saúde.",
+      "D": "Realizar  o  procedimento  cirúrgico  e,  se  necessário,  \ntransfundir, informando a família.\nE Negar-se  a  realizar  o  procedimento  e  orientar  o  \npaciente a procurar outro médico."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q45",
+    "year": "2011",
+    "number": 45,
+    "statement": "Uma  mulher,  com  32  anos  de  idade  -  três  gestações,  \ndois  partos  e  zero  abortos  -,  tem  idade  gestacional  \nde   nove   semanas,   confi   rmada   por   ultrassonografi a \nrealizada  há  três  dias.  Deu  entrada  na  emergência  de  \num hospital, com dor abdominal em cólica, sangramento \ntransvaginal moderado com odor fétido, relatando febre \ne  calafrios.  Informa  ter  sido  manipulada,  em  tentativa  \nde abortamento, há dois dias. O exame clínico revelou \ndor  à  manipulação  do  útero,  colo  uterino  pérvio  e  \nconfi  rmou  presença  de  sangramento  com  odor  fétido.",
+    "alternatives": {
+      "A": "paciente  apresenta  pulso  fi  liforme,  com  frequência  \ncardíaca = 110 bpm, Pressão arterial = 85 x 40 mmHg \ne  temperatura  axilar  =  39  ºC.  Os  exames  laboratoriais  \nrealizados  evidenciaram  Leucócitos  =  18.000  cel/mm³,  \ncom desvio à esquerda e Proteína C Reativa = 18 mg/\ndL  (Valor  normal  <  0,1  mg/dL).  Diante  do  quadro  da  \npaciente, o diagnóstico e conduta são, respectivamente,\nA abortamento incompleto por manipulação. O restante \ndo conteúdo uterino deve ser esvaziado e, se a febre \npersistir por mais 48 horas, iniciar antibioticoterapia, \nde  preferência  com  ampicilina  por  via  endovenosa,  \n1g  de  6/6  horas.  A  paciente  recebe  alta,  se  afebril,  \nsem medicação antimicrobiana.",
+      "B": "abortamento  séptico  por  manipulação.  O  restante  \ndo  conteúdo  uterino  deve  ser  esvaziado  quando  a  \npaciente  apresentar  estabilidade  hemodinâmica  e  \nsomente após 12 horas de instituída antibioticoterapia, \npreferencialmente com esquema duplo: metronidazol \ne gentamicina. A paciente recebe alta com medicação \nantimicrobiana, após 48 horas da curetagem.",
+      "C": "abortamento infectado por manipulação. Curetagem \nuterina   deve   ser   realizada   quando   a   paciente   \napresentar   estabilidade   hemodinâmica.   Inicia-se   \nantibioticoterapia,  preferencialmente  com  esquema  \nduplo:  metronidazol  e  gentamicina.  A  histerectomia  \ndeve  ser  efetuada  se  a  infecção  não  responder  ao  \ntratamento.  A  paciente  recebe  alta  com  medicação  \nantimicrobiana, após 48 horas do procedimento.",
+      "D": "abortamento   séptico   por   manipulação.   Instituir   \nantibioticoterapia,  preferencialmente  com  esquema  \nduplo:   metronidazol   e   gentamicina.   O   conteúdo   \nuterino   deve   ser   esvaziado   quando   a   paciente   \napresentar  estabilidade  hemodinâmica.  A  paciente  \npode receber alta após 48 horas, se apirética e com \nbom estado geral, sem uso de antimicrobianos.\nE abortamento  infectado  por  manipulação.  Deve  ser  \nrealizada  a  curetagem  uterina,  quando  a  paciente  \napresentar estabilidade hemodinâmica. Em seguida, \ninicia-se a antibioticoterapia, preferencialmente com \nesquema  duplo:  metronidazol  e  gentamicina.  Após  \n48 horas da curetagem, recebe alta sem medicação \nantimicrobiana.\n\n13 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q46",
+    "year": "2011",
+    "number": 46,
+    "statement": "Criança, com 15 meses de idade, foi à Unidade Básica \nde   Saúde   para   receber   as   vacinas   do   Programa   \nNacional de Imunização. A mãe da criança perguntou se \nele podia tomar todas as vacinas, porque seu fi lho mais \nvelho, de 10 anos de idade, encontra-se em tratamento \nquimioterápico  para  leucose  aguda.  Qual  a  conduta  \nrecomendada?",
+    "alternatives": {
+      "A": "A criança pode receber todas as vacinas previstas.",
+      "B": "A  criança  pode  receber  todas  as  vacinas,  com  \nexceção da Sabin.",
+      "C": "A  criança  deve  adiar  a  vacinação  contra  difteria,  \ntétano e coqueluche.",
+      "D": "A criança pode receber somente a tríplice viral.\nE A  criança  deve  adiar  a  vacinação  para  o  próximo  \nmês."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q47",
+    "year": "2011",
+    "number": 47,
+    "statement": "Mulher,  com  19  anos  de  idade,  procura  o  pronto-socorro  \nde um hospital secundário com queixa de dor abdominal e \nvômitos há dois dias. Há cerca de quinze dias, apresenta \ntosse e coriza amarelada e, há dez dias, poliúria e polidipsia. \nComenta ter emagrecido 12 kg (18% do peso) nas últimas \nduas  semanas.  Informa  não  ter  tido  febre.  Não  relata  \nantecedentes mórbidos pessoais ou familiares relevantes. \nAo  exame  clínico,  aparece  vigil,  consciente,  orientada.  \nPontuação na escala de coma de Glasgow = 15. \nCorada,    desidratada    2+/4+,    taquipneica.    Pressão    \narterial = 106 x 62 mmHg, pulso = 104 bpm, frequência \nrespiratória  =  28  irpm.  Abdome  doloroso  à  palpação  \nprofunda   de   epigástrio,   sem   dor   à   descompressão   \nbrusca. Semiologia cardíaca, pulmonar, e de membros, \nnormais. Saturação de oxigênio em ar ambiente: 99 %. \nGlicemia capilar à entrada = 364 mg/dL. Foram solicitadas \ndosagens séricas de eletrólitos, exame sumário de urina \ne gasometria venosa.\nAlém de se considerar o início de antibioticoterapia para \no quadro respiratório alto, a conduta terapêutica imediata \nadequada é",
+    "alternatives": {
+      "A": "aguardar  os  exames,  antes  de  outras  etapas  do  \ntratamento.",
+      "B": "iniciar  insulinoterapia,  em  bolus  endovenoso,  a  ser  \nmantida por infusão contínua.",
+      "C": "aguardar resultado da dosagem de eletrólitos (K+) e \niniciar expansão com soro fi siológico.",
+      "D": "preparar expansão com soro fi siológico e reposição \nde potássio.\nE introduzir  expansão  com  soro  fi siológico,  reposição \nde potássio e insulinoterapia."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q48",
+    "year": "2011",
+    "number": 48,
+    "statement": "Homem, com 45 anos de idade, é submetido à cirurgia \npélvica  com  duração  de  uma  hora.  No  segundo  dia  de  \npós-operatório desenvolve quadro de dor na panturrilha, \naumento de temperatura e edemas locais. Clinicamente, \napresenta  Pressão  arterial  =  140  x  90  mmHg,  com  \nFrequência    cardíaca    =    120    bpm    e    Frequência    \nrespiratória  =  30  irpm.  Realizado  eletrocardiograma,  \nobserva-se taquicardia com ritmo sinusal. O método de \nescolha  para  o  diagnóstico  primário  da  intercorrência  \napresentada no segundo dia de pós-operatório é",
+    "alternatives": {
+      "A": "a venografi a por ter maior acurácia no diagnóstico e \nlocalização do problema e ser pouco invasiva.",
+      "B": "a  dosagem  de  D-dímero  por  ter  alto  valor  preditivo  \npositivo e ser bastante específi ca.",
+      "C": "a   pletismografi   a   de   bioimpedância   por   medir   a   \ncapacitância venosa e ser pouco invasiva.",
+      "D": "a venografi a de ressonância magnética por ser ideal \nem casos agudos e ser bem tolerada pelos pacientes.\nE a  ultrassonografi  a  com  Doppler  por  ter  ótimo  valor  \npreditivo positivo e ser pouco invasiva.\n\n14 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q49",
+    "year": "2011",
+    "number": 49,
+    "statement": "Um menino, com um ano de idade, está sendo atendido \nno  Pronto-Socorro  de  Pediatria  com  histórico  de  febre  \nalta,  falta  de  apetite  e  irritabilidade  há  dois  dias.  A  mãe  \ninformou que hoje a criança apresentou vômitos, tremores \ne recusou toda a alimentação. Ao exame físico, apresenta-\nse  hipoativo,  com  desidratação  de  primeiro  grau  e  febre  \n(39 ºC). Para a investigação desse quadro febril, sem foco \naparente, foram realizados os seguintes exames:\nEstudo do líquor: normal\nEritrograma: Hb: 11,5 g/dL Ht: 37,5 %.\nLeucograma: 25.000 /mm3, com 10% de bastonetes.\nPlaquetas: normais\nExame sumário de urina (colhido com saco coletor): nitrito \npositivo; leucócitos: 430.000 /ml; eritrócitos: 15.000 /ml\nUrocultura: em execução\nCom  base  na  suspeita  de  infecção  urinária,  qual  é  a  \nconduta a ser adotada?",
+    "alternatives": {
+      "A": "Colher  novo  exame  de  urina  por  meio  de  punção  \nsupra-púbica,   internar   o   paciente   e   instituir   a   \nhidratação     e     a     antibioticoterapia     parenteral,     \nprescrevendo cefalosporina.",
+      "B": "Internar  o  paciente,  instituir  hidratação  parenteral  e  \naguardar o resultado da urocultura colhida no pronto-\nsocorro,  para  iniciar  a  antibioticoterapia  de  acordo  \ncom antibiograma.",
+      "C": "Hidratar o paciente no pronto-socorro e, após melhora \nclínica, liberá-lo com prescrição de cefalosporina por \nvia oral. Pedir à responsável pelo menino que leve o \nresultado da urocultura, assim que esteja pronto, ao \nmédico assistente.",
+      "D": "Hidratar  o  paciente  no  pronto-socorro,  colher  novo  \nexame  de  urina  por  sondagem  vesical  ou  punção  \nsupra-púbica  e,  após  melhora  clínica,  liberá-lo  com   \nprescrição  de  cefalosporina  por  via  oral.  Orientar  a  \nmãe  que  leve  o  resultado  da  urocultura,  assim  que  \nesteja pronto, ao médico assistente.\nE Hidratar  o  paciente  no  pronto-socorro,  colher  novo  \nexame  de  urina  por  sondagem  vesical  ou  punção  \nsupra-púbica   e,   após   melhora   clínica,   liberá-lo;   \naguardar o resultado da urocultura, para defi nir sobre \nuso de antibioticoterapia."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q50",
+    "year": "2011",
+    "number": 50,
+    "statement": "Um médico da Unidade Básica de Saúde encontrava-se \ndiante de uma difícil situação que envolvia o atendimento \nde  uma  criança  de  dois  anos  de  idade,  em  que  a  \nmelhor  medicação  disponível  para  o  tratamento  não  \nestava  disponível  gratuitamente  para  pacientes  nessa  \nidade,   apesar   das   evidências   científi cas   mostrarem \nque,  para  outras  faixas  etárias,  há  benefício  com  seu  \nuso.  O  médico  orientou  a  mãe  sobre  a  necessidade  \nda  medicação,  seus  importantes  efeitos  benéfi  cos  e  os  \npossíveis  efeitos  adversos,  esclarecendo  que  utilizá-la  \nseria o ideal para a criança, permitindo que ela optasse \npelo uso de medicação fornecida gratuitamente ou pela \nmedicação  que  deveria  ser  adquirida.  Por  confi ar  na \nopinião do profi ssional, com base na relação de parceria \nna  atenção  a  seus  doentes,  a  mãe  decidiu  comprar  \na  medicação.  A  atitude  do  médico,  nesta  situação,  \nconsiderou os princípios fundamentais da Ética Médica \ncontemporânea e da Bioética.\nNesta situação, evidencia-se o princípio",
+    "alternatives": {
+      "A": "da benefi cência.",
+      "B": "da não-malefi cência.",
+      "C": "da justiça.",
+      "D": "do assentimento.\nE da autonomia."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q51",
+    "year": "2011",
+    "number": 51,
+    "statement": "Mulher, com 44 anos de idade, apresenta quadro de dor \nepigástrica,  com  irradiação  em  faixa  para  hipocôndrio  \ndireito e esquerdo, com vômitos e distensão abdominal, \nde  início  súbito  sem  relação  com  esforço,  ocorrendo  \nhá   seis   horas.   Relata   dois   episódios   semelhantes   \nanteriores,   de   menor   intensidade,   nos   últimos   três   \nanos,  dos  quais  se  recuperou  apenas  com  restrição  \nde  dieta.  Relata  ainda  trombose  de  retina  à  esquerda  \napós  um  desses  episódios.  Durante  o  exame  físico,  \nforam   visualizadas   mucosas   descoradas,   anictérica,   \npele   com   turgor   e   elasticidade   reduzidos.   Pressão   \narterial = 40x90 mmHg. Pulso radial = 120 bpm, rítmico \ne fi  no.  Ausculta  respiratória  -  expansibilidade  reduzida  \nem   base   de   hemitórax   esquerdo,   com   submacicez   \nlocal.   Ausculta   cardíaca   -   bulhas   taquicárdicas   em   \ndois  tempos.  Abdome  distendido,  com  equimoses  nos  \nfl  ancos.  Ruídos  hidroaéreos  diminuídos  e  dor  difusa  à  \npalpação.  Extremidades:  pulsos  periféricos  palpáveis  e  \nsimétricos. Exame  laboratoriais  mostram  Ht  =  52%,  Hb  =  \n14  g/L.  Amilase  =  104  U/L  (Valor  normal  =  27  a  131U/L).  \nGlicemia  na  admissão  =  230  mg/dL.  Creatinina  =  1,5  mg/\ndL (Valor normal = 0,7 a 1,3 mg/dL). Troponina Sérica = 0,5 \nng/mL  (Valor  normal  <  0,1  ng/mL).  ECG  sem  alterações.  \nO   laboratório   informa   que   o   soro   apresenta   aspecto   \nfrancamente  leitoso  na  centrifugação.  Ultrassonografi a  de \nabdome  mostra  vias  biliares  não  dilatadas  e  vesícula  biliar  \nde  paredes  fi  nas,  sem  cálculos.  O  retroperitôneo  não  foi  \nvisualizado.\nQual o diagnóstico compatível com o quadro descrito?",
+    "alternatives": {
+      "A": "Pancreatite aguda.",
+      "B": "Dissecção de aorta.",
+      "C": "Infarto do miocárdio.",
+      "D": "Colecistite aguda.\nE Infarto mesentérico.\n\n15 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q52",
+    "year": "2011",
+    "number": 52,
+    "statement": "Paciente  do  sexo  masculino,  com  22  anos  de  idade,  \nsubmetido  a  tratamento  cirúrgico  de  apendicite  aguda  \nhá  oito  dias,  procura  a  Unidade  Básica  de  Saúde  \nqueixando-se de dor intensa e “infl amação” no local da \nincisão  cirúrgica  que  ainda  encontra-se  com  pontos.  \nRelata  que  evoluiu  bem  após  a  cirurgia  recebendo  \nalta  no  segundo  dia  pós-operatório  com  prescrição  \nde  dipirona,  se  necessário.  Desde  então,  retomava  \nas  atividades  habituais  até  que  há  um  dia  começou  a  \nnotar aumento de volume no local da ferida operatória. \nNão informa febre e apresenta boa aceitação alimentar. \nDurante  o  exame  físico,  nota-se  ferida  operatória  de  \naproximadamente  7  cm,  oblíqua  em  fossa  ilíaca  direita  \ndiscretamente  elevada,  hiperemiada,  com  calor  local  e  \nsaída  de  pequena  quantidade  de  secreção  amarelada,  \nsem brilho, viscosa e que suja a roupa. Abdome fl ácido \ne  indolor  fora  da  área  de  incisão.  Temperatura  axilar  \nnormal.  Frequência  cardíaca  =  72  bpm,  Frequência  \nrespiratória = 16 irpm.\nDiante  do  quadro,  qual  o  diagnóstico  e  a  conduta  \npara o caso nesse momento?",
+    "alternatives": {
+      "A": "Infecção de sítio cirúrgico e iniciar antibioticoterapia.",
+      "B": "Seroma  e  colocar  dreno  laminar  pela  incisão,  após  \nretirada de um dos pontos.",
+      "C": "Infecção de sítio cirúrgico e abrir a incisão, seguida \nde lavagem com soro fi siológico.",
+      "D": "Seroma  e  orientar  o  paciente  que  o  conteúdo  será  \nabsorvido pelo organismo.\nE Hérnia  incisional  e  orientar  o  paciente  a  procurar  \nimediatamente o cirurgião que o operou."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q53",
+    "year": "2011",
+    "number": 53,
+    "statement": "Homem,   com   55   anos   de   idade,   alcoólatra,   em   \nacompanhamento ambulatorial devido a cirrose hepática, \ncomparece    ao    Pronto-Socorro    com    hematêmese.    \nClinicamente   se   apresenta   taquipneico,   descorado,   \npulso fi  no,  pressão  arterial  de  90  x  60  mmHg.  Foi  \nsubmetido  a  endoscopia  digestiva  alta  que  mostrou  \nvarizes  esofágicas,  com  sangramento  ativo.  A  próxima  \nconduta para esse paciente deve ser",
+    "alternatives": {
+      "A": "iniciar antibioticoterapia profi lática.",
+      "B": "iniciar somatostatina.",
+      "C": "iniciar reposição volêmica.",
+      "D": "passar balão de Sengsaken-Blakemore.\nE realizar escleroterapia endoscópica."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q54",
+    "year": "2011",
+    "number": 54,
+    "statement": "Paciente do sexo feminino, assintomática, em avaliação \nde  rotina,  determinada  pelo  seu  médico  assistente,  é  \nsubmetida à coleta de duas amostras de urinocultura, que \nrevelam crescimento de >100.000 Unidades Formadoras \nde Colônias/ml de Escherichia coli, nas duas amostras, \ncom o mesmo perfi l de sensibilidade.",
+    "alternatives": {
+      "A": "solicitação das urinoculturas e o tratamento antibiótico \nda  bactéria  isolada  são  justifi  cadas,  se  a  paciente  em  \nquestão for\nA muito idosa, moradora de asilo.",
+      "B": "diabética, insulino-dependente.",
+      "C": "portadora de cateter vesical de demora.",
+      "D": "gestante, em qualquer idade gestacional.\nE jovem, sexualmente ativa."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q55",
+    "year": "2011",
+    "number": 55,
+    "statement": "Paciente,  com  23  anos  de  idade,  encontra-se  na  nona  \nsemana de gestação e comparece à Unidade Básica de \nSaúde  para  sua  primeira  consulta  de  pré-natal.  Dentre  \nos  exames  de  rotina  para  essa  idade  gestacional,  o  \nmédico solicita",
+    "alternatives": {
+      "A": "sorologia para hepatite B e C.",
+      "B": "citologia oncótica e creatinina.",
+      "C": "sorologia para HIV e VDRL.",
+      "D": "glicemia de jejum e teste de tolerância oral a glicose.\nE exame sumário de urina e ecografi a obstétrica."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q56",
+    "year": "2011",
+    "number": 56,
+    "statement": "Mulher,  com  58  anos  de  idade,  diabética,  é  admitida  \nno   Pronto-Socorro   com   dor   precordial   opressiva,   \nintensa,  irradiada  para  membro  superior  esquerdo  há  \n40  minutos,  associada  a  sudorese  fria  e  sensação  de  \nmorte  iminente.  Durante  o  exame  clínico,  encontra-se  \nem bom estado geral, eupneica, Pressão arterial = 100 \nx 70 mmHg, Frequência cardíaca = 92 bpm, Frequência \nrespiratória  =  20  ipm.  Pulmões  limpos.  Ritmo  cardíaco  \nregular, dois tempos, sem sopros. Abdome fl ácido, sem \nvisceromegalias,  ruídos  hidroaéreos  presentes.  Sem  \nedemas   de   membros   inferiores,   panturrilhas   livres.   \nFez  uso  de  dinitrato  de  isossorbida  5  mg  sublingual,  \ntendo  cessado  a  dor.  Eletrocardiograma  realizado  na  \nadmissão  está  normal.  Qual  a  recomendação  para  o  \nacompanhamento desta paciente?",
+    "alternatives": {
+      "A": "Acompanhamento   ambulatorial,   se   Troponina   e   \nCKMB   massa   colhidas   na   admissão   estiverem   \nnormais.",
+      "B": "Internação     hospitalar,     monitorização     cardíaca     \ncontínua, mesmo com troponina normal à admissão.",
+      "C": "Acompanhamento  ambulatorial  especializado,  com  \ncardiologista,  se  Troponina  colhida  na  admissão  \nestiver normal.",
+      "D": "Internação     hospitalar,     monitorização     cardíaca     \ncontínua, se Troponina colhida na admissão estiver \nelevada.\nE Internação  hospitalar,  sem  monitorização  cardíaca  \ncontínua, se a Troponina e CKMB massa colhidas na \nadmissão estiverem normais.\n\n16 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q57",
+    "year": "2011",
+    "number": 57,
+    "statement": "Considere as três situações abaixo.\nI. Médico recebe comunicado do diretor clínico da \nclínica  onde  trabalha  de  que  passará  a  receber  \ndesconto  no  aluguel  do  consultório  de  acordo  \ncom o número de pacientes encaminhados para \noutros especialistas.\nII. Mãe  traz  a  fi  lha  de  16  anos  de  idade,  aluna  do  \nsegundo  ano  do  ensino  médio,  para  consulta  \nginecológica.   A   adolescente   não   apresenta   \nalterações ao exame clínico. Após a consulta, a \nmãe  procura  o  médico  para  obter  informações  \nsobre o que foi discutido pelo médico com a fi lha \nem relação à sexualidade. O médico se nega a \nfornecer  as  informações  sem  a  autorização  da  \nfi lha menor.\nIII. Um  médico  especialista  é  chamado  para  falar  \nsobre  um  tema  de  saúde  em  uma  emissora  \nde  rádio.  Durante  o  programa,  atendendo  a  \nsolicitação  de  ouvintes  do  programa,  realizado  \nao  vivo,  o  médico  informa  o  telefone  do  seu  \nconsultório.\nQual (is) desta(s) situação(ões) constitui(em)  infrações \ndo Código Brasileiro de Ética Médica ?",
+    "alternatives": {
+      "A": "I e II.",
+      "B": "I e III.",
+      "C": "II e III.",
+      "D": "III.\nE I, II e III."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q58",
+    "year": "2011",
+    "number": 58,
+    "statement": "Em consulta médica no posto de saúde, paciente jovem \nrelata  “ferida”  na  genitália  externa  que  surgiu  há  cerca  \nde  30  dias.  Ao  exame,  nota-se  úlcera  vulvar,  única,  \nde  contornos  imprecisos,  fundo  purulento  e  dolorosa  \nao  toque,  associada  a  linfadenopatia  homolateral.  O  \nesfregaço  do  material  da  borda  da  úlcera,  corado  pelo  \nmétodo  de  GRAM,  revelou  bacilos  Gram  negativos  \nintracelulares. A hipótese diagnóstica principal é",
+    "alternatives": {
+      "A": "sífi lis primária.",
+      "B": "úlcera luética secundária.",
+      "C": "cancro mole.",
+      "D": "donovanose.\nE linfogranuloma venéreo."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q59",
+    "year": "2011",
+    "number": 59,
+    "statement": "Criança, com três anos de idade, é atendida no Pronto \nAtendimento,   com   história   de   diarreia   nos   últimos   \nsete  dias.  A  mãe  relata  aumento  da  frequência  das  \nevacuações,  estando  as  fezes  líquidas,  sem  sangue  \nou muco. A criança mantém-se afebril e nas últimas 24 \nhoras  apresentou  dois  episódios  de  vômitos.  O  exame  \nfísico revela peso atual de 13.300g e anterior de 14.800g; \ncriança   irritada,   chorando   sem   lágrimas,   mucosas   \nsecas,  olhos  fundos  e  elasticidade  cutânea  diminuída.  \nCom base na história e no exame físico, o diagnóstico e \nconduta imediatos são, respectivamente,",
+    "alternatives": {
+      "A": "diarreia  aguda  com  sinais  de  desidratação  grave;  \nhidratação venosa e suspensão da alimentação até \nmelhora dos vômitos.",
+      "B": "diarreia aguda com sinais de desidratação; solução \nde reidratação oral e drogas antimotilidade.",
+      "C": "diarreia aguda com sinais de desidratação; solução \nde reidratação oral e suspensão da alimentação (nas \nprimeiras quatro horas), exceto se for leite materno.",
+      "D": "diarreia persistente com sinais de desidratação grave; \nhidratação venosa e suspensão da alimentação até \nmelhora dos vômitos.\nE diarreia  persistente  com  sinais  de  desidratação;  \nsolução   de   reidratação   oral   e   suspensão   da   \nalimentação (nas primeiras quatro horas), exceto se \nfor leite materno."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q60",
+    "year": "2011",
+    "number": 60,
+    "statement": "Paciente, com 57 anos de idade, vai à Unidade Básica de \nSaúde com queixa de aparecimento, há um mês, de lesão \navermelhada  em  braço  direito.  Procurou  atendimento  \nmédico, quando foi prescrita nistastina creme durante 14 \ndias  e  fl  uconazol  150  mg  em  dose  única,  sem  melhora  \ndo quadro. Relata que posteriormente apresentou dor no \ncotovelo  direito,  sendo  feito  diagnóstico  de  tendinite  e  \nprescrito anti-infl amatório. Informa não ter outra doença \ne não faz uso de medicamentos. O exame físico mostra \nmácula  eritematosa  com  bordas  eritematosas  elevadas  \ne  centro  atrófi  co.  Qual  a  hipótese  diagnóstica  e  a  \npropedêutica a ser realizada?\nFigura I - Lesão cutânea.",
+    "alternatives": {
+      "A": "Psoríase e diagnóstico clínico.",
+      "B": "Paracoccidioidomicose e raspado da lesão.",
+      "C": "Cromomicose e biópsia.",
+      "D": "Hanseníase e Intradermorreação de Mitsuda.\nE Liquen plano e biópsia.\n\n17 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q61",
+    "year": "2011",
+    "number": 61,
+    "statement": "O  plantonista  da  Unidade  de  Terapia  Intensiva  aciona  \na  equipe  de  notifi  cação  e  captação  de  órgãos  do  seu  \nhospital  relatando  que  foi  realizado  e  confi rmado  o \ndiagnóstico  de  morte  encefálica  em  um  jovem  de  20  \nanos,  vítima  de  traumatismo  crânio-encefálico.  Quanto  \nao  prosseguimento  do  processo  de  doação  de  órgãos  \npode-se afi rmar que",
+    "alternatives": {
+      "A": "se houver manifestação favorável da família quanto \nà  doação,  o  diagnóstico  de  morte  encefálica  deve  \nser comunicado à Central de Notifi cação,  Captação \ne Distribuição de Órgãos.",
+      "B": "se   o   potencial   doador   apresentar   estabilidade   \nhemodinâmica e ausência de infecção sistêmica ou \ntumor  maligno,  o  diagnóstico  de  morte  encefálica  \ndeve   ser   comunicado   à   Central   de   Notifi cação, \nCaptação e Distribuição de Órgãos.",
+      "C": "deve   ser   dada   sequência   aos   procedimentos   \npara  a  retirada  de  órgãos,  tendo  por  base  o  \nconsentimento  presumido  ,  uma  vez  que  não  há  \nmanifestação  conhecida  do  potencial  doador,  de  \noposição à doação.",
+      "D": "a morte encefálica é de notifi cação compulsória e a \ncontinuidade  dos  procedimentos  para  a  retirada  de  \nórgãos para transplante depende do consentimento  \nda família do potencial doador.\nE uma  vez  esclarecida  a  família  sobre  o  diagnóstico  \nde   morte   encefálica   e   com   a   certeza   de   sua   \ncompreensão    deve    ser    dada    sequência    aos    \nprocedimentos para a retirada de órgãos, tendo por \nbase o consentimento informado."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q62",
+    "year": "2011",
+    "number": 62,
+    "statement": "Mulher,  com  57  anos  de  idade,  sem  acompanhamento  \nmédico  regular,  é  atendida  em  ambulatório  de  clínica  \nmédica  de  hospital  secundário  por  queixa  de  edema  \nde  membros  inferiores  e  face  e  de  urina  espumosa  há  \ntrês  meses.  A  paciente  não  refere  doenças  anteriores  \ne desconhece seus antecedentes familiares. Ao exame \nclínico  encontra-se  orientada,  normocorada,  hidratada,  \nafebril,  com  edema  de  face  (++/4).  Pressão  arterial  \n(posição  deitada)  =  176  x  102  mmHg  com  pulso  =  76  \nbpm; pressão arterial (posição supina) = 154 x 78 mmHg \ncom pulso = 72 bpm. Frequência respiratória = 18 irpm. \nExame  cardíaco  normal.  Ausculta  pulmonar:  murmúrio  \nvesicular  diminuído  nas  bases  pulmonares,  sem  ruídos  \nadventícios.  Abdome  com  sinais  de  ascite  moderada,  \nmembros  inferiores  com  edema  compressível  (++/4).  \nFundoscopia: prejudicada por opacifi cação do cristalino.\nExames complementares: \nGlicemia  de  jejum  =  283  mg/dL,  Creatinina  =  1,8  mg/\ndL,  Ureia  =  60  mg/dL.  Colesterol  total  =  312  mg/dL,  \nLDL = 230 mg/dL, HDL = 40 mg/dL, VLDL = 42 mg/dL, \ntriglicérides  =  210  mg/dL.  Albumina  sérica  =  1,8  g/dL.  \nExame sumário de urina: proteinúria (++++/4), glicosúria \n(++/4), sem outras alterações. Proteína na urina de 24h= \n5,5g. Dosagem de eletrólitos e hemograma normais.\nQual a principal etiologia para o quadro apresentado por \nessa paciente?",
+    "alternatives": {
+      "A": "Hipertensão arterial sistêmica.",
+      "B": "Diabetes mellitus.",
+      "C": "Dislipidemia.",
+      "D": "Glomerulopatia por lesões mínimas.\nE Lupus eritematoso sistêmico."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q63",
+    "year": "2011",
+    "number": 63,
+    "statement": "Paciente  do  sexo  masculino,  com  59  anos  de  idade,  \ntabagista há mais de 10 anos, hipertenso e dislipidêmico, \nprocura   a   Unidade   Básica   de   Saúde   relatando   o   \naparecimento, há um mês, de lesão ulcerada em dorso \nde  pé  esquerdo,  após  pequeno  trauma  abrasivo  com  \nsandália  mal-adaptada.  A  lesão  é  seca,  dolorosa,  com  \nfundo sujo e pálido. Há um discreto halo de eritema ao \nseu redor. Evolui há uma semana com piora do aspecto \ne do tamanho da lesão, com dor de repouso, edema de \npé e tornozelo. Os pulsos arteriais não são perceptíveis \n(palpáveis) abaixo dos joelhos, bilateralmente.\nQual a hipótese diagnóstica e conduta para esse paciente?",
+    "alternatives": {
+      "A": "Doença aterosclerótica obliterante periférica(DAOP) \ncom       isquemia       crítica;       referenciar       para       \nrevascularização de urgência.",
+      "B": "Trombose venosa profunda; referenciar para consulta \nem  ambulatório  de  especialidades  e  prescrição  de  \nanticoagulantes.",
+      "C": "Úlcera varicosa infectada; referenciar para internação \nhospitalar   de   urgência   para   antibioticoterapia   e   \ndesbridamento.",
+      "D": "Trombose    venosa    profunda;    referenciar    para    \ninternamento hospitalar de urgência para trombólise.\nE Microangiopatia      diabética;      referenciar      para       \nambulatório especializado.\n\n18 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q64",
+    "year": "2011",
+    "number": 64,
+    "statement": "Paciente do sexo feminino, com 34 anos de idade, sem \nantecedentes   patológicos   pregressos   signifi cativos, \nprocurou  a  Unidade  Básica  de  Saúde  com  história  de  \npirose  e  regurgitação  há  mais  ou  menos  seis  meses,  \ne   piora   do   quadro   no   último   mês.   Relata   ganho   \nponderal  de  10  kg  nos  últimos  três  meses  (Índice  de  \nmassa  corpóreo  atual  =  36,8  kg/m\n2\n).  Faz  uso  irregular  \nde  antiácido  por  conta  própria.  Trazia  consigo  um  \nresultado  de  endoscopia  digestiva  alta  com  o  seguinte  \nlaudo: “erosões lineares de até 5 mm, não confl uentes, \nlocalizadas em esôfago distal”. Baseado no diagnóstico \nacima, você prescreve um inibidor de bomba de prótons \ndurante oito semanas e orienta a paciente a",
+    "alternatives": {
+      "A": "perder  peso  e  evitar  deitar-se  imediatamente  após  \nas refeições.",
+      "B": "evitar ingestão de café e praticar esportes.",
+      "C": "suspender carne vermelha da alimentação e ingestão \nde bebidas gaseifi cadas.",
+      "D": "dormir  com  cabeceira  da  cama  elevada  e  abolir  \nfi bras na dieta.\nE aumentar a ingesta de proteínas e reduzir a ingesta \nde carboidratos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q65",
+    "year": "2011",
+    "number": 65,
+    "statement": "Paciente do sexo masculino, com 58 anos de idade, casado, \npedreiro, tabagista há 15 anos (13 cigarros/dia), procura a \nUnidade Básica de Saúde queixando-se de um “caroço \nna virilha esquerda” que surgiu há cinco meses. Informa \nque essa tumoração apresentou crescimento lentamente \nprogressivo  desde  então  e  que  procurou  o  serviço  \nde  saúde  porque  passou  a  apresentar  dor  na  região  \ninguinal  esquerda  durante  suas  atividades  laborais.  O  \nexame  do  tórax  não  apresenta  alterações.  O  abdome  \né  indolor  e  sem  visceromegalias  palpáveis.  O  exame  \ndas  extremidades  superiores  e  inferiores,  bem  como  o  \ndo  períneo,  não  apresenta  anormalidades.  Ao  exame  \nda  região  inguinal  esquerda  verifi  ca-se  a  presença  de  \ntumoração  mole,  bem  delimitada,  retrátil,  dolorosa  à  \npalpação profunda e que aumenta de tamanho quando \nse realiza a manobra de Valsalva.\nDiante dessa situação, a hipótese diagnóstica e conduta \nsão, respectivamente,",
+    "alternatives": {
+      "A": "hérnia    inguino-escrotal    esquerda,    encarcerada;    \nsolicitar ultrassom escrotal e encaminhar o paciente \npara  o  Pronto-Socorro  para  avaliação  de  urgência  \npelo cirurgião.",
+      "B": "linfoadenomegalia    a    esclarecer,    suspeita    de    \nneoplasia; solicitar biópsia excisional e encaminhar o \npaciente para o ambulatório de especialidades para \navaliação do cirurgião.",
+      "C": "hérnia  inguinal  direta  esquerda,  não  complicada;  \nencaminhar   o   paciente   para   o   ambulatório   de   \nespecialidades para avaliação do cirurgião geral.",
+      "D": "hérnia inguinal indireta esquerda; solicitar tomografi a \nde  abdome  e  pelve  e  encaminhar  o  paciente  para  \navaliação ambulatorial especializada com cirurgião.\nE massa  inguinal  a  esclarecer,  provável  neoplasia;  \nsolicitar  biópsia  por  punção  guiada  por  ultrassom  e  \nreferenciar  o  paciente  para  avaliação  ambulatorial  \ncom cirurgião."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q66",
+    "year": "2011",
+    "number": 66,
+    "statement": "Uma nova Unidade de Saúde da Família será implantada \nem um município. A territorialização deverá ser realizada \nvisando obter como primeiro produto",
+    "alternatives": {
+      "A": "a    determinação    dos    coefi    cientes    de    morbi-\nmortalidade.",
+      "B": "a obtenção de dados de vigilância comparativos com \noutras áreas do mesmo município.",
+      "C": "a  identifi  cação  de  reivindicações  de  movimentos  \nsociais e grupos organizados.",
+      "D": "a   defi   nição   de   micro-áreas   de   risco   e   grupos   \nprioritários.\nE a  determinação  dos  índices  de  mortalidade  infantil  \ne materna."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q67",
+    "year": "2011",
+    "number": 67,
+    "statement": "Paciente  do  sexo  masculino,  com  26  anos  de  idade,  \nprocura ambulatório de Clínica Médica com queixas, há \numa  semana,  de  mal  estar,  febre  de  baixa  intensidade  \nnão  aferida,  inapetência,  vômitos  ocasionais  e  aversão  \nà  fumaça  de  cigarro,  evoluindo  com  colúria  e  acolia  \nfecal   há   três   dias.   Relata   que   costuma   alimentar-\nse  em  bares  com  baixo  nível  de  higiene,  próximos  \nà  universidade  onde  estuda;  e  viagem,  há  um  mês,  \npara  acampamento.  Informa  manter  relações  sexuais  \nsem  uso  de  preservativos,  com  parceiros  e  parceiras  \ndesconhecidos.  Ao  exame  físico  apresenta-se  em  bom  \nestado  geral,  corado,  hidratado,  ictérico  ++/4+,  lúcido,  \norientado, Pressão arterial =120 x 70 mmHg , Frequência \ncardíaca= 64bpm. Fígado palpável a três centímetros do \nrebordo  costal  direito;  baço  impalpável.  O  restante  do  \nexame físico não mostrou alterações signifi cativas.\nForam solicitadas dosagens de aminotransferases, que \nse mostraram muito elevadas (>1000 UI/ml) e marcadores \nsorológicos  virais  das  hepatites  determinaram  que  o  \npaciente  era  carreador  crônico  do  vírus  da  hepatite  B  \ne  apresentava  também  hepatite  viral  aguda  pelo  vírus  \nda  hepatite  A.  A  infecção  pelo  vírus  da  hepatite  C  foi  \nexcluída por sorologia e técnicas moleculares.\nO  perfi  l  sorológico  compatível  com  o  diagnóstico  do  \npaciente é",
+    "alternatives": {
+      "A": "anti-HAV IgG reativo e IgM não reativo; anti-HBc IgM \ne IgG reativos; HBsAg reativo.",
+      "B": "anti-HAV IgG e IgM reativos; anti-HBc IgG e IgM não \nreativos; HBsAg não reativo.",
+      "C": "anti-HAV IgG e IgM não reativos; anti-HBc IgG reativo \ne IgM não reativo; HBsAg não reativo.",
+      "D": "anti-HAV IgG não reativo e IgM reativo; anti-HBc IgM \ne IgG não reativos; HBsAg não reativo.\nE anti-HAV  IgG  e  IgM  reativos;  anti-HBc  IgM  não  \nreativo e IgG reativo; HBsAg reativo.\n\n19 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q68",
+    "year": "2011",
+    "number": 68,
+    "statement": "Uma  criança  de  sexo  feminino,  com  quatro  anos  de  \nidade,  é  atendida  no  Pronto  Atendimento  com  queixa  \nde poliúria, polidipsia e emagrecimento nos últimos dois \nmeses. Apesar de ter havido um atendimento anterior por \nesta queixa, não houve uma defi nição diagnóstica. A mãe \ndecidiu retornar ao serviço porque nos últimos dois dias, a \ncriança começou a apresentar sonolência, acompanhada \nde febre (dois picos de 38,6 °C), vômitos, fadiga, sinais de \ndesidratação e taquipneia. Imediatamente, você decidiu \nencaminhar a paciente para um Serviço de Emergência, \ndevido à hipótese diagnóstica de cetoacidose diabética.",
+    "alternatives": {
+      "A": "decisão de encaminhamento imediato foi determinada\nA pela   preocupação   com   a   hipotensão,   achado   \nbastante  comum  nas  crianças  que  desenvolvem  \ncetoacidose diabética.",
+      "B": "para  reposição  volêmica  e  controle  da  glicemia.  A  \nhipotensão,  na  criança  em  cetoacidose  diabética,  é  \nevento raro e tardio.",
+      "C": "pela   alta   mortalidade,   característica   da   doença,   \ncuja  principal  causa  de  morte  está  relacionada  à  \nhipotensão.",
+      "D": "pela  hipertermia  da  criança,  que  requer  imediata  \ninvestigação diagnóstica.\nE porque, em crianças lactentes e pré-escolares, além \nde adolescentes grávidas, a cetoacidose ocorre com  \nníveis de glicemia sempre muito elevados."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q69",
+    "year": "2011",
+    "number": 69,
+    "statement": "Uma criança, com dois anos de idade, sexo masculino, é \natendida no serviço de Pronto Atendimento. A mãe relata \nque a criança vem apresentando sintomas de obstrução \nnasal  e  secreção  hialina  há  seis  dias,  evoluindo  com  \nfebre   (dois   picos   diários   de   38,8   ºC)   nos   últimos   \ndois  dias,  irritabilidade,  difi  culdade  de  aceitação  da  \nalimentação,  sobretudo  da  mamadeira  que  é  oferecida  \nà noite, após deitar. O exame físico mostra abaulamento \nda  membrana  timpânica  esquerda.  Qual  a  principal  \nhipótese diagnóstica e a conduta terapêutica?",
+    "alternatives": {
+      "A": "Trata-se    de    otite    média    aguda.    O    uso    de    \nantibioticoterapia está indicado, pois o quadro clínico \né compatível com otite média, cuja principal etiologia, \nnessa  idade,  é  bacteriana.  Além  disso,  a  presença  \nde  abaulamento  da  membrana  timpânica  sugere  a  \netiologia bacteriana.",
+      "B": "Trata-se    de    otite    média    aguda.    O    uso    de    \nantibioticoterapia   está   indicado,   pois,   apesar   do   \nabaulamento  da  membrana  timpânica  ser  visto  nas  \notites de etiologia viral e nas de etiologia bacteriana, \na antibioticoterapia reduz o tempo de doença.",
+      "C": "Trata-se de otite média aguda. O uso de medicação \nsintomática  está  indicado,  pois  o    quadro  clínico  é  \ncompatível  com  otite  viral,  sendo  o  abaulamento  \nda   membrana   timpânica   um   forte   elemento   de   \ndiferenciação a favor da etiologia viral.",
+      "D": "Trata-se de otite serosa. É indicado, portanto, o uso \nde  antibioticoterapia  nessa  faixa  etária,  já  que  a  \npresença  de  abaulamento  da  membrana  timpânica  \nsugere o diagnóstico de otite serosa.\nE Trata-se de otite serosa. É indicado, portanto, o uso \nde  sintomáticos,  pois  o  abaulamento  da  membrana  \ntimpânica,  patognomônico  da  otite  serrosa,  deverá  \nregridir com essa medida."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q70",
+    "year": "2011",
+    "number": 70,
+    "statement": "Homem,  com  45  anos  de  idade,  com  dor  epigástrica  \ndiária,  ocorrendo  no  período  pós-prandial  e  à  noite,  e  \nperda  ponderal  de  4  kg,  começou  uso  de  inibidor  de  \nbomba  de  próton  (IBP)  com  alguma  melhora.  Informa  \nque  não  usa  álcool  ou  antinfl  amatórios  não  hormonais.  \nAinda  na  vigência  da  medicação  realizou  endoscopia  \ndigestiva  alta  que  revelou  gastrite  nodosa  de  antro  \ne  corpo,  e  úlcera  duodenal  em  fase  de  cicatrização.  \nBiópsias  de  mucosa  gástrica  foram  realizadas  durante  \no procedimento, e submetidas ao teste rápido de urease \nem fase líquida, cujo resultado foi negativo.\nQuanto  ao  tratamento  para  Helicobacter  pylori  nesse  \npaciente, conclui-se que",
+    "alternatives": {
+      "A": "não  há  necessidade  de  tratamento,  pois  o  agente  \netiológico não é o Helicobacter pylori.",
+      "B": "não há necessidade de tratamento, pois a cicatrização \nda úlcera ocorre após a erradicação da bactéria.",
+      "C": "o tratamento está indicado e o uso de IBP interfere \nno teste de urease.",
+      "D": "há   necessidade   de   tratamento   profi lático   contra \nreinfecção, mesmo havendo cura.\nE há    necessidade    de    tratamento    especial    para    \nHelicobacter pylori resistente aos antibióticos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q71",
+    "year": "2011",
+    "number": 71,
+    "statement": "Criança  em  idade  pré-escolar  foi  atendida  na  Unidade  \nBásica  de  Saúde,  por  diversas  vezes,  com  quadro  \ndiarreico semelhante: diarreia importante e evacuações \nexplosivas   logo   após   a   ingestão   de   alimentos.   No   \natendimento  atual  a  criança  encontra-se  desidratada,  \napresenta  assadura  perianal  e  distensão  abdominal.  \nOs  exames  laboratoriais  evidenciaram  a  presença  de  \nsubstâncias  redutoras  nas  fezes  e  pH  fecal  menor  do  \nque 5,5.\nQual a  suspeita diagnóstica principal?",
+    "alternatives": {
+      "A": "Diarreia infecciosa persistente.",
+      "B": "Diarreia aguda recorrente.",
+      "C": "Parasitose intestinal.",
+      "D": "Intolerância à lactose.\nE Doença infl amatória pélvica.\n\n20 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q72",
+    "year": "2011",
+    "number": 72,
+    "statement": "Criança, com seis anos de idade, é atendida em Serviço \nde  Urgência.  A  mãe  informa  que  a  criança  apresenta  \n“chiado  no  peito,  tosse  e  falta  de  ar”.  Ao  exame,  você  \nconstata  Frequência  cardíaca  =  125  bpm,  Frequência  \nrespiratória  =  50  irpm,  síbilos  expiratórios,  tiragem  \nintercostal e batimento de asas do nariz. Qual deve ser \na conduta clínica para iniciar o tratamento da criança?",
+    "alternatives": {
+      "A": "Salbutamol 5 mg/ml, 1 gt/2kg e brometo de Ipratrópio \n0,25 mg/ml, 20 a 40 gotas; hidrocortisona 4 mg/2kg.",
+      "B": "Fenoterol 5 mg/ml, 1 gt/3kg; hidrocortisona 4 mg/2kg.",
+      "C": "Salbutamol  5mg/ml,  1gt/kg  e  brometo  de  Ipratrópio  \n0,25 mg/ml, 10 gotas; metilprednisolona 1 mg/kg.",
+      "D": "Fenoterol 5 mg/ml, 1 gt/kg; hidrocortisona 4 mg/kg.\nE Salbutamol 5 mg/ml, 1 gt/3kg e brometo de Ipratrópio \n0,25 mg/ml, 20 a 40 gotas; metilprednisolona 2 mg/kg."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q73",
+    "year": "2011",
+    "number": 73,
+    "statement": "Menina,   com   seis   anos   de   idade,   foi   levada   pela   \nmãe  à  consulta  em  Unidade  Básica  de  Sáude  por  \napresentar,  há uma semana, intensa adinamia, quadro \nfebril  intermitente  (temperatura  =  38\no\nC)  e  dor  articular,  \nlocalizada inicialmente no joelho esquerdo, acompanhada \nde calor e rubor discreto e que, há dois dias, acomete o \ntornozelo  direito.  A  mãe  informa  que,  há  cerca  de  seis  \nsemanas, a criança apresentou quadro de  infecção de \nvias  aéreas  superiores  (faringite),  que  regrediu  com  o  \nuso  de  amoxicilina  durante  cinco  dias.  Ao  exame  físico   \na  criança  encontrava-se  afebril,  eupneica,  hidratada,  \ncom  intensa  adinamia,  hipocorada  (+/4),  Frequência  \ncardíaca=125 bpm, Pressão arterial= 100 x 60 mmHg. A \nausculta cardíaca e a ausculta pulmonar foram normais. \nFoi observada hiperemia, calor e dor no tornozelo direito, \ncom    limitação  de  movimentos  e  a  presença  de  áreas  \neritematosas  com  centros  esbranquiçados  no  tronco  e  \nna região proximal de membros superiores e inferiores.\nOs exames laboratoriais revelaram: \nhemoglobina=10 g/dL, hematócrito=34%, \nleucócitos=14000/mm3, velocidade de \nhemossedimentação = 26mm/h, proteína C reativa= 2,0 \nng/ml (valor de referência= <0,1 ng/mL); glicose, ureia \ne creatinina normais. O eletrocardiograma mostra um \nprolongamento do intervalo P-R (0,20 s).\nCom  base  no  quadro  clínico  descrito  e  nos    exames  \ncomplementares realizados, qual o provável diagnóstico \ndessa criança?",
+    "alternatives": {
+      "A": "Artrite idopática juvenil.",
+      "B": "Lupus eritematoso sistêmico.",
+      "C": "Febre reumática.",
+      "D": "Síndrome de Reiter.\nE Espondilartrose."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q74",
+    "year": "2011",
+    "number": 74,
+    "statement": "Paciente do sexo feminino, com 14 anos de idade, recebe \natendimento médico por apresentar quadro de hematúria \nmacroscópica acompanhada de mialgia discreta, adinamia, \ndiscreta  hipertermia  (temperatura  axilar=37.8°C). A mãe \ninforma  que  a  paciente  apresentou  infecção  de  vias  \naéreas  superiores  há  cerca  de  um  mês,  que  regrediu  \napós tratamento com amoxicilina durante sete dias. Por \nocasião  dessa  primeira  consulta  a  paciente  apresenta  \nhipertensão arterial (Pressão arterial = 150x110 mmHg), \no fundo de olho é normal e não há outras alterações do \nexame físico. A paciente é hospitalizada pois os primeiros \nexames laboratoriais já mostram creatinina sérica elevada \n(8,4  mg/dL)  e  ela  evolui  rapidamente  com  oligoanúria,  \nedema  e  agravamento  da  função  renal.  A  hematúria \nmacroscópica     regride,     mas     persiste     hematúria     \nmicroscópica,  com  presença  de  cilindros  hemáticos  \ne  a  paciente  passa  a  apresentar  também  proteinúria  \n(3g/24   h).   A   investigação   clínico-laboratorial   não   \nevidencia presença de vasculite ou doença sistêmica.",
+    "alternatives": {
+      "A": "dosagem  de  complemento  sérico  (C3,  CH50)  é  \nnormal;  anticorpos  antinucleares  ausentes,  pesquisa  \nde fator anti-nuclear negativa. A paciente foi submetida \nà biópsia renal - fragmento com 30 glomérulos, com \nproliferação   das   células   epiteliais   da   cápsula   de   \nBownan  e  infiltração  por  macrófagos  e  linfócitos,  \nconfigurando a presença de  crescentes epiteliais em \n70% dos glomérulos, alguns com aspecto fibrocelular. \nA  imunofluorescência  da  biópsia  renal,  reproduzida  \nabaixo,  evidencia  deposição  linear  de  IgG  -  não  há  \ndepósitos  mesangiais;  imunofluorescência  negativa  \npara IgM, IgA e C3.\nCom base na história clínica, evolução e na biópsia renal  \ne  imunofl  uorescência,  pergunta-se  qual  o  mecanismo  \nresponsável pelo dano glomerular?\nA Reação   antígeno-anticorpo   in   situ   ao   longo   da   \nmembrana basal glomerular.",
+      "B": "Deposição   de   complexos   imunes   circulantes   ao   \nlongo da membrana basal glomerular.",
+      "C": "Alterações  da  imunidade  celular,  notadamente  de  \nmacrófagos e linfócitos T auxiliares.",
+      "D": "Deposição  de  anticorpo  antiantígeno  citoplasmático  \nde neutrófi los.\nE Deposição        de        anticorpos        antiantígenos        \nestreptocócicos   ao   longo   da   membrana   basal   \nglomerular.\n\n21 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q75",
+    "year": "2011",
+    "number": 75,
+    "statement": "Paciente do sexo feminino, com 20 anos de idade, vai à \nUnidade  Básica  de  Saúde  queixando-se  de  corrimento  \ngenital presente há um mês, de coloração esbranquiçada,  \nem  quantidade  abundante,  com  odor  fétido,  que  piora  \napós o coito. Não relata outros sintomas associados. A \npaciente iniciou a atividade sexual há um ano e, nesse \nperíodo,  teve  três  parceiros  sexuais.  Atualmente  tem  \napenas  um  parceiro  e,  nas  relações  sexuais,  faz  uso  \nocasional  de  preservativo.  Ao  exame  especular  vaginal  \nfoi   observado   corrimento   vaginal   esbranquiçado   e   \nabundante,  fétido,  e  ausência  de  anormalidades  nas  \nparedes  vaginais  e  colo  uterino.  O  teste  de  aminas  foi  \npositivo  e  o  pH=5,5.  Qual  o  diagnóstico  principal  e  o  \ntratamento adequado para esta paciente?",
+    "alternatives": {
+      "A": "Tricomoníase. Tratar  com metronidazol, por via oral, \ndurante sete dias, e o parceiro com metronidazol em \ndose única.",
+      "B": "Candidíase   vulvovaginal.   Tratar   a   paciente   com   \nfl uconazol, por via oral, em dose única.",
+      "C": "Vaginose    bacteriana.    Tratar    a    paciente    com    \nmetronidazol, por via oral , durante sete dias.",
+      "D": "Gonorréia.   Tratar   a   paciente   e   o   parceiro   com   \nazitromicina em dose única.\nE Infecção   por   clamídia.   Tratar   a   paciente   com   \ndoxiciclina por 14 dias e o parceiro, com azitromicina \nem dose única."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q76",
+    "year": "2011",
+    "number": 76,
+    "statement": "Homem,   com   29   anos   de   idade,   vítima   de   queda   \nde   moto   com   explosão   do   baço,   apresenta   lesão   \nhepática   sangrante   e   fratura   fechada   de   ossos   da   \nperna  esquerda.  Encontra-se  na  sala  de  recuperação  \npós-anestésica  de  um  hospital  terciário,  após  ter  sido  \nsubmetido  a  laparotomia  exploradora,  esplenectomia  \ne  rafi  a  hepática,  além  de  fi  xação  externa  dos  ossos  da  \nperna esquerda, há 5 horas. O procedimento transcorreu \nsem  intercorrências.  O  paciente  se  queixa  de  dor  em  \ntodo  membro  inferior  operado,  mais  acentuadamente  \nem terço distal de perna e pé. Apresenta parestesia no \nmembro  esquerdo,  com  importante  e  tenso  edema  na  \nperna. O tempo de perfusão na perna operada é de mais \nde  três  segundos.  O  membro  não  se  encontra  rodado  \ne  os  fi  xadores  não  apresentam  problemas  aparentes.  \nOs pulsos femorais e poplíteos são presentes e normais \nbilateralmente, bem como os tibiais à direita. À esquerda, \nnota-se  uma  diminuição  acentuada  dos  pulsos  tibial  \nposterior e pedioso. Diante desta situação, o diagnóstico \ne a conduta apropriada são, respectivamente,",
+    "alternatives": {
+      "A": "trombose venosa profunda; heparinização.",
+      "B": "oclusão   arterial   aguda;   tromboembolectomia   de   \nurgência.",
+      "C": "desalinhamento  do  sítio  de  fratura;  reintervenção  \ncirúrgica.",
+      "D": "síndrome compartimental; fasciotomia de urgência.\nE trombose arterial aguda; trombólise."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q77",
+    "year": "2011",
+    "number": 77,
+    "statement": "Paciente,  com  27  anos  de  idade,  segunda  gestação  \n(um  parto  normal  anterior),  com  idade  gestacional  de  \n38  semanas,  confi  rmada  por  ultrassonografi  a  de  10  \nsemanas,  apresenta  dinâmica  uterina  positiva  e  forte  \ncefaléia.  Refere  uso  de  metildopa  -  750mg/dia  em  três  \ntomadas. Foi admitida com esse quadro na emergência \nde  um  hospital,  queixando-se  também  de  visão  turva  \ne  de  grande  mal  estar.  A  anamnese  e  exame  físico  \nindicam paciente inquieta, poliqueixosa, referindo medo \nde morrer. Pressão arterial = 190x120mmhg, colo uterino \nfi no e dilatado para 8 cm, apresentação cefálica, dorso \nà esquerda, contrações uterinas presentes - três em 10 \nminutos, de 45 segundos .\nCom base no quadro acima, qual o diagnóstico correto e \na conduta a ser adotada?",
+    "alternatives": {
+      "A": "Pré-eclâmpsia  grave.  Paciente  com  indicação  de  \nparto  cesáreo  após  normalização  pressórica  com  \nnifedipina ou hidralazina.",
+      "B": "Eclâmpsia   eminente.   Indicação   de   sulfato   de   \nmagnésio  e  hidralazina  para  correção  dos  níveis  \npressóricos e resolução do parto por via alta.",
+      "C": "Pré-eclâmpsia   grave.   Indicação   de   sulfato   de   \nmagnésio  e  nifedipina  para  correção  dos  níveis  \npressóricos e resolução por parto abdominal.",
+      "D": "Crise  hipertensiva  na  gestação  e  pré  eclâmpsia.  \nIndicação de cesárea pela necessidade de remoção  \nda placenta e introdução de nifedipina para correção \ndos níveis pressóricos.\nE Eminência  de  eclâmpsia.  Indicação  de  sulfato  de  \nmagnésio  e  hidralazina  para  correção  dos  níveis  \npressóricos e resolução por parto vaginal."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q78",
+    "year": "2011",
+    "number": 78,
+    "statement": "Primigesta,  com  16  anos  de  idade,  procura  a  Unidade  \nBásica  de  Saúde  para  sua  primeira  consulta  pré-natal,  \nna trigésima sexta semana de gestação. A paciente disse \nnão ter iniciado o pré-natal antes, pois demorou a aceitar \na gestação, e não quer ter um parto vaginal. Relata que \nbrigou com os pais e está morando com o pai da criança, \nque tem 25 anos e é saudável. O exame físico não revela \nanormalidades e o exame obstétrico mostra altura uterina \nde 34 cm, batimentos cardiofetais com frequência de 140 \nbpm e o toque vaginal evidenciou colo grosso, posterior e \nimpérvio. Qual a conduta a seguir?",
+    "alternatives": {
+      "A": "Solicitar a presença dos pais para realizar a consulta, \npor se tratar de menor de idade.",
+      "B": "Pedir os exames de rotina pré-natal, encaminhar para \nacompanhamento  psico-social,  prescrever  sulfato  \nferroso  e  solicitar  a  presença  do  pai  da  criança  na  \npróxima consulta.",
+      "C": "Encaminhar  a  paciente  para  avaliação  diretamente  \nna maternidade, devido ao início tardio do pré-natal.",
+      "D": "Encaminhar a paciente para a maternidade, pois as \ncaracterísticas da gestação na adolescência indicam \nque a via de parto deverá ser a cesárea.\nE Solicitar  os  exames  de  rotina  pré-natal,  encaminhar  \npara acompanhamento psico-social, prescrever sulfato \nferroso e solicitar retorno antecipado ao pré-natal.\n\n22 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q79",
+    "year": "2011",
+    "number": 79,
+    "statement": "Mulher,  com  20  anos  de  idade,  branca,  é  recebida  no  \npronto-socorro  com  queixa  de  edema  há  uma  semana.  \nInicialmente,  o  edema  era  nos  membros  inferiores,  \nporém,  agora,  nota  a  face  edemaciada.  Relata,  ainda,  \ndiminuição   do   volume   urinário,   astenia,   hiporexia,   \nmal-estar   e   febre   baixa.   Quanto   aos   antecedentes   \npatológicos,  artralgia  de  interfalangeanas  proximais  há  \ncerca de oito meses. Na ocasião, fez uso de prednisona \ncom  desaparecimento  do  quadro.  Não  usa  nenhuma  \nmedicação  no  momento.  O  exame  clínico  demonstra  \nestado   geral   regular,   hipocorada   (++/4),   edema   de   \nmembros inferiores (++/4) e de face. Ausculta pulmonar \ncom murmúrio vesicular presente e simétrico, sem ruídos \nadventícios.   Ausculta   cardíaca   com   ritmo   cardíaco   \nregular, em 2 tempos, sem sopros, Pressão arterial = 160 \nx 110 mmHg, Frequência cardíaca = 120 bpm. Abdome \nfl ácido, sem visceromegalias.\nExames no pronto-socorro:\nHemoglobina = 8,0 g/L, Hematócrito 24,0 %, Leucócitos \ntotais = 2.400 /mm\n3\n (Segmentados= 84%, Bastões= 2%, \nLinfócitos = 8%, Eosinófi los = 2%, Monócitos = 2%), \nPlaquetas = 100.000 /mm\n3 \n(Valor de Referência = \n150.000 – 300.000 /mm\n3\n). Ureia = 140 mg/dL, (Valor de \nReferência: 15-40 mg/dL), Creatinina = 2,0 mg/dL (Valor \nde Referência: 0,6-1,2 mg/dL), Potássio = 5,5 mEq/L \n(Valor de Referência: 3,5-5,0 mEq/L).\nQual a hipótese diagnóstica para o caso?",
+    "alternatives": {
+      "A": "Endocardite infecciosa.",
+      "B": "Dengue.",
+      "C": "Pielonefrite.",
+      "D": "Insufi ciência renal crônica.\nE Lupus Eritematoso Sistêmico."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q80",
+    "year": "2011",
+    "number": 80,
+    "statement": "Paciente,  com  25  anos  de  idade,  secundigesta,  com  \nparto    cesáreo    anterior    (G2P1C1),    pré-natal    sem    \nintercorrências,   foi   internada   em   trabalho   de   parto   \ne   apresenta   evolução   de   acordo   com   partograma,   \napresentado   abaixo.   Na   décima   hora   de   evolução,   \napresenta  atividade  uterina  regular  de  5  contrações/45  \nsegundos/10 minutos/fortes e batimentos cardiofetais de \n150 bpm.\nAnalisando  o  partograma,  qual  é  o  diagnóstico  e  a  \nconduta para o caso?",
+    "alternatives": {
+      "A": "Parada secundária da descida e fórceps.",
+      "B": "Parada secundária da dilatação e ocitocina.",
+      "C": "Parada secundária da dilatação e fórceps.",
+      "D": "Parada secundária da descida e cesárea.\nE Período expulsivo prolongado e cesárea."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q81",
+    "year": "2011",
+    "number": 81,
+    "statement": "Homem,  com  65  anos  de  idade,  tabagista,  internado  \ncom  suspeita  de  trombose  venosa  profunda,  realizou  \ntomografi a de tórax e angiotomografi a de membro inferior \ncom  contraste.  Dois  dias  após  o  procedimento,  houve  \nredução  de  volume  urinário  para  400mL,  em  24  horas.  \nExames solicitados em caráter de urgência evidenciam \ncreatinina = 2,5 mg/dL, K = 5,7 mEq/L e Ureia = 112 mg/dL. \nO   eletrocardiograma   realizado   mostra   hemibloqueio   \nde   ramo   esquerdo   e   alterações   inespecífi cas   da \nrepolarização ventricular.\nPara o caso, considerando os níveis de potássio sérico, \na intervenção apropriada, neste momento é",
+    "alternatives": {
+      "A": "furosemida EV.",
+      "B": "gluconato de cálcio EV.",
+      "C": "resina trocadora de potássio oral.",
+      "D": "betaadrenérgico inalatório.\nE insulina com glicose EV.\n\n23 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q82",
+    "year": "2011",
+    "number": 82,
+    "statement": "Um  menino,  com  quatro  anos  de  idade,  chegou  ao  \nSetor de Emergência com grave alteração na perfusão \nsistêmica.  Sua  mãe  relatou  que  o  menor  estava  febril  \nhá 20 dias e que não havia feito o tratamento indicado \npelo   médico   para   infecção   do   trato   urinário.   Foi   \ndiagnosticado  choque  séptico  e  administrado  oxigênio  \n(concentração  100%),  providenciado  acesso  venoso  \ne  iniciada  a  infusão  de  Soro  Fisiológico,  30  ml/Kg  em  \nquinze  minutos,  sendo  então  realizada  a  sequência  \nrápida de intubação orotraqueal e instalada ventilação \npulmonar  mecânica.  Após  essa  conduta,  enquanto  \nesperava  vaga  na  Unidade  de  Cuidados  Intensivos,  \no  paciente  foi  reavaliado  e  apresentou:  Frequência  \nrespiratória  =  40  irpm,  Frequência  cardíaca  =  140  \nbpm, tempo de enchimento capilar de cinco segundos, \nPressão  arterial  =  75  x  50  mmHg.  As  extremidades   \nestavam  frias.  Diante  desse  quadro,  qual  deve  ser  a  \nconduta para essa criança?",
+    "alternatives": {
+      "A": "Manter  infusão  de  volume  e  iniciar  dopamina  ou  \ndobutamina.",
+      "B": "Manter  infusão  de  volume  e  iniciar  dopamina  ou  \nnorepinefrina.",
+      "C": "Suspender  infusão  de  volume  e  iniciar  dopamina  \ndose alfa adrenérgica ou epinefrina.",
+      "D": "Manter  infusão  de  volume  e  iniciar  dopamina  dose  \nalfa adrenérgica ou norepinefrina.\nE Manter  infusão  de  volume  e  iniciar  dopamina  dose  \nalfa adrenérgica ou epinefrina."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q83",
+    "year": "2011",
+    "number": 83,
+    "statement": "Paciente, com 29 anos de idade, procura o pronto-socorro \nlocal em virtude de queimadura com água quente na coxa \ndireita, ocorrida há 10 minutos enquanto preparava café. \nQueixa-se de dores no local da queimadura. Informa ter \ndado a luz há dois anos e o cartão de acompanhamento \nda  gestante  mostra  que  todo  o  esquema  vacinal  foi  \nrealizado  adequadamente.  A  paciente  está  consciente,  \norientada,  eupneica,  hidratada,  normocorada  e  afebril,  \nFrequência   cardíaca   =   79bpm,   Pressão   arterial   =   \n120x80mmHg.   Ao   exame   local   apresenta   fl ictenas, \neritema e edema em face anterior de coxa direita. Qual a \nconduta para o caso descrito?",
+    "alternatives": {
+      "A": "Realizar  lavagem  da  ferida  com  solução  fi siológica \na   0,9%.   Analgesia   endovenosa   com   dipirona.   \nRecomendar  não  romper  as  fl  ictenas  e  realizar  \ncurativo  com  solução  fi  siológica  a  0,9%,  associada  \na  sulfadiazina  de  prata.  Analgesia  domiciliar  com  \ndipirona, se necessário.",
+      "B": "Realizar   a   limpeza   da   ferida   com   clorhexidina.   \nAnalgesia endovenosa com meperidina endovenosa \ne antibioticoterapia oral com cefalexina - 500mg por \nvia  oral,  de  6/6h  durante  7  dias.  Recomendar  não  \nromper  as  fl  ictenas  e  realizar  curativo  com  solução  \nfi siológica a 0,9% e neomicina. Analgesia domiciliar \ncom cloridrato de tramadol.",
+      "C": "Realizar     a     limpeza     da     ferida     com     PVPI     \n(polivinilpirrolidona-iodo,    lauril    éster    sulfato    de    \nsódio)    tópico    seguida    de    termoterapia    com    \ngelo.   Analgesia   endovenosa   com   cloridrato   de   \ntramadol    e    antibioticoterapia    parenteral    com    \npenincilina   benzatina   por   via   IM.   Recomendar   \nrotura  e  debridamento  das  fl  ictenas  e  curativo  com  \nclorhexidina e sulfadiazina de prata tópico.",
+      "D": "Realizar  lavagem  da  ferida  com  soro  fi siológico  a \n0,9%.  Analgesia  oral  com  paracetamol.  Realizar  \ncurativo com clorhexidina e lidocaína tópica, romper \nas fl   ictenas   e   realizar   debridamento   de   tecidos   \ndesvitalizados.   Antibioticoterapia   parenteral   com   \npenincilina  cristalina  por  via  IM.  Curativo  oclusivo  \ncom clorhexidina.\nE Realizar  limpeza  da  ferida  com  soro  fi siológico  a \n0,9%.  Analgesia  oral  com  dipirona.  Recomendar  \nnão  romper  as  fl  ictenas.  Realizar  curativo  com  \nPVPI (polivinilpirrolidona-iodo, lauril éster sulfato de \nsódio) e lidocaína tópica. Prescrever analgesia oral \ncom  tramadol  e  antibioticoterapia  com  amoxicilina  \n+  ácido  clavulânico  -  500mg  por  via  oral,  de  8/8h  \ndurante 7 dias.\n\n24 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q84",
+    "year": "2011",
+    "number": 84,
+    "statement": "Um  lactente,  com  nove  meses  de  idade,  foi  levado  \nao   Pronto   Atendimento   porque,   há   5   horas   vem   \napresentando  choro  inconsolável,  vômitos,  fezes  com  \nsangue  e  distensão  abdominal.  A  mãe  refere  que  a  \ncriança fi cou gripada há uma semana. Durante o exame \nfísico,  o  pediatra  palpou  massa  abdominal  e  solicitou  \nradiografi  a  simples  de  abdome  que  foi  inespecífi ca  e \nultrassonografi  a  de  abdome  total  que  mostrou  anéis  \nconcêntricos  de  camadas  hipoecóicas  e  hiperecóicas  \nalternantes,  com  porção  central  hiperecóica  (sinal  da  \n“rosquinha/alvo/olho   de   boi”).   Foi   encaminhado   ao   \ncentro cirúrgico para laparotomia.\nBaseado nos sintomas apresentados, o quadro descrito \né compatível com abdome agudo, tendo como causa",
+    "alternatives": {
+      "A": "volvo do intestino médio.",
+      "B": "hérnia inguinal estrangulada.",
+      "C": "divertículo de Meckel.",
+      "D": "intussuscepção intestinal.\nE oclusão intestinal por Ascaris lumbricoides."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q85",
+    "year": "2011",
+    "number": 85,
+    "statement": "Primigesta,  com  23  anos  de  idade,  27  semanas  de  \ngestação,  procura  serviço  de  urgência  relatando  que,  \nhá  dois  dias,  apresenta  dor  na  região  lombar  à  direita.  \nRelata, ainda, que há um dia vem se sentindo muito mal, \ncom calafrios e náuseas. Hoje, pela manhã, apresentou \nfebre  de  38,5  ºC,  tendo  feito  uso  de  antitérmico.  Ao  \nexame  físico:  estado  geral  regular;  descorada  +/4+;  \nlevemente   desidratada;   afebril,   eupneica;   frequência   \ncardíaca de 104 bpm; Pressão arterial = 110 x 70 mmHg. \nRelatou dor intensa à punho percussão na região lombar \ndireita.  Ao  exame  obstétrico:  altura  uterina  de  28  cm,  \n156 batimentos cardíacos fetais por minuto, movimentos \nfetais presentes, ausência de contrações uterinas.\nQual a conduta a ser tomada?",
+    "alternatives": {
+      "A": "Solicitar  exame  sumário  de  urina  e  de  urocultura  e  \nretorno em 24 horas para resultado de exames.",
+      "B": "Hemograma,  urocultura,  antibioticoterapia  e  retorno  \nem 24 horas para resultado de urocultura.",
+      "C": "Internação hospitalar, hidratação e antibioticoterapia, \napós resultado da cultura de urina.",
+      "D": "Hemograma,  ultrassonografi  a  de  abdome  e  de  vias  \nurinárias e antibioticoterapia por via oral.\nE Internação hospitalar, hemograma, eletrólitos, cultura \nde urina e antibioticoterapia endovenosa."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q86",
+    "year": "2011",
+    "number": 86,
+    "statement": "Criança  do  sexo  masculino,  com  três  anos  de  idade  e  \nque  apresenta  anemia  falciforme,  é  levado  pela  mãe  à  \nconsulta na Unidade Básica de Saúde porque está tendo \nfebre há quatro dias, chegando a 39°C. Apresenta tosse \nprodutiva que aumentou de intensidade. Encontra-se em \nestado geral de prostração e a mãe notou que a criança \nestá  mais  pálida  e  ictérica  nos  últimos  dias.  O  pediatra  \nencaminhou  a  criança  de  imediato  para  o  hospital  de  \nreferência, considerando que",
+    "alternatives": {
+      "A": "as  infecções  são  as  complicações  mais  frequentes  \nna      anemia      falciforme,      acompanhadas      de      \nesplenomegalia que se acentua após os cinco anos \nde idade.",
+      "B": "a importância das infecções como complicações na \nanemia falciforme, deve-se à maior susceptibilidade \nà  bactéria  \nSalmonella  na  faixa  etária  abaixo  dos  \ncinco anos.",
+      "C": "a mortalidade entre crianças falcêmicas menores de \ncinco anos é elevada, sendo as complicações mais \nfrequentes as infecções por Haemophilus infl uenzae \ntipo b (Hib) e por pneumococo.",
+      "D": "as infecções são as complicações mais  frequentes, \ne o uso de profi laxia com penicilina é contra-indicado \npelos riscos de aumento da taxa de colonização por \ncepas de pneumococos resistentes.\nE as infecções são as complicações mais  frequentes, o \nque leva à necessidade de profi laxia com penicilina, \nrecomendada do momento do diagnóstico da anemia \nfalciforme e mantida por toda a vida."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q87",
+    "year": "2011",
+    "number": 87,
+    "statement": "Gestante de 39 semanas, com quatro gestações e três \npartos,  foi  internada  no  pré-parto  com  dinâmica  uterina  \nde três contrações fortes em 10 minutos, cervicodilatação \nde  5  cm,  bolsa  íntegra  e  cardiotocografi  a  com  padrão  \nativo.  Em  uma  hora  evoluiu  para  7  cm  de  dilatação,  \napresentando quatro contrações fortes em 10 minutos.\nQual deve ser a indicação de analgesia obstétrica para \nessa paciente?",
+    "alternatives": {
+      "A": "Bloqueio de pudendo no segundo período do parto, \nvisto que a paciente é multípara.",
+      "B": "Bloqueio  peridural  com  anestésico  local  e  cateter  \npara complementação anestésica subsequente.",
+      "C": "Bloqueio raquidiano em sela com anestésico local.",
+      "D": "Analgesia endovenosa com meperidina.\nE Não há necessidade de analgesia e o parto ocorrerá \nrapidamente   se   considerarmos   a   evolução   do   \ntrabalho de parto na última hora.\n\n25 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q88",
+    "year": "2011",
+    "number": 88,
+    "statement": "Homem,   com   25   anos   de   idade,   solteiro,   procura   \natendimento na unidade básica de saúde, queixando-se \nde ferida genital. Ao exame clínico, foi observada lesão \npeniana  ulcerada,  eritematosa,  com  diâmetro  de  1  cm,  \nsem secreção, base endurada, limites nítidos, bordas a \npique, não dolorosa, nem pruriginosa.\nQual o diagnóstico clínico principal?",
+    "alternatives": {
+      "A": "Sífi lis primária.",
+      "B": "Sífi lis secundária.",
+      "C": "Cancro mole.",
+      "D": "Cancro misto.\nE Linfogranuloma venéreo."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q89",
+    "year": "2011",
+    "number": 89,
+    "statement": "Adolescente do sexo masculino, com 14 anos de idade, \nbusca  atendimento  em  Unidade  Básica  de  Saúde  por  \nconsiderar  sua  estatura  muito  baixa.  O  seu  peso  ao  \nnascer foi de 3 Kg e o comprimento, de 50 cm. Manteve-\nse  com  velocidade  de  crescimento  adequada  até  os  \ndois  anos  de  vida.  Depois  desse  período,  o  pediatra  \nconstatou  desaceleração  no  padrão  de  crescimento.  \nAtualmente,  apresenta  velocidade  de  crescimento  e  \nestatura  compatíveis  com  a  idade  óssea.  Estágio  de  \nTanner  =  1;  idade  óssea  =  13,5  anos;  radiografi a  de \ncrânio normal.\nQual a conduta adequada para essa situação?",
+    "alternatives": {
+      "A": "Encaminhar  o  paciente  para  endocrinologista  para  \nindução puberal imediata com testosterona.",
+      "B": "Referenciar  o  paciente  para  endocrinologista  para  \nindução  imediata  do  crescimento  com  sulfato  de  \nzinco.",
+      "C": "Acompanhar a evolução e não referenciar o paciente \nnesse  momento,  pois  trata-se  de  atraso  puberal  \nconstitucional.",
+      "D": "Referenciar    o    paciente    para    endocrinologista    \npara    investigação    imediata    de    hipogonadismo    \nhipogonadotrófi co.\nE Não referenciar o paciente e tranquilizá-lo, pois não \nhá evidência de atraso puberal."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q90",
+    "year": "2011",
+    "number": 90,
+    "statement": "Mulher,  com  21  anos  de  idade,  estava  próxima  ao  \nponto de ônibus, quando foi abordada por um indivíduo \nestranho,   que   mediante   ameaça   com   uma   faca   a   \nobrigou  entrar  em  uma  casa  abandonada,  próxima  \nàquele  local,  onde  a  agrediu  fi  sicamente  e  obrigou-a  \na  manter  relação  sexual  vaginal  e  anal.  Em  seguida  o  \nagressor evadiu-se. A mulher procurou, imediatamente \num  posto  policial  onde  foi  orientada  a  buscar  auxílio  \nmédico  e  foi  encaminhada  à  Unidade  de  Atendimento  \nde Emergência.\nAnalise os itens abaixo:\nI. Comunicar  à  unidade  policial  para  a  realização  \nde  boletim  de  ocorrência,  após  autorização  da  \npaciente.\nII. Não realizar toque vaginal ao atender a paciente \npor ser vítima de violência sexual e estupro.\nIII. Promover o acolhimento da paciente e examinar \npara verifi car se existem lesões.\nIV. Explicar  que  trata-se  de  atendimento  exclusivo  \nda alçada do Instituto Médico Legal.\nV.  Promover     assistência     médica     visando     a     \nprevenção de doenças de transmissão sexual.\nVI. Ofertar  anticoncepção  de  emergência  caso  não  \npossua um método anticonceptivo efetivo.\nVII. Solicitar, antes de iniciar a avaliação da paciente, \na presença do pai ou marido, se for o caso.\nAssinale a alternativa que contém apenas itens corretos \nde medidas médico-legais a serem tomadas pelo médico \nde plantão.",
+    "alternatives": {
+      "A": "I, IV, VI e VII.",
+      "B": "I, II, IV e VII.",
+      "C": "I, III, V e VI.",
+      "D": "II, III, IV e VI.\nE III, V, VI e VII."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q91",
+    "year": "2011",
+    "number": 91,
+    "statement": "Paciente,  com  25  anos  de  idade,  sem  queixas,  retorna  \npara  consulta  de  rotina  na  Unidade  Básica  de  Saúde  \ntrazendo  o  resultado  do  exame  citopatológico  do  colo  \nuterino  que  apresentou  amostra  satisfatória,  com  atipia  \nde   células   escamosas   de   signifi cado   indeterminado \n(ASCUS).  O  exame  especular  vaginal  feito  na  consulta  \nem  que  o  material  colhido  era  normal.  O  citopatológico  \nanterior da paciente havia sido colhido dois anos antes e \nnão apresentava sinais de malignidade. Qual a conduta \na ser adotada?",
+    "alternatives": {
+      "A": "Encaminhar a paciente para colposcopia com biópsia \ndirigida.",
+      "B": "Solicitar  retorno  da  paciente  em  seis  meses  para  \nrepetir o exame citopatológico.",
+      "C": "Encaminhar a paciente para avaliação especializada \nem setor de patologia do trato genital inferior.",
+      "D": "Tratar a paciente com creme vaginal de metronidazol \ne repetir o citopatológico em seguida.\nE Colher o exame novamente, pois trata-se de erro do \nlaboratório.\n\n26 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q92",
+    "year": "2011",
+    "number": 92,
+    "statement": "Paciente,  com  60  anos  de  idade,  do  sexo  masculino,  \nresidente  da  zona  da  mata  de  Pernambuco,  procura  \nserviço  médico  de  urgência  porque  iniciou  há  48  horas  \ndor  abdominal  em  cólica,  agora  difusa,  vômitos  de  cor  \nacastanhada  escura  e  odor  fétido.  Relata  ter  “intestino  \npreso”, há muitos anos, mas nunca se preocupou, pois \nsempre  foi  assim.  Não  faz  uso  de  qualquer  medicação  \ne  nunca  foi  submetido  a  procedimento  cirúrgico.  Não  é  \ntabagista  e  nem  etilista.  Ao  exame,  está  desidratado,  \nhipocorado    1+/++++,    Frequência    cardíaca    =    110    \nbpm,  Pressão  arterial  =  90/40  mmHg,  sem  alteração  \ndo   aparelho   respiratório.   Apresenta   abdome   muito   \ndistendido,   com   ruídos   hidroaéreos   presentes,   com   \ntimbre metálico, timpânico e doloroso à percussão difusa \ne  à  palpação  superfi  cial  em  todo  o  abdome.  Além  da  \ncorreção  da  desidratação,  a  conduta  sequencial  para  \nesse paciente é",
+    "alternatives": {
+      "A": "iniciar   sedação   e   encaminhá-lo   para   tratamento   \ncirúrgico de urgência.",
+      "B": "passar   cateter   nasogástrico,   prescrever   jejum   e   \niniciar antibioticoterapia.",
+      "C": "passar  cateter  nasogástrico  e  encaminhá-lo  para  \ntratamento cirúrgico de urgência.",
+      "D": "encaminhar para centro de especialidades médicas \npara     realizar     propedêutica     complementar     e     \ndiagnóstico.\nE prescrever     jejum,     iniciar     antibioticoterapia     e     \nencaminhá-lo para tratamento cirúrgico de urgência."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q93",
+    "year": "2011",
+    "number": 93,
+    "statement": "Mulher,  com  35  anos  de  idade,  obesa.  Teve  duas  \ngestações,   um   parto   e   zero   abortos.   Atualmente,   \ngestante  de  14  semanas,  vem  à  consulta  de  pré-natal  \ntrazendo  seus  exames,  nos  quais  a  glicemia  de  jejum  \ntem valor de 90 mg/dL. Tem histórico obstétrico com fi lho \nanterior  pesando  4.200  g,  nascido  com  37  semanas  e  \ncinco  dias.  Nesse  caso,  além  da  orientação  dietética  \npara  prevenção  de  ganho  de  peso  anormal,  a  conduta  \napropriada é",
+    "alternatives": {
+      "A": "internação para realizar perfi l glicêmico e realização \nde ecografi a pelo alto risco de más formações fetais, \nespecialmente cardíacas e de tubo neural.",
+      "B": "realização  de  teste  de  sobrecarga  da  glicose  e,  se  \nnormal, reavaliação em idade gestacional posterior.",
+      "C": "realização  de  teste  de  sobrecarga  da  glicose  e,  se  \nalterado, introdução de insulina.",
+      "D": "realização de teste oral de sobrecarga da glicose e, se \nnormal, afastada a possibilidade de desenvolvimento \nde diabetes gestacional durante a gravidez atual.\nE Internação para realizar perfi l glicêmico e introdução \nde insulina para prevenir macrossomia fetal."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q94",
+    "year": "2011",
+    "number": 94,
+    "statement": "Primigesta,  com  30  anos  de  idade  e  idade  gestacional  \nde  18  semanas,  retorna  para  sua  segunda  consulta  de  \npré-natal.  A  gestação  transcorre  bem  e  a  paciente  não  \ntem nenhuma queixa. Traz, dentre os exames solicitados \nna primeira consulta, a pesquisa para HIV com resultado \nindeterminado. A paciente nunca havia feito a sorologia \nanteriormente.  Conta  que  o  parceiro  é  saudável  e  não  \ntem histórico de DST.\nQue conduta deve ser tomada neste caso?",
+    "alternatives": {
+      "A": "Solicitar inicialmente a sorologia do parceiro e, caso \nnegativa, encerrar a pesquisa.",
+      "B": "Solicitar a repetição do teste, uso de preservativo em \ntodas as relações sexuais e prescrever antirretroviral, \nde maneira a evitar o risco de transmissão fetal.",
+      "C": "Solicitar imediatamente nova sorologia, orientando o \nuso  de  preservativo  em  todas  as  relações  sexuais  \nenquanto aguarda o resultado.",
+      "D": "Solicitar nova sorologia em 30 dias, orientando o uso \nde preservativo em todas as relações sexuais.\nE Encaminhar    a    paciente    para    avaliação    do    \ninfectologista."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q95",
+    "year": "2011",
+    "number": 95,
+    "statement": "Visando aferir, em nosso meio, os fatores que infl uenciam \nno crescimento de pré-escolares, com destaque para a \nsuplementação  nutricional,  foi  desenvolvido  um  estudo  \nem uma população de bairro periférico de uma cidade do \ninterior paulista. Durante um ano, em quatro observações \ntrimestrais,  acompanhou-se  a  evolução  de  indicadores  \nde peso e altura de 444 crianças, identifi cadas em censo \nespecífi co. Entre essas, 164 eram assistidas por creche \nlocal,  enquanto  as  outras  280  não  recebiam  esse  tipo  \nde  tratamento.  A  admissão  a  essa  creche  dava-se  por  \nmeio  da  comprovação  de  que  a  mãe  trabalhava  fora  \ndo  lar.  O  plano  analítico  adotou  a  análise  multivariada  \npor  regressão  linear  múltipla.  Quanto  ao  delineamento,  \npodemos afi rmar que esse estudo é",
+    "alternatives": {
+      "A": "randomizado.",
+      "B": "quasi-experimental.",
+      "C": "caso-controle.",
+      "D": "descritivo.\nE transversal.\n\n27 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q96",
+    "year": "2011",
+    "number": 96,
+    "statement": "",
+    "alternatives": {
+      "A": "secretaria de saúde de um município está em processo \nde compra emergencial de kits para detecção sorológica \nde   dengue.   Conforme   deliberação   do   Centro   de   \nVigilância em Saúde do Estado, o município precisa de \num exame que tenha elevada probabilidade de identifi car \nos pacientes “verdadeiros positivos” entre os indivíduos \nrealmente portadores de dengue. Na tomada de decisão \npara  a  compra  desses  kits,  essa  probabilidade  deverá  \nser procurada sob que termo?\nA Razão de verossimilhança de um resultado de teste \npositivo.",
+      "B": "Valor preditivo positivo.",
+      "C": "Confi abilidade.",
+      "D": "Sensibilidade.\nE Especifi cidade."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q97",
+    "year": "2011",
+    "number": 97,
+    "statement": "Um  paciente,  com  55  anos  de  idade,  etilista  crônico,  \nprocurou   um   pronto-atendimento   com   hematêmese   \ne  alteração  do  nível  de  consciência.  Ao  exame  físico,  \nobservou-se    indivíduo    emagrecido,    agitado,    com    \npressão  arterial  de  80  x  50  mmHg,  pálido,  taquipneico,  \ncom  moderada  ascite.  Após  internação,  os  exames  \nlaboratoriais   revelaram   dosagem   de   albumina   de   \n2,6  g/dL,  bilirrubina  de  3,5  mg/dL,  INR  (International \nNormalized  Ratio)  =  2,0  e  sorologia  positiva  para  vírus  \nda  hepatite  C.  As  enzimas  hepáticas  encontravam-se  \nelevadas e a razão entre AST/ALT duas vezes maior que \no normal. A dosagem de GGT estava elevada.\nQual a causa principal de descompensação clínica deste \npaciente?",
+    "alternatives": {
+      "A": "Baixo débito cardíaco.",
+      "B": "Ingestão elevada de álcool.",
+      "C": "Hipoalbuminemia.",
+      "D": "Intoxicação medicamentosa.\nE Reativação da hepatite crônica."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q98",
+    "year": "2011",
+    "number": 98,
+    "statement": "Paciente,  com  35  anos  de  idade,  nuligesta,  procura  \nmédico para realizar exames de mama. Relata ter muito \nmedo,  pois  sua  mãe  teve  câncer  de  mama  bilateral,  \ndiagnosticado aos 49 anos. O exame clínico das mamas \né  normal,  bem  como  o  restante  do  exame  físico  da  \npaciente. Qual a conduta a ser adotada pelo médico no \nrastreamento do câncer de mama para esta paciente?",
+    "alternatives": {
+      "A": "Autoexame de mamas mensal e exame clínico anual.",
+      "B": "Exame clínico e mamografi a anuais.",
+      "C": "Exame    clínico,    mamografi a    e    ultrassonografi a \nmamária anuais.",
+      "D": "Exame clínico e mamografi a a cada dois anos.\nE Exame  clínico  anual  e  ressonância  magnética  de  \nmamas a cada dois anos."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q99",
+    "year": "2011",
+    "number": 99,
+    "statement": "Paciente, internado há oito dias em hospital secundário, \nvítima de politraumatismo por queda de moto apresentava \ntrauma  torácico  e  abdominal  contusos.  Foi  submetido  \na  drenagem  torácica  direita  devido  a  hemotórax,  com  \nsucesso, sendo o dreno retirado sem intercorrências, há \ndois dias. Foi submetido a laparotomia exploradora sendo \nrealizada rafi a de lesão hepática e limpeza da cavidade.  \nPaciente   evoluía   satisfatoriamente,   alimentando-se,   \ndeambulando  e  evacuando  normalmente,  porém  há  \n24  horas  queixa-se  de  dor  torácica  à  inspiração,  com  \nirradiação  para  o  dorso,  tosse  seca,  fôlego  curto  e  \nfalta  de  ar.  Apresentou  dois  picos  febris  nas  últimas  24  \nhoras.  O  abdome  é  indolor,  depressível,  com  ruídos  \nhidroaéreos  presentes  e  normais.  A  ausculta  do  tórax  \nrevela  murmúrio  vesicular  discretamente  diminuído  em  \nbase pulmonar direita.\nDiante  desta  situação,  pergunta-se  qual  a  hipótese  \ndiagnóstica e a conduta?",
+    "alternatives": {
+      "A": "Empiema   pleural.   Radiografi   a   simples   de   tórax.   \nDrenagem torácica.",
+      "B": "Pneumonia  hospitalar.  Raio  X  simples  de  tórax.  \nIniciar ceftriaxona 2g/dia por via endovenosa.",
+      "C": "Encarceramento            pulmonar.            Tomografi a \ncomputadorizada de tórax. Decorticação pulmonar.",
+      "D": "Atelectasia  pulmonar  à  direita.  Raio  X  simples  de  \ntórax. Fisioterapia respiratória e deambulação.\nE Abcesso pulmonar. Tomografi a de tórax. Lobectomia \nde urgência.\n\n28 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q100",
+    "year": "2011",
+    "number": 100,
+    "statement": "Mulher,   com   25   anos   de   idade,   apresenta   ciclos   \nmenstruais    irregulares,    com    atrasos    menstruais    \nfrequentes,   oleosidade   da   pele,   Acantose   nigrans \ne   hirsutismo   leve   em   região   mentoniana.   Exame   \necográfi  co  demonstra  características  compatíveis  com  \novários micropolicísticos bilateralmente.\nAssinale  a  alternativa  em  que  as  observações,  em  \nrelação  ao  seguimento  e  tratamento  desta  paciente,  \nsão corretas.",
+    "alternatives": {
+      "A": "A recomendação de perda de peso, atividade física e \nalimentação rica em fi bra, deve ser restrita aos casos \nde ganho de peso recente.",
+      "B": "Deve ser alertada para a possibilidade de maior risco \ncardiovascular por alterações no perfi l lipídico e maior \nrisco oncogênico, principalmente para endométrio.",
+      "C": "A  utilização  de  anticoncepcional  hormonal  oral  não  \né indicada, pois não melhora o hirsutismo, a acne e \nnão regulariza o intervalo menstrual.",
+      "D": "Caso  a  paciente  tenha  desejo  de  engravidar,  a  \nregularização do ciclo e o uso de citrato de clomifeno \nsão as escolhas iniciais preferenciais.\nE Em   se   tratando   de   paciente   com   infertilidade   \ncaracterizada, a ressecção em cunha dos ovários é \no tratamento preferencial."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q101",
+    "year": "2011",
+    "number": 101,
+    "statement": "Criança do sexo masculino, com quatro anos de idade, \né  atendido  na  Unidade  Básica  de  Saúde  com  história  \nde  febre  há  três  dias,  cansaço,  tosse  seca  frequente,  \nàs  vezes  seguida  de  vômitos,  astenia,  anorexia  e  dor  \nabdominal. Há dez dias apresentou “resfriado febril” com \nduração de cinco dias, tendo usado Ampicilina por dois \ndias.  No  momento  o  estado  geral  é  regular,  apresenta  \ndispneia   leve,   palidez   e   hipoatividade.   A   ausculta   \npulmonar   revela   diminuição   do   murmúrio   vesicular   \nem  terço  inferior  do  hemitórax  dorsal  direito.  Peso  e  \nestatura adequados para a idade. Não informa doenças \nanteriores.Tem mais dois irmãos saudáveis. Está em uso \nde salbutamol, de 6/6 horas, há três dias.",
+    "alternatives": {
+      "A": "conduta apropriada para a criança é\nA apenas sintomático e manter o salbutamol.",
+      "B": "internação e uso de penicilina endovenosa.",
+      "C": "ampicilina via oral, em doses e intervalos adequados.",
+      "D": "amoxicilina,    via    oral,    em    doses    e    intervalos    \nadequados.\nE investigar imunodefi ciência."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q102",
+    "year": "2011",
+    "number": 102,
+    "statement": "Em relação à osteoporose, é correto afi rmar que",
+    "alternatives": {
+      "A": "são  considerados  fatores  de  risco  de  osteoporose  \nnão modifi cáveis: idade, pequena estrutura corporal, \norigem étnica, história familiar de osteoporose.",
+      "B": "são  considerados  fatores  de  risco  de  osteoporose  \nmodifi   cáveis:   tabagismo,   consumo   excessivo   de   \nalcóol, terapia de reposição hormonal estrogênica.",
+      "C": "nas   mulheres   com   antecedentes   familiares   de   \nosteoporose, a avaliação diagnóstica da densidade \nmineral  óssea  deve  ser  recomendada  a  partir  de  \n40 anos.",
+      "D": "o uso de reposição de cálcio e vitamina D aliada ao \nuso  de  bifosfonatos  deve  ser  considerado  apenas  \nnos casos de ocorrência de fraturas prévias.\nE os  efeitos  de  depleção  óssea,  induzidos  pelo  uso  \nprolongado   de   corticóides,   no   hipotireoidismo   e   \nna  doença  renal  crônica  podem  ser  evitados  pela  \ningesta complementar de cálcio."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q103",
+    "year": "2011",
+    "number": 103,
+    "statement": "Paciente,  com  55  anos  de  idade,  procurou  consultório  \nmédico  referindo  o  aparecimento  de  nódulo  na  região  \ncervical  à  direita.  O  exame  físico  constatou  que  o  \npaciente  apresentava  nódulo  tireoideano  à  direita,  de  \naproximadamente   6   cm.   A   ultrassonografi a   revelou \nnódulo isoecogênico, de 6 cm, no lobo inferior da tireóide. \nO   estudo   citológico,   realizado   em   material   colhido   \npor  punção  aspirativa  de  agulha  fi  na,  foi  sugestivo  de  \ncarcinoma  papilífero.  O  paciente  foi  então  submetido  a  \ntireoidectomia,  sem  registro  de  intercorrências  no  ato  \noperatório. No pós-operatório imediato o paciente passou \na  apresentar  rouquidão  e  a  laringoscopia  realizada  \nrevelou paralisia de prega vocal à direita.\nMediante o quadro clínico e considerando a anatomia \ncirúrgica,   qual   a   causa   prevalente   de   rouquidão   \nnesses casos?",
+    "alternatives": {
+      "A": "Lesão  do  ramo  tireoideano  do  gânglio  simpático  \ncervical durante o ato cirúrgico.",
+      "B": "Lesão   da   alça   cervical   do   nervo   parasimpático   \ncervical durante o ato cirúrgico.",
+      "C": "Lesão  do  ramo  inferior  do  nervo  laríngeo  superior  \ndurante o ato cirúrgico.",
+      "D": "Lesão  do  nervo  laríngeo  superior  durante  o  ato  \ncirúrgico.\nE Lesão  do  nervo  laríngeo  recorrente  durante  o  ato  \ncirúrgico.\n\n29 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q104",
+    "year": "2011",
+    "number": 104,
+    "statement": "Gestante, primigesta, 18 anos de idade, com dezessete \nsemanas  de  gestação,  traz  cartão  de  vacinação  para  \na  consulta  de  pré-natal,  mostrando  esquema  vacinal  \ncompleto para tétano aos 10 anos de idade.\nEm  relação  à  recomendação  do  esquema  vacinal  da  \ndupla adulto (difteria e tétano), durante a gravidez, qual \na conduta correta para essa gestante?",
+    "alternatives": {
+      "A": "Repetir  esquema  vacinal  completo,  composto  por  \ntrês doses.",
+      "B": "Repetir  esquema  vacinal  modifi  cado,  composto  por  \nduas doses.",
+      "C": "Aplicar  dose  de  reforço,  pois  o  esquema  vacinal  \ncompleto foi realizado há mais de cinco anos.",
+      "D": "Não  aplicar  dose  de  reforço,  já  que  o  esquema  \nvacinal completo foi realizado há menos de dez anos.\nE Não  realizar  vacinação,  pois  a  vacina  dupla  adulto  \nnão faz parte dos cuidados da assistência pré-natal."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q105",
+    "year": "2011",
+    "number": 105,
+    "statement": "Para  a  resolução  da  questão  a  seguir,  primeiro  leia  o  \ncaso clínico, depois analise as assertivas relacionadas a \nele e, em seguida, marque a alternativa correta.\nCaso:\nGestante,  com  18  anos  de  idade,  primigesta,  gestação  \ncom  39  semanas  e  6  dias,  foi  admitida  no  Setor  de  \nEmergência     Obstétrica     apresentando     convulsões     \ntônico-clônicas generalizadas. Ao exame físico: Pressão \narterial=180   x   120mmHg,   BCF=65   bpm;   hipertonia   \nuterina  franca,  toque  vaginal:  colo  uterino  fechado,  \ngrosso  e  posterior.  Após  administração  endovenosa  \nde  sulfato  de  magnésio  e  controle  da  crise  convulsiva,  \na  paciente  foi  encaminhada  ao  Centro  Obstétrico  para  \nresolução  por  via  alta,  com  as  hipóteses  diagnósticas  \nde  eclâmpsia,  descolamento  prematuro  de  placenta  e  \nsofrimento fetal agudo. O parto cesáreo ocorreu de forma \nrápida,  através  de  incisão  mediana,  após  anestesia  \ngeral.  Não  havia  acompanhantes  da  gestante  na  sala  \nde parto. O recém-nascido nasceu com peso de 3.850g, \nmedindo 50cm, pálido, hipotônico, não responsivo, sem \nchoro.  Foi  imediatamente  atendido  pelo  pediatra  que  \nidentifi cou ausência de batimentos cardíacos e procedeu \nàs  manobras  de  ressuscitação  neonatal,  sem  sucesso.  \nApós   o   nascimento,   confi   rmou-se   o   descolamento   \nextenso   da   placenta,   com   grande   quantidade   de   \nsangue  e  coágulos  retroplacentários.  Na  evolução  do  \nparto operatório, não houve contração do útero, e após \nexaustivas manobras e medicamentos uterotônicos, não \nhouve controle da hemorragia uterina profusa, que levou \na  equipe  médica  a  realizar  histerectomia  puerperal.",
+    "alternatives": {
+      "A": "hemorragia  foi  então  controlada  e  a  intervenção  \nconcluída  sem  outras  intercorrências.  Todo  o  suporte  \nde  vida  necessário  durante  o  trans  e  o  pós-operatório  \nfoi  disponibilizado.  A  parturiente  foi  encaminhada  à  \nUnidade  de  Terapia  Intensiva  (UTI),  em  estado  grave,  \nsob  ventilação  mecânica  e  apresentando  quadro  de  \ncoagulação  intravascular  disseminada.  Após  dez  dias,  \nobteve alta da UTI e foi encaminhada para a enfermaria \nobstétrica,  ainda  com  estado  geral  comprometido  e,  \npela primeira vez, consciente após o parto. Chegando à \nenfermaria, perguntou pelo recém-nascido.\nAssertivas:\nI. A  melhor  conduta  neste  caso,  em  relação  ao  \nóbito do recém-nascido, seria não informar a mãe \nneste  momento,  dizendo  apenas  que  o  recém-\nnato estaria em estado grave na UTI-neonatal.\nII. A  responsabilidade  de  assinar  o  atestado  de  \nóbito do recém-nato é do obstetra.\nIII. A equipe médica deveria ter consultado a família \nda  parturiente  antes  da  decisão  de  realizar  a  \nhisterectomia puerperal, tendo em vista a idade \nda  paciente,  o  fato  de  ser  primigesta,  além  da  \nmorte do recém-nato.\nIV. A julgar pelo relato do caso, existem evidências de \nimperícia e imprudência, mas não de negligência \npor parte da equipe médica.\nV.  Não houve, a julgar pelo relato do caso, evidências \nde  negligência,  imperícia  ou  imprudência  por  \nparte da equipe médica.\nEstão   de   acordo   com   os   preceitos   éticos   da   \nassistência médica APENAS as afi rmações:\nA I e II.",
+      "B": "II e V.",
+      "C": "III e IV.",
+      "D": "I e V.\nE III e V."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q106",
+    "year": "2011",
+    "number": 106,
+    "statement": "Considere  que,  em  uma  cidade  de  dois  milhões  de  \nhabitantes, houve 400 casos de gripe pelo vírus H1N1, \nno  ano  de  2009.  Oito  pessoas  faleceram.  O  cálculo  do  \ncoefi ciente de letalidade das infecções pelo vírus H1N1 \nnessa cidade resulta em que valor?",
+    "alternatives": {
+      "A": "0,000004",
+      "B": "0,0002",
+      "C": "0,02",
+      "D": "0,04\nE 0,2\n\n30 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q107",
+    "year": "2011",
+    "number": 107,
+    "statement": "Considere    uma    comunidade    rural,    onde    um    \nnúmero  aparentemente  elevado  de  neonatos  com  \nmá   formação   congênita   é   atribuído   pelas   mães   \nagricultoras  aos  agrotóxicos  utilizados  na  lavoura.  \nAo  realizar  um  estudo  de  coorte  retrospectivo  dos  \nnascimentos  ocorridos  na  cidade  nos  últimos  três  \nanos, foi encontrado um risco relativo igual a 1,5, com \num intervalo de confiança de 95%, entre 1,02 e 2,57. \nQual a interpretação desse estudo?",
+    "alternatives": {
+      "A": "Mães agricultoras têm risco 50% maior de conceber \nfi  lhos  com  má  formação  congênita  em  relação  a  \nmães não-agricultoras.",
+      "B": "Mães agricultoras têm risco 95% maior de conceber \nfi  lhos  com  má  formação  congênita  em  relação  a  \nmães não-agricultoras.",
+      "C": "Mães agricultoras têm risco 102% maior de conceber \nfi  lhos  com  má  formação  congênita  em  relação  a  \nmães não-agricultoras.",
+      "D": "Mães agricultoras têm risco 150% maior de conceber \nfi  lhos  com  má  formação  congênita  em  relação  a  \nmães não-agricultoras.\nE Mães agricultoras têm risco 257% maior de conceber \nfi  lhos  com  má  formação  congênita  em  relação  a  \nmães não-agricultoras."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q108",
+    "year": "2011",
+    "number": 108,
+    "statement": "Criança,  com  5  anos  de  idade,  mora  com  os  pais  em  \nbairro  de  periferia.  Seu  pai  é  fumante,  há  três  meses  \napresenta tosse crônica, produtiva, sudorese noturna e \nfebre diária e não procura cuidados médicos. Sua mãe \né aparentemente saudável. Há três semanas, a criança \niniciou  tosse  produtiva  com  escarro  purulento,  febre  ao  \nfi  nal  da  tarde  e  emagrecimento.  O  cartão  de  vacinas  \ndemonstra que ele foi vacinado com BCG ID no primeiro \nano de vida. No atendimento é constatada temperatura \noral  de  37,5  °C,  taquipneia  e  redução  de  murmúrio  \nvesicular em terço médio do hemitórax direito. O exame \nradiológico  do  tórax  mostra  condensação  homogênea  \nem ápice de pulmão direito. O PPD é de 10 mm.\nQual a conduta terapêutica para essa criança?",
+    "alternatives": {
+      "A": "quimioprofi laxia primária.",
+      "B": "quimioprofi  laxia  secundária  e  controle  com  exames  \na cada 2 meses.",
+      "C": "revacinar com BCG e controle com exames a cada \n2 meses.",
+      "D": "esquema  tríplice  (2HRZ  )  e  duplo  (4HR)  e  controle  \ncom exames a cada 2 meses.\nE esquema   quádruplo   2(HRZE)   e   duplo   (5HR)   e   \ncontrole com exames a cada 2 meses."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q109",
+    "year": "2011",
+    "number": 109,
+    "statement": "No   atendimento   do   Pronto-Socorro   é   admitido   um   \njovem  de  19  anos,  de  origem  indígena,  que  narra  ter  \nsido  vítima  de  uma  picada  de  cobra  na  mão  direita,  há  \naproximadamente 30 minutos, relatando dor local. Você \nconstata edema e equimose local. Outros habitantes da \naldeia onde reside o rapaz trouxeram a cobra sem vida \nao hospital na esperança de que isso pudesse ajudar na \nidentifi  cação  da  espécie  da  cobra  que  o  havia  picado.  \nÀ observação, nota-se que a cobra tem fosseta loreal e \ncauda lisa.\nConsiderando  o  quadro  clínico,  as  características  da  \ncobra e a epidemiologia brasileira dos envenenamentos \npor  animais  peçonhentos,  que  tipo  de  soro  antiofídico  \ndeverá ser administrado?",
+    "alternatives": {
+      "A": "Soro antilonômico.",
+      "B": "Soro anticrotálico.",
+      "C": "Soro antibotrópico.",
+      "D": "Soro antilaquético.\nE Soro antielapídico."
+    },
+    "images": []
+  },
+  {
+    "id": "revalida_2011_q110",
+    "year": "2011",
+    "number": 110,
+    "statement": "Foi realizado estudo epidemiológico, durante período de \n10 anos, entre indivíduos usuários de uma determinada \ndroga, alguns a usavam por via inalatória, outros, por via \nintravenosa. O objetivo do estudo foi o de averiguar se a \nvia de administração da droga poderia estar relacionada \ncom maior mortalidade em um dos grupos.\nOs dados disponíveis do estudo são:\nÓbito                Não-óbito                \nInjetável4004600\nInalatória801920\nQual  o  risco  relativo  de  morte  ao  se  usar  a  droga  na  \nforma injetável em relação à forma inalatória?",
+    "alternatives": {
+      "A": "1.",
+      "B": "2.",
+      "C": "3.",
+      "D": "4.\nE 5.\n\n31 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS\n\n32 \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS\nQUESTIONÁRIO DE PERCEPÇÃO \nSOBRE A PROVA\nAs  perguntas  abaixo  visam  levantar  sua  opinião  sobre  \na qualidade da prova que você acabou de realizar. Para \ncada uma delas, assinale a opção correspondente a sua \nopinião, nos espaços próprios do Caderno de Respostas.\nAgradecemos a sua colaboração.\nPERGUNTA I\nQual o grau de difi culdade da prova?\nA Muito fácil.\nB Fácil.\nC Médio.\nD Difícil.\nE Muito difícil.\nPERGUNTA II\nConsiderando a extensão da prova, em relação ao tempo \ntotal, você considera que a prova foi\nA muito longa.\nB longa.\nC adequada.\nD curta.\nE muito curta.\nPERGUNTA III\nOs enunciados das questões da prova estavam claros?\nA Sim, todos.\nB Sim, a maioria.\nC Apenas cerca da metade.\nD Poucos.\nE Não, nenhum.\nPERGUNTA IV\nAs  informações/instruções  fornecidas  para  a  resolução  \ndas questões foram sufi cientes para resolvê-las?\nA Sim, até excessivas.\nB Sim, em todas elas.\nC Sim, na maioria delas.\nD Sim, somente em algumas.\nE Não, em nenhuma delas.\nPERGUNTA V\nVocê se deparou com alguma difi culdade ao responder \na prova? Qual?\nA Desconhecimento do conteúdo.\nB Forma diferente de abordagem de conteúdo.\nC Espaço insufi ciente para responder às questões.\nD Falta de motivação para fazer a prova.\nE Não  tive  qualquer  tipo  de  difi  culdade  em  responder  \na prova.\nPERGUNTA VI\nVocê já participou, no Brasil, de outro(s) processo(s) de \nrevalidação de diploma de médico obtido no exterior?\nA Sim.\nB Não.\n\n \nREVALIDA 2011\nEXAM E NACIONAL DE REVALIDAÇÃO\nDE  DIPLOMAS  MÉDICOS\nEXAME NACIONAL DE REVALIDAÇÃO DE DIPLOMAS MÉDICOS EXPEDIDOS POR INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR ESTRANGEIRAS\n\nEXPEDIDOS  POR  INSTITUIÇÕES  DE  \nEDUCAÇÃO SUPERIOR ESTRANGEIRAS"
+    },
+    "images": []
+  }
+]
